@@ -1,6 +1,6 @@
 # Never seen missions
 
-Count: 1493
+Count: 1490
 
 | ID            | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------------------------ | ----------: | --------- | -------- |
@@ -424,7 +424,6 @@ Count: 1493
 | 484           | Vat met gevaarlijke stoffen omgevallen                             | 3880        | never     | False    |
 | 485           | Vat met gevaarlijke stoffen omgevallen                             | 6660        | never     | False    |
 | 486           | Wateroverlast                                                      | 1660        | never     | False    |
-| 488           | Wateroverlast                                                      | 1660        | never     | False    |
 | 489           | Wateroverlast                                                      | 1810        | never     | False    |
 | 491           | Wateroverlast                                                      | 5700        | never     | False    |
 | 492           | Ongeregeldheden voetbalsupporters horeca                           | 6010        | never     | False    |
@@ -598,7 +597,6 @@ Count: 1493
 | 684           | Geweld tegen hulpverleners                                         | 1510        | never     | False    |
 | 685           | Geweld tegen hulpverleners                                         | 3150        | never     | False    |
 | 687-0         | Brand zonnepanelen                                                 | 12750       | never     | False    |
-| 687-1         | Brand zonnepanelen                                                 | 19100       | never     | False    |
 | 688           | Illegaal afsteken van vuurwerk                                     | 670         | never     | True     |
 | 689           | Vuurwerkoverlast                                                   | 840         | never     | True     |
 | 690           | Vernieling met vuurwerk                                            | 670         | never     | True     |
@@ -675,7 +673,6 @@ Count: 1493
 | 779           | Brand in houtzagerij                                               | 2280        | never     | False    |
 | 780           | Brand in houtzagerij                                               | 9670        | never     | False    |
 | 780-0         | Brand in houtzagerij                                               | 11370       | never     | False    |
-| 782           | Diepe snijwond                                                     | None        | never     | False    |
 | 786           | Ongeval in septic tank                                             | 2910        | never     | False    |
 | 787           | Persoon bekneld in gierput                                         | 4960        | never     | False    |
 | 787/a         | Persoon bekneld in gierput                                         | 5660        | never     | False    |
