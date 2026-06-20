@@ -1,13 +1,12 @@
 # Never seen missions
 
-Count: 1501
+Count: 1493
 
 | ID            | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------------------------ | ----------: | --------- | -------- |
 | 0             | Brandende afvalbak bij bushalte                                    | 500         | never     | False    |
 | 2             | Brandende personenauto                                             | 1090        | never     | False    |
 | 4             | Brandend gras                                                      | 200         | never     | False    |
-| 11            | Brandende bromfiets                                                | 500         | never     | False    |
 | 13            | Brandende vrachtwagen                                              | 1600        | never     | False    |
 | 14            | Heidebrand (Middel)                                                | 6200        | never     | False    |
 | 15            | Bosbrand (Klein)                                                   | 1090        | never     | False    |
@@ -27,7 +26,6 @@ Count: 1501
 | 38            | Brandende afvalbak                                                 | 110         | never     | False    |
 | 40            | Brandende afvalbak bij ziekenhuis                                  | 500         | never     | False    |
 | 41            | Brand in kantoorpand                                               | 22380       | never     | False    |
-| 42            | Brand in tankstation                                               | 6510        | never     | False    |
 | 42-0          | Brand in tankstation                                               | 7360        | never     | False    |
 | 43            | Kettingbotsing                                                     | 12030       | never     | False    |
 | 44            | Liftopsluiting                                                     | 500         | never     | False    |
@@ -51,7 +49,6 @@ Count: 1501
 | 82/ab         | Vrachtwagen gekanteld                                              | 3270        | never     | False    |
 | 83            | Val van hoogte (> 5m)                                              | 500         | never     | False    |
 | 84            | Ernstige brandwonden                                               | None        | never     | False    |
-| 85-0          | Aanrijding voetganger (> 30km/h)                                   | 2680        | never     | False    |
 | 86            | Aanrijding door trein                                              | 1580        | never     | False    |
 | 90            | Ontwrichting                                                       | None        | never     | False    |
 | 91            | Psychiatrisch beeld                                                | None        | never     | False    |
@@ -564,7 +561,6 @@ Count: 1501
 | 632           | Brandende frietkraam                                               | 3040        | never     | False    |
 | 633           | Brandwonden door frituurolie                                       | None        | never     | False    |
 | 634           | Overval frietkraam                                                 | 2180        | never     | False    |
-| 635           | Ladingdiefstal                                                     | 670         | never     | False    |
 | 636           | Personen aangetroffen in vrachtwagen                               | 3330        | never     | False    |
 | 637           | Personen aangetroffen in vrachtwagen                               | 6380        | never     | False    |
 | 638           | Baby van commode gevallen                                          | None        | never     | False    |
@@ -733,7 +729,6 @@ Count: 1501
 | 831           | Verontreinigde ijscokar                                            | 1350        | never     | True     |
 | 832           | Illegaal kampvuur in park                                          | 670         | never     | True     |
 | 834           | Paniekknop geactiveerd                                             | 840         | never     | False    |
-| 835           | Gaslek bedrijventerrein                                            | 1010        | never     | False    |
 | 835-0         | Gaslek bedrijventerrein                                            | 1860        | never     | False    |
 | 836           | Gaslek bedrijventerrein                                            | 3770        | never     | False    |
 | 836-0         | Gaslek bedrijventerrein                                            | 5470        | never     | False    |
@@ -792,8 +787,6 @@ Count: 1501
 | 871-1         | Brandende tankwagen                                                | 1940        | never     | False    |
 | 871-2         | Brandende tankwagen                                                | 2940        | never     | False    |
 | 871-3         | Brandende tankwagen                                                | 8980        | never     | False    |
-| 872           | Gedrogeerd persoon                                                 | 500         | never     | False    |
-| 873           | Heterdaad drugsdeal                                                | 670         | never     | False    |
 | 875           | Personen onwel in school                                           | 10290       | never     | False    |
 | 877           | Nablussen                                                          | 500         | never     | False    |
 | 878           | Afzetten straat voor brandweer                                     | 500         | never     | False    |
@@ -881,7 +874,6 @@ Count: 1501
 | 886           | Massa-beroerte tijdens het eten van fondue (klein)                 | 3720        | never     | True     |
 | 886-0         | Massa-beroerte tijdens het eten van fondue (groot)                 | 6480        | never     | True     |
 | 886-1         | Massa-beroerte tijdens het eten van fondue (enorm)                 | 16050       | never     | True     |
-| 887           | 100 Ambulancestandplaats mijlpaal                                  | 15000       | never     | False    |
 | 889           | 500 Ambulancestandplaats mijlpaal                                  | 30000       | never     | False    |
 | 892           | 1000 Politiebureau mijlpaal                                        | 50000       | never     | False    |
 | 896           | Windsurfer vermist                                                 | 5140        | never     | False    |

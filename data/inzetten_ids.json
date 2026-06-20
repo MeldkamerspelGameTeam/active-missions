@@ -102,7 +102,7 @@
     "id": "11",
     "name": "Brandende bromfiets",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -435,7 +435,7 @@
     "id": "42",
     "name": "Brand in tankstation",
     "average_credits": 6510,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -867,7 +867,7 @@
     "id": "85-0",
     "name": "Aanrijding voetganger (> 30km/h)",
     "average_credits": 2680,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7149,7 +7149,7 @@
     "id": "635",
     "name": "Ladingdiefstal",
     "average_credits": 670,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9318,7 +9318,7 @@
     "id": "835",
     "name": "Gaslek bedrijventerrein",
     "average_credits": 1010,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9939,7 +9939,7 @@
     "id": "872",
     "name": "Gedrogeerd persoon",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9948,7 +9948,7 @@
     "id": "873",
     "name": "Heterdaad drugsdeal",
     "average_credits": 670,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -10785,7 +10785,7 @@
     "id": "887",
     "name": "100 Ambulancestandplaats mijlpaal",
     "average_credits": 15000,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
