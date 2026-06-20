@@ -159,14 +159,19 @@ def extract_inzetten_ids(payload: Any, missions_log_payload: Any) -> Any:
     last_seen_map = build_last_seen_map(missions_log_payload)
     ids = []
     for item in payload:
-        if isinstance(item, dict) and "id" in item and is_inzet_active_now(item, now_utc):
+        if isinstance(item, dict) and "id" in item:
             mission_id = str(item["id"])
+            active_now = is_inzet_active_now(item, now_utc)
+            additional = item.get("additional") if isinstance(item.get("additional"), dict) else {}
             ids.append(
                 {
                     "id": mission_id,
                     "name": item.get("name"),
                     "average_credits": item.get("average_credits"),
                     "last_seen": last_seen_map.get(mission_id, "never"),
+                    "inactive": not active_now,
+                    "date_start": additional.get("date_start"),
+                    "date_end": additional.get("date_end"),
                 }
             )
     return ids
@@ -207,7 +212,7 @@ def filter_never_or_stale_missions(payload: Any, now_utc: datetime, days: int = 
 
 
 def summarize_missions_markdown(title: str, missions: list[dict[str, Any]]) -> str:
-    headers = ["ID", "Name", "Avg Credits", "Last Seen"]
+    headers = ["ID", "Name", "Avg Credits", "Last Seen", "Inactive"]
 
     rows: list[list[str]] = []
     for item in missions:
@@ -217,6 +222,7 @@ def summarize_missions_markdown(title: str, missions: list[dict[str, Any]]) -> s
                 str(item.get("name", "")).replace("|", "\\|"),
                 str(item.get("average_credits", "")).replace("|", "\\|"),
                 str(item.get("last_seen", "")).replace("|", "\\|"),
+                str(item.get("inactive", "")).replace("|", "\\|"),
             ]
         )
 
@@ -233,6 +239,7 @@ def summarize_missions_markdown(title: str, missions: list[dict[str, Any]]) -> s
         "-" * widths[1],
         "-" * max(3, widths[2] - 1) + ":",
         "-" * widths[3],
+        "-" * widths[4],
     ]
     align_row = "| " + " | ".join(align_parts) + " |"
 
@@ -241,6 +248,48 @@ def summarize_missions_markdown(title: str, missions: list[dict[str, Any]]) -> s
         lines.append(render_row(row))
 
     return "\n".join(lines) + "\n"
+
+
+def summarize_old_seen_markdown(title: str, missions: list[dict[str, Any]]) -> str:
+    active_old_seen = [item for item in missions if not bool(item.get("inactive", False))]
+    inactive_old_seen = [item for item in missions if bool(item.get("inactive", False))]
+
+    lines = [f"# {title}", "", f"Count: {len(missions)}", ""]
+    lines.append(summarize_missions_markdown("Active old-seen missions", active_old_seen).rstrip())
+    lines.append("")
+    lines.append(summarize_missions_markdown("Inactive old-seen missions", inactive_old_seen).rstrip())
+    lines.append("")
+
+    return "\n".join(lines)
+
+
+def summarize_inactive_grouped_by_date_markdown(missions: list[dict[str, Any]]) -> str:
+    inactive = [item for item in missions if bool(item.get("inactive", False))]
+
+    groups: dict[tuple[str, str], list[dict[str, Any]]] = {}
+    for item in inactive:
+        start = str(item.get("date_start") or "none")
+        end = str(item.get("date_end") or "none")
+        key = (start, end)
+        groups.setdefault(key, []).append(item)
+
+    sorted_keys = sorted(groups.keys(), key=lambda k: (k[0], k[1]))
+    lines = [
+        "# Inactive missions grouped by date window",
+        "",
+        f"Inactive missions: {len(inactive)}",
+        f"Date window groups: {len(sorted_keys)}",
+        "",
+    ]
+
+    for start, end in sorted_keys:
+        group_items = groups[(start, end)]
+        lines.append(f"## Start: {start} | End: {end} | Count: {len(group_items)}")
+        lines.append("")
+        lines.append(summarize_missions_markdown("Missions", group_items).rstrip())
+        lines.append("")
+
+    return "\n".join(lines)
 
 
 def split_never_and_old_missions(payload: Any, now_utc: datetime, days: int = 30) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
@@ -302,9 +351,14 @@ def main() -> None:
         print(f"Saved never-seen summary -> {never_seen_output}")
 
         old_seen_output = root_dir / "old_seen_missions_summary.md"
-        old_seen_md = summarize_missions_markdown("Old seen missions (older than 30 days)", old_seen)
+        old_seen_md = summarize_old_seen_markdown("Old seen missions (older than 30 days)", old_seen)
         save_text(old_seen_output, old_seen_md)
         print(f"Saved old-seen summary -> {old_seen_output}")
+
+        inactive_grouped_output = root_dir / "inactive_missions_grouped_by_date.md"
+        inactive_grouped_md = summarize_inactive_grouped_by_date_markdown(ids_payload)
+        save_text(inactive_grouped_output, inactive_grouped_md)
+        print(f"Saved inactive grouped report -> {inactive_grouped_output}")
 
 
 if __name__ == "__main__":
