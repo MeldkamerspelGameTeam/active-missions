@@ -396,7 +396,21 @@ def load_reported_missions() -> dict[str, bool]:
 def save_reported_missions(reported: dict[str, bool]) -> None:
     """Save the set of reported mission IDs to file."""
     reported_path = OUTPUT_DIR / "reported_missions.json"
-    save_json(reported_path, reported)
+
+    def mission_sort_key(mission_id: str) -> tuple[tuple[int, Any], ...]:
+        parts = re.split(r"(\d+)", mission_id)
+        key_parts: list[tuple[int, Any]] = []
+        for part in parts:
+            if not part:
+                continue
+            if part.isdigit():
+                key_parts.append((0, int(part)))
+            else:
+                key_parts.append((1, part.lower()))
+        return tuple(key_parts)
+
+    ordered_reported = {key: reported[key] for key in sorted(reported.keys(), key=mission_sort_key)}
+    save_json(reported_path, ordered_reported)
 
 
 def send_discord_webhook(mission_id: str, mission_name: str, average_credits: str, title: str = "🚨 Mission not seen for 30+ days!", color: int = 16711680, last_seen: str = "") -> bool:
