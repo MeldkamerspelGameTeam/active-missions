@@ -577,7 +577,7 @@ def send_batch_discord_webhook(missions: list[dict[str, Any]], title: str, color
 
 
 def report_newly_discovered_missions(never_seen: list[dict[str, Any]], ids_payload: list[dict[str, Any]]) -> None:
-    """Report newly discovered missions (never seen before) and missions transitioning from never to active."""
+    """Report newly discovered missions and never-to-active transitions."""
     reported = load_reported_missions()
     new_discoveries = []
     newly_active_missions = []
@@ -591,6 +591,18 @@ def report_newly_discovered_missions(never_seen: list[dict[str, Any]], ids_paylo
         if mission_id and mission_id not in reported:
             new_discoveries.append(mission)
             reported[mission_id] = "newly_discovered"
+
+    # If a mission is discovered for the first time and already has a seen date,
+    # treat it as a direct never-to-active transition.
+    for mission in ids_payload:
+        mission_id = str(mission.get("id", ""))
+        if not mission_id or mission_id in reported:
+            continue
+
+        last_seen = mission.get("last_seen")
+        if isinstance(last_seen, str) and last_seen != "never":
+            newly_active_missions.append(mission)
+            reported[mission_id] = "newly_active"
 
     # Find missions that were never-seen but now have activity (no longer in never_seen list)
     for mission in ids_payload:
