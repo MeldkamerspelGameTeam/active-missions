@@ -2,5 +2,16 @@
 
 Count: 0
 
-| ID | Name | Avg Credits | Last Seen |
-| -- | ---- | ----------: | --------- |
+# Active old-seen missions
+
+Count: 0
+
+| ID | Name | Avg Credits | Last Seen | Inactive |
+| -- | ---- | ----------: | --------- | -------- |
+
+# Inactive old-seen missions
+
+Count: 0
+
+| ID | Name | Avg Credits | Last Seen | Inactive |
+| -- | ---- | ----------: | --------- | -------- |
