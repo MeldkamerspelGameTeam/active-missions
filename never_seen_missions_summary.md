@@ -1,16 +1,13 @@
 # Never seen missions
 
-Count: 1452
+Count: 1435
 
 | ID            | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------------------------ | ----------: | --------- | -------- |
 | 0             | Brandende afvalbak bij bushalte                                    | 500         | never     | False    |
-| 2             | Brandende personenauto                                             | 1090        | never     | False    |
-| 4             | Brandend gras                                                      | 200         | never     | False    |
 | 13            | Brandende vrachtwagen                                              | 1600        | never     | False    |
 | 14            | Heidebrand (Middel)                                                | 6200        | never     | False    |
 | 15            | Bosbrand (Klein)                                                   | 1090        | never     | False    |
-| 22            | Brandend dak                                                       | 2700        | never     | False    |
 | 24            | Brandend bushokje                                                  | 900         | never     | False    |
 | 25/a          | Verkeersongeval met beknelling                                     | 3240        | never     | False    |
 | 26            | Brand in supermarkt                                                | 3550        | never     | False    |
@@ -80,19 +77,14 @@ Count: 1452
 | 126           | Brand in landbouwschuur                                            | 600         | never     | False    |
 | 127           | Brand in landbouwschuur                                            | 3245        | never     | False    |
 | 128           | Heidebrand (Klein)                                                 | 1090        | never     | False    |
-| 129           | Heidebrand (Groot)                                                 | 10210       | never     | False    |
 | 130           | Brand in cafetaria (Middel)                                        | 1520        | never     | False    |
 | 133           | Brandende bestelwagen                                              | 400         | never     | False    |
 | 137           | Besteld vervoer                                                    | None        | never     | False    |
 | 139           | Natuurbrand (Klein)                                                | 1090        | never     | False    |
 | 140           | Natuurbrand (Middel)                                               | 5100        | never     | False    |
-| 141           | Natuurbrand (Groot)                                                | 7170        | never     | False    |
-| 142           | Natuurbrand (Zeer Groot)                                           | 12020       | never     | False    |
-| 143           | Natuurbrand (Grip 1)                                               | 21252       | never     | False    |
 | 143/a         | Natuurbrand (Grip 1)                                               | 30252       | never     | False    |
 | 143/b         | Natuurbrand (Grip 1)                                               | 22052       | never     | False    |
 | 143/ab        | Natuurbrand (Grip 1)                                               | 31252       | never     | False    |
-| 144           | Natuurbrand (Grip 2)                                               | 24642       | never     | False    |
 | 144/a         | Natuurbrand (Grip 2)                                               | 34490       | never     | False    |
 | 144/b         | Natuurbrand (Grip 2)                                               | 25442       | never     | False    |
 | 144/ab        | Natuurbrand (Grip 2)                                               | 35490       | never     | False    |
@@ -162,8 +154,6 @@ Count: 1452
 | 212           | Omgeslagen Zeilboot                                                | 1910        | never     | False    |
 | 213           | Omgeslagen Zeilboot                                                | 3150        | never     | False    |
 | 214           | Bosbrand (Middel)                                                  | 1420        | never     | False    |
-| 215           | Bosbrand (Groot)                                                   | 8732        | never     | False    |
-| 216           | Bosbrand (Grip 1)                                                  | 11512       | never     | False    |
 | 216/a         | Bosbrand (Grip 1)                                                  | 15140       | never     | False    |
 | 216/b         | Bosbrand (Grip 1)                                                  | 12312       | never     | False    |
 | 216/ab        | Bosbrand (Grip 1)                                                  | 16140       | never     | False    |
@@ -334,7 +324,6 @@ Count: 1452
 | 413           | Brand in kerkgebouw                                                | 8380        | never     | False    |
 | 414           | Brand in transformatorhuisje                                       | 800         | never     | False    |
 | 415           | Brand in transformatorhuisje                                       | 1800        | never     | False    |
-| 416           | Brand in transformatorhuisje                                       | 3980        | never     | False    |
 | 416-0         | Brand in transformatorhuisje                                       | 5230        | never     | False    |
 | 417           | Verkeersongeval met lijnbus en voetganger                          | 1000        | never     | False    |
 | 418           | Verkeersongeval met lijnbus en voetganger                          | 1150        | never     | False    |
@@ -364,7 +353,6 @@ Count: 1452
 | 432           | Persoon bekneld onder heftruck                                     | 1050        | never     | False    |
 | 434           | Lekkende tankwagen                                                 | 3800        | never     | False    |
 | 435           | Lekkende tankwagen                                                 | 6660        | never     | False    |
-| 435-0         | Lekkende tankwagen                                                 | 7510        | never     | False    |
 | 436           | Persoon te water                                                   | 900         | never     | False    |
 | 437           | Persoon te water                                                   | 1150        | never     | False    |
 | 438           | Duiker vermist                                                     | 850         | never     | False    |
@@ -844,7 +832,6 @@ Count: 1452
 | 896           | Windsurfer vermist                                                 | 5140        | never     | False    |
 | 897           | Rellen na stadsderby                                               | 15955       | never     | False    |
 | 897/a         | Rellen na stadsderby                                               | 16755       | never     | False    |
-| 897-0         | Rellen na stadsderby                                               | 16555       | never     | False    |
 | 897-0/a       | Rellen na stadsderby                                               | 17355       | never     | False    |
 | 897-1         | Rellen na stadsderby                                               | 17555       | never     | False    |
 | 897-1/a       | Rellen na stadsderby                                               | 18355       | never     | False    |
@@ -952,7 +939,6 @@ Count: 1452
 | 948           | Brand op windmolenpark                                             | 500         | never     | False    |
 | 948-0         | Brand op windmolenpark                                             | 2100        | never     | False    |
 | 948-1         | Brand op windmolenpark                                             | 11575       | never     | False    |
-| 949           | Personen vast in achtbaan                                          | 7600        | never     | False    |
 | 951           | Vechtpartij horecagebied                                           | 2570        | never     | False    |
 | 952           | Brand in stadion                                                   | 1520        | never     | False    |
 | 952-0         | Brand in stadion                                                   | 7980        | never     | False    |
@@ -1022,7 +1008,6 @@ Count: 1452
 | 1017          | Redding overboord geslagen slachtoffers                            | 1230        | never     | False    |
 | 1018          | Assistentie collega                                                | 840         | never     | False    |
 | 1019          | Brand in sauna                                                     | 500         | never     | False    |
-| 1019-0        | Brand in sauna                                                     | 3970        | never     | False    |
 | 1020          | Rendez-Vous Ambulance                                              | 670         | never     | False    |
 | 1021          | Alcoholcontrole                                                    | 4020        | never     | False    |
 | 1022          | Omgevallen hijskraan                                               | 3110        | never     | False    |
@@ -1367,7 +1352,6 @@ Count: 1452
 | 1104/a        | Aanrijding trein & betonmixer                                      | 14820       | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                                      | 15320       | never     | False    |
 | 1105          | Gevecht om de lelijkste kersttrui                                  | 1800        | never     | True     |
-| 1108          | Advocaat betrapt op manipuleren van rechtzaak                      | 900         | never     | False    |
 | 1109          | Ongeval met sneeuwploeg                                            | 1200        | never     | True     |
 | 1110          | Redding bij ijsvissen                                              | 900         | never     | True     |
 | 1112          | Bevroren pijp barst                                                | 3000        | never     | True     |
@@ -1383,7 +1367,6 @@ Count: 1452
 | 1148          | Grenscontrole                                                      | 17370       | never     | False    |
 | 1150          | Verdovende middelen aangetroffen in bagage                         | 1000        | never     | False    |
 | 1151          | Verdacht vaartuig in de haven                                      | 1170        | never     | False    |
-| 1152          | Drugs aangetroffen in pakket                                       | 1350        | never     | False    |
 | 1154          | Brand in graandroger                                               | 9500        | never     | False    |
 | 1155          | Paard schopt dierenarts                                            | None        | never     | False    |
 | 1161          | Verdachte situatie luchthaven                                      | 970         | never     | False    |
