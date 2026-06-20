@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import urllib.error
 import urllib.request
@@ -300,14 +301,10 @@ def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[d
     old_seen_inactive = sum(1 for item in old_seen if bool(item.get("inactive", False)))
     old_seen_active = len(old_seen) - old_seen_inactive
 
-    generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
-
     lines = [
         "# Active Missions Report",
         "",
         "This README is auto-updated by main.py and the GitHub workflow.",
-        "",
-        f"Last updated: {generated_at}",
         "",
         "## Summary",
         "",
@@ -329,6 +326,26 @@ def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[d
         "- never_seen_missions_summary.md",
         "- old_seen_missions_summary.md",
         "- inactive_missions_grouped_by_date.md",
+        "",
+        "## Discord Notifications",
+        "",
+        "The script sends automated notifications to Discord when mission statuses change. Messages are batched to respect Discord's character limits.",
+        "",
+        "| Notification Type | Emoji | Color | Trigger | Format |",
+        "| --- | --- | --- | --- | --- |",
+        "| **Newly Discovered** | ✨ | 🟦 Cyan (16776960) | Never-seen missions detected for the first time | Batch message with all new missions |",
+        "| **Never→Active** | 🎯 | 🟨 Yellow (65535) | A never-seen mission gets its first activity | Batch message with transitions |",
+        "| **Not Seen 30+ Days** | 🚨 | 🔴 Red (16711680) | Mission hasn't been seen in 30+ days | Individual message per mission |",
+        "| **Back to Activity** | ✅ | 🟢 Green (65280) | Previously inactive mission (30+ days) is active again | Individual message per mission |",
+        "",
+        "### Message Format",
+        "",
+        "- **Batch messages** (Newly Discovered, Never→Active): Compact format listing multiple missions with ID, name, and credits",
+        "  - Example: `101: Mission Name (500 cr)`",
+        "  - Automatically splits into multiple messages if exceeding 2000 characters (Part 1/X, Part 2/X, etc.)",
+        "",
+        "- **Individual messages** (Not Seen 30+ Days, Back to Activity): Single mission per message with detailed embed",
+        "  - Shows: Mission name, ID, Last Seen date, Average Credits",
         "",
     ]
     return "\n".join(lines)
@@ -356,6 +373,225 @@ def split_never_and_old_missions(payload: Any, now_utc: datetime, days: int = 30
             old_seen.append(item)
 
     return never_seen, old_seen
+
+
+def load_reported_missions() -> dict[str, bool]:
+    """Load the set of mission IDs already reported to Discord."""
+    reported_path = OUTPUT_DIR / "reported_missions.json"
+    if not reported_path.exists():
+        return {}
+
+    try:
+        with reported_path.open("r", encoding="utf-8") as f:
+            data = json.load(f)
+            if isinstance(data, dict):
+                return data
+    except (json.JSONDecodeError, OSError):
+        pass
+
+    return {}
+
+
+def save_reported_missions(reported: dict[str, bool]) -> None:
+    """Save the set of reported mission IDs to file."""
+    reported_path = OUTPUT_DIR / "reported_missions.json"
+    save_json(reported_path, reported)
+
+
+def send_discord_webhook(mission_id: str, mission_name: str, average_credits: str, title: str = "🚨 Mission not seen for 30+ days!", color: int = 16711680, last_seen: str = "") -> bool:
+    """Send a Discord webhook notification for mission status changes."""
+    webhook_url = os.environ.get("DISCORD_WEBHOOK_URL")
+    if not webhook_url:
+        # Silently skip if webhook URL is not configured
+        return False
+
+    try:
+        fields = []
+        if last_seen:
+            fields.append({
+                "name": "Last Seen",
+                "value": last_seen,
+                "inline": True,
+            })
+        fields.append({
+            "name": "Average Credits",
+            "value": str(average_credits) if average_credits else "Unknown",
+            "inline": True,
+        })
+
+        payload = {
+            "content": title,
+            "embeds": [
+                {
+                    "title": mission_name or f"Mission {mission_id}",
+                    "description": f"Mission ID: `{mission_id}`",
+                    "fields": fields,
+                    "color": color,
+                }
+            ],
+        }
+
+        data = json.dumps(payload).encode("utf-8")
+        req = urllib.request.Request(
+            webhook_url,
+            data=data,
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
+        with urllib.request.urlopen(req, timeout=10) as response:
+            return response.status == 204
+    except (urllib.error.URLError, OSError, json.JSONDecodeError) as err:
+        print(f"Failed to send Discord notification for mission {mission_id}: {err}")
+        return False
+
+
+def report_new_old_seen_missions(old_seen: list[dict[str, Any]], ids_payload: list[dict[str, Any]]) -> None:
+    """Report mission status changes: old-seen discoveries and back-to-activity resumptions."""
+    reported = load_reported_missions()
+    new_old_seen_missions = []
+    back_active_missions = []
+
+    # Find newly reported old-seen missions
+    for mission in old_seen:
+        mission_id = str(mission.get("id", ""))
+        if mission_id and mission_id not in reported:
+            new_old_seen_missions.append(mission)
+            reported[mission_id] = "old_seen"
+
+    # Find missions that were reported as old-seen but are now active again
+    old_seen_ids = {str(m.get("id", "")) for m in old_seen}
+    for mission in ids_payload:
+        mission_id = str(mission.get("id", ""))
+        if mission_id in reported and reported[mission_id] == "old_seen" and mission_id not in old_seen_ids:
+            back_active_missions.append(mission)
+            reported[mission_id] = "back_active"
+
+    # Send Discord notifications for new old-seen missions
+    for mission in new_old_seen_missions:
+        mission_id = str(mission.get("id", ""))
+        mission_name = mission.get("name", "")
+        average_credits = mission.get("average_credits", "")
+        last_seen = mission.get("last_seen", "")
+        if send_discord_webhook(mission_id, mission_name, average_credits, title="🚨 Mission not seen for 30+ days!", color=16711680, last_seen=last_seen):
+            print(f"Reported mission {mission_id} as not seen for 30+ days to Discord")
+
+    # Send Discord notifications for missions that came back to activity
+    for mission in back_active_missions:
+        mission_id = str(mission.get("id", ""))
+        mission_name = mission.get("name", "")
+        average_credits = mission.get("average_credits", "")
+        last_seen = mission.get("last_seen", "")
+        if send_discord_webhook(mission_id, mission_name, average_credits, title="✅ Mission is back to activity!", color=65280, last_seen=last_seen):
+            print(f"Reported mission {mission_id} as back to activity to Discord")
+
+    # Always save reported missions to persist tracking across runs
+    save_reported_missions(reported)
+
+
+def send_batch_discord_webhook(missions: list[dict[str, Any]], title: str, color: int) -> None:
+    """Send batched Discord webhook notifications, splitting into multiple messages if needed."""
+    webhook_url = os.environ.get("DISCORD_WEBHOOK_URL")
+    if not webhook_url or not missions:
+        return
+
+    # Discord message limit is 2000 characters for content + embeds
+    max_chars = 1900  # Conservative limit to account for formatting
+    
+    batches: list[list[dict[str, Any]]] = []
+    current_batch: list[dict[str, Any]] = []
+    current_size = len(title) + 50  # Base size for title and formatting
+
+    for mission in missions:
+        mission_id = str(mission.get("id", ""))
+        mission_name = mission.get("name", "")
+        average_credits = mission.get("average_credits", "")
+        
+        # Format: "ID: name (credits cr)\n"
+        entry = f"{mission_id}: {mission_name} ({average_credits} cr)\n"
+        entry_size = len(entry)
+
+        if current_size + entry_size > max_chars and current_batch:
+            # Start a new batch if adding this mission exceeds limit
+            batches.append(current_batch)
+            current_batch = [mission]
+            current_size = len(title) + 50 + entry_size
+        else:
+            current_batch.append(mission)
+            current_size += entry_size
+
+    if current_batch:
+        batches.append(current_batch)
+
+    # Send each batch as a separate message
+    for batch_index, batch in enumerate(batches):
+        mission_lines = []
+        for mission in batch:
+            mission_id = str(mission.get("id", ""))
+            mission_name = mission.get("name", "")
+            average_credits = mission.get("average_credits", "")
+            mission_lines.append(f"{mission_id}: {mission_name} ({average_credits} cr)")
+
+        description = "\n".join(mission_lines)
+        batch_indicator = f" (Part {batch_index + 1}/{len(batches)})" if len(batches) > 1 else ""
+
+        try:
+            payload = {
+                "content": f"{title}{batch_indicator}",
+                "embeds": [
+                    {
+                        "description": description,
+                        "color": color,
+                    }
+                ],
+            }
+
+            data = json.dumps(payload).encode("utf-8")
+            req = urllib.request.Request(
+                webhook_url,
+                data=data,
+                headers={"Content-Type": "application/json"},
+                method="POST",
+            )
+            with urllib.request.urlopen(req, timeout=10) as response:
+                if response.status == 204:
+                    print(f"Sent batch notification (part {batch_index + 1}/{len(batches)}) with {len(batch)} missions")
+        except (urllib.error.URLError, OSError, json.JSONDecodeError) as err:
+            print(f"Failed to send batch Discord notification: {err}")
+
+
+def report_newly_discovered_missions(never_seen: list[dict[str, Any]], ids_payload: list[dict[str, Any]]) -> None:
+    """Report newly discovered missions (never seen before) and missions transitioning from never to active."""
+    reported = load_reported_missions()
+    new_discoveries = []
+    newly_active_missions = []
+
+    # Track current never-seen mission IDs
+    never_seen_ids = {str(m.get("id", "")) for m in never_seen}
+
+    # Find newly reported never-seen missions
+    for mission in never_seen:
+        mission_id = str(mission.get("id", ""))
+        if mission_id and mission_id not in reported:
+            new_discoveries.append(mission)
+            reported[mission_id] = "newly_discovered"
+
+    # Find missions that were never-seen but now have activity (no longer in never_seen list)
+    for mission in ids_payload:
+        mission_id = str(mission.get("id", ""))
+        if mission_id in reported and reported[mission_id] == "newly_discovered" and mission_id not in never_seen_ids:
+            newly_active_missions.append(mission)
+            reported[mission_id] = "newly_active"
+
+    # Send batch notification for newly discovered missions
+    if new_discoveries:
+        send_batch_discord_webhook(new_discoveries, "✨ Newly discovered missions!", 16776960)
+
+    # Send batch notification for missions transitioning from never to active
+    if newly_active_missions:
+        send_batch_discord_webhook(newly_active_missions, "🎯 Never-seen missions now active!", 65535)
+
+    # Always save reported missions to persist tracking across runs
+    save_reported_missions(reported)
 
 
 def main() -> None:
@@ -406,6 +642,10 @@ def main() -> None:
         readme_md = summarize_readme_markdown(ids_payload, never_seen, old_seen)
         save_text(readme_output, readme_md)
         print(f"Saved README summary -> {readme_output}")
+
+        # Report mission discoveries to Discord
+        report_newly_discovered_missions(never_seen, ids_payload)
+        report_new_old_seen_missions(old_seen, ids_payload)
 
 
 if __name__ == "__main__":

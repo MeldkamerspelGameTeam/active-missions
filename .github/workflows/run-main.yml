@@ -29,6 +29,8 @@ jobs:
 
       - name: Run generator
         run: python main.py
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD }}
 
       - name: Commit and push changes
         run: |
