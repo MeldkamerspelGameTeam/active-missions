@@ -292,6 +292,48 @@ def summarize_inactive_grouped_by_date_markdown(missions: list[dict[str, Any]]) 
     return "\n".join(lines)
 
 
+def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[dict[str, Any]], old_seen: list[dict[str, Any]]) -> str:
+    total = len(missions)
+    inactive_count = sum(1 for item in missions if bool(item.get("inactive", False)))
+    active_count = total - inactive_count
+
+    old_seen_inactive = sum(1 for item in old_seen if bool(item.get("inactive", False)))
+    old_seen_active = len(old_seen) - old_seen_inactive
+
+    generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+
+    lines = [
+        "# Active Missions Report",
+        "",
+        "This README is auto-updated by main.py and the GitHub workflow.",
+        "",
+        f"Last updated: {generated_at}",
+        "",
+        "## Summary",
+        "",
+        "| Metric | Value |",
+        "| --- | ---: |",
+        f"| Total missions | {total} |",
+        f"| Active missions | {active_count} |",
+        f"| Inactive missions | {inactive_count} |",
+        f"| Never seen missions | {len(never_seen)} |",
+        f"| Old seen missions (older than 30 days) | {len(old_seen)} |",
+        f"| Old seen active missions | {old_seen_active} |",
+        f"| Old seen inactive missions | {old_seen_inactive} |",
+        "",
+        "## Generated Files",
+        "",
+        "- data/inzetten.json",
+        "- data/missions_log.json",
+        "- data/inzetten_ids.json",
+        "- never_seen_missions_summary.md",
+        "- old_seen_missions_summary.md",
+        "- inactive_missions_grouped_by_date.md",
+        "",
+    ]
+    return "\n".join(lines)
+
+
 def split_never_and_old_missions(payload: Any, now_utc: datetime, days: int = 30) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     if not isinstance(payload, list):
         return [], []
@@ -359,6 +401,11 @@ def main() -> None:
         inactive_grouped_md = summarize_inactive_grouped_by_date_markdown(ids_payload)
         save_text(inactive_grouped_output, inactive_grouped_md)
         print(f"Saved inactive grouped report -> {inactive_grouped_output}")
+
+        readme_output = root_dir / "README.md"
+        readme_md = summarize_readme_markdown(ids_payload, never_seen, old_seen)
+        save_text(readme_output, readme_md)
+        print(f"Saved README summary -> {readme_output}")
 
 
 if __name__ == "__main__":
