@@ -477,6 +477,9 @@ def report_new_old_seen_missions(old_seen: list[dict[str, Any]], ids_payload: li
             back_active_missions.append(mission)
             reported[mission_id] = "back_active"
 
+    # Save before sending so tracking persists even if the process is interrupted
+    save_reported_missions(reported)
+
     # Send Discord notifications for new old-seen missions
     for mission in new_old_seen_missions:
         mission_id = str(mission.get("id", ""))
@@ -494,9 +497,6 @@ def report_new_old_seen_missions(old_seen: list[dict[str, Any]], ids_payload: li
         last_seen = mission.get("last_seen", "")
         if send_discord_webhook(mission_id, mission_name, average_credits, title="✅ Mission is back to activity!", color=65280, last_seen=last_seen):
             print(f"Reported mission {mission_id} as back to activity to Discord")
-
-    # Always save reported missions to persist tracking across runs
-    save_reported_missions(reported)
 
 
 def send_batch_discord_webhook(missions: list[dict[str, Any]], title: str, color: int) -> None:
@@ -600,15 +600,15 @@ def report_newly_discovered_missions(never_seen: list[dict[str, Any]], ids_paylo
             reported[mission_id] = "newly_active"
 
     # Send batch notification for newly discovered missions
+    # Save before sending so tracking persists even if the process is interrupted
+    save_reported_missions(reported)
+
     if new_discoveries:
         send_batch_discord_webhook(new_discoveries, "✨ Newly discovered missions!", 16776960)
 
     # Send batch notification for missions transitioning from never to active
     if newly_active_missions:
         send_batch_discord_webhook(newly_active_missions, "🎯 Never-seen missions now active!", 65535)
-
-    # Always save reported missions to persist tracking across runs
-    save_reported_missions(reported)
 
 
 def main() -> None:
