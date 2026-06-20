@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import os
 import re
+import time
 import urllib.error
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -435,11 +436,21 @@ def send_discord_webhook(mission_id: str, mission_name: str, average_credits: st
         req = urllib.request.Request(
             webhook_url,
             data=data,
-            headers={"Content-Type": "application/json"},
+            headers={
+                "Content-Type": "application/json",
+                "User-Agent": "DiscordBot (https://github.com, 1.0)",
+            },
             method="POST",
         )
         with urllib.request.urlopen(req, timeout=10) as response:
-            return response.status == 204
+            if response.status == 204:
+                time.sleep(3)
+                return True
+            return False
+    except urllib.error.HTTPError as err:
+        error_body = err.read().decode()
+        print(f"Failed to send Discord notification for mission {mission_id} (HTTP {err.code}): {error_body}")
+        return False
     except (urllib.error.URLError, OSError, json.JSONDecodeError) as err:
         print(f"Failed to send Discord notification for mission {mission_id}: {err}")
         return False
@@ -549,12 +560,18 @@ def send_batch_discord_webhook(missions: list[dict[str, Any]], title: str, color
             req = urllib.request.Request(
                 webhook_url,
                 data=data,
-                headers={"Content-Type": "application/json"},
+                headers={
+                    "Content-Type": "application/json",
+                    "User-Agent": "DiscordBot (https://github.com, 1.0)",
+                },
                 method="POST",
             )
             with urllib.request.urlopen(req, timeout=10) as response:
                 if response.status == 204:
                     print(f"Sent batch notification (part {batch_index + 1}/{len(batches)}) with {len(batch)} missions")
+                    time.sleep(3)
+        except urllib.error.HTTPError as err:
+            print(f"Failed to send batch Discord notification (HTTP {err.code}): {err.read().decode()}")
         except (urllib.error.URLError, OSError, json.JSONDecodeError) as err:
             print(f"Failed to send batch Discord notification: {err}")
 
