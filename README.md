@@ -2,8 +2,6 @@
 
 This README is auto-updated by main.py and the GitHub workflow.
 
-Last updated: 2026-06-20 16:25:40 UTC
-
 ## Summary
 
 | Metric | Value |
@@ -11,7 +9,7 @@ Last updated: 2026-06-20 16:25:40 UTC
 | Total missions | 1943 |
 | Active missions | 1690 |
 | Inactive missions | 253 |
-| Never seen missions | 1723 |
+| Never seen missions | 1523 |
 | Old seen missions (older than 30 days) | 0 |
 | Old seen active missions | 0 |
 | Old seen inactive missions | 0 |
@@ -24,3 +22,23 @@ Last updated: 2026-06-20 16:25:40 UTC
 - never_seen_missions_summary.md
 - old_seen_missions_summary.md
 - inactive_missions_grouped_by_date.md
+
+## Discord Notifications
+
+The script sends automated notifications to Discord when mission statuses change. Messages are batched to respect Discord's character limits.
+
+| Notification Type | Emoji | Color | Trigger | Format |
+| --- | --- | --- | --- | --- |
+| **Newly Discovered** | ✨ | 🟦 Cyan (16776960) | Never-seen missions detected for the first time | Batch message with all new missions |
+| **Never→Active** | 🎯 | 🟨 Yellow (65535) | A never-seen mission gets its first activity | Batch message with transitions |
+| **Not Seen 30+ Days** | 🚨 | 🔴 Red (16711680) | Mission hasn't been seen in 30+ days | Individual message per mission |
+| **Back to Activity** | ✅ | 🟢 Green (65280) | Previously inactive mission (30+ days) is active again | Individual message per mission |
+
+### Message Format
+
+- **Batch messages** (Newly Discovered, Never→Active): Compact format listing multiple missions with ID, name, and credits
+  - Example: `101: Mission Name (500 cr)`
+  - Automatically splits into multiple messages if exceeding 2000 characters (Part 1/X, Part 2/X, etc.)
+
+- **Individual messages** (Not Seen 30+ Days, Back to Activity): Single mission per message with detailed embed
+  - Shows: Mission name, ID, Last Seen date, Average Credits

@@ -12,7 +12,7 @@
     "id": "1",
     "name": "Brandende container",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -48,7 +48,7 @@
     "id": "5",
     "name": "Brand in woonkamer",
     "average_credits": 1520,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -57,7 +57,7 @@
     "id": "6",
     "name": "Brand in tuinhuis",
     "average_credits": 600,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -66,7 +66,7 @@
     "id": "7",
     "name": "Brandende boom",
     "average_credits": 210,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -75,7 +75,7 @@
     "id": "8",
     "name": "Brandend afval",
     "average_credits": 220,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -93,7 +93,7 @@
     "id": "10",
     "name": "Brandende traktor",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -111,7 +111,7 @@
     "id": "12",
     "name": "Boom op de weg",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -183,7 +183,7 @@
     "id": "19",
     "name": "Brandende aanhangwagen",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -228,7 +228,7 @@
     "id": "23",
     "name": "Brand in cafetaria (Klein)",
     "average_credits": 840,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -246,7 +246,7 @@
     "id": "25",
     "name": "Verkeersongeval met beknelling",
     "average_credits": 2440,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -336,7 +336,7 @@
     "id": "34",
     "name": "Brand in supermarkt",
     "average_credits": 1580,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -408,7 +408,7 @@
     "id": "39",
     "name": "Brandende afvalbak bij centraal station",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -615,7 +615,7 @@
     "id": "61",
     "name": "Brand in slaapkamer",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -633,7 +633,7 @@
     "id": "63",
     "name": "Brand in keuken",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -642,7 +642,7 @@
     "id": "64",
     "name": "Brand in keuken",
     "average_credits": 700,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -660,7 +660,7 @@
     "id": "66",
     "name": "Boom op fietspad",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -669,7 +669,7 @@
     "id": "67",
     "name": "Omgewaaide bouwsteiger",
     "average_credits": 840,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -723,7 +723,7 @@
     "id": "73",
     "name": "Tasjesdief",
     "average_credits": 775,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -777,7 +777,7 @@
     "id": "79",
     "name": "Gevallen fietser",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -885,7 +885,7 @@
     "id": "87",
     "name": "Beginnende geboorte",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -894,7 +894,7 @@
     "id": "88",
     "name": "Hersenbloeding",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -984,7 +984,7 @@
     "id": "96",
     "name": "Hittekramp",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -993,7 +993,7 @@
     "id": "97",
     "name": "Hoofdwond",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -1110,7 +1110,7 @@
     "id": "103",
     "name": "Schoorsteenbrand",
     "average_credits": 840,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -1227,7 +1227,7 @@
     "id": "115",
     "name": "Brandend dak",
     "average_credits": 1400,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -1335,7 +1335,7 @@
     "id": "124/a",
     "name": "Achtervolging personenauto",
     "average_credits": 3010,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -1425,7 +1425,7 @@
     "id": "132",
     "name": "Brandende bus",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -1461,7 +1461,7 @@
     "id": "136",
     "name": "Brandende caravan",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -1713,7 +1713,7 @@
     "id": "157",
     "name": "Brand in ziekenhuis (Groot)",
     "average_credits": 8600,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2019,7 +2019,7 @@
     "id": "187",
     "name": "Kelder onder water",
     "average_credits": 2440,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2064,7 +2064,7 @@
     "id": "192",
     "name": "Parkeerterrein onder water",
     "average_credits": 1540,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2118,7 +2118,7 @@
     "id": "197/a",
     "name": "Brandende vrachtwagen",
     "average_credits": 800,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2145,7 +2145,7 @@
     "id": "200",
     "name": "Drugslab aangetroffen",
     "average_credits": 800,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2190,7 +2190,7 @@
     "id": "204",
     "name": "Verkeersongeval met gevaarlijke stoffen (middel)",
     "average_credits": 5690,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2433,7 +2433,7 @@
     "id": "222",
     "name": "Inbraak in woning",
     "average_credits": 1000,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2442,7 +2442,7 @@
     "id": "223",
     "name": "Brand in kelder",
     "average_credits": 1010,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2451,7 +2451,7 @@
     "id": "224",
     "name": "Brand in kelder",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2550,7 +2550,7 @@
     "id": "233",
     "name": "Brand in tuinhuis",
     "average_credits": 900,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2577,7 +2577,7 @@
     "id": "236",
     "name": "Schietincident",
     "average_credits": 2480,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2640,7 +2640,7 @@
     "id": "243",
     "name": "Verdachte situatie",
     "average_credits": 750,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2721,7 +2721,7 @@
     "id": "249-0",
     "name": "Straatroof",
     "average_credits": 1840,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2739,7 +2739,7 @@
     "id": "250",
     "name": "Opnemen aangifte inbraak",
     "average_credits": 300,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2847,7 +2847,7 @@
     "id": "257",
     "name": "Auto-inbraak",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2865,7 +2865,7 @@
     "id": "259",
     "name": "Brand in flatwoning",
     "average_credits": 1520,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -2883,7 +2883,7 @@
     "id": "261",
     "name": "Persoon door glas gevallen",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3054,7 +3054,7 @@
     "id": "279",
     "name": "Bedreiging",
     "average_credits": 750,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3171,7 +3171,7 @@
     "id": "291",
     "name": "Brand in magazijn",
     "average_credits": 9080,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3243,7 +3243,7 @@
     "id": "298",
     "name": "Brand in museum",
     "average_credits": 2200,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3279,7 +3279,7 @@
     "id": "302",
     "name": "Brand in kantoorgebouw",
     "average_credits": 840,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3297,7 +3297,7 @@
     "id": "304",
     "name": "Brand in kantoorgebouw",
     "average_credits": 4730,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3324,7 +3324,7 @@
     "id": "306",
     "name": "Verkeersongeval met touringcar",
     "average_credits": 4400,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3495,7 +3495,7 @@
     "id": "311",
     "name": "Verkeersongeval met fietser en fietser",
     "average_credits": 650,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3504,7 +3504,7 @@
     "id": "312",
     "name": "Lekkende goederenwagon (Groot)",
     "average_credits": 5720,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3612,7 +3612,7 @@
     "id": "317",
     "name": "Bedreiging met vuurwapen",
     "average_credits": 1810,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3675,7 +3675,7 @@
     "id": "323",
     "name": "Verkeersongeval met motorfiets",
     "average_credits": 750,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3684,7 +3684,7 @@
     "id": "324",
     "name": "Verkeersongeval met personenauto en motorfiets",
     "average_credits": 900,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3738,7 +3738,7 @@
     "id": "328",
     "name": "Persoon onwel na mixen mest",
     "average_credits": 700,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3801,7 +3801,7 @@
     "id": "335",
     "name": "Brand in schoolgebouw",
     "average_credits": 1750,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -3846,7 +3846,7 @@
     "id": "340",
     "name": "Lekkende LPG installatie",
     "average_credits": 2500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4116,7 +4116,7 @@
     "id": "358",
     "name": "Hoge bloeddruk",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4197,7 +4197,7 @@
     "id": "367",
     "name": "Gestolen scooter gevonden",
     "average_credits": 400,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4215,7 +4215,7 @@
     "id": "369",
     "name": "Verkeersongeval met vrachtwagen en fietser",
     "average_credits": 1150,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4323,7 +4323,7 @@
     "id": "379",
     "name": "Vreemde lucht in winkelcentrum",
     "average_credits": 4000,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4440,7 +4440,7 @@
     "id": "391",
     "name": "Brand bij afvalverwerker (Middel)",
     "average_credits": 1940,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4476,7 +4476,7 @@
     "id": "394/a",
     "name": "Brand bij afvalverwerker (Grip 1)",
     "average_credits": 11637,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4503,7 +4503,7 @@
     "id": "395",
     "name": "Brand bij afvalverwerker (Grip 3)",
     "average_credits": 11710,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4539,7 +4539,7 @@
     "id": "396",
     "name": "Lekkende LPG installatie",
     "average_credits": 2600,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4638,7 +4638,7 @@
     "id": "407",
     "name": "Nacontrole brand",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4809,7 +4809,7 @@
     "id": "422",
     "name": "Overval bankkantoor",
     "average_credits": 2200,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4845,7 +4845,7 @@
     "id": "426",
     "name": "Brand in bouwmarkt (Middel)",
     "average_credits": 1350,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4863,7 +4863,7 @@
     "id": "428",
     "name": "Brand in bouwmarkt (Grip 1)",
     "average_credits": 9150,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5034,7 +5034,7 @@
     "id": "433",
     "name": "Lekkende tankwagen",
     "average_credits": 1200,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5160,7 +5160,7 @@
     "id": "446",
     "name": "Brand in hotel",
     "average_credits": 2600,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5313,7 +5313,7 @@
     "id": "462",
     "name": "Drugsafval aangetroffen",
     "average_credits": 3590,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5376,7 +5376,7 @@
     "id": "468",
     "name": "Brand in verzorgingshuis",
     "average_credits": 4950,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5421,7 +5421,7 @@
     "id": "473",
     "name": "Personen onwel door hitte",
     "average_credits": 1100,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5448,7 +5448,7 @@
     "id": "476",
     "name": "Verkeersongeval scooter",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5457,7 +5457,7 @@
     "id": "477",
     "name": "Verkeersongeval scooter",
     "average_credits": 300,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5754,7 +5754,7 @@
     "id": "498",
     "name": "Verkeersongeval materieel",
     "average_credits": 550,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5772,7 +5772,7 @@
     "id": "500",
     "name": "Kettingbotsing",
     "average_credits": 2090,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5781,7 +5781,7 @@
     "id": "501",
     "name": "Kettingbotsing",
     "average_credits": 1750,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5790,7 +5790,7 @@
     "id": "502",
     "name": "Kettingbotsing",
     "average_credits": 6000,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5799,7 +5799,7 @@
     "id": "503",
     "name": "Kettingbotsing",
     "average_credits": 8900,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5817,7 +5817,7 @@
     "id": "505",
     "name": "Brand in fabriekshal",
     "average_credits": 1600,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5853,7 +5853,7 @@
     "id": "508-0",
     "name": "Brand in fabriekshal",
     "average_credits": 8210,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -5871,7 +5871,7 @@
     "id": "509-0",
     "name": "Brand in fabriekshal",
     "average_credits": 11630,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6339,7 +6339,7 @@
     "id": "555",
     "name": "Persoon in aanraking met laagspanning",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6366,7 +6366,7 @@
     "id": "557-0",
     "name": "Brand in theater",
     "average_credits": 11300,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6375,7 +6375,7 @@
     "id": "558",
     "name": "Brand in theater",
     "average_credits": 13640,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6402,7 +6402,7 @@
     "id": "560",
     "name": "Geschreeuw in woning",
     "average_credits": 400,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6456,7 +6456,7 @@
     "id": "566",
     "name": "Auto tegen woonhuis",
     "average_credits": 1540,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6465,7 +6465,7 @@
     "id": "567",
     "name": "Verward persoon",
     "average_credits": 400,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6546,7 +6546,7 @@
     "id": "575",
     "name": "Assistentie handhaving",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6555,7 +6555,7 @@
     "id": "576",
     "name": "Zwemmer in nood",
     "average_credits": 510,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6753,7 +6753,7 @@
     "id": "596",
     "name": "Ongeval bijtend middel (huishoudelijk)",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6807,7 +6807,7 @@
     "id": "602",
     "name": "Beveiliger aangevallen",
     "average_credits": 510,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6825,7 +6825,7 @@
     "id": "604",
     "name": "Brand in Silo",
     "average_credits": 5455,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6933,7 +6933,7 @@
     "id": "613",
     "name": "Doorzoeking risicopand",
     "average_credits": 4210,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -6960,7 +6960,7 @@
     "id": "615",
     "name": "Sportblessure opgelopen",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7113,7 +7113,7 @@
     "id": "631",
     "name": "Brandende frituurpan",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7221,7 +7221,7 @@
     "id": "643",
     "name": "Heterdaad fietsendiefstal",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7248,7 +7248,7 @@
     "id": "646",
     "name": "Brand in restaurant",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7257,7 +7257,7 @@
     "id": "647",
     "name": "Brand in restaurant",
     "average_credits": 2540,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7266,7 +7266,7 @@
     "id": "648",
     "name": "Brand in restaurant",
     "average_credits": 9500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7275,7 +7275,7 @@
     "id": "649",
     "name": "Persoon valt voorbijgangers lastig",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7356,7 +7356,7 @@
     "id": "658",
     "name": "Hand in keukenmixer",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7428,7 +7428,7 @@
     "id": "665",
     "name": "Acute buikpijn door val",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7437,7 +7437,7 @@
     "id": "666",
     "name": "Ongeval met hete luchtballon",
     "average_credits": 2440,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7464,7 +7464,7 @@
     "id": "668",
     "name": "Beroving met geweld",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7545,7 +7545,7 @@
     "id": "675",
     "name": "Beroving met geweld",
     "average_credits": 1170,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7581,7 +7581,7 @@
     "id": "679",
     "name": "Heling",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7644,7 +7644,7 @@
     "id": "686",
     "name": "Brand zonnepanelen",
     "average_credits": 840,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7824,7 +7824,7 @@
     "id": "703",
     "name": "Plotselinge verlammingsverschijnselen",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7842,7 +7842,7 @@
     "id": "705",
     "name": "Brandstichting",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7878,7 +7878,7 @@
     "id": "708",
     "name": "ANPR hit: Gesignaleerd persoon",
     "average_credits": 840,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7914,7 +7914,7 @@
     "id": "711",
     "name": "Brand in boerderij",
     "average_credits": 12540,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7941,7 +7941,7 @@
     "id": "713-0",
     "name": "Brand in hooischuur",
     "average_credits": 5365,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -7986,7 +7986,7 @@
     "id": "717",
     "name": "Akkerbrand",
     "average_credits": 16895,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8004,7 +8004,7 @@
     "id": "719",
     "name": "Klaplong",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8022,7 +8022,7 @@
     "id": "721",
     "name": "Spontane opstand",
     "average_credits": 9380,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8049,7 +8049,7 @@
     "id": "723",
     "name": "Explosie in woonhuis",
     "average_credits": 5410,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8346,7 +8346,7 @@
     "id": "753",
     "name": "Overlast foutparkeren",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8355,7 +8355,7 @@
     "id": "754",
     "name": "Overlast foutparkeren",
     "average_credits": 670,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8391,7 +8391,7 @@
     "id": "758",
     "name": "Plotselinge verwardheid",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8409,7 +8409,7 @@
     "id": "760",
     "name": "Identiteitsfraude",
     "average_credits": 840,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8427,7 +8427,7 @@
     "id": "762",
     "name": "Lekkage gevaarlijke stoffen (Middel)",
     "average_credits": 5940,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8562,7 +8562,7 @@
     "id": "771",
     "name": "Aanhouding georganiseerde misdaad",
     "average_credits": 6230,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8571,7 +8571,7 @@
     "id": "772",
     "name": "Vrachtwagenongeval met zwaar letsel",
     "average_credits": 3860,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8580,7 +8580,7 @@
     "id": "772-0",
     "name": "Vrachtwagenongeval met zwaar letsel",
     "average_credits": 5160,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8589,7 +8589,7 @@
     "id": "773",
     "name": "Vrachtwagen op file ingereden",
     "average_credits": 7710,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8598,7 +8598,7 @@
     "id": "773-0",
     "name": "Vrachtwagen op file ingereden",
     "average_credits": 9010,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8625,7 +8625,7 @@
     "id": "776",
     "name": "Illegaal aftappen elektra",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8634,7 +8634,7 @@
     "id": "777",
     "name": "Illegaal aftappen elektra",
     "average_credits": 670,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8661,7 +8661,7 @@
     "id": "779-0",
     "name": "Brand in houtzagerij",
     "average_credits": 3130,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8706,7 +8706,7 @@
     "id": "783",
     "name": "Slagaderlijke bloeding",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -8724,7 +8724,7 @@
     "id": "785",
     "name": "Voetganger op de snelweg",
     "average_credits": 1590,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9093,7 +9093,7 @@
     "id": "812",
     "name": "Persoon vast in roltrap",
     "average_credits": 1590,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9237,7 +9237,7 @@
     "id": "826",
     "name": "Bevriezing door koelspray",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": "2026-06-11T09:00:00Z",
     "date_end": "2026-07-19T22:00:00Z"
@@ -9255,7 +9255,7 @@
     "id": "828",
     "name": "Verloren aanvoerdersarmband",
     "average_credits": 1500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": "2026-06-11T09:00:00Z",
     "date_end": "2026-07-19T22:00:00Z"
@@ -9300,7 +9300,7 @@
     "id": "833",
     "name": "Geen contact melder",
     "average_credits": 670,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9381,7 +9381,7 @@
     "id": "839",
     "name": "Hevige paniekaanval",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9534,7 +9534,7 @@
     "id": "846",
     "name": "Woningoverval",
     "average_credits": 1980,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9570,7 +9570,7 @@
     "id": "850",
     "name": "Ramkraak",
     "average_credits": 2310,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9840,7 +9840,7 @@
     "id": "869",
     "name": "Aanrijding hulpverleningsvoertuig",
     "average_credits": 2100,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9849,7 +9849,7 @@
     "id": "869/a",
     "name": "Aanrijding hulpverleningsvoertuig",
     "average_credits": 2400,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9957,7 +9957,7 @@
     "id": "874",
     "name": "Paraglider neergestort",
     "average_credits": 2550,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9975,7 +9975,7 @@
     "id": "876",
     "name": "Drugsdealers in de wijk",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9993,7 +9993,7 @@
     "id": "877-0",
     "name": "Nablussen",
     "average_credits": 840,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -10794,7 +10794,7 @@
     "id": "888",
     "name": "250 Ambulancestandplaats mijlpaal",
     "average_credits": 20000,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -10839,7 +10839,7 @@
     "id": "893",
     "name": "500 Brandweerkazerne mijlpaal",
     "average_credits": 30000,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -10947,7 +10947,7 @@
     "id": "898",
     "name": "Accu ontploft",
     "average_credits": 1750,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -11235,7 +11235,7 @@
     "id": "918",
     "name": "Kinderreanimatie",
     "average_credits": 2180,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -11748,7 +11748,7 @@
     "id": "939-0",
     "name": "Schrootbrand op schip",
     "average_credits": 12995,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -11766,7 +11766,7 @@
     "id": "940",
     "name": "Kinderhoofd vast tussen spijlen traphekje",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -11901,7 +11901,7 @@
     "id": "944",
     "name": "Overtreding gebiedsverbod",
     "average_credits": 670,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -11937,7 +11937,7 @@
     "id": "947",
     "name": "Overlast lachgas",
     "average_credits": 670,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12045,7 +12045,7 @@
     "id": "953",
     "name": "Letsel tijdens klussen",
     "average_credits": null,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12054,7 +12054,7 @@
     "id": "954",
     "name": "Verkeersruzie",
     "average_credits": 1640,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12306,7 +12306,7 @@
     "id": "976",
     "name": "Graffitispuiter betrapt",
     "average_credits": 670,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12450,7 +12450,7 @@
     "id": "989",
     "name": "Diefstal personenauto",
     "average_credits": 2640,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12468,7 +12468,7 @@
     "id": "991",
     "name": "Kind van speeltoestel gevallen",
     "average_credits": 670,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12540,7 +12540,7 @@
     "id": "996",
     "name": "Overval waardetransport",
     "average_credits": 13580,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12648,7 +12648,7 @@
     "id": "1007",
     "name": "Persoon bekneld tussen fietsspaken",
     "average_credits": 740,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12657,7 +12657,7 @@
     "id": "1008",
     "name": "Aanrijding snelweg, veroorzaker gevlucht",
     "average_credits": 4520,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12666,7 +12666,7 @@
     "id": "1008/a",
     "name": "Aanrijding snelweg, veroorzaker gevlucht",
     "average_credits": 4920,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12684,7 +12684,7 @@
     "id": "1009/a",
     "name": "Auto tegen pijlwagen gereden",
     "average_credits": 5300,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12873,7 +12873,7 @@
     "id": "1025",
     "name": "Magneetvisser vindt vuurwapen",
     "average_credits": 670,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12882,7 +12882,7 @@
     "id": "1026",
     "name": "Brand in bioscoop",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12945,7 +12945,7 @@
     "id": "1030",
     "name": "Brand bij papierrecyclaar",
     "average_credits": 40160,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -13098,7 +13098,7 @@
     "id": "1032",
     "name": "Parkeergarage onder water",
     "average_credits": 6100,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -15663,7 +15663,7 @@
     "id": "1054",
     "name": "Explosief gevonden in winkelcentrum",
     "average_credits": 2320,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -15690,7 +15690,7 @@
     "id": "1055",
     "name": "Diefstal motorfiets",
     "average_credits": 670,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -15951,7 +15951,7 @@
     "id": "1086",
     "name": "Paniek op de tribune",
     "average_credits": 1200,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": "2026-06-11T09:00:00Z",
     "date_end": "2026-07-19T22:00:00Z"
@@ -16167,7 +16167,7 @@
     "id": "1106",
     "name": "Klant steelt loterij tickets",
     "average_credits": 700,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16230,7 +16230,7 @@
     "id": "1113",
     "name": "Voertuig Inbeslagname",
     "average_credits": 700,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16248,7 +16248,7 @@
     "id": "1115",
     "name": "Defecte Auto op de snelweg",
     "average_credits": 700,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16257,7 +16257,7 @@
     "id": "1116",
     "name": "Auto zonder brandstof",
     "average_credits": 700,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16266,7 +16266,7 @@
     "id": "1117",
     "name": "Verlaten voertuig langs de weg",
     "average_credits": 900,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16293,7 +16293,7 @@
     "id": "1120",
     "name": "LZV met pech op snelweg",
     "average_credits": 2640,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16302,7 +16302,7 @@
     "id": "1121",
     "name": "Dronken bouwvakker rijdt cementwagen in de greppel",
     "average_credits": 1800,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16311,7 +16311,7 @@
     "id": "1122",
     "name": "Bestuurder op telefoon botst op vrachtwagen",
     "average_credits": 4400,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16320,7 +16320,7 @@
     "id": "1123",
     "name": "Touringcar zonder brandstof",
     "average_credits": 630,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16338,7 +16338,7 @@
     "id": "1125",
     "name": "Vuilniswagen aangestoken",
     "average_credits": 4400,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16383,7 +16383,7 @@
     "id": "1129",
     "name": "Achtervolging eindigt met botstende verdachte in supermarkt, waterleiding breekt",
     "average_credits": 4530,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16446,7 +16446,7 @@
     "id": "1136",
     "name": "Koolmonoxidevergiftiging in een school",
     "average_credits": 6000,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16464,7 +16464,7 @@
     "id": "1138",
     "name": "Grap veroorzaakt hartaanval",
     "average_credits": 1180,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16473,7 +16473,7 @@
     "id": "1139",
     "name": "Illegale stoffen gevonden in buffet",
     "average_credits": 1200,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16509,7 +16509,7 @@
     "id": "1144",
     "name": "Persoon heeft een diabetische shock",
     "average_credits": 500,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16518,7 +16518,7 @@
     "id": "1145",
     "name": "Brand in Bibliotheek",
     "average_credits": 7925,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16653,7 +16653,7 @@
     "id": "1160",
     "name": "Brandende laadpaal",
     "average_credits": 2035,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16770,7 +16770,7 @@
     "id": "1172",
     "name": "Illegale plantage (klein)",
     "average_credits": 5000,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16779,7 +16779,7 @@
     "id": "1173",
     "name": "Vreemde lucht portiek",
     "average_credits": 1970,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16842,7 +16842,7 @@
     "id": "1180",
     "name": "Brand in snackbar (Grip 1)",
     "average_credits": 13200,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16932,7 +16932,7 @@
     "id": "1189",
     "name": "Aanhanger losgeschoten",
     "average_credits": 3450,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -17076,7 +17076,7 @@
     "id": "1201",
     "name": "Drone neergeschoten",
     "average_credits": 670,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -17112,7 +17112,7 @@
     "id": "1202/c",
     "name": "Brand in ziekenhuis (Grip 1)",
     "average_credits": 13380,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -17391,7 +17391,7 @@
     "id": "1208",
     "name": "Persoon bekneld in airco unit",
     "average_credits": 910,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -17400,7 +17400,7 @@
     "id": "1209",
     "name": "Vrachtwagen omgewaaid",
     "average_credits": 1760,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -17436,7 +17436,7 @@
     "id": "1212",
     "name": "Dakpannen los op dak",
     "average_credits": 840,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -17445,7 +17445,7 @@
     "id": "1213",
     "name": "Dakgoot dreigt los te waaien",
     "average_credits": 840,
-    "last_seen": "never",
+    "last_seen": "2026-06-20",
     "inactive": false,
     "date_start": null,
     "date_end": null
