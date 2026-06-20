@@ -1,6 +1,6 @@
 # Never seen missions
 
-Count: 1519
+Count: 1504
 
 | ID            | Name                                                                             | Avg Credits | Last Seen |
 | ------------- | -------------------------------------------------------------------------------- | ----------: | --------- |
@@ -12,7 +12,6 @@ Count: 1519
 | 6             | Brand in tuinhuis                                                                | 600         | never     |
 | 7             | Brandende boom                                                                   | 210         | never     |
 | 8             | Brandend afval                                                                   | 220         | never     |
-| 9             | Brandend hooi                                                                    | 500         | never     |
 | 10            | Brandende traktor                                                                | 500         | never     |
 | 11            | Brandende bromfiets                                                              | 500         | never     |
 | 12            | Boom op de weg                                                                   | 500         | never     |
@@ -48,14 +47,12 @@ Count: 1519
 | 42-0          | Brand in tankstation                                                             | 7360        | never     |
 | 43            | Kettingbotsing                                                                   | 12030       | never     |
 | 44            | Liftopsluiting                                                                   | 500         | never     |
-| 45            | Overdosis alcohol                                                                | None        | never     |
 | 46            | Bloedneus                                                                        | None        | never     |
 | 47            | Pijn op de borst                                                                 | None        | never     |
 | 48            | Astma aanval                                                                     | None        | never     |
 | 51            | Gevallen persoon                                                                 | None        | never     |
 | 52            | Brand in garagebedrijf                                                           | 1800        | never     |
 | 53            | Brand in sporthal                                                                | 5240        | never     |
-| 54            | Brand in sporthal                                                                | 840         | never     |
 | 55            | Brand in sporthal                                                                | 1180        | never     |
 | 56            | Brand in sporthal                                                                | 6260        | never     |
 | 59            | Brand in opslagloods                                                             | 13710       | never     |
@@ -81,7 +78,6 @@ Count: 1519
 | 82/ab         | Vrachtwagen gekanteld                                                            | 3270        | never     |
 | 83            | Val van hoogte (> 5m)                                                            | 500         | never     |
 | 84            | Ernstige brandwonden                                                             | None        | never     |
-| 85            | Aanrijding voetganger (> 30km/h)                                                 | 1000        | never     |
 | 85-0          | Aanrijding voetganger (> 30km/h)                                                 | 2680        | never     |
 | 86            | Aanrijding door trein                                                            | 1580        | never     |
 | 87            | Beginnende geboorte                                                              | None        | never     |
@@ -106,7 +102,6 @@ Count: 1519
 | 102           | Lekkende goederenwagon (Klein)                                                   | 1900        | never     |
 | 103           | Schoorsteenbrand                                                                 | 840         | never     |
 | 106           | Schaap in sloot                                                                  | 140         | never     |
-| 107           | Persoon bekneld in machine                                                       | 540         | never     |
 | 108           | Ongeval met trein en personenauto                                                | 2270        | never     |
 | 108/a         | Ongeval met trein en personenauto                                                | 2470        | never     |
 | 109           | Ongeval met trein en persoon                                                     | 740         | never     |
@@ -164,7 +159,6 @@ Count: 1519
 | 186           | Parkeergarage onder water                                                        | 2590        | never     |
 | 187           | Kelder onder water                                                               | 2440        | never     |
 | 189           | Boom op dak                                                                      | 1250        | never     |
-| 190           | Straat onder water                                                               | 2250        | never     |
 | 191           | Losgewaaide dakbedekking                                                         | 840         | never     |
 | 192           | Parkeerterrein onder water                                                       | 1540        | never     |
 | 193           | Koe in sloot                                                                     | 140         | never     |
@@ -345,7 +339,6 @@ Count: 1519
 | 339           | Lekkende LPG installatie                                                         | 1150        | never     |
 | 340           | Lekkende LPG installatie                                                         | 2500        | never     |
 | 341           | Nacontrole brand                                                                 | 500         | never     |
-| 342           | Nacontrole brand                                                                 | 500         | never     |
 | 344           | Vreemde lucht in kantoorgebouw                                                   | 1375        | never     |
 | 345           | Vreemde lucht in kantoorgebouw                                                   | 2850        | never     |
 | 346           | Brand in opslagloods met gevaarlijke stoffen                                     | 65350       | never     |
@@ -443,7 +436,6 @@ Count: 1519
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                                                      | 14562       | never     |
 | 428-0/b       | Brand in bouwmarkt (Grip 1)                                                      | 11850       | never     |
 | 428-0/ab      | Brand in bouwmarkt (Grip 1)                                                      | 15562       | never     |
-| 429           | Brand in bouwmarkt (Grip 2)                                                      | 14250       | never     |
 | 429/a         | Brand in bouwmarkt (Grip 2)                                                      | 18562       | never     |
 | 429/b         | Brand in bouwmarkt (Grip 2)                                                      | 15050       | never     |
 | 429/ab        | Brand in bouwmarkt (Grip 2)                                                      | 19562       | never     |
@@ -633,13 +625,11 @@ Count: 1519
 | 636           | Personen aangetroffen in vrachtwagen                                             | 3330        | never     |
 | 637           | Personen aangetroffen in vrachtwagen                                             | 6380        | never     |
 | 638           | Baby van commode gevallen                                                        | None        | never     |
-| 639           | Baby uit wieg gevallen                                                           | None        | never     |
 | 640           | Brand in hangaar                                                                 | 910         | never     |
 | 641           | Brand in hangaar                                                                 | 1930        | never     |
 | 642           | Brand in hangaar                                                                 | 10580       | never     |
 | 643           | Heterdaad fietsendiefstal                                                        | 500         | never     |
 | 644           | Heterdaad fietsendiefstal                                                        | 670         | never     |
-| 645           | Zorg om welzijn                                                                  | 500         | never     |
 | 646           | Brand in restaurant                                                              | 500         | never     |
 | 647           | Brand in restaurant                                                              | 2540        | never     |
 | 648           | Brand in restaurant                                                              | 9500        | never     |
@@ -686,7 +676,6 @@ Count: 1519
 | 703           | Plotselinge verlammingsverschijnselen                                            | None        | never     |
 | 704           | Acute bewustzijnsdaling                                                          | None        | never     |
 | 705           | Brandstichting                                                                   | 500         | never     |
-| 706           | Brandstichting                                                                   | 1180        | never     |
 | 708           | ANPR hit: Gesignaleerd persoon                                                   | 840         | never     |
 | 708-0         | ANPR hit: Gesignaleerd persoon                                                   | 1090        | never     |
 | 709           | Brand in boerderij                                                               | 2650        | never     |
@@ -714,7 +703,6 @@ Count: 1519
 | 754           | Overlast foutparkeren                                                            | 670         | never     |
 | 757           | Overdosis medicatie                                                              | None        | never     |
 | 758           | Plotselinge verwardheid                                                          | None        | never     |
-| 759           | Identiteitsfraude                                                                | 840         | never     |
 | 760           | Identiteitsfraude                                                                | 840         | never     |
 | 761           | Lekkage gevaarlijke stoffen (Klein)                                              | 2570        | never     |
 | 762           | Lekkage gevaarlijke stoffen (Middel)                                             | 5940        | never     |
@@ -727,7 +715,6 @@ Count: 1519
 | 765/a         | Onaangekondigde demonstratie                                                     | 7755        | never     |
 | 766           | Onrust in de wijk                                                                | 2885        | never     |
 | 766/a         | Onrust in de wijk                                                                | 3685        | never     |
-| 767           | Ongeregeldheden in de wijk                                                       | 5125        | never     |
 | 767/a         | Ongeregeldheden in de wijk                                                       | 5925        | never     |
 | 768           | Ademhalingsproblemen                                                             | None        | never     |
 | 769           | Wielrenner aangereden                                                            | 1590        | never     |
@@ -857,7 +844,6 @@ Count: 1519
 | 871-1         | Brandende tankwagen                                                              | 1940        | never     |
 | 871-2         | Brandende tankwagen                                                              | 2940        | never     |
 | 871-3         | Brandende tankwagen                                                              | 8980        | never     |
-| 871-4         | Brandende tankwagen                                                              | 9980        | never     |
 | 872           | Gedrogeerd persoon                                                               | 500         | never     |
 | 873           | Heterdaad drugsdeal                                                              | 670         | never     |
 | 874           | Paraglider neergestort                                                           | 2550        | never     |
@@ -1047,7 +1033,6 @@ Count: 1519
 | 952-3         | Brand in stadion                                                                 | 43140       | never     |
 | 953           | Letsel tijdens klussen                                                           | None        | never     |
 | 954           | Verkeersruzie                                                                    | 1640        | never     |
-| 956           | Brand in station (Klein)                                                         | 500         | never     |
 | 957           | Persoon onwel in attractie                                                       | 670         | never     |
 | 957-0         | Persoon onwel in attractie                                                       | 1760        | never     |
 | 958           | Voetbalwedstrijd                                                                 | 11000       | never     |
