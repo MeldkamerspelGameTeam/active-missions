@@ -381,8 +381,8 @@ def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[d
         "| --- | --- | --- | --- | --- |",
         "| **Newly Discovered** | ✨ | 🟦 Cyan (16776960) | Never-seen missions detected for the first time | Batch message with all new missions |",
         "| **Never→Active** | 🎯 | 🟨 Yellow (65535) | A never-seen mission gets its first activity | Batch message with transitions |",
-        "| **Not Seen 30+ Days** | 🚨 | 🔴 Red (16711680) | Mission hasn't been seen in 30+ days | Individual message per mission |",
-        "| **Back to Activity** | ✅ | 🟢 Green (65280) | Previously inactive mission (30+ days) is active again | Individual message per mission |",
+        "| **Not Seen 30+ Days** | 🚨 | 🔴 Red (16711680) | Mission hasn't been seen in 30+ days | Batch message with stale missions |",
+        "| **Back to Activity** | ✅ | 🟢 Green (65280) | Previously inactive mission (30+ days) is active again | Batch message with resumed missions |",
         "",
         "### Message Format",
         "",
@@ -390,8 +390,8 @@ def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[d
         "  - Example: `101: Mission Name (500 cr)`",
         "  - Automatically splits into multiple messages if exceeding 2000 characters (Part 1/X, Part 2/X, etc.)",
         "",
-        "- **Individual messages** (Not Seen 30+ Days, Back to Activity): Single mission per message with detailed embed",
-        "  - Shows: Mission name, ID, Last Seen date, Average Credits",
+        "- **Batch messages** (Not Seen 30+ Days, Back to Activity): Compact format listing multiple missions",
+        "  - Shows: Mission ID, name, and average credits",
         "",
     ]
     return "\n".join(lines)
@@ -539,23 +539,12 @@ def report_new_old_seen_missions(old_seen: list[dict[str, Any]], ids_payload: li
     # Save before sending so tracking persists even if the process is interrupted
     save_reported_missions(reported)
 
-    # Send Discord notifications for new old-seen missions
-    for mission in new_old_seen_missions:
-        mission_id = str(mission.get("id", ""))
-        mission_name = mission.get("name", "")
-        average_credits = mission.get("average_credits", "")
-        last_seen = mission.get("last_seen", "")
-        if send_discord_webhook(mission_id, mission_name, average_credits, title="🚨 Mission not seen for 30+ days!", color=16711680, last_seen=last_seen):
-            print(f"Reported mission {mission_id} as not seen for 30+ days to Discord")
+    # Send one batch message per notification type.
+    if new_old_seen_missions:
+        send_batch_discord_webhook(new_old_seen_missions, "🚨 Missions not seen for 30+ days!", 16711680)
 
-    # Send Discord notifications for missions that came back to activity
-    for mission in back_active_missions:
-        mission_id = str(mission.get("id", ""))
-        mission_name = mission.get("name", "")
-        average_credits = mission.get("average_credits", "")
-        last_seen = mission.get("last_seen", "")
-        if send_discord_webhook(mission_id, mission_name, average_credits, title="✅ Mission is back to activity!", color=65280, last_seen=last_seen):
-            print(f"Reported mission {mission_id} as back to activity to Discord")
+    if back_active_missions:
+        send_batch_discord_webhook(back_active_missions, "✅ Missions back to activity!", 65280)
 
 
 def send_batch_discord_webhook(missions: list[dict[str, Any]], title: str, color: int) -> None:
