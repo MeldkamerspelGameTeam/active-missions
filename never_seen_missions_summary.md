@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1059
+Count: 1058
 
 # Active never-seen missions
 
-Count: 806
+Count: 805
 
 | ID            | Name                                                | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------- | ----------: | --------- | -------- |
@@ -477,7 +477,6 @@ Count: 806
 | 985           | Olietanker in de problemen                          | 19360       | never     | False    |
 | 986           | Surfer vermist                                      | 4080        | never     | False    |
 | 987           | Schipbreukeling vermist                             | 5880        | never     | False    |
-| 990           | Oefening brandweerduikers                           | 3300        | never     | False    |
 | 992/a         | Gijzeling                                           | 10730       | never     | False    |
 | 993           | Straat afzetten voor politie                        | 840         | never     | False    |
 | 995-0         | Opvang slachtoffers                                 | 1690        | never     | False    |

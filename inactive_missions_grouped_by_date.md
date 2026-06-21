@@ -1,7 +1,7 @@
 # Inactive missions grouped by date window
 
-Inactive missions: 253
-Date window groups: 24
+Inactive missions: 259
+Date window groups: 25
 
 ## Start: 2024-07-26T09:00:00Z | End: 2024-08-11T23:59:59Z | Count: 7
 
@@ -471,3 +471,18 @@ Count: 6
 | 791 | Brandende taart in oven                     | 600         | never     | True     |
 | 792 | Keukenbrand                                 | 1400        | never     | True     |
 | 793 | Chocoladediefstal                           | 1200        | never     | True     |
+
+## Start: 2026-06-19T09:00:00Z | End: 2026-06-21T23:59:59+02:00 | Count: 6
+
+# Missions
+
+Count: 6
+
+| ID     | Name                                       | Avg Credits | Last Seen  | Inactive |
+| ------ | ------------------------------------------ | ----------: | ---------- | -------- |
+| 1037   | Barbecuebrand                              | 500         | 2026-06-22 | True     |
+| 1038   | Slaapkamerbrand door kaars                 | 500         | 2026-06-21 | True     |
+| 1039   | Vader vermist                              | 840         | 2026-06-21 | True     |
+| 1039-0 | Vader vermist                              | 3480        | 2026-06-21 | True     |
+| 1040   | Ongeval tijdens maken Vaderdag cadeau      | None        | 2026-06-21 | True     |
+| 1041   | Kind gewond tijdens maken Vaderdag ontbijt | None        | 2026-06-21 | True     |
