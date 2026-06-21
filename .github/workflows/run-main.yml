@@ -36,7 +36,19 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/*.json never_seen_missions_summary.md old_seen_missions_summary.md inactive_missions_grouped_by_date.md README.md
+
+          DUTCH_HOUR=$(TZ=Europe/Amsterdam date +%H)
+          if [ "$DUTCH_HOUR" = "23" ]; then
+            echo "Dutch time is 23:xx, including data/*.json in commit."
+            git add data/*.json
+          else
+            echo "Dutch time is ${DUTCH_HOUR}:xx, skipping data/*.json commit."
+          fi
+
+          # Always persist reporting state to avoid duplicate Discord notifications.
+          git add data/reported_missions.json
+
+          git add never_seen_missions_summary.md old_seen_missions_summary.md inactive_missions_grouped_by_date.md README.md
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
