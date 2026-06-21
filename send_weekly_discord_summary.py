@@ -15,6 +15,7 @@ ROOT_DIR = Path(__file__).resolve().parent
 DATA_DIR = ROOT_DIR / "data"
 IDS_PATH = DATA_DIR / "inzetten_ids.json"
 REPORTED_PATH = DATA_DIR / "reported_missions.json"
+WEEKLY_STATUS_PATH = DATA_DIR / "weekly_status.json"
 
 
 def load_json(path: Path, fallback: Any) -> Any:
@@ -29,9 +30,53 @@ def load_json(path: Path, fallback: Any) -> Any:
 
 
 def save_reported_state(reported: dict[str, str]) -> None:
+    """Save reported state while preserving all existing mission tracking data."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+    
+    # Load existing data to preserve all mission tracking
+    existing = {}
+    if REPORTED_PATH.exists():
+        try:
+            with REPORTED_PATH.open("r", encoding="utf-8") as f:
+                existing = json.load(f)
+                if not isinstance(existing, dict):
+                    existing = {}
+        except (json.JSONDecodeError, OSError):
+            existing = {}
+    
+    # Merge: update only the keys from 'reported' parameter
+    existing.update(reported)
+    
     with REPORTED_PATH.open("w", encoding="utf-8") as f:
-        json.dump(reported, f, ensure_ascii=False, indent=2)
+        json.dump(existing, f, ensure_ascii=False, indent=2)
+
+
+def load_weekly_status() -> dict[str, str]:
+    """Load the weekly status tracking from separate file."""
+    if not WEEKLY_STATUS_PATH.exists():
+        return {}
+
+    try:
+        with WEEKLY_STATUS_PATH.open("r", encoding="utf-8") as f:
+            data = json.load(f)
+            if isinstance(data, dict):
+                return data
+    except (json.JSONDecodeError, OSError):
+        pass
+
+    return {}
+
+
+def save_weekly_status(status: dict[str, str]) -> None:
+    """Save weekly status to separate file."""
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    
+    # Load existing to preserve all weekly markers
+    existing = load_weekly_status()
+    existing.update(status)
+    
+    with WEEKLY_STATUS_PATH.open("w", encoding="utf-8") as f:
+        json.dump(existing, f, ensure_ascii=False, indent=2)
 
 
 def parse_seen_date(value: Any) -> datetime | None:
@@ -66,6 +111,16 @@ def build_weekly_payload(missions: list[dict[str, Any]], now_utc: datetime, days
         for item in missions
         if (seen_dt := parse_seen_date(item.get("last_seen"))) is not None and cutoff <= seen_dt <= now_utc
     )
+    never_seen_count = sum(
+        1
+        for item in missions
+        if item.get("last_seen") == "never"
+    )
+    old_seen_count = sum(
+        1
+        for item in missions
+        if (seen_dt := parse_seen_date(item.get("last_seen"))) is not None and seen_dt < cutoff
+    )
     not_seen_count = total - seen_last_days
 
     return {
@@ -82,7 +137,7 @@ def build_weekly_payload(missions: list[dict[str, Any]], now_utc: datetime, days
                         "inline": False,
                     },
                     {"name": "Not seen", "value": str(not_seen_count), "inline": False},
-                ],
+                ] + ([{"name": "Old seen (30+ days)", "value": str(old_seen_count), "inline": False}] if old_seen_count > 0 else []),
                 "color": 3447003,
                 "footer": {"text": f"Generated at {now_utc.isoformat()} UTC"},
             }
@@ -120,13 +175,12 @@ def send_discord(payload: dict[str, Any]) -> bool:
 def main() -> None:
     now_utc = datetime.now(timezone.utc)
 
-    reported = load_json(REPORTED_PATH, {})
-    if not isinstance(reported, dict):
-        reported = {}
-
+    # Load weekly status from separate file
+    weekly_status = load_weekly_status()
+    
     iso_year, iso_week, _ = now_utc.isocalendar()
     marker = f"__weekly_totals_{iso_year:04d}-W{iso_week:02d}"
-    if marker in reported:
+    if marker in weekly_status:
         print(f"Weekly summary already sent for {marker}; skipping.")
         return
 
@@ -137,8 +191,8 @@ def main() -> None:
 
     payload = build_weekly_payload(missions, now_utc, days=30)
     if send_discord(payload):
-        reported[marker] = "weekly_summary"
-        save_reported_state({str(k): str(v) for k, v in reported.items()})
+        # Only save the weekly marker to separate file
+        save_weekly_status({marker: "weekly_summary"})
         print(f"Sent weekly summary and stored marker {marker}.")
     else:
         print("Weekly summary was not sent.")
