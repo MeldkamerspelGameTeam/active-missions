@@ -1,6 +1,6 @@
 # Never seen missions
 
-Count: 1435
+Count: 1433
 
 | ID            | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------------------------ | ----------: | --------- | -------- |
@@ -15,7 +15,6 @@ Count: 1435
 | 28            | Brand in landbouwschuur                                            | 1600        | never     | False    |
 | 31            | Oliespoor                                                          | 400         | never     | False    |
 | 35            | Brand in ziekenhuis (Middel)                                       | 4090        | never     | False    |
-| 36            | Brandende goederenwagon (Groot)                                    | 5970        | never     | False    |
 | 36/a          | Brandende goederenwagon (Groot)                                    | 7770        | never     | False    |
 | 36/b          | Brandende goederenwagon (Groot)                                    | 6770        | never     | False    |
 | 36/ab         | Brandende goederenwagon (Groot)                                    | 8570        | never     | False    |
@@ -941,7 +940,6 @@ Count: 1435
 | 948-1         | Brand op windmolenpark                                             | 11575       | never     | False    |
 | 951           | Vechtpartij horecagebied                                           | 2570        | never     | False    |
 | 952           | Brand in stadion                                                   | 1520        | never     | False    |
-| 952-0         | Brand in stadion                                                   | 7980        | never     | False    |
 | 952-1         | Brand in stadion                                                   | 25160       | never     | False    |
 | 952-2         | Brand in stadion                                                   | 37440       | never     | False    |
 | 952-3         | Brand in stadion                                                   | 43140       | never     | False    |
