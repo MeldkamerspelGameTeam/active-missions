@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1110
+Count: 1101
 
 # Active never-seen missions
 
-Count: 857
+Count: 848
 
 | ID            | Name                                                | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------- | ----------: | --------- | -------- |
@@ -53,7 +53,6 @@ Count: 857
 | 207           | Personenauto te water                               | 3680        | never     | False    |
 | 207/a         | Personenauto te water                               | 3880        | never     | False    |
 | 208           | Personenauto te water                               | 4350        | never     | False    |
-| 208/a         | Personenauto te water                               | 4550        | never     | False    |
 | 209/a         | Aanvaring vrachtschip met vlet (Grip 3)             | 4912        | never     | False    |
 | 210           | Aanvaring vrachtschip met kajuitboot (Grip 3)       | 4180        | never     | False    |
 | 210/a         | Aanvaring vrachtschip met kajuitboot (Grip 3)       | 5975        | never     | False    |
@@ -100,7 +99,6 @@ Count: 857
 | 278           | Beroerte                                            | None        | never     | False    |
 | 282           | Brand in garagebedrijf                              | 6340        | never     | False    |
 | 282-0         | Brand in garagebedrijf                              | 7190        | never     | False    |
-| 288           | Brand in magazijn                                   | 1750        | never     | False    |
 | 289           | Brand in magazijn                                   | 2150        | never     | False    |
 | 296           | Brand in museum                                     | 900         | never     | False    |
 | 297           | Brand in museum                                     | 1500        | never     | False    |
@@ -146,7 +144,6 @@ Count: 857
 | 364           | Brand op passagiersschip                            | 3250        | never     | False    |
 | 365           | Brand op passagiersschip                            | 4800        | never     | False    |
 | 376           | Persoon te water                                    | 3000        | never     | False    |
-| 377           | Persoon te water                                    | 5200        | never     | False    |
 | 377/a         | Persoon te water                                    | 6000        | never     | False    |
 | 378           | Vreemde lucht in winkelcentrum                      | 1950        | never     | False    |
 | 383           | Brand in parkeergarage                              | 900         | never     | False    |
@@ -154,7 +151,6 @@ Count: 857
 | 394/ab        | Brand bij afvalverwerker (Grip 1)                   | 12637       | never     | False    |
 | 395/b         | Brand bij afvalverwerker (Grip 3)                   | 12510       | never     | False    |
 | 395/ab        | Brand bij afvalverwerker (Grip 3)                   | 16387       | never     | False    |
-| 398           | Vreemde lucht in kantoorgebouw                      | 1750        | never     | False    |
 | 414           | Brand in transformatorhuisje                        | 800         | never     | False    |
 | 415           | Brand in transformatorhuisje                        | 1800        | never     | False    |
 | 416-0         | Brand in transformatorhuisje                        | 5230        | never     | False    |
@@ -250,7 +246,6 @@ Count: 857
 | 632           | Brandende frietkraam                                | 3040        | never     | False    |
 | 640           | Brand in hangaar                                    | 910         | never     | False    |
 | 641           | Brand in hangaar                                    | 1930        | never     | False    |
-| 642           | Brand in hangaar                                    | 10580       | never     | False    |
 | 652           | Stellingkast op persoon gevallen                    | None        | never     | False    |
 | 653           | Brand bij zendmast                                  | 500         | never     | False    |
 | 654           | Brand bij zendmast                                  | 2030        | never     | False    |
@@ -264,7 +259,6 @@ Count: 857
 | 671           | Toezicht Horeca                                     | 7245        | never     | False    |
 | 671-0         | Toezicht Horeca                                     | 8745        | never     | False    |
 | 673           | Ruzie tijdens uitgaansnacht                         | 2415        | never     | False    |
-| 678           | Dienstverlening SEH ziekenhuis                      | 910         | never     | False    |
 | 681           | Medische assistentie                                | None        | never     | False    |
 | 682           | Gevangenisbewaarder aangevallen                     | 500         | never     | False    |
 | 709           | Brand in boerderij                                  | 2650        | never     | False    |
@@ -480,7 +474,6 @@ Count: 857
 | 932-1         | Brand op veerpont                                   | 17125       | never     | False    |
 | 933           | Bouwsteiger ingestort                               | 4480        | never     | False    |
 | 933-0         | Bouwsteiger ingestort                               | 6980        | never     | False    |
-| 934           | Ontsnapping gevaarlijke gedetineerde                | 8820        | never     | False    |
 | 942           | Schoolbus te water                                  | 4650        | never     | False    |
 | 942/a         | Schoolbus te water                                  | 4950        | never     | False    |
 | 942/b         | Schoolbus te water                                  | 5450        | never     | False    |
@@ -815,7 +808,6 @@ Count: 857
 | 1056          | Ontruimingsoefening                                 | 13170       | never     | False    |
 | 1062-1        | School shooting                                     | 12570       | never     | False    |
 | 1063          | Ontplofte gasfles                                   | 1680        | never     | False    |
-| 1103          | Interfacilitair Transport                           | None        | never     | False    |
 | 1104          | Aanrijding trein & betonmixer                       | 14520       | never     | False    |
 | 1104/a        | Aanrijding trein & betonmixer                       | 14820       | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                       | 15320       | never     | False    |
@@ -860,7 +852,6 @@ Count: 857
 | 1207          | Brand in station (Grip 2)                           | 41960       | never     | False    |
 | 1207/a        | Brand in station (Grip 2)                           | 54950       | never     | False    |
 | 1207/b        | Brand in station (Grip 2)                           | 42760       | never     | False    |
-| 1207/c        | Brand in station (Grip 2)                           | 42760       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                           | 55950       | never     | False    |
 | 1207/ac       | Brand in station (Grip 2)                           | 55950       | never     | False    |
 | 1207/bc       | Brand in station (Grip 2)                           | 43560       | never     | False    |
