@@ -1,10 +1,9 @@
 # Never seen missions
 
-Count: 1262
+Count: 1226
 
 | ID            | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------------------------ | ----------: | --------- | -------- |
-| 13            | Brandende vrachtwagen                                              | 1600        | never     | False    |
 | 15            | Bosbrand (Klein)                                                   | 1090        | never     | False    |
 | 24            | Brandend bushokje                                                  | 900         | never     | False    |
 | 25/a          | Verkeersongeval met beknelling                                     | 3240        | never     | False    |
@@ -18,12 +17,10 @@ Count: 1262
 | 42-0          | Brand in tankstation                                               | 7360        | never     | False    |
 | 43            | Kettingbotsing                                                     | 12030       | never     | False    |
 | 47            | Pijn op de borst                                                   | None        | never     | False    |
-| 52            | Brand in garagebedrijf                                             | 1800        | never     | False    |
 | 59            | Brand in opslagloods                                               | 13710       | never     | False    |
 | 70            | Winkeldiefstal                                                     | 500         | never     | False    |
 | 82/a          | Vrachtwagen gekanteld                                              | 2970        | never     | False    |
 | 82/ab         | Vrachtwagen gekanteld                                              | 3270        | never     | False    |
-| 83            | Val van hoogte (> 5m)                                              | 500         | never     | False    |
 | 91            | Psychiatrisch beeld                                                | None        | never     | False    |
 | 91-0          | Psychiatrisch beeld                                                | 670         | never     | False    |
 | 91-1          | Psychiatrisch beeld                                                | 2140        | never     | False    |
@@ -86,7 +83,6 @@ Count: 1262
 | 177           | Gevallen persoon door gladheid                                     | None        | never     | True     |
 | 178           | Donkere dagen offensief                                            | 670         | never     | True     |
 | 179           | Snijwond door gebroken kerstbal                                    | None        | never     | True     |
-| 180           | Bergen object uit water voor politie                               | 2140        | never     | False    |
 | 181           | Verkeersongeval met beknelling                                     | 2090        | never     | False    |
 | 181/a         | Verkeersongeval met beknelling                                     | 2890        | never     | False    |
 | 181/b         | Verkeersongeval met beknelling                                     | 2490        | never     | False    |
@@ -121,11 +117,8 @@ Count: 1262
 | 218           | Plofkraak                                                          | 3490        | never     | False    |
 | 219           | Open dag, klein                                                    | 2000        | never     | False    |
 | 220           | Open dag, groot                                                    | 3000        | never     | False    |
-| 227           | Assistentie treinconducteur                                        | 840         | never     | False    |
 | 229           | Brand in tankstation                                               | 4820        | never     | False    |
-| 229-0         | Brand in tankstation                                               | 5720        | never     | False    |
 | 234           | Vliegtuig neergestort                                              | 15120       | never     | False    |
-| 240           | Vergiftiging                                                       | None        | never     | False    |
 | 242           | Verlaten kleding langs waterkant                                   | 900         | never     | False    |
 | 243/a         | Verdachte situatie                                                 | 1550        | never     | False    |
 | 244           | Persoon van podium gevallen                                        | None        | never     | False    |
@@ -141,7 +134,6 @@ Count: 1262
 | 254           | Brandende goederenwagon (Klein)                                    | 1490        | never     | False    |
 | 255           | Brandende goederenwagon (Middel)                                   | 2590        | never     | False    |
 | 255/a         | Brandende goederenwagon (Middel)                                   | 2690        | never     | False    |
-| 260           | Brandend speeltoestel                                              | 220         | never     | False    |
 | 263           | Brandende personenauto in parkeergarage                            | 300         | never     | False    |
 | 264           | Brandende personenauto in parkeergarage                            | 650         | never     | False    |
 | 265           | Vliegtuig met hydraulisch probleem                                 | 2010        | never     | False    |
@@ -162,11 +154,9 @@ Count: 1262
 | 280           | Brand in garagebedrijf                                             | 850         | never     | False    |
 | 282           | Brand in garagebedrijf                                             | 6340        | never     | False    |
 | 282-0         | Brand in garagebedrijf                                             | 7190        | never     | False    |
-| 285           | Brand in supermarkt                                                | 840         | never     | False    |
 | 288           | Brand in magazijn                                                  | 1750        | never     | False    |
 | 289           | Brand in magazijn                                                  | 2150        | never     | False    |
 | 290           | Brand in magazijn                                                  | 3000        | never     | False    |
-| 293           | Ongeval met trein en vrachtwagen                                   | 2450        | never     | False    |
 | 296           | Brand in museum                                                    | 900         | never     | False    |
 | 297           | Brand in museum                                                    | 1500        | never     | False    |
 | 299           | Brandend plezierjacht                                              | 900         | never     | False    |
@@ -175,7 +165,6 @@ Count: 1262
 | 307/a         | Verkeersongeval met touringcar                                     | 8030        | never     | False    |
 | 307-0/a       | Verkeersongeval met touringcar                                     | 6000        | never     | False    |
 | 307-1/a       | Verkeersongeval met touringcar                                     | 14270       | never     | False    |
-| 307-2         | Verkeersongeval met touringcar                                     | 14270       | never     | False    |
 | 307-2/a       | Verkeersongeval met touringcar                                     | 15070       | never     | False    |
 | 308/a         | Natuurbrand (Grip 3)                                               | 48465       | never     | False    |
 | 308/b         | Natuurbrand (Grip 3)                                               | 36622       | never     | False    |
@@ -201,7 +190,6 @@ Count: 1262
 | 332           | Inbraak in bedrijfspand                                            | 1500        | never     | False    |
 | 333           | Inbraak in bedrijfspand                                            | 2000        | never     | False    |
 | 344           | Vreemde lucht in kantoorgebouw                                     | 1375        | never     | False    |
-| 345           | Vreemde lucht in kantoorgebouw                                     | 2850        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen                       | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                                           | 17500       | never     | False    |
 | 348           | Zwemmer vermist (Middel)                                           | 3500        | never     | False    |
@@ -230,7 +218,6 @@ Count: 1262
 | 377/a         | Persoon te water                                                   | 6000        | never     | False    |
 | 378           | Vreemde lucht in winkelcentrum                                     | 1950        | never     | False    |
 | 383           | Brand in parkeergarage                                             | 900         | never     | False    |
-| 384           | Brand in parkeergarage                                             | 2150        | never     | False    |
 | 385           | Brand in parkeergarage                                             | 3650        | never     | False    |
 | 394/b         | Brand bij afvalverwerker (Grip 1)                                  | 9510        | never     | False    |
 | 394/ab        | Brand bij afvalverwerker (Grip 1)                                  | 12637       | never     | False    |
@@ -270,7 +257,6 @@ Count: 1262
 | 440           | Brand in gevangenis                                                | 950         | never     | False    |
 | 441           | Brand in gevangenis                                                | 1950        | never     | False    |
 | 442           | Brand in gevangenis                                                | 8040        | never     | False    |
-| 443           | Brand in hotel                                                     | 750         | never     | False    |
 | 445           | Brand in hotel                                                     | 2500        | never     | False    |
 | 447           | Brand in hotel                                                     | 4900        | never     | False    |
 | 451           | Zwaan met gebroken poot                                            | 400         | never     | False    |
@@ -282,9 +268,7 @@ Count: 1262
 | 459           | Brandende vliegtuigtrekker                                         | 1290        | never     | False    |
 | 460           | Brandende vliegtuigtrekker                                         | 1840        | never     | False    |
 | 461           | Vliegtuig met motorisch probleem                                   | 8570        | never     | False    |
-| 463           | Verdachte vaten aangetroffen                                       | 3590        | never     | False    |
 | 463/a         | Verdachte vaten aangetroffen                                       | 4390        | never     | False    |
-| 472           | Personen onwel door hitte                                          | 700         | never     | False    |
 | 474           | Brand in kantoorgebouw                                             | 6740        | never     | False    |
 | 475           | Brand in kantoorgebouw                                             | 10100       | never     | False    |
 | 480           | Watersporter vermist                                               | 850         | never     | False    |
@@ -311,7 +295,6 @@ Count: 1262
 | 497           | Personenauto te water                                              | 4850        | never     | False    |
 | 497/a         | Personenauto te water                                              | 5650        | never     | False    |
 | 504           | Brand in fabriekshal                                               | 900         | never     | False    |
-| 507           | Brand in fabriekshal                                               | 2950        | never     | False    |
 | 508           | Brand in fabriekshal                                               | 7360        | never     | False    |
 | 509           | Brand in fabriekshal                                               | 9930        | never     | False    |
 | 514           | Aanvaring vrachtschip met watertaxi (Grip 3)                       | 2940        | never     | False    |
@@ -359,7 +342,6 @@ Count: 1262
 | 563           | Persoon gewond door pijl van Cupido                                | None        | never     | True     |
 | 564           | Voetganger onder tram                                              | 2040        | never     | False    |
 | 565           | Fietser onder tram                                                 | 2140        | never     | False    |
-| 568           | Verward persoon (Hoge dreiging)                                    | 1200        | never     | False    |
 | 568/a         | Verward persoon (Hoge dreiging)                                    | 2000        | never     | False    |
 | 570           | Geplande aanhouding vuurwapengevaarlijke verdachte                 | 2000        | never     | False    |
 | 574           | Assistentie handhaving                                             | 300         | never     | False    |
@@ -380,7 +362,6 @@ Count: 1262
 | 592           | Brand op bedrijventerrein                                          | 12540       | never     | False    |
 | 593           | Begeleiding demonstratie (klein)                                   | 9720        | never     | False    |
 | 594           | Begeleiding demonstratie (groot)                                   | 35910       | never     | False    |
-| 597           | Brand in asielzoekerscentrum                                       | 170         | never     | False    |
 | 598           | Brand in asielzoekerscentrum (wasserette)                          | 1360        | never     | False    |
 | 599           | Tanken zonder betalen                                              | 500         | never     | False    |
 | 601           | Bewusteloos persoon op een bankje                                  | 500         | never     | False    |
@@ -394,13 +375,11 @@ Count: 1262
 | 612           | Brand in nachtclub                                                 | 11350       | never     | False    |
 | 614           | Verward persoon op dak                                             | 4390        | never     | False    |
 | 614/a         | Verward persoon op dak                                             | 5190        | never     | False    |
-| 616           | Sportblessure opgelopen                                            | None        | never     | False    |
 | 617           | Zonnesteek                                                         | 250         | never     | True     |
 | 618           | Hitteslag                                                          | 250         | never     | True     |
 | 619           | Hittekramp                                                         | 250         | never     | True     |
 | 620           | Uitgedroogde persoon                                               | 250         | never     | True     |
 | 621           | Barbecuebrand                                                      | 500         | never     | True     |
-| 625           | Onbeheerde bagage gevonden                                         | 1970        | never     | False    |
 | 625/a         | Onbeheerde bagage gevonden                                         | 2770        | never     | False    |
 | 627           | Kind vast in hek                                                   | 1420        | never     | False    |
 | 629           | Lek/zinken plezierjacht                                            | 2320        | never     | False    |
@@ -408,8 +387,6 @@ Count: 1262
 | 632           | Brandende frietkraam                                               | 3040        | never     | False    |
 | 633           | Brandwonden door frituurolie                                       | None        | never     | False    |
 | 634           | Overval frietkraam                                                 | 2180        | never     | False    |
-| 636           | Personen aangetroffen in vrachtwagen                               | 3330        | never     | False    |
-| 638           | Baby van commode gevallen                                          | None        | never     | False    |
 | 640           | Brand in hangaar                                                   | 910         | never     | False    |
 | 641           | Brand in hangaar                                                   | 1930        | never     | False    |
 | 642           | Brand in hangaar                                                   | 10580       | never     | False    |
@@ -491,15 +468,11 @@ Count: 1262
 | 764/a         | Opbreken manifestatie                                              | 11165       | never     | False    |
 | 765           | Onaangekondigde demonstratie                                       | 6955        | never     | False    |
 | 765/a         | Onaangekondigde demonstratie                                       | 7755        | never     | False    |
-| 766           | Onrust in de wijk                                                  | 2885        | never     | False    |
 | 766/a         | Onrust in de wijk                                                  | 3685        | never     | False    |
 | 767/a         | Ongeregeldheden in de wijk                                         | 5925        | never     | False    |
-| 775           | Persoon aangevallen door dier                                      | 500         | never     | False    |
 | 778           | Brand in houtzagerij                                               | 840         | never     | False    |
 | 779           | Brand in houtzagerij                                               | 2280        | never     | False    |
-| 780           | Brand in houtzagerij                                               | 9670        | never     | False    |
 | 780-0         | Brand in houtzagerij                                               | 11370       | never     | False    |
-| 787           | Persoon bekneld in gierput                                         | 4960        | never     | False    |
 | 787/a         | Persoon bekneld in gierput                                         | 5660        | never     | False    |
 | 787/b         | Persoon bekneld in gierput                                         | 5610        | never     | False    |
 | 787/c         | Persoon bekneld in gierput                                         | 5760        | never     | False    |
@@ -545,7 +518,6 @@ Count: 1262
 | 830           | Beveiligen zwemwedstrijd                                           | 4410        | never     | True     |
 | 831           | Verontreinigde ijscokar                                            | 1350        | never     | True     |
 | 832           | Illegaal kampvuur in park                                          | 670         | never     | True     |
-| 835-0         | Gaslek bedrijventerrein                                            | 1860        | never     | False    |
 | 836-0         | Gaslek bedrijventerrein                                            | 5470        | never     | False    |
 | 837           | Gaslek bedrijventerrein                                            | 8580        | never     | False    |
 | 840-0         | Spookrijder                                                        | 1090        | never     | False    |
@@ -611,7 +583,6 @@ Count: 1262
 | 882/b         | Duinbrand (Grip 4)                                                 | 52374       | never     | False    |
 | 882/ab        | Duinbrand (Grip 4)                                                 | 66217       | never     | False    |
 | 883           | Eenzijdige aanrijding                                              | 1520        | never     | False    |
-| 883/a         | Eenzijdige aanrijding                                              | 1720        | never     | False    |
 | 885/a         | Brand in vuurwerkopslag                                            | 49470       | never     | False    |
 | 885/b         | Brand in vuurwerkopslag                                            | 64525       | never     | False    |
 | 885/c         | Brand in vuurwerkopslag                                            | 53870       | never     | False    |
@@ -808,7 +779,6 @@ Count: 1262
 | 971           | Protest voor racecircuit                                           | 2530        | never     | True     |
 | 971-0         | Protest voor racecircuit                                           | 5230        | never     | True     |
 | 972           | Racewinnaar viel van het podium                                    | None        | never     | True     |
-| 973           | Uit de handgelopen overwinningsfeest                               | 7740        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest                               | 8540        | never     | False    |
 | 974           | Ontspoorde tram botst tegen gebouw                                 | 3110        | never     | False    |
 | 974-0         | Ontspoorde tram botst tegen gebouw                                 | 8690        | never     | False    |
@@ -828,7 +798,6 @@ Count: 1262
 | 990           | Oefening brandweerduikers                                          | 3300        | never     | False    |
 | 992/a         | Gijzeling                                                          | 10730       | never     | False    |
 | 993           | Straat afzetten voor politie                                       | 840         | never     | False    |
-| 995           | Opvang slachtoffers                                                | 1350        | never     | False    |
 | 995-0         | Opvang slachtoffers                                                | 1690        | never     | False    |
 | 995-1         | Opvang slachtoffers                                                | 3170        | never     | False    |
 | 997           | Kerstdecoratie in brand                                            | 670         | never     | True     |
@@ -1134,7 +1103,6 @@ Count: 1262
 | 1035/a        | Verward persoon dreigt van boord te springen                       | 2030        | never     | False    |
 | 1044/a        | Overval tankstation met gijzeling                                  | 8200        | never     | False    |
 | 1046          | Verstekeling aan boord                                             | 3030        | never     | False    |
-| 1047          | Demonstranten vastgelijmd aan snelweg                              | 13230       | never     | False    |
 | 1048          | Geluidsoverlast door Racefans                                      | 500         | never     | True     |
 | 1049          | Racefans houden straatrace                                         | 2640        | never     | True     |
 | 1050          | Vergiftiging door uitlaatgassen                                    | None        | never     | True     |
@@ -1193,7 +1161,6 @@ Count: 1262
 | 1130          | Picknick met kaarslicht veroorzaakt bosbrand                       | 2000        | never     | True     |
 | 1131          | Verlovingsring gestolen tijdens aanzoek                            | 500         | never     | True     |
 | 1132          | Persoon bekneld onder gigantische teddybeer                        | 500         | never     | True     |
-| 1135          | Persoon onwel in hijskraan                                         | 4620        | never     | False    |
 | 1137          | Man over boord                                                     | 5780        | never     | False    |
 | 1141          | Brand in chocolade-eierenfabriek                                   | 13755       | never     | True     |
 | 1142          | Onaangekondigde paashaasstaking                                    | 7500        | never     | True     |
@@ -1226,16 +1193,13 @@ Count: 1262
 | 1191-0        | Nablussen natuur                                                   | 1770        | never     | False    |
 | 1191-1        | Nablussen natuur                                                   | 2110        | never     | False    |
 | 1192          | Vergeten jubileum                                                  | 4110        | never     | True     |
-| 1193          | Brand in appartementencomplex                                      | 4370        | never     | False    |
 | 1194          | Sneeuwploeg gekanteld op provinciale weg                           | 2610        | never     | True     |
 | 1194/a        | Sneeuwploeg gekanteld op provinciale weg                           | 3110        | never     | True     |
-| 1196          | Brand in meubelzaak                                                | 12270       | never     | False    |
 | 1197          | Vrachtwagen met eierpunch gekanteld                                | 1760        | never     | True     |
 | 1197/a        | Vrachtwagen met eierpunch gekanteld                                | 2060        | never     | True     |
 | 1198          | Paaseieren vermist                                                 | 1670        | never     | True     |
 | 1200          | Rellen tijdens voetbal wedstrijd                                   | 19680       | never     | False    |
 | 1202          | Brand in ziekenhuis (Grip 1)                                       | 12580       | never     | False    |
-| 1202/a        | Brand in ziekenhuis (Grip 1)                                       | 18225       | never     | False    |
 | 1202/b        | Brand in ziekenhuis (Grip 1)                                       | 13380       | never     | False    |
 | 1202/ab       | Brand in ziekenhuis (Grip 1)                                       | 19225       | never     | False    |
 | 1202/ac       | Brand in ziekenhuis (Grip 1)                                       | 19225       | never     | False    |
