@@ -1,13 +1,12 @@
 # Never seen missions
 
-Count: 1209
+Count: 1195
 
 | ID            | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------------------------ | ----------: | --------- | -------- |
 | 15            | Bosbrand (Klein)                                                   | 1090        | never     | False    |
 | 25/a          | Verkeersongeval met beknelling                                     | 3240        | never     | False    |
 | 27            | Persoon aangereden                                                 | 700         | never     | False    |
-| 35            | Brand in ziekenhuis (Middel)                                       | 4090        | never     | False    |
 | 36/a          | Brandende goederenwagon (Groot)                                    | 7770        | never     | False    |
 | 36/b          | Brandende goederenwagon (Groot)                                    | 6770        | never     | False    |
 | 36/ab         | Brandende goederenwagon (Groot)                                    | 8570        | never     | False    |
@@ -180,11 +179,9 @@ Count: 1209
 | 319           | Brand op binnenvaartschip                                          | 3100        | never     | False    |
 | 320           | Brand op binnenvaartschip                                          | 5150        | never     | False    |
 | 320-0         | Brand op binnenvaartschip                                          | 6850        | never     | False    |
-| 322           | Brandende wegberm                                                  | 2350        | never     | False    |
 | 326           | Brand in landbouwschuur                                            | 5635        | never     | False    |
 | 326-0         | Brand in landbouwschuur                                            | 6485        | never     | False    |
 | 332           | Inbraak in bedrijfspand                                            | 1500        | never     | False    |
-| 333           | Inbraak in bedrijfspand                                            | 2000        | never     | False    |
 | 344           | Vreemde lucht in kantoorgebouw                                     | 1375        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen                       | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                                           | 17500       | never     | False    |
@@ -324,7 +321,6 @@ Count: 1209
 | 545           | Gevallen persoon door gladheid                                     | None        | never     | True     |
 | 546           | Donkere dagen offensief                                            | 670         | never     | True     |
 | 547           | Donkere dagen offensief                                            | 670         | never     | True     |
-| 549           | Steekincident (groot)                                              | 6000        | never     | False    |
 | 551           | Brand in theater                                                   | 1600        | never     | False    |
 | 554           | Monteur in aanraking met hoogspanning                              | 3800        | never     | False    |
 | 556           | Brand in theater                                                   | 3200        | never     | False    |
@@ -359,7 +355,6 @@ Count: 1209
 | 604-0         | Brand in Silo                                                      | 6305        | never     | False    |
 | 605           | Brand in Silo                                                      | 11760       | never     | False    |
 | 607           | Onbevoegden op spoor                                               | 670         | never     | False    |
-| 609           | Assistentie huisarts                                               | None        | never     | False    |
 | 610           | Brand in nachtclub                                                 | 500         | never     | False    |
 | 612           | Brand in nachtclub                                                 | 11350       | never     | False    |
 | 614           | Verward persoon op dak                                             | 4390        | never     | False    |
@@ -372,14 +367,12 @@ Count: 1209
 | 625/a         | Onbeheerde bagage gevonden                                         | 2770        | never     | False    |
 | 627           | Kind vast in hek                                                   | 1420        | never     | False    |
 | 629           | Lek/zinken plezierjacht                                            | 2320        | never     | False    |
-| 630           | Lek/zinken plezierjacht                                            | 3160        | never     | False    |
 | 632           | Brandende frietkraam                                               | 3040        | never     | False    |
 | 633           | Brandwonden door frituurolie                                       | None        | never     | False    |
 | 634           | Overval frietkraam                                                 | 2180        | never     | False    |
 | 640           | Brand in hangaar                                                   | 910         | never     | False    |
 | 641           | Brand in hangaar                                                   | 1930        | never     | False    |
 | 642           | Brand in hangaar                                                   | 10580       | never     | False    |
-| 644           | Heterdaad fietsendiefstal                                          | 670         | never     | False    |
 | 652           | Stellingkast op persoon gevallen                                   | None        | never     | False    |
 | 653           | Brand bij zendmast                                                 | 500         | never     | False    |
 | 654           | Brand bij zendmast                                                 | 2030        | never     | False    |
@@ -399,7 +392,6 @@ Count: 1209
 | 678           | Dienstverlening SEH ziekenhuis                                     | 910         | never     | False    |
 | 681           | Medische assistentie                                               | None        | never     | False    |
 | 682           | Gevangenisbewaarder aangevallen                                    | 500         | never     | False    |
-| 685           | Geweld tegen hulpverleners                                         | 3150        | never     | False    |
 | 687-0         | Brand zonnepanelen                                                 | 12750       | never     | False    |
 | 688           | Illegaal afsteken van vuurwerk                                     | 670         | never     | True     |
 | 689           | Vuurwerkoverlast                                                   | 840         | never     | True     |
@@ -417,10 +409,7 @@ Count: 1209
 | 701           | Auto verongelukt door vuurwerk op de weg                           | 1520        | never     | True     |
 | 702           | Gesabotteerde vuurwerkshow                                         | 1010        | never     | True     |
 | 709           | Brand in boerderij                                                 | 2650        | never     | False    |
-| 710           | Brand in boerderij                                                 | 5945        | never     | False    |
-| 712           | Brand in hooischuur                                                | 2575        | never     | False    |
 | 713           | Brand in hooischuur                                                | 4515        | never     | False    |
-| 716           | Akkerbrand                                                         | 10330       | never     | False    |
 | 721/a         | Spontane opstand                                                   | 10180       | never     | False    |
 | 724-0         | Explosie in woonhuis                                               | 14820       | never     | False    |
 | 727           | Stel heeft te veel chocola gegeten                                 | None        | never     | True     |
@@ -555,7 +544,6 @@ Count: 1209
 | 871           | Brandende tankwagen                                                | 1180        | never     | False    |
 | 871-0         | Brandende tankwagen                                                | 1280        | never     | False    |
 | 871-1         | Brandende tankwagen                                                | 1940        | never     | False    |
-| 871-2         | Brandende tankwagen                                                | 2940        | never     | False    |
 | 878           | Afzetten straat voor brandweer                                     | 500         | never     | False    |
 | 878-0         | Afzetten straat voor brandweer                                     | 670         | never     | False    |
 | 878-1         | Afzetten straat voor brandweer                                     | 840         | never     | False    |
@@ -716,7 +704,6 @@ Count: 1209
 | 929/acde      | Brand in gasverdeelstation                                         | 33960       | never     | False    |
 | 929/bcde      | Brand in gasverdeelstation                                         | 45137       | never     | False    |
 | 929/abcde     | Brand in gasverdeelstation                                         | 46137       | never     | False    |
-| 931           | Binnenstap drugspand met vuurwapengevaarlijke verdachte            | 7080        | never     | False    |
 | 932           | Brand op veerpont                                                  | 3680        | never     | False    |
 | 932-0         | Brand op veerpont                                                  | 10070       | never     | False    |
 | 932-1         | Brand op veerpont                                                  | 17125       | never     | False    |
@@ -1196,7 +1183,6 @@ Count: 1209
 | 1203/ac       | Brand in ziekenhuis (Grip 2)                                       | 28562       | never     | False    |
 | 1203/bc       | Brand in ziekenhuis (Grip 2)                                       | 21650       | never     | False    |
 | 1203/abc      | Brand in ziekenhuis (Grip 2)                                       | 29562       | never     | False    |
-| 1204          | Brand in station (Middel)                                          | 2540        | never     | False    |
 | 1205          | Brand in station (Groot)                                           | 15360       | never     | False    |
 | 1206/a        | Brand in station (Grip 1)                                          | 37000       | never     | False    |
 | 1206/b        | Brand in station (Grip 1)                                          | 28400       | never     | False    |
