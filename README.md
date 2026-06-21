@@ -9,7 +9,7 @@ This README is auto-updated by main.py and the GitHub workflow.
 | Total missions | 1943 |
 | Active missions | 1690 |
 | Inactive missions | 253 |
-| Never seen missions | 1177 |
+| Never seen missions | 1166 |
 | Old seen missions (older than 30 days) | 0 |
 | Old seen active missions | 0 |
 | Old seen inactive missions | 0 |
