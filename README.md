@@ -52,8 +52,8 @@ The script sends automated notifications to Discord when mission statuses change
 | --- | --- | --- | --- | --- |
 | **Newly Discovered** | ✨ | 🟦 Cyan (16776960) | Never-seen missions detected for the first time | Batch message with all new missions |
 | **Never→Active** | 🎯 | 🟨 Yellow (65535) | A never-seen mission gets its first activity | Batch message with transitions |
-| **Not Seen 30+ Days** | 🚨 | 🔴 Red (16711680) | Mission hasn't been seen in 30+ days | Individual message per mission |
-| **Back to Activity** | ✅ | 🟢 Green (65280) | Previously inactive mission (30+ days) is active again | Individual message per mission |
+| **Not Seen 30+ Days** | 🚨 | 🔴 Red (16711680) | Mission hasn't been seen in 30+ days | Batch message with stale missions |
+| **Back to Activity** | ✅ | 🟢 Green (65280) | Previously inactive mission (30+ days) is active again | Batch message with resumed missions |
 
 ### Message Format
 
@@ -61,5 +61,5 @@ The script sends automated notifications to Discord when mission statuses change
   - Example: `101: Mission Name (500 cr)`
   - Automatically splits into multiple messages if exceeding 2000 characters (Part 1/X, Part 2/X, etc.)
 
-- **Individual messages** (Not Seen 30+ Days, Back to Activity): Single mission per message with detailed embed
-  - Shows: Mission name, ID, Last Seen date, Average Credits
+- **Batch messages** (Not Seen 30+ Days, Back to Activity): Compact format listing multiple missions
+  - Shows: Mission ID, name, and average credits
