@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1101
+Count: 1094
 
 # Active never-seen missions
 
-Count: 848
+Count: 841
 
 | ID            | Name                                                | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------- | ----------: | --------- | -------- |
@@ -243,14 +243,12 @@ Count: 848
 | 614/a         | Verward persoon op dak                              | 5190        | never     | False    |
 | 625/a         | Onbeheerde bagage gevonden                          | 2770        | never     | False    |
 | 629           | Lek/zinken plezierjacht                             | 2320        | never     | False    |
-| 632           | Brandende frietkraam                                | 3040        | never     | False    |
 | 640           | Brand in hangaar                                    | 910         | never     | False    |
 | 641           | Brand in hangaar                                    | 1930        | never     | False    |
 | 652           | Stellingkast op persoon gevallen                    | None        | never     | False    |
 | 653           | Brand bij zendmast                                  | 500         | never     | False    |
 | 654           | Brand bij zendmast                                  | 2030        | never     | False    |
 | 656           | Koperdiefstal                                       | 2480        | never     | False    |
-| 659           | Brand in hoogspanningsruimte                        | 1250        | never     | False    |
 | 663           | Verkeerscontrole                                    | 6690        | never     | False    |
 | 663/a         | Verkeerscontrole                                    | 7490        | never     | False    |
 | 667/a         | Ongeval met hete luchtballon                        | 5220        | never     | False    |
@@ -323,7 +321,6 @@ Count: 848
 | 842           | Voertuigbrand in tunnel                             | 2170        | never     | False    |
 | 842-0         | Voertuigbrand in tunnel                             | 3020        | never     | False    |
 | 843           | Voertuigbrand in tunnel                             | 4760        | never     | False    |
-| 843-0         | Voertuigbrand in tunnel                             | 5660        | never     | False    |
 | 847           | Brand in stacaravan                                 | 3630        | never     | False    |
 | 849           | Gevallen groep mountainbikers                       | 3020        | never     | False    |
 | 851-0         | Achtervolging gevaarlijke verdachte                 | 7380        | never     | False    |
@@ -351,7 +348,6 @@ Count: 848
 | 878-0         | Afzetten straat voor brandweer                      | 670         | never     | False    |
 | 878-1         | Afzetten straat voor brandweer                      | 840         | never     | False    |
 | 879           | Persoon heeft rook ingeademd                        | None        | never     | False    |
-| 880           | Duinbrand (Grip 2)                                  | 40884       | never     | False    |
 | 880/a         | Duinbrand (Grip 2)                                  | 51855       | never     | False    |
 | 880/b         | Duinbrand (Grip 2)                                  | 41684       | never     | False    |
 | 880/ab        | Duinbrand (Grip 2)                                  | 52855       | never     | False    |
@@ -486,7 +482,6 @@ Count: 848
 | 942-1/a       | Schoolbus te water                                  | 12320       | never     | False    |
 | 942-1/b       | Schoolbus te water                                  | 12820       | never     | False    |
 | 942-1/ab      | Schoolbus te water                                  | 13120       | never     | False    |
-| 945-0         | Gevel dreigt in te storten                          | 10205       | never     | False    |
 | 946           | Personen geraakt door weggevlogen parasol           | 3190        | never     | False    |
 | 948           | Brand op windmolenpark                              | 500         | never     | False    |
 | 948-0         | Brand op windmolenpark                              | 2100        | never     | False    |
@@ -503,7 +498,6 @@ Count: 848
 | 962           | Begeleiding supporters                              | 15608       | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest                | 8540        | never     | False    |
 | 974           | Ontspoorde tram botst tegen gebouw                  | 3110        | never     | False    |
-| 974-0         | Ontspoorde tram botst tegen gebouw                  | 8690        | never     | False    |
 | 974-1         | Ontspoorde tram botst tegen gebouw                  | 14330       | never     | False    |
 | 977           | Begeleiding demonstratie (groot)                    | 43135       | never     | False    |
 | 979/a         | Verward persoon bij spoor                           | 1640        | never     | False    |
@@ -525,7 +519,6 @@ Count: 848
 | 1017          | Redding overboord geslagen slachtoffers             | 1230        | never     | False    |
 | 1018          | Assistentie collega                                 | 840         | never     | False    |
 | 1020          | Rendez-Vous Ambulance                               | 670         | never     | False    |
-| 1027          | Reanimatie drenkeling                               | 1950        | never     | False    |
 | 1028          | Terroristische aanslag                              | 28860       | never     | False    |
 | 1028/a        | Terroristische aanslag                              | 29660       | never     | False    |
 | 1029          | Oefening Arrestatieteam                             | 15690       | never     | False    |
