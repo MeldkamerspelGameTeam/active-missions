@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1133
+Count: 1124
 
 # Active never-seen missions
 
-Count: 880
+Count: 871
 
 | ID            | Name                                                | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------- | ----------: | --------- | -------- |
@@ -164,7 +164,6 @@ Count: 880
 | 415           | Brand in transformatorhuisje                        | 1800        | never     | False    |
 | 416-0         | Brand in transformatorhuisje                        | 5230        | never     | False    |
 | 417           | Verkeersongeval met lijnbus en voetganger           | 1000        | never     | False    |
-| 423           | Overval bankkantoor                                 | 4100        | never     | False    |
 | 424           | Overval bankkantoor                                 | 4500        | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                         | 9950        | never     | False    |
 | 428/ab        | Brand in bouwmarkt (Grip 1)                         | 13187       | never     | False    |
@@ -201,7 +200,6 @@ Count: 880
 | 482           | Watersporter vermist                                | 3000        | never     | False    |
 | 484           | Vat met gevaarlijke stoffen omgevallen              | 3880        | never     | False    |
 | 485           | Vat met gevaarlijke stoffen omgevallen              | 6660        | never     | False    |
-| 486           | Wateroverlast                                       | 1660        | never     | False    |
 | 492/a         | Ongeregeldheden voetbalsupporters horeca            | 6810        | never     | False    |
 | 492-0         | Ongeregeldheden voetbalsupporters horeca            | 6510        | never     | False    |
 | 492-0/a       | Ongeregeldheden voetbalsupporters horeca            | 7310        | never     | False    |
@@ -329,7 +327,6 @@ Count: 880
 | 817           | Gevallen blokarter                                  | 830         | never     | False    |
 | 818           | Aanrijding blokarters                               | 3020        | never     | False    |
 | 819           | Toezicht/Begeleiding Surfwedstrijd                  | 7860        | never     | False    |
-| 836-0         | Gaslek bedrijventerrein                             | 5470        | never     | False    |
 | 837           | Gaslek bedrijventerrein                             | 8580        | never     | False    |
 | 840-0         | Spookrijder                                         | 1090        | never     | False    |
 | 841/a         | Aanrijding met zwaar letsel                         | 5740        | never     | False    |
@@ -377,7 +374,6 @@ Count: 880
 | 881/b         | Duinbrand (Grip 3)                                  | 45654       | never     | False    |
 | 881/ab        | Duinbrand (Grip 3)                                  | 57817       | never     | False    |
 | 882/b         | Duinbrand (Grip 4)                                  | 52374       | never     | False    |
-| 883           | Eenzijdige aanrijding                               | 1520        | never     | False    |
 | 885/a         | Brand in vuurwerkopslag                             | 49470       | never     | False    |
 | 885/b         | Brand in vuurwerkopslag                             | 64525       | never     | False    |
 | 885/c         | Brand in vuurwerkopslag                             | 53870       | never     | False    |
@@ -442,7 +438,6 @@ Count: 880
 | 885/bcdef     | Brand in vuurwerkopslag                             | 74337       | never     | False    |
 | 885/abcdef    | Brand in vuurwerkopslag                             | 75337       | never     | False    |
 | 889           | 500 Ambulancestandplaats mijlpaal                   | 30000       | never     | False    |
-| 892           | 1000 Politiebureau mijlpaal                         | 50000       | never     | False    |
 | 896           | Windsurfer vermist                                  | 5140        | never     | False    |
 | 897           | Rellen na stadsderby                                | 15955       | never     | False    |
 | 897/a         | Rellen na stadsderby                                | 16755       | never     | False    |
@@ -454,7 +449,6 @@ Count: 880
 | 899/a         | Aanrijding bus en tram                              | 9830        | never     | False    |
 | 901/a         | Trein ontspoord                                     | 5050        | never     | False    |
 | 901-0/a       | Trein ontspoord                                     | 8210        | never     | False    |
-| 901-1         | Trein ontspoord                                     | 13385       | never     | False    |
 | 901-1/a       | Trein ontspoord                                     | 14185       | never     | False    |
 | 901-2/a       | Trein ontspoord                                     | 15035       | never     | False    |
 | 919           | Begeleiding supporters                              | 14858       | never     | False    |
@@ -536,7 +530,6 @@ Count: 880
 | 985           | Olietanker in de problemen                          | 19360       | never     | False    |
 | 986           | Surfer vermist                                      | 4080        | never     | False    |
 | 987           | Schipbreukeling vermist                             | 5880        | never     | False    |
-| 988           | Persoon onwel op schip                              | 1230        | never     | False    |
 | 990           | Oefening brandweerduikers                           | 3300        | never     | False    |
 | 992/a         | Gijzeling                                           | 10730       | never     | False    |
 | 993           | Straat afzetten voor politie                        | 840         | never     | False    |
@@ -840,7 +833,6 @@ Count: 880
 | 1104/b        | Aanrijding trein & betonmixer                       | 15320       | never     | False    |
 | 1137          | Man over boord                                      | 5780        | never     | False    |
 | 1148          | Grenscontrole                                       | 17370       | never     | False    |
-| 1154          | Brand in graandroger                                | 9500        | never     | False    |
 | 1155          | Paard schopt dierenarts                             | None        | never     | False    |
 | 1161          | Verdachte situatie luchthaven                       | 970         | never     | False    |
 | 1162          | Verdacht pakket luchthaven                          | 2840        | never     | False    |
@@ -872,7 +864,6 @@ Count: 880
 | 1203/ac       | Brand in ziekenhuis (Grip 2)                        | 28562       | never     | False    |
 | 1203/bc       | Brand in ziekenhuis (Grip 2)                        | 21650       | never     | False    |
 | 1203/abc      | Brand in ziekenhuis (Grip 2)                        | 29562       | never     | False    |
-| 1205          | Brand in station (Groot)                            | 15360       | never     | False    |
 | 1206/a        | Brand in station (Grip 1)                           | 37000       | never     | False    |
 | 1206/b        | Brand in station (Grip 1)                           | 28400       | never     | False    |
 | 1206/c        | Brand in station (Grip 1)                           | 28400       | never     | False    |
