@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1060
+Count: 1059
 
 # Active never-seen missions
 
-Count: 807
+Count: 806
 
 | ID            | Name                                                | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------- | ----------: | --------- | -------- |
@@ -20,7 +20,6 @@ Count: 807
 | 82/a          | Vrachtwagen gekanteld                               | 2970        | never     | False    |
 | 82/ab         | Vrachtwagen gekanteld                               | 3270        | never     | False    |
 | 108           | Ongeval met trein en personenauto                   | 2270        | never     | False    |
-| 108/a         | Ongeval met trein en personenauto                   | 2470        | never     | False    |
 | 116           | Voetbalwedstrijd                                    | 8700        | never     | False    |
 | 116-0         | Voetbalwedstrijd                                    | 10200       | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd                   | 17910       | never     | False    |
