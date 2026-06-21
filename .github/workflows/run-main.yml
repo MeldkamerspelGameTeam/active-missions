@@ -32,6 +32,19 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD }}
 
+      - name: Send weekly totals to Discord (Monday 08:00 Dutch time)
+        run: |
+          DUTCH_WEEKDAY=$(TZ=Europe/Amsterdam date +%u)
+          DUTCH_HOUR=$(TZ=Europe/Amsterdam date +%H)
+          if [ "$DUTCH_WEEKDAY" = "1" ] && [ "$DUTCH_HOUR" = "08" ]; then
+            echo "Dutch time is Monday 08:xx, sending weekly totals summary."
+            python send_weekly_discord_summary.py
+          else
+            echo "Dutch time is weekday ${DUTCH_WEEKDAY}, hour ${DUTCH_HOUR}:xx, skipping weekly totals summary."
+          fi
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD }}
+
       - name: Run recent-seen overview (Dutch 23:00 hour only)
         run: |
           DUTCH_HOUR=$(TZ=Europe/Amsterdam date +%H)
