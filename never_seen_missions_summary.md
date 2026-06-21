@@ -1,1172 +1,1182 @@
 # Never seen missions
 
-Count: 1166
+Count: 1165
 
-| ID            | Name                                                               | Avg Credits | Last Seen | Inactive |
-| ------------- | ------------------------------------------------------------------ | ----------: | --------- | -------- |
-| 15            | Bosbrand (Klein)                                                   | 1090        | never     | False    |
-| 25/a          | Verkeersongeval met beknelling                                     | 3240        | never     | False    |
-| 27            | Persoon aangereden                                                 | 700         | never     | False    |
-| 36/b          | Brandende goederenwagon (Groot)                                    | 6770        | never     | False    |
-| 36/ab         | Brandende goederenwagon (Groot)                                    | 8570        | never     | False    |
-| 38            | Brandende afvalbak                                                 | 110         | never     | False    |
-| 41            | Brand in kantoorpand                                               | 22380       | never     | False    |
-| 42-0          | Brand in tankstation                                               | 7360        | never     | False    |
-| 43            | Kettingbotsing                                                     | 12030       | never     | False    |
-| 59            | Brand in opslagloods                                               | 13710       | never     | False    |
-| 82/a          | Vrachtwagen gekanteld                                              | 2970        | never     | False    |
-| 82/ab         | Vrachtwagen gekanteld                                              | 3270        | never     | False    |
-| 91            | Psychiatrisch beeld                                                | None        | never     | False    |
-| 100/a         | Ammoniakalarm in opslagloods                                       | 8370        | never     | False    |
-| 100/b         | Ammoniakalarm in opslagloods                                       | 8320        | never     | False    |
-| 100/c         | Ammoniakalarm in opslagloods                                       | 8470        | never     | False    |
-| 100/ab        | Ammoniakalarm in opslagloods                                       | 9020        | never     | False    |
-| 100/ac        | Ammoniakalarm in opslagloods                                       | 9170        | never     | False    |
-| 100/bc        | Ammoniakalarm in opslagloods                                       | 9120        | never     | False    |
-| 100/abc       | Ammoniakalarm in opslagloods                                       | 9820        | never     | False    |
-| 106           | Schaap in sloot                                                    | 140         | never     | False    |
-| 108           | Ongeval met trein en personenauto                                  | 2270        | never     | False    |
-| 108/a         | Ongeval met trein en personenauto                                  | 2470        | never     | False    |
-| 116           | Voetbalwedstrijd                                                   | 8700        | never     | False    |
-| 116-0         | Voetbalwedstrijd                                                   | 10200       | never     | False    |
-| 117           | Voetbalwedstrijd, risicowedstrijd                                  | 17910       | never     | False    |
-| 117-0         | Voetbalwedstrijd, risicowedstrijd                                  | 20910       | never     | False    |
-| 118           | Hardloopevenement                                                  | 3700        | never     | False    |
-| 119           | Begeleiding orkest                                                 | 2000        | never     | False    |
-| 120           | Begeleiding wielrenners                                            | 5610        | never     | False    |
-| 121           | Test brandalarm school                                             | 1000        | never     | False    |
-| 124-0         | Achtervolging personenauto                                         | 4610        | never     | False    |
-| 125           | Vermist persoon                                                    | 3500        | never     | False    |
-| 137           | Besteld vervoer                                                    | None        | never     | False    |
-| 143/b         | Natuurbrand (Grip 1)                                               | 22052       | never     | False    |
-| 143/ab        | Natuurbrand (Grip 1)                                               | 31252       | never     | False    |
-| 144/b         | Natuurbrand (Grip 2)                                               | 25442       | never     | False    |
-| 144/ab        | Natuurbrand (Grip 2)                                               | 35490       | never     | False    |
-| 145           | Natuurbrand                                                        | 70194       | never     | False    |
-| 146           | Brandende vogelverschrikker                                        | 500         | never     | True     |
-| 147           | Brandend pompoenveld                                               | 1010        | never     | True     |
-| 148           | Overkookte pompoensoep                                             | 500         | never     | True     |
-| 149           | Heks vast in boom                                                  | 840         | never     | True     |
-| 150           | Monster uitgebroken                                                | 1010        | never     | True     |
-| 151           | Gestolen pompoenen                                                 | 500         | never     | True     |
-| 152           | Frankenstein gespot                                                | 840         | never     | True     |
-| 153           | Snoep diefstal                                                     | 500         | never     | True     |
-| 154           | Horrorclown gespot                                                 | 670         | never     | True     |
-| 160           | Brandende cadeautjes                                               | 500         | never     | True     |
-| 161           | Sinterklaas van dak gegleden                                       | None        | never     | True     |
-| 162           | Pepernoot op hoofd                                                 | None        | never     | True     |
-| 163           | Piet bestolen                                                      | 500         | never     | True     |
-| 164           | Kind geschrokken                                                   | None        | never     | True     |
-| 165           | Piet klem in schoorsteen                                           | 670         | never     | True     |
-| 166           | Toezicht manifestatie pietendiscussie                              | 29430       | never     | True     |
-| 167           | Schoenen dief                                                      | 500         | never     | True     |
-| 168           | Verstikking in pepernoot                                           | 500         | never     | True     |
-| 169           | Brandende kerstboom                                                | 500         | never     | True     |
-| 170           | Brandende kerstboom                                                | 500         | never     | True     |
-| 171           | Verkeersongeval door gladheid                                      | 1010        | never     | True     |
-| 172           | Gevallen kerstman                                                  | None        | never     | True     |
-| 173           | Ruzie op de kerstmarkt                                             | 670         | never     | True     |
-| 174           | Diefstal op de kerstmarkt                                          | 670         | never     | True     |
-| 175           | Brandende kerstmarktkraam                                          | 500         | never     | True     |
-| 176           | Gevallen schaatser                                                 | None        | never     | True     |
-| 177           | Gevallen persoon door gladheid                                     | None        | never     | True     |
-| 178           | Donkere dagen offensief                                            | 670         | never     | True     |
-| 179           | Snijwond door gebroken kerstbal                                    | None        | never     | True     |
-| 181           | Verkeersongeval met beknelling                                     | 2090        | never     | False    |
-| 181/a         | Verkeersongeval met beknelling                                     | 2890        | never     | False    |
-| 181/b         | Verkeersongeval met beknelling                                     | 2490        | never     | False    |
-| 181/ab        | Verkeersongeval met beknelling                                     | 3290        | never     | False    |
-| 182           | Personenauto in sloot                                              | 2090        | never     | False    |
-| 182/a         | Personenauto in sloot                                              | 2290        | never     | False    |
-| 183           | Paard in sloot                                                     | 1200        | never     | False    |
-| 184           | Eend verstrikt in visdraad                                         | 400         | never     | False    |
-| 185           | Verlaten kinderfiets langs waterkant                               | 1200        | never     | False    |
-| 186           | Parkeergarage onder water                                          | 2590        | never     | False    |
-| 193           | Koe in sloot                                                       | 140         | never     | False    |
-| 194           | Koe in gierput                                                     | 190         | never     | False    |
-| 200/a         | Drugslab aangetroffen                                              | 1600        | never     | False    |
-| 203           | Verkeersongeval met gevaarlijke stoffen (Klein)                    | 2240        | never     | False    |
-| 204/a         | Verkeersongeval met gevaarlijke stoffen (middel)                   | 6490        | never     | False    |
-| 205           | Persoon te water                                                   | 850         | never     | False    |
-| 206           | Persoon te water                                                   | 1100        | never     | False    |
-| 207           | Personenauto te water                                              | 3680        | never     | False    |
-| 207/a         | Personenauto te water                                              | 3880        | never     | False    |
-| 208           | Personenauto te water                                              | 4350        | never     | False    |
-| 208/a         | Personenauto te water                                              | 4550        | never     | False    |
-| 209/a         | Aanvaring vrachtschip met vlet (Grip 3)                            | 4912        | never     | False    |
-| 210           | Aanvaring vrachtschip met kajuitboot (Grip 3)                      | 4180        | never     | False    |
-| 210/a         | Aanvaring vrachtschip met kajuitboot (Grip 3)                      | 5975        | never     | False    |
-| 211           | Aanvaring 2 vrachtschepen (Grip 4)                                 | 14990       | never     | False    |
-| 211/a         | Aanvaring 2 vrachtschepen (Grip 4)                                 | 19487       | never     | False    |
-| 212           | Omgeslagen Zeilboot                                                | 1910        | never     | False    |
-| 213           | Omgeslagen Zeilboot                                                | 3150        | never     | False    |
-| 216/a         | Bosbrand (Grip 1)                                                  | 15140       | never     | False    |
-| 216/b         | Bosbrand (Grip 1)                                                  | 12312       | never     | False    |
-| 216/ab        | Bosbrand (Grip 1)                                                  | 16140       | never     | False    |
-| 219           | Open dag, klein                                                    | 2000        | never     | False    |
-| 220           | Open dag, groot                                                    | 3000        | never     | False    |
-| 229           | Brand in tankstation                                               | 4820        | never     | False    |
-| 234           | Vliegtuig neergestort                                              | 15120       | never     | False    |
-| 242           | Verlaten kleding langs waterkant                                   | 900         | never     | False    |
-| 243/a         | Verdachte situatie                                                 | 1550        | never     | False    |
-| 244           | Persoon van podium gevallen                                        | None        | never     | False    |
-| 245           | Ontruimen kraakpand                                                | 7365        | never     | False    |
-| 248/a         | Persoon vermist                                                    | 6240        | never     | False    |
-| 251           | Vrachtwagen te water                                               | 2660        | never     | False    |
-| 251/a         | Vrachtwagen te water                                               | 2960        | never     | False    |
-| 252           | Vrachtwagen te water                                               | 3830        | never     | False    |
-| 252/a         | Vrachtwagen te water                                               | 4630        | never     | False    |
-| 252/b         | Vrachtwagen te water                                               | 4130        | never     | False    |
-| 252/ab        | Vrachtwagen te water                                               | 4930        | never     | False    |
-| 253           | Grote boek van Sinterklaas aangespoeld                             | 1570        | never     | True     |
-| 254           | Brandende goederenwagon (Klein)                                    | 1490        | never     | False    |
-| 255           | Brandende goederenwagon (Middel)                                   | 2590        | never     | False    |
-| 255/a         | Brandende goederenwagon (Middel)                                   | 2690        | never     | False    |
-| 263           | Brandende personenauto in parkeergarage                            | 300         | never     | False    |
-| 264           | Brandende personenauto in parkeergarage                            | 650         | never     | False    |
-| 265           | Vliegtuig met hydraulisch probleem                                 | 2010        | never     | False    |
-| 266           | Vliegtuig met rook in cabine                                       | 2010        | never     | False    |
-| 267           | Vliegtuig met brandgeur in cabine                                  | 2010        | never     | False    |
-| 268           | Vliegtuig met probleem met landingsgestel                          | 8570        | never     | False    |
-| 269           | Vliegtuig met brandmelding in vrachtruim                           | 7720        | never     | False    |
-| 270           | Vliegtuig buiten start-/landingsbaan beland                        | 3540        | never     | False    |
-| 271           | Rookontwikkeling in vrachtruim vliegtuig                           | 2010        | never     | False    |
-| 272           | Klein vliegtuig met motorisch probleem                             | 2140        | never     | False    |
-| 273           | Klein vliegtuig neergestort                                        | 2140        | never     | False    |
-| 274           | Klein vliegtuig neergestort                                        | 5770        | never     | False    |
-| 274/a         | Klein vliegtuig neergestort                                        | 6570        | never     | False    |
-| 275           | Brandend klein vliegtuig                                           | 1560        | never     | False    |
-| 276           | Brandend klein vliegtuig                                           | 3570        | never     | False    |
-| 277           | Pijn op de borst                                                   | None        | never     | False    |
-| 278           | Beroerte                                                           | None        | never     | False    |
-| 282           | Brand in garagebedrijf                                             | 6340        | never     | False    |
-| 282-0         | Brand in garagebedrijf                                             | 7190        | never     | False    |
-| 288           | Brand in magazijn                                                  | 1750        | never     | False    |
-| 289           | Brand in magazijn                                                  | 2150        | never     | False    |
-| 290           | Brand in magazijn                                                  | 3000        | never     | False    |
-| 296           | Brand in museum                                                    | 900         | never     | False    |
-| 297           | Brand in museum                                                    | 1500        | never     | False    |
-| 299           | Brandend plezierjacht                                              | 900         | never     | False    |
-| 300           | Brandend plezierjacht                                              | 1450        | never     | False    |
-| 303           | Brand in kantoorgebouw                                             | 2200        | never     | False    |
-| 307/a         | Verkeersongeval met touringcar                                     | 8030        | never     | False    |
-| 307-0/a       | Verkeersongeval met touringcar                                     | 6000        | never     | False    |
-| 307-1/a       | Verkeersongeval met touringcar                                     | 14270       | never     | False    |
-| 307-2/a       | Verkeersongeval met touringcar                                     | 15070       | never     | False    |
-| 308/a         | Natuurbrand (Grip 3)                                               | 48465       | never     | False    |
-| 308/b         | Natuurbrand (Grip 3)                                               | 36622       | never     | False    |
-| 308/ab        | Natuurbrand (Grip 3)                                               | 49465       | never     | False    |
-| 309/b         | Natuurbrand (Grip 4)                                               | 51442       | never     | False    |
-| 309/ab        | Natuurbrand (Grip 4)                                               | 67990       | never     | False    |
-| 312/a         | Lekkende goederenwagon (Groot)                                     | 6420        | never     | False    |
-| 312/b         | Lekkende goederenwagon (Groot)                                     | 6370        | never     | False    |
-| 312/c         | Lekkende goederenwagon (Groot)                                     | 6520        | never     | False    |
-| 312/ab        | Lekkende goederenwagon (Groot)                                     | 7070        | never     | False    |
-| 312/ac        | Lekkende goederenwagon (Groot)                                     | 7220        | never     | False    |
-| 312/bc        | Lekkende goederenwagon (Groot)                                     | 7170        | never     | False    |
-| 312/abc       | Lekkende goederenwagon (Groot)                                     | 7870        | never     | False    |
-| 314           | Brand in passagierstrein                                           | 2100        | never     | False    |
-| 318           | Brand op binnenvaartschip                                          | 1450        | never     | False    |
-| 319           | Brand op binnenvaartschip                                          | 3100        | never     | False    |
-| 320           | Brand op binnenvaartschip                                          | 5150        | never     | False    |
-| 320-0         | Brand op binnenvaartschip                                          | 6850        | never     | False    |
-| 326           | Brand in landbouwschuur                                            | 5635        | never     | False    |
-| 326-0         | Brand in landbouwschuur                                            | 6485        | never     | False    |
-| 332           | Inbraak in bedrijfspand                                            | 1500        | never     | False    |
-| 344           | Vreemde lucht in kantoorgebouw                                     | 1375        | never     | False    |
-| 346           | Brand in opslagloods met gevaarlijke stoffen                       | 65350       | never     | False    |
-| 347           | Brand bij afvalverwerker                                           | 17500       | never     | False    |
-| 348           | Zwemmer vermist (Middel)                                           | 3500        | never     | False    |
-| 349/a         | Zwemmer vermist (Grip 1)                                           | 7437        | never     | False    |
-| 351/a         | Inbraakalarm woning                                                | 2300        | never     | False    |
-| 353           | Brand in terminal                                                  | 3300        | never     | False    |
-| 354           | Brand in terminal                                                  | 6470        | never     | False    |
-| 354-0         | Brand in terminal                                                  | 7320        | never     | False    |
-| 355/b         | Heidebrand (Grip 1)                                                | 27392       | never     | False    |
-| 355/ab        | Heidebrand (Grip 1)                                                | 37927       | never     | False    |
-| 356/b         | Heidebrand (Grip 2)                                                | 32502       | never     | False    |
-| 356/ab        | Heidebrand (Grip 2)                                                | 44315       | never     | False    |
-| 357/a         | Natuurbrand (Grip 5)                                               | 86352       | never     | False    |
-| 357/b         | Natuurbrand (Grip 5)                                               | 66932       | never     | False    |
-| 363           | Brand op passagiersschip                                           | 1450        | never     | False    |
-| 364           | Brand op passagiersschip                                           | 3250        | never     | False    |
-| 365           | Brand op passagiersschip                                           | 4800        | never     | False    |
-| 371           | Verlaten slee langs waterkant                                      | 1510        | never     | True     |
-| 372           | Brandende kerststal                                                | 500         | never     | True     |
-| 373           | Brandwonden door gourmetstel                                       | None        | never     | True     |
-| 374           | Geluidsoverlast door kerstmuziek                                   | 500         | never     | True     |
-| 375           | Persoon bekneld onder kerstpakketten                               | 1420        | never     | True     |
-| 376           | Persoon te water                                                   | 3000        | never     | False    |
-| 377           | Persoon te water                                                   | 5200        | never     | False    |
-| 377/a         | Persoon te water                                                   | 6000        | never     | False    |
-| 378           | Vreemde lucht in winkelcentrum                                     | 1950        | never     | False    |
-| 383           | Brand in parkeergarage                                             | 900         | never     | False    |
-| 394/b         | Brand bij afvalverwerker (Grip 1)                                  | 9510        | never     | False    |
-| 394/ab        | Brand bij afvalverwerker (Grip 1)                                  | 12637       | never     | False    |
-| 395/b         | Brand bij afvalverwerker (Grip 3)                                  | 12510       | never     | False    |
-| 395/ab        | Brand bij afvalverwerker (Grip 3)                                  | 16387       | never     | False    |
-| 398           | Vreemde lucht in kantoorgebouw                                     | 1750        | never     | False    |
-| 409           | Brand in kerkgebouw                                                | 1500        | never     | False    |
-| 411           | Brand in kerkgebouw                                                | 2650        | never     | False    |
-| 414           | Brand in transformatorhuisje                                       | 800         | never     | False    |
-| 415           | Brand in transformatorhuisje                                       | 1800        | never     | False    |
-| 416-0         | Brand in transformatorhuisje                                       | 5230        | never     | False    |
-| 417           | Verkeersongeval met lijnbus en voetganger                          | 1000        | never     | False    |
-| 423           | Overval bankkantoor                                                | 4100        | never     | False    |
-| 424           | Overval bankkantoor                                                | 4500        | never     | False    |
-| 428/b         | Brand in bouwmarkt (Grip 1)                                        | 9950        | never     | False    |
-| 428/ab        | Brand in bouwmarkt (Grip 1)                                        | 13187       | never     | False    |
-| 428-0         | Brand in bouwmarkt (Grip 1)                                        | 11050       | never     | False    |
-| 428-0/a       | Brand in bouwmarkt (Grip 1)                                        | 14562       | never     | False    |
-| 428-0/b       | Brand in bouwmarkt (Grip 1)                                        | 11850       | never     | False    |
-| 428-0/ab      | Brand in bouwmarkt (Grip 1)                                        | 15562       | never     | False    |
-| 429/a         | Brand in bouwmarkt (Grip 2)                                        | 18562       | never     | False    |
-| 429/b         | Brand in bouwmarkt (Grip 2)                                        | 15050       | never     | False    |
-| 429/ab        | Brand in bouwmarkt (Grip 2)                                        | 19562       | never     | False    |
-| 429-0         | Brand in bouwmarkt (Grip 2)                                        | 17150       | never     | False    |
-| 429-0/a       | Brand in bouwmarkt (Grip 2)                                        | 22187       | never     | False    |
-| 429-0/b       | Brand in bouwmarkt (Grip 2)                                        | 17950       | never     | False    |
-| 429-0/ab      | Brand in bouwmarkt (Grip 2)                                        | 23187       | never     | False    |
-| 430           | Persoon bekneld tussen containers                                  | None        | never     | False    |
-| 435           | Lekkende tankwagen                                                 | 6660        | never     | False    |
-| 436           | Persoon te water                                                   | 900         | never     | False    |
-| 437           | Persoon te water                                                   | 1150        | never     | False    |
-| 438           | Duiker vermist                                                     | 850         | never     | False    |
-| 439           | Duiker vermist                                                     | 1100        | never     | False    |
-| 441           | Brand in gevangenis                                                | 1950        | never     | False    |
-| 447           | Brand in hotel                                                     | 4900        | never     | False    |
-| 451           | Zwaan met gebroken poot                                            | 400         | never     | False    |
-| 456           | Brand in manege                                                    | 800         | never     | False    |
-| 457           | Brand in manege                                                    | 1950        | never     | False    |
-| 458           | Brand in manege                                                    | 2980        | never     | False    |
-| 458-0         | Brand in manege                                                    | 3830        | never     | False    |
-| 459           | Brandende vliegtuigtrekker                                         | 1290        | never     | False    |
-| 460           | Brandende vliegtuigtrekker                                         | 1840        | never     | False    |
-| 461           | Vliegtuig met motorisch probleem                                   | 8570        | never     | False    |
-| 463/a         | Verdachte vaten aangetroffen                                       | 4390        | never     | False    |
-| 474           | Brand in kantoorgebouw                                             | 6740        | never     | False    |
-| 480           | Watersporter vermist                                               | 850         | never     | False    |
-| 481           | Watersporter vermist                                               | 1750        | never     | False    |
-| 482           | Watersporter vermist                                               | 3000        | never     | False    |
-| 484           | Vat met gevaarlijke stoffen omgevallen                             | 3880        | never     | False    |
-| 485           | Vat met gevaarlijke stoffen omgevallen                             | 6660        | never     | False    |
-| 486           | Wateroverlast                                                      | 1660        | never     | False    |
-| 492/a         | Ongeregeldheden voetbalsupporters horeca                           | 6810        | never     | False    |
-| 492-0         | Ongeregeldheden voetbalsupporters horeca                           | 6510        | never     | False    |
-| 492-0/a       | Ongeregeldheden voetbalsupporters horeca                           | 7310        | never     | False    |
-| 492-1         | Ongeregeldheden voetbalsupporters horeca                           | 6210        | never     | False    |
-| 492-1/a       | Ongeregeldheden voetbalsupporters horeca                           | 7010        | never     | False    |
-| 492-2         | Ongeregeldheden voetbalsupporters horeca                           | 7310        | never     | False    |
-| 492-2/a       | Ongeregeldheden voetbalsupporters horeca                           | 8110        | never     | False    |
-| 493           | Ongeregeldheden voetbalsupporters horeca                           | 4470        | never     | False    |
-| 493-1         | Ongeregeldheden voetbalsupporters horeca                           | 3720        | never     | False    |
-| 493-2         | Ongeregeldheden voetbalsupporters horeca                           | 4720        | never     | False    |
-| 494           | Personenauto in sloot                                              | 1400        | never     | False    |
-| 495           | Personenauto in sloot                                              | 1400        | never     | False    |
-| 496           | Personenauto te water                                              | 900         | never     | False    |
-| 497           | Personenauto te water                                              | 4850        | never     | False    |
-| 497/a         | Personenauto te water                                              | 5650        | never     | False    |
-| 504           | Brand in fabriekshal                                               | 900         | never     | False    |
-| 508           | Brand in fabriekshal                                               | 7360        | never     | False    |
-| 509           | Brand in fabriekshal                                               | 9930        | never     | False    |
-| 514           | Aanvaring vrachtschip met watertaxi (Grip 3)                       | 2940        | never     | False    |
-| 514/a         | Aanvaring vrachtschip met watertaxi (Grip 3)                       | 4425        | never     | False    |
-| 515           | Aanvaring vrachtschip met waterbus (Grip 3)                        | 4680        | never     | False    |
-| 515/a         | Aanvaring vrachtschip met waterbus (Grip 3)                        | 6600        | never     | False    |
-| 516           | Aanvaring met rondvaartboot (Grip 3)                               | 5590        | never     | False    |
-| 516/a         | Aanvaring met rondvaartboot (Grip 3)                               | 7737        | never     | False    |
-| 517           | Aanvaring met luxe jachtschip (Grip 4)                             | 5750        | never     | False    |
-| 517/a         | Aanvaring met luxe jachtschip (Grip 4)                             | 7937        | never     | False    |
-| 518           | Aanvaring vrachtschip met veerboot (Grip 4)                        | 9200        | never     | False    |
-| 518/a         | Aanvaring vrachtschip met veerboot (Grip 4)                        | 12250       | never     | False    |
-| 519           | Aanvaring vrachtschip met passagiersschip (Grip 4)                 | 15530       | never     | False    |
-| 519/a         | Aanvaring vrachtschip met passagiersschip (Grip 4)                 | 20162       | never     | False    |
-| 525           | Auto in brand door vuurwerk                                        | 500         | never     | True     |
-| 526           | Auto in brand door vuurwerk                                        | 500         | never     | True     |
-| 527           | Afval in brand door vuurwerk                                       | 500         | never     | True     |
-| 528           | Afval in brand door vuurwerk                                       | 500         | never     | True     |
-| 529           | Grasbrand door vuurwerk                                            | 670         | never     | True     |
-| 530           | Kelderbrand door vuurwerk                                          | 1180        | never     | True     |
-| 531           | Brandend bushokje door vuurwerk                                    | 670         | never     | True     |
-| 532           | Brand op balkon door vuurwerk                                      | 1010        | never     | True     |
-| 533           | Brandende papiercontainer door vuurwerk                            | 500         | never     | True     |
-| 534           | Brandende heg door vuurwerk                                        | 500         | never     | True     |
-| 535           | Brandende heg door vuurwerk                                        | 500         | never     | True     |
-| 536           | Beschonken bestuurder na Oud en Nieuw feest                        | 500         | never     | True     |
-| 537           | Beschonken bestuurder na Oud en Nieuw feest                        | 500         | never     | True     |
-| 538           | Rieten kap woning in brand door vuurwerk                           | 3100        | never     | True     |
-| 539           | Auto beschadigd door vuurwerk                                      | 500         | never     | True     |
-| 540           | Overtreding op vuurwerkbesluit                                     | 500         | never     | True     |
-| 541           | Handletsel door vuurwerk                                           | None        | never     | True     |
-| 542           | Verkeersongeval door gladheid                                      | 1010        | never     | True     |
-| 543           | Verkeersongeval door gladheid                                      | 1010        | never     | True     |
-| 544           | Gevallen persoon door gladheid                                     | None        | never     | True     |
-| 545           | Gevallen persoon door gladheid                                     | None        | never     | True     |
-| 546           | Donkere dagen offensief                                            | 670         | never     | True     |
-| 547           | Donkere dagen offensief                                            | 670         | never     | True     |
-| 551           | Brand in theater                                                   | 1600        | never     | False    |
-| 554           | Monteur in aanraking met hoogspanning                              | 3800        | never     | False    |
-| 556           | Brand in theater                                                   | 3200        | never     | False    |
-| 557           | Brand in theater                                                   | 10450       | never     | False    |
-| 558-0         | Brand in theater                                                   | 14490       | never     | False    |
-| 562           | Pijlen Cupido gestolen                                             | 500         | never     | True     |
-| 563           | Persoon gewond door pijl van Cupido                                | None        | never     | True     |
-| 564           | Voetganger onder tram                                              | 2040        | never     | False    |
-| 565           | Fietser onder tram                                                 | 2140        | never     | False    |
-| 568/a         | Verward persoon (Hoge dreiging)                                    | 2000        | never     | False    |
-| 574           | Assistentie handhaving                                             | 300         | never     | False    |
-| 578           | Paasei dief                                                        | 500         | never     | True     |
-| 579           | Kwast gestolen uit werkplaats                                      | 500         | never     | True     |
-| 580           | Ingestort konijnenhol                                              | 2440        | never     | True     |
-| 581           | Aangevallen Paashaas                                               | 500         | never     | True     |
-| 582           | Brandende paasmand                                                 | 500         | never     | True     |
-| 583           | Lekkende chocoladevrachtwagen                                      | 5000        | never     | True     |
-| 584           | Brandende eierkoker                                                | 840         | never     | True     |
-| 585           | Hazenbijeenkomst in Paaseistad                                     | 10530       | never     | True     |
-| 586           | Gekantelde paaseivrachtwagen                                       | 1420        | never     | True     |
-| 587           | Prioriteit: paasei-jacht                                           | 1350        | never     | True     |
-| 588           | Paashaas in een kraan                                              | 1690        | never     | True     |
-| 589           | Voorzorgslanding klein vliegtuig                                   | 2310        | never     | False    |
-| 590           | Noodlanding groot vliegtuig                                        | 8970        | never     | False    |
-| 591           | Uitslaande brand in veestal                                        | 10775       | never     | False    |
-| 592           | Brand op bedrijventerrein                                          | 12540       | never     | False    |
-| 593           | Begeleiding demonstratie (klein)                                   | 9720        | never     | False    |
-| 594           | Begeleiding demonstratie (groot)                                   | 35910       | never     | False    |
-| 598           | Brand in asielzoekerscentrum (wasserette)                          | 1360        | never     | False    |
-| 603           | Brand in silo                                                      | 1020        | never     | False    |
-| 604-0         | Brand in Silo                                                      | 6305        | never     | False    |
-| 605           | Brand in Silo                                                      | 11760       | never     | False    |
-| 610           | Brand in nachtclub                                                 | 500         | never     | False    |
-| 612           | Brand in nachtclub                                                 | 11350       | never     | False    |
-| 614           | Verward persoon op dak                                             | 4390        | never     | False    |
-| 614/a         | Verward persoon op dak                                             | 5190        | never     | False    |
-| 617           | Zonnesteek                                                         | 250         | never     | True     |
-| 618           | Hitteslag                                                          | 250         | never     | True     |
-| 619           | Hittekramp                                                         | 250         | never     | True     |
-| 620           | Uitgedroogde persoon                                               | 250         | never     | True     |
-| 621           | Barbecuebrand                                                      | 500         | never     | True     |
-| 625/a         | Onbeheerde bagage gevonden                                         | 2770        | never     | False    |
-| 629           | Lek/zinken plezierjacht                                            | 2320        | never     | False    |
-| 632           | Brandende frietkraam                                               | 3040        | never     | False    |
-| 633           | Brandwonden door frituurolie                                       | None        | never     | False    |
-| 640           | Brand in hangaar                                                   | 910         | never     | False    |
-| 641           | Brand in hangaar                                                   | 1930        | never     | False    |
-| 642           | Brand in hangaar                                                   | 10580       | never     | False    |
-| 652           | Stellingkast op persoon gevallen                                   | None        | never     | False    |
-| 653           | Brand bij zendmast                                                 | 500         | never     | False    |
-| 654           | Brand bij zendmast                                                 | 2030        | never     | False    |
-| 656           | Koperdiefstal                                                      | 2480        | never     | False    |
-| 659           | Brand in hoogspanningsruimte                                       | 1250        | never     | False    |
-| 662           | Verkeerscontrole                                                   | 2205        | never     | False    |
-| 663           | Verkeerscontrole                                                   | 6690        | never     | False    |
-| 663/a         | Verkeerscontrole                                                   | 7490        | never     | False    |
-| 667/a         | Ongeval met hete luchtballon                                       | 5220        | never     | False    |
-| 669           | Toezicht Park                                                      | 2110        | never     | False    |
-| 670           | Toezicht Winkelcentrum                                             | 2210        | never     | False    |
-| 670/a         | Toezicht Winkelcentrum                                             | 3010        | never     | False    |
-| 671           | Toezicht Horeca                                                    | 7245        | never     | False    |
-| 671-0         | Toezicht Horeca                                                    | 8745        | never     | False    |
-| 673           | Ruzie tijdens uitgaansnacht                                        | 2415        | never     | False    |
-| 678           | Dienstverlening SEH ziekenhuis                                     | 910         | never     | False    |
-| 681           | Medische assistentie                                               | None        | never     | False    |
-| 682           | Gevangenisbewaarder aangevallen                                    | 500         | never     | False    |
-| 687-0         | Brand zonnepanelen                                                 | 12750       | never     | False    |
-| 688           | Illegaal afsteken van vuurwerk                                     | 670         | never     | True     |
-| 689           | Vuurwerkoverlast                                                   | 840         | never     | True     |
-| 690           | Vernieling met vuurwerk                                            | 670         | never     | True     |
-| 691           | Illegaal vuurwerk in huis                                          | 1170        | never     | True     |
-| 692           | Politie aangevallen met illegaal vuurwerk                          | 4580        | never     | True     |
-| 693           | Dier in paniek door vuurwerk                                       | None        | never     | True     |
-| 694           | Verwonding door ontplofte blindganger                              | None        | never     | True     |
-| 695           | Verwonding door onjuist vuurwerkgebruik                            | None        | never     | True     |
-| 696           | Persoon geraakt door vuurwerk                                      | None        | never     | True     |
-| 697           | Epileptische aanval na vuurwerkflitsen                             | None        | never     | True     |
-| 698           | Toezicht nieuwjaarsfeest                                           | 27975       | never     | True     |
-| 699           | Afsteken illegaal vuurwerk                                         | 670         | never     | True     |
-| 700           | Vuurwerk afgestoken op de weg                                      | 500         | never     | True     |
-| 701           | Auto verongelukt door vuurwerk op de weg                           | 1520        | never     | True     |
-| 702           | Gesabotteerde vuurwerkshow                                         | 1010        | never     | True     |
-| 709           | Brand in boerderij                                                 | 2650        | never     | False    |
-| 713           | Brand in hooischuur                                                | 4515        | never     | False    |
-| 721/a         | Spontane opstand                                                   | 10180       | never     | False    |
-| 724-0         | Explosie in woonhuis                                               | 14820       | never     | False    |
-| 727           | Stel heeft te veel chocola gegeten                                 | None        | never     | True     |
-| 728           | Vlinders in de buik                                                | None        | never     | True     |
-| 729           | Hartaanval door aanzoekschok                                       | None        | never     | True     |
-| 730           | Gebroken hart                                                      | None        | never     | True     |
-| 731           | Valentijnsdecoraties in restaurant in brand gevlogen               | 2710        | never     | True     |
-| 732           | Brand door diner met kaarsen                                       | 500         | never     | True     |
-| 733           | Zoektocht naar verdwenen vriendje                                  | 2170        | never     | True     |
-| 733/a         | Zoektocht naar verdwenen vriendje                                  | 2970        | never     | True     |
-| 734           | Klacht over luidruchtig ruziënd stel                               | 500         | never     | True     |
-| 735           | Gestolen hart                                                      | 670         | never     | True     |
-| 736           | Ongeluk bij bakken verjaardagstaart                                | 500         | never     | True     |
-| 737           | Verjaardagsballon vast in boom                                     | 840         | never     | True     |
-| 738           | Vuur door elektrische verjaardagsversiering (klein)                | 670         | never     | True     |
-| 739           | Vuur door elektrische verjaardagsversiering (groot)                | 1350        | never     | True     |
-| 740           | Verjaardagscadeau gestolen                                         | 500         | never     | True     |
-| 741           | Sabotage van verjaardagsjukeboxes                                  | 670         | never     | True     |
-| 742           | Verjaardagsgast vermist                                            | 1340        | never     | True     |
-| 743           | Verjaardagsgasten hebben versiering gestolen                       | 1010        | never     | True     |
-| 744           | Verjaardagsgasten hebben taart gestolen                            | 2680        | never     | True     |
-| 745           | Gast heeft teveel verjaardagstaart gegeten                         | None        | never     | True     |
-| 746           | Papiersnee bij openen verjaardagscadeau                            | None        | never     | True     |
-| 747           | Verjaardagsgast met gewrichtspijn na dansen                        | None        | never     | True     |
-| 748           | Verjaardagsgast geraakt door rondvliegende kurk                    | None        | never     | True     |
-| 749           | Verjaardagsgast flauwgevallen                                      | None        | never     | True     |
-| 750           | Mensen vermist op de dansvloer                                     | 5430        | never     | True     |
-| 751           | Ballonnen opblazen voor verjaardagsfeest                           | 6330        | never     | True     |
-| 752           | Gasten hebben een vergiftigd drankje gedronken op verjaardagsfeest | 2370        | never     | True     |
-| 762/a         | Lekkage gevaarlijke stoffen (Middel)                               | 6590        | never     | False    |
-| 763           | Toezicht bij manifestatie                                          | 4715        | never     | False    |
-| 763/a         | Toezicht bij manifestatie                                          | 5515        | never     | False    |
-| 764           | Opbreken manifestatie                                              | 10365       | never     | False    |
-| 764/a         | Opbreken manifestatie                                              | 11165       | never     | False    |
-| 765/a         | Onaangekondigde demonstratie                                       | 7755        | never     | False    |
-| 766/a         | Onrust in de wijk                                                  | 3685        | never     | False    |
-| 767/a         | Ongeregeldheden in de wijk                                         | 5925        | never     | False    |
-| 778           | Brand in houtzagerij                                               | 840         | never     | False    |
-| 779           | Brand in houtzagerij                                               | 2280        | never     | False    |
-| 780-0         | Brand in houtzagerij                                               | 11370       | never     | False    |
-| 787/a         | Persoon bekneld in gierput                                         | 5660        | never     | False    |
-| 787/b         | Persoon bekneld in gierput                                         | 5610        | never     | False    |
-| 787/c         | Persoon bekneld in gierput                                         | 5760        | never     | False    |
-| 787/ab        | Persoon bekneld in gierput                                         | 6310        | never     | False    |
-| 787/ac        | Persoon bekneld in gierput                                         | 6460        | never     | False    |
-| 787/bc        | Persoon bekneld in gierput                                         | 6410        | never     | False    |
-| 787/abc       | Persoon bekneld in gierput                                         | 7110        | never     | False    |
-| 788           | Iemand uitgegleden over gesmolten chocolade                        | None        | never     | True     |
-| 789           | Brandend boeket                                                    | 800         | never     | True     |
-| 790           | Slaapkamerbrand door kaars                                         | 1500        | never     | True     |
-| 791           | Brandende taart in oven                                            | 600         | never     | True     |
-| 792           | Keukenbrand                                                        | 1400        | never     | True     |
-| 793           | Chocoladediefstal                                                  | 1200        | never     | True     |
-| 794           | Onwelwording (strand)                                              | 830         | never     | False    |
-| 795           | Allergische reactie (strand)                                       | 830         | never     | False    |
-| 796           | Zoekactie vermist persoon                                          | 1840        | never     | False    |
-| 796-0         | Zoekactie vermist persoon                                          | 2090        | never     | False    |
-| 796-1         | Zoekactie vermist persoon                                          | 5740        | never     | False    |
-| 797           | Zwemmer in problemen                                               | 1230        | never     | False    |
-| 798           | Kitesurfer in problemen                                            | 2400        | never     | False    |
-| 799           | Persoon op luchtbed in problemen                                   | 830         | never     | False    |
-| 800           | Groep zwemmers in problemen                                        | 3320        | never     | False    |
-| 800/a         | Groep zwemmers in problemen                                        | 4120        | never     | False    |
-| 801           | Groep kitesurfers in problemen                                     | 3990        | never     | False    |
-| 801/a         | Groep kitesurfers in problemen                                     | 4790        | never     | False    |
-| 802           | Surfer gewond                                                      | 1230        | never     | False    |
-| 803           | Persoon vermist rondom mui                                         | 2570        | never     | False    |
-| 803/a         | Persoon vermist rondom mui                                         | 3370        | never     | False    |
-| 804           | Grote zoekactie vermist persoon                                    | 5650        | never     | False    |
-| 804-0         | Grote zoekactie vermist persoon                                    | 5900        | never     | False    |
-| 804-1         | Grote zoekactie vermist persoon                                    | 9550        | never     | False    |
-| 805           | Kind vermist                                                       | 900         | never     | False    |
-| 806           | Zwemmer vermist                                                    | 1400        | never     | False    |
-| 807           | Persoon bedolven onder zand                                        | 830         | never     | False    |
-| 808           | Persoon van paard gevallen                                         | 1330        | never     | False    |
-| 809           | Bootje op drift                                                    | 1730        | never     | False    |
-| 810           | Gewonden op strand/ in de duinen                                   | 3020        | never     | False    |
-| 813-0         | ANPR hit: Mobiel banditisme                                        | 920         | never     | False    |
-| 814-0         | ANPR hit: Vervreemd voertuig                                       | 1090        | never     | False    |
-| 817           | Gevallen blokarter                                                 | 830         | never     | False    |
-| 818           | Aanrijding blokarters                                              | 3020        | never     | False    |
-| 819           | Toezicht/Begeleiding Surfwedstrijd                                 | 7860        | never     | False    |
-| 830           | Beveiligen zwemwedstrijd                                           | 4410        | never     | True     |
-| 831           | Verontreinigde ijscokar                                            | 1350        | never     | True     |
-| 832           | Illegaal kampvuur in park                                          | 670         | never     | True     |
-| 836-0         | Gaslek bedrijventerrein                                            | 5470        | never     | False    |
-| 837           | Gaslek bedrijventerrein                                            | 8580        | never     | False    |
-| 840-0         | Spookrijder                                                        | 1090        | never     | False    |
-| 841/a         | Aanrijding met zwaar letsel                                        | 5740        | never     | False    |
-| 841/b         | Aanrijding met zwaar letsel                                        | 6140        | never     | False    |
-| 841/ab        | Aanrijding met zwaar letsel                                        | 6540        | never     | False    |
-| 841-0         | Aanrijding met zwaar letsel                                        | 6740        | never     | False    |
-| 841-0/a       | Aanrijding met zwaar letsel                                        | 7140        | never     | False    |
-| 841-0/b       | Aanrijding met zwaar letsel                                        | 7540        | never     | False    |
-| 841-0/ab      | Aanrijding met zwaar letsel                                        | 7940        | never     | False    |
-| 842           | Voertuigbrand in tunnel                                            | 2170        | never     | False    |
-| 842-0         | Voertuigbrand in tunnel                                            | 3020        | never     | False    |
-| 843           | Voertuigbrand in tunnel                                            | 4760        | never     | False    |
-| 843-0         | Voertuigbrand in tunnel                                            | 5660        | never     | False    |
-| 847           | Brand in stacaravan                                                | 3630        | never     | False    |
-| 849           | Gevallen groep mountainbikers                                      | 3020        | never     | False    |
-| 851-0         | Achtervolging gevaarlijke verdachte                                | 7380        | never     | False    |
-| 853/a         | Vliegtuig neergestort                                              | 7690        | never     | False    |
-| 853-0         | Vliegtuig neergestort                                              | 21820       | never     | False    |
-| 853-0/a       | Vliegtuig neergestort                                              | 22620       | never     | False    |
-| 853-1         | Vliegtuig neergestort                                              | 23660       | never     | False    |
-| 853-1/a       | Vliegtuig neergestort                                              | 24460       | never     | False    |
-| 854           | Ongeval waterscooter                                               | 1730        | never     | False    |
-| 854-0         | Ongeval waterscooter                                               | 4980        | never     | False    |
-| 855           | Observatie                                                         | 5790        | never     | False    |
-| 855/a         | Observatie                                                         | 6590        | never     | False    |
-| 856           | Persoon uitgegleden over natte bladeren                            | None        | never     | True     |
-| 857           | Verkeersongeval door gevallen bladeren                             | 2600        | never     | True     |
-| 858           | Persoon gevallen in een hoop bladeren                              | None        | never     | True     |
-| 859           | Op hol geslagen bladblazer                                         | 500         | never     | True     |
-| 860           | Afvoerput verstopt met bladeren                                    | 500         | never     | True     |
-| 861           | Onderkoeling na zwemmen in koud water                              | None        | never     | True     |
-| 862           | Ongeluk op mistige weg                                             | 1580        | never     | True     |
-| 863           | Ongeluk met overstekend hert                                       | 1750        | never     | True     |
-| 864           | Brandende hoop bladeren                                            | 670         | never     | True     |
-| 865           | Bladeren op spoor                                                  | 1080        | never     | True     |
-| 866           | Duinbrand                                                          | 1170        | never     | False    |
-| 867           | Duinbrand (Middel)                                                 | 2690        | never     | False    |
-| 868           | Duinbrand (Grip 1)                                                 | 20747       | never     | False    |
-| 868/a         | Duinbrand (Grip 1)                                                 | 26683       | never     | False    |
-| 868/b         | Duinbrand (Grip 1)                                                 | 21547       | never     | False    |
-| 868/ab        | Duinbrand (Grip 1)                                                 | 27683       | never     | False    |
-| 869/b         | Aanrijding hulpverleningsvoertuig                                  | 2900        | never     | False    |
-| 869/ab        | Aanrijding hulpverleningsvoertuig                                  | 3200        | never     | False    |
-| 871           | Brandende tankwagen                                                | 1180        | never     | False    |
-| 871-0         | Brandende tankwagen                                                | 1280        | never     | False    |
-| 871-1         | Brandende tankwagen                                                | 1940        | never     | False    |
-| 878           | Afzetten straat voor brandweer                                     | 500         | never     | False    |
-| 878-0         | Afzetten straat voor brandweer                                     | 670         | never     | False    |
-| 878-1         | Afzetten straat voor brandweer                                     | 840         | never     | False    |
-| 879           | Persoon heeft rook ingeademd                                       | None        | never     | False    |
-| 880           | Duinbrand (Grip 2)                                                 | 40884       | never     | False    |
-| 880/a         | Duinbrand (Grip 2)                                                 | 51855       | never     | False    |
-| 880/b         | Duinbrand (Grip 2)                                                 | 41684       | never     | False    |
-| 880/ab        | Duinbrand (Grip 2)                                                 | 52855       | never     | False    |
-| 881/a         | Duinbrand (Grip 3)                                                 | 56817       | never     | False    |
-| 881/b         | Duinbrand (Grip 3)                                                 | 45654       | never     | False    |
-| 881/ab        | Duinbrand (Grip 3)                                                 | 57817       | never     | False    |
-| 882/a         | Duinbrand (Grip 4)                                                 | 65217       | never     | False    |
-| 882/b         | Duinbrand (Grip 4)                                                 | 52374       | never     | False    |
-| 882/ab        | Duinbrand (Grip 4)                                                 | 66217       | never     | False    |
-| 883           | Eenzijdige aanrijding                                              | 1520        | never     | False    |
-| 885/a         | Brand in vuurwerkopslag                                            | 49470       | never     | False    |
-| 885/b         | Brand in vuurwerkopslag                                            | 64525       | never     | False    |
-| 885/c         | Brand in vuurwerkopslag                                            | 53870       | never     | False    |
-| 885/d         | Brand in vuurwerkopslag                                            | 49320       | never     | False    |
-| 885/e         | Brand in vuurwerkopslag                                            | 49470       | never     | False    |
-| 885/f         | Brand in vuurwerkopslag                                            | 49870       | never     | False    |
-| 885/ab        | Brand in vuurwerkopslag                                            | 65525       | never     | False    |
-| 885/ac        | Brand in vuurwerkopslag                                            | 54670       | never     | False    |
-| 885/ad        | Brand in vuurwerkopslag                                            | 50120       | never     | False    |
-| 885/ae        | Brand in vuurwerkopslag                                            | 50270       | never     | False    |
-| 885/af        | Brand in vuurwerkopslag                                            | 50670       | never     | False    |
-| 885/bc        | Brand in vuurwerkopslag                                            | 71025       | never     | False    |
-| 885/bd        | Brand in vuurwerkopslag                                            | 65337       | never     | False    |
-| 885/be        | Brand in vuurwerkopslag                                            | 65525       | never     | False    |
-| 885/bf        | Brand in vuurwerkopslag                                            | 66025       | never     | False    |
-| 885/cd        | Brand in vuurwerkopslag                                            | 54520       | never     | False    |
-| 885/ce        | Brand in vuurwerkopslag                                            | 54670       | never     | False    |
-| 885/cf        | Brand in vuurwerkopslag                                            | 55070       | never     | False    |
-| 885/de        | Brand in vuurwerkopslag                                            | 50120       | never     | False    |
-| 885/df        | Brand in vuurwerkopslag                                            | 50520       | never     | False    |
-| 885/ef        | Brand in vuurwerkopslag                                            | 50670       | never     | False    |
-| 885/abc       | Brand in vuurwerkopslag                                            | 72025       | never     | False    |
-| 885/abd       | Brand in vuurwerkopslag                                            | 66337       | never     | False    |
-| 885/abe       | Brand in vuurwerkopslag                                            | 66525       | never     | False    |
-| 885/abf       | Brand in vuurwerkopslag                                            | 67025       | never     | False    |
-| 885/acd       | Brand in vuurwerkopslag                                            | 55320       | never     | False    |
-| 885/ace       | Brand in vuurwerkopslag                                            | 55470       | never     | False    |
-| 885/acf       | Brand in vuurwerkopslag                                            | 55870       | never     | False    |
-| 885/ade       | Brand in vuurwerkopslag                                            | 50920       | never     | False    |
-| 885/adf       | Brand in vuurwerkopslag                                            | 51320       | never     | False    |
-| 885/aef       | Brand in vuurwerkopslag                                            | 51470       | never     | False    |
-| 885/bcd       | Brand in vuurwerkopslag                                            | 71837       | never     | False    |
-| 885/bce       | Brand in vuurwerkopslag                                            | 72025       | never     | False    |
-| 885/bcf       | Brand in vuurwerkopslag                                            | 72525       | never     | False    |
-| 885/bde       | Brand in vuurwerkopslag                                            | 66337       | never     | False    |
-| 885/bdf       | Brand in vuurwerkopslag                                            | 66837       | never     | False    |
-| 885/bef       | Brand in vuurwerkopslag                                            | 67025       | never     | False    |
-| 885/cde       | Brand in vuurwerkopslag                                            | 55320       | never     | False    |
-| 885/cdf       | Brand in vuurwerkopslag                                            | 55720       | never     | False    |
-| 885/cef       | Brand in vuurwerkopslag                                            | 55870       | never     | False    |
-| 885/def       | Brand in vuurwerkopslag                                            | 51320       | never     | False    |
-| 885/abcd      | Brand in vuurwerkopslag                                            | 72837       | never     | False    |
-| 885/abce      | Brand in vuurwerkopslag                                            | 73025       | never     | False    |
-| 885/abcf      | Brand in vuurwerkopslag                                            | 73525       | never     | False    |
-| 885/abde      | Brand in vuurwerkopslag                                            | 67337       | never     | False    |
-| 885/abdf      | Brand in vuurwerkopslag                                            | 67837       | never     | False    |
-| 885/abef      | Brand in vuurwerkopslag                                            | 68025       | never     | False    |
-| 885/acde      | Brand in vuurwerkopslag                                            | 56120       | never     | False    |
-| 885/acdf      | Brand in vuurwerkopslag                                            | 56520       | never     | False    |
-| 885/acef      | Brand in vuurwerkopslag                                            | 56670       | never     | False    |
-| 885/adef      | Brand in vuurwerkopslag                                            | 52120       | never     | False    |
-| 885/bcde      | Brand in vuurwerkopslag                                            | 72837       | never     | False    |
-| 885/bcdf      | Brand in vuurwerkopslag                                            | 73337       | never     | False    |
-| 885/bcef      | Brand in vuurwerkopslag                                            | 73525       | never     | False    |
-| 885/bdef      | Brand in vuurwerkopslag                                            | 67837       | never     | False    |
-| 885/cdef      | Brand in vuurwerkopslag                                            | 56520       | never     | False    |
-| 885/abcde     | Brand in vuurwerkopslag                                            | 73837       | never     | False    |
-| 885/abcdf     | Brand in vuurwerkopslag                                            | 74337       | never     | False    |
-| 885/abcef     | Brand in vuurwerkopslag                                            | 74525       | never     | False    |
-| 885/abdef     | Brand in vuurwerkopslag                                            | 68837       | never     | False    |
-| 885/acdef     | Brand in vuurwerkopslag                                            | 57320       | never     | False    |
-| 885/bcdef     | Brand in vuurwerkopslag                                            | 74337       | never     | False    |
-| 885/abcdef    | Brand in vuurwerkopslag                                            | 75337       | never     | False    |
-| 886           | Massa-beroerte tijdens het eten van fondue (klein)                 | 3720        | never     | True     |
-| 886-0         | Massa-beroerte tijdens het eten van fondue (groot)                 | 6480        | never     | True     |
-| 886-1         | Massa-beroerte tijdens het eten van fondue (enorm)                 | 16050       | never     | True     |
-| 889           | 500 Ambulancestandplaats mijlpaal                                  | 30000       | never     | False    |
-| 892           | 1000 Politiebureau mijlpaal                                        | 50000       | never     | False    |
-| 896           | Windsurfer vermist                                                 | 5140        | never     | False    |
-| 897           | Rellen na stadsderby                                               | 15955       | never     | False    |
-| 897/a         | Rellen na stadsderby                                               | 16755       | never     | False    |
-| 897-0/a       | Rellen na stadsderby                                               | 17355       | never     | False    |
-| 897-1         | Rellen na stadsderby                                               | 17555       | never     | False    |
-| 897-1/a       | Rellen na stadsderby                                               | 18355       | never     | False    |
-| 897-2         | Rellen na stadsderby                                               | 18555       | never     | False    |
-| 897-2/a       | Rellen na stadsderby                                               | 19355       | never     | False    |
-| 899/a         | Aanrijding bus en tram                                             | 9830        | never     | False    |
-| 901/a         | Trein ontspoord                                                    | 5050        | never     | False    |
-| 901-0/a       | Trein ontspoord                                                    | 8210        | never     | False    |
-| 901-1         | Trein ontspoord                                                    | 13385       | never     | False    |
-| 901-1/a       | Trein ontspoord                                                    | 14185       | never     | False    |
-| 901-2/a       | Trein ontspoord                                                    | 15035       | never     | False    |
-| 902           | Verhoog bewustzijn van het bestaan van 112 onder kinderen          | 500         | never     | True     |
-| 902-0         | Verhoog bewustzijn van het bestaan van 112 onder kinderen          | 2270        | never     | True     |
-| 903           | Verhoog bewustzijn van het bestaan van 112 onder kinderen          | 500         | never     | True     |
-| 903-0         | Verhoog bewustzijn van het bestaan van 112 onder kinderen          | 2905        | never     | True     |
-| 904           | Aankondiging voor nieuwe 112 functionaliteiten                     | 4500        | never     | True     |
-| 904-0         | Aankondiging voor nieuwe 112 functionaliteiten                     | 6120        | never     | True     |
-| 905           | Europese 112 dag viering                                           | 2270        | never     | True     |
-| 905-0         | Europese 112 dag viering                                           | 8060        | never     | True     |
-| 906           | Nationale 112 award ceremonie                                      | 10380       | never     | True     |
-| 907           | Brandend praalwagen                                                | 1940        | never     | True     |
-| 908           | Ongelukken in de carnavalsoptocht                                  | 2360        | never     | True     |
-| 909           | Gestolen masker                                                    | 1170        | never     | True     |
-| 910           | Gemaskerd bal trofee gestolen                                      | 1680        | never     | True     |
-| 911           | Brand op carnaval feest                                            | 670         | never     | True     |
-| 912           | Ongeluk op carnaval feest                                          | None        | never     | True     |
-| 913           | Carnaval beveiliging                                               | 3735        | never     | True     |
-| 914           | Crimineel verstopt zich op carnaval feest                          | 670         | never     | True     |
-| 915           | Carnaval outfit in brand                                           | 500         | never     | True     |
-| 916           | Feestkleding gestolen                                              | 500         | never     | True     |
-| 919           | Begeleiding supporters                                             | 14858       | never     | False    |
-| 919-0         | Begeleiding supporters                                             | 15608       | never     | False    |
-| 920           | Allergische reactie bijensteek                                     | None        | never     | True     |
-| 921           | Allergische reactie door pollen                                    | None        | never     | True     |
-| 922           | Val van ladder tijdens voorjaarsschoonmaak                         | 1170        | never     | True     |
-| 923           | Wild dier valt picknickers aan                                     | 1850        | never     | True     |
-| 924           | Voedselvergiftiging van wilde bessen                               | None        | never     | True     |
-| 925           | Picknickmand in brand                                              | 670         | never     | True     |
-| 926           | Persoon steelt kalveren                                            | 670         | never     | True     |
-| 927           | Koeien dief op de vlucht                                           | 2180        | never     | True     |
-| 928           | Dief aangevallen door een koe                                      | 500         | never     | True     |
-| 929           | Brand in gasverdeelstation                                         | 26510       | never     | False    |
-| 929/a         | Brand in gasverdeelstation                                         | 27310       | never     | False    |
-| 929/b         | Brand in gasverdeelstation                                         | 36825       | never     | False    |
-| 929/c         | Brand in gasverdeelstation                                         | 31710       | never     | False    |
-| 929/d         | Brand in gasverdeelstation                                         | 27310       | never     | False    |
-| 929/e         | Brand in gasverdeelstation                                         | 27160       | never     | False    |
-| 929/ab        | Brand in gasverdeelstation                                         | 37825       | never     | False    |
-| 929/ac        | Brand in gasverdeelstation                                         | 32510       | never     | False    |
-| 929/ad        | Brand in gasverdeelstation                                         | 28110       | never     | False    |
-| 929/ae        | Brand in gasverdeelstation                                         | 27960       | never     | False    |
-| 929/bc        | Brand in gasverdeelstation                                         | 43325       | never     | False    |
-| 929/bd        | Brand in gasverdeelstation                                         | 37825       | never     | False    |
-| 929/be        | Brand in gasverdeelstation                                         | 37637       | never     | False    |
-| 929/cd        | Brand in gasverdeelstation                                         | 32510       | never     | False    |
-| 929/ce        | Brand in gasverdeelstation                                         | 32360       | never     | False    |
-| 929/de        | Brand in gasverdeelstation                                         | 27960       | never     | False    |
-| 929/abc       | Brand in gasverdeelstation                                         | 44325       | never     | False    |
-| 929/abd       | Brand in gasverdeelstation                                         | 38825       | never     | False    |
-| 929/abe       | Brand in gasverdeelstation                                         | 38637       | never     | False    |
-| 929/acd       | Brand in gasverdeelstation                                         | 33310       | never     | False    |
-| 929/ace       | Brand in gasverdeelstation                                         | 33160       | never     | False    |
-| 929/ade       | Brand in gasverdeelstation                                         | 28760       | never     | False    |
-| 929/bcd       | Brand in gasverdeelstation                                         | 44325       | never     | False    |
-| 929/bce       | Brand in gasverdeelstation                                         | 44137       | never     | False    |
-| 929/bde       | Brand in gasverdeelstation                                         | 38637       | never     | False    |
-| 929/cde       | Brand in gasverdeelstation                                         | 33160       | never     | False    |
-| 929/abcd      | Brand in gasverdeelstation                                         | 45325       | never     | False    |
-| 929/abce      | Brand in gasverdeelstation                                         | 45137       | never     | False    |
-| 929/abde      | Brand in gasverdeelstation                                         | 39637       | never     | False    |
-| 929/acde      | Brand in gasverdeelstation                                         | 33960       | never     | False    |
-| 929/bcde      | Brand in gasverdeelstation                                         | 45137       | never     | False    |
-| 929/abcde     | Brand in gasverdeelstation                                         | 46137       | never     | False    |
-| 932           | Brand op veerpont                                                  | 3680        | never     | False    |
-| 932-0         | Brand op veerpont                                                  | 10070       | never     | False    |
-| 932-1         | Brand op veerpont                                                  | 17125       | never     | False    |
-| 933           | Bouwsteiger ingestort                                              | 4480        | never     | False    |
-| 933-0         | Bouwsteiger ingestort                                              | 6980        | never     | False    |
-| 934           | Ontsnapping gevaarlijke gedetineerde                               | 8820        | never     | False    |
-| 935           | Gesmolten chocolade haas                                           | 500         | never     | True     |
-| 936           | Bliksem treft konijnenhol                                          | 2600        | never     | True     |
-| 937           | Chocolade haas opgesloten in auto                                  | 250         | never     | True     |
-| 938           | Paaseieren zoeken onder water                                      | 1670        | never     | True     |
-| 939-1         | Schrootbrand op schip                                              | 23560       | never     | False    |
-| 942           | Schoolbus te water                                                 | 4650        | never     | False    |
-| 942/a         | Schoolbus te water                                                 | 4950        | never     | False    |
-| 942/b         | Schoolbus te water                                                 | 5450        | never     | False    |
-| 942/ab        | Schoolbus te water                                                 | 5750        | never     | False    |
-| 942-0         | Schoolbus te water                                                 | 8520        | never     | False    |
-| 942-0/a       | Schoolbus te water                                                 | 8820        | never     | False    |
-| 942-0/b       | Schoolbus te water                                                 | 9320        | never     | False    |
-| 942-0/ab      | Schoolbus te water                                                 | 9620        | never     | False    |
-| 942-1         | Schoolbus te water                                                 | 12020       | never     | False    |
-| 942-1/a       | Schoolbus te water                                                 | 12320       | never     | False    |
-| 942-1/b       | Schoolbus te water                                                 | 12820       | never     | False    |
-| 942-1/ab      | Schoolbus te water                                                 | 13120       | never     | False    |
-| 945-0         | Gevel dreigt in te storten                                         | 10205       | never     | False    |
-| 946           | Personen geraakt door weggevlogen parasol                          | 3190        | never     | False    |
-| 948           | Brand op windmolenpark                                             | 500         | never     | False    |
-| 948-0         | Brand op windmolenpark                                             | 2100        | never     | False    |
-| 948-1         | Brand op windmolenpark                                             | 11575       | never     | False    |
-| 952-2         | Brand in stadion                                                   | 37440       | never     | False    |
-| 952-3         | Brand in stadion                                                   | 43140       | never     | False    |
-| 957           | Persoon onwel in attractie                                         | 670         | never     | False    |
-| 957-0         | Persoon onwel in attractie                                         | 1760        | never     | False    |
-| 958           | Voetbalwedstrijd                                                   | 11000       | never     | False    |
-| 959           | Voetbalwedstrijd, risicowedstrijd                                  | 22510       | never     | False    |
-| 960           | Begeleiding demonstratie (klein)                                   | 11220       | never     | False    |
-| 961           | Toezicht Horeca                                                    | 8745        | never     | False    |
-| 961/a         | Toezicht Horeca                                                    | 9545        | never     | False    |
-| 962           | Begeleiding supporters                                             | 15608       | never     | False    |
-| 963           | Grote alcoholcontrole bij race-evenement                           | 12390       | never     | True     |
-| 964           | Racewagen brand                                                    | 500         | never     | True     |
-| 965           | Crash op Circuit                                                   | 2090        | never     | True     |
-| 966           | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | never     | True     |
-| 967           | Persoon van tribune gevallen                                       | None        | never     | True     |
-| 968           | Uit de handgelopen overwinningsfeest                               | 7740        | never     | True     |
-| 969           | Illegale raceauto op snelweg                                       | 4330        | never     | True     |
-| 970           | Racistisch gezang van fans op de tribune                           | 1010        | never     | True     |
-| 971           | Protest voor racecircuit                                           | 2530        | never     | True     |
-| 971-0         | Protest voor racecircuit                                           | 5230        | never     | True     |
-| 972           | Racewinnaar viel van het podium                                    | None        | never     | True     |
-| 973/a         | Uit de handgelopen overwinningsfeest                               | 8540        | never     | False    |
-| 974           | Ontspoorde tram botst tegen gebouw                                 | 3110        | never     | False    |
-| 974-0         | Ontspoorde tram botst tegen gebouw                                 | 8690        | never     | False    |
-| 974-1         | Ontspoorde tram botst tegen gebouw                                 | 14330       | never     | False    |
-| 977           | Begeleiding demonstratie (groot)                                   | 43135       | never     | False    |
-| 979/a         | Verward persoon bij spoor                                          | 1640        | never     | False    |
-| 980           | Uit de hand gelopen manifestatie                                   | 45080       | never     | False    |
-| 981           | Oefening brandweer                                                 | 3585        | never     | False    |
-| 982           | Oefening brandweer                                                 | 9210        | never     | False    |
-| 983           | Zeiljacht in problemen                                             | 3080        | never     | False    |
-| 984           | Drugssmokkel op zee                                                | 4980        | never     | False    |
-| 985           | Olietanker in de problemen                                         | 19360       | never     | False    |
-| 986           | Surfer vermist                                                     | 4080        | never     | False    |
-| 987           | Schipbreukeling vermist                                            | 5880        | never     | False    |
-| 988           | Persoon onwel op schip                                             | 1230        | never     | False    |
-| 990           | Oefening brandweerduikers                                          | 3300        | never     | False    |
-| 992/a         | Gijzeling                                                          | 10730       | never     | False    |
-| 993           | Straat afzetten voor politie                                       | 840         | never     | False    |
-| 995-0         | Opvang slachtoffers                                                | 1690        | never     | False    |
-| 995-1         | Opvang slachtoffers                                                | 3170        | never     | False    |
-| 997           | Kerstdecoratie in brand                                            | 670         | never     | True     |
-| 998           | De slee van de kerstman blokkeert de weg                           | 670         | never     | True     |
-| 999           | Kerstboom gestolen                                                 | 840         | never     | True     |
-| 1000          | Kerstcadeau's gestolen in winkelcentrum                            | 670         | never     | True     |
-| 1002/a        | Blokkade door boze menigte                                         | 15330       | never     | False    |
-| 1003          | Houtschuur in brand door kampvuur                                  | 670         | never     | True     |
-| 1004          | Vechtpartij op bevroren meer                                       | 500         | never     | True     |
-| 1005          | Schaatser uitgegleden                                              | None        | never     | True     |
-| 1006          | Sneeuwbalgevecht aan de gang                                       | 500         | never     | True     |
-| 1009          | Auto tegen pijlwagen gereden                                       | 4500        | never     | False    |
-| 1012/a        | Persoon met gevaarlijke stoffen                                    | 11460       | never     | False    |
-| 1013          | Ongeluk bij bakken valentijn diner                                 | 670         | never     | True     |
-| 1014          | Brandend Valentijnsboeket                                          | 670         | never     | True     |
-| 1015          | Kaars omgevallen bij diner                                         | 500         | never     | True     |
-| 1016/a        | Aanvaring veerpont                                                 | 15530       | never     | False    |
-| 1017          | Redding overboord geslagen slachtoffers                            | 1230        | never     | False    |
-| 1018          | Assistentie collega                                                | 840         | never     | False    |
-| 1020          | Rendez-Vous Ambulance                                              | 670         | never     | False    |
-| 1021          | Alcoholcontrole                                                    | 4020        | never     | False    |
-| 1027          | Reanimatie drenkeling                                              | 1950        | never     | False    |
-| 1028          | Terroristische aanslag                                             | 28860       | never     | False    |
-| 1028/a        | Terroristische aanslag                                             | 29660       | never     | False    |
-| 1029          | Oefening Arrestatieteam                                            | 15690       | never     | False    |
-| 1030/a        | Brand bij papierrecyclaar                                          | 40960       | never     | False    |
-| 1030/b        | Brand bij papierrecyclaar                                          | 53887       | never     | False    |
-| 1030/c        | Brand bij papierrecyclaar                                          | 48360       | never     | False    |
-| 1030/d        | Brand bij papierrecyclaar                                          | 41760       | never     | False    |
-| 1030/ab       | Brand bij papierrecyclaar                                          | 54887       | never     | False    |
-| 1030/ac       | Brand bij papierrecyclaar                                          | 49160       | never     | False    |
-| 1030/ad       | Brand bij papierrecyclaar                                          | 42560       | never     | False    |
-| 1030/bc       | Brand bij papierrecyclaar                                          | 64137       | never     | False    |
-| 1030/bd       | Brand bij papierrecyclaar                                          | 55887       | never     | False    |
-| 1030/cd       | Brand bij papierrecyclaar                                          | 49960       | never     | False    |
-| 1030/abc      | Brand bij papierrecyclaar                                          | 65137       | never     | False    |
-| 1030/abd      | Brand bij papierrecyclaar                                          | 56887       | never     | False    |
-| 1030/acd      | Brand bij papierrecyclaar                                          | 50760       | never     | False    |
-| 1030/bcd      | Brand bij papierrecyclaar                                          | 66137       | never     | False    |
-| 1030/abcd     | Brand bij papierrecyclaar                                          | 67137       | never     | False    |
-| 1031          | Festival                                                           | 31020       | never     | False    |
-| 1034          | Brand in nucleaire installatie                                     | 69410       | never     | False    |
-| 1034/a        | Brand in nucleaire installatie                                     | 70210       | never     | False    |
-| 1034/b        | Brand in nucleaire installatie                                     | 90450       | never     | False    |
-| 1034/c        | Brand in nucleaire installatie                                     | 75810       | never     | False    |
-| 1034/d        | Brand in nucleaire installatie                                     | 70810       | never     | False    |
-| 1034/e        | Brand in nucleaire installatie                                     | 70710       | never     | False    |
-| 1034/f        | Brand in nucleaire installatie                                     | 70610       | never     | False    |
-| 1034/g        | Brand in nucleaire installatie                                     | 71010       | never     | False    |
-| 1034/h        | Brand in nucleaire installatie                                     | 70260       | never     | False    |
-| 1034/ab       | Brand in nucleaire installatie                                     | 91450       | never     | False    |
-| 1034/ac       | Brand in nucleaire installatie                                     | 76610       | never     | False    |
-| 1034/ad       | Brand in nucleaire installatie                                     | 71610       | never     | False    |
-| 1034/ae       | Brand in nucleaire installatie                                     | 71510       | never     | False    |
-| 1034/af       | Brand in nucleaire installatie                                     | 71410       | never     | False    |
-| 1034/ag       | Brand in nucleaire installatie                                     | 71810       | never     | False    |
-| 1034/ah       | Brand in nucleaire installatie                                     | 71060       | never     | False    |
-| 1034/bc       | Brand in nucleaire installatie                                     | 98450       | never     | False    |
-| 1034/bd       | Brand in nucleaire installatie                                     | 92200       | never     | False    |
-| 1034/be       | Brand in nucleaire installatie                                     | 92075       | never     | False    |
-| 1034/bf       | Brand in nucleaire installatie                                     | 91950       | never     | False    |
-| 1034/bg       | Brand in nucleaire installatie                                     | 92450       | never     | False    |
-| 1034/bh       | Brand in nucleaire installatie                                     | 91512       | never     | False    |
-| 1034/cd       | Brand in nucleaire installatie                                     | 77210       | never     | False    |
-| 1034/ce       | Brand in nucleaire installatie                                     | 77110       | never     | False    |
-| 1034/cf       | Brand in nucleaire installatie                                     | 77010       | never     | False    |
-| 1034/cg       | Brand in nucleaire installatie                                     | 77410       | never     | False    |
-| 1034/ch       | Brand in nucleaire installatie                                     | 76660       | never     | False    |
-| 1034/de       | Brand in nucleaire installatie                                     | 72110       | never     | False    |
-| 1034/df       | Brand in nucleaire installatie                                     | 72010       | never     | False    |
-| 1034/dg       | Brand in nucleaire installatie                                     | 72410       | never     | False    |
-| 1034/dh       | Brand in nucleaire installatie                                     | 71660       | never     | False    |
-| 1034/ef       | Brand in nucleaire installatie                                     | 71910       | never     | False    |
-| 1034/eg       | Brand in nucleaire installatie                                     | 72310       | never     | False    |
-| 1034/eh       | Brand in nucleaire installatie                                     | 71560       | never     | False    |
-| 1034/fg       | Brand in nucleaire installatie                                     | 72210       | never     | False    |
-| 1034/fh       | Brand in nucleaire installatie                                     | 71460       | never     | False    |
-| 1034/gh       | Brand in nucleaire installatie                                     | 71860       | never     | False    |
-| 1034/abc      | Brand in nucleaire installatie                                     | 99450       | never     | False    |
-| 1034/abd      | Brand in nucleaire installatie                                     | 93200       | never     | False    |
-| 1034/abe      | Brand in nucleaire installatie                                     | 93075       | never     | False    |
-| 1034/abf      | Brand in nucleaire installatie                                     | 92950       | never     | False    |
-| 1034/abg      | Brand in nucleaire installatie                                     | 93450       | never     | False    |
-| 1034/abh      | Brand in nucleaire installatie                                     | 92512       | never     | False    |
-| 1034/acd      | Brand in nucleaire installatie                                     | 78010       | never     | False    |
-| 1034/ace      | Brand in nucleaire installatie                                     | 77910       | never     | False    |
-| 1034/acf      | Brand in nucleaire installatie                                     | 77810       | never     | False    |
-| 1034/acg      | Brand in nucleaire installatie                                     | 78210       | never     | False    |
-| 1034/ach      | Brand in nucleaire installatie                                     | 77460       | never     | False    |
-| 1034/ade      | Brand in nucleaire installatie                                     | 72910       | never     | False    |
-| 1034/adf      | Brand in nucleaire installatie                                     | 72810       | never     | False    |
-| 1034/adg      | Brand in nucleaire installatie                                     | 73210       | never     | False    |
-| 1034/adh      | Brand in nucleaire installatie                                     | 72460       | never     | False    |
-| 1034/aef      | Brand in nucleaire installatie                                     | 72710       | never     | False    |
-| 1034/aeg      | Brand in nucleaire installatie                                     | 73110       | never     | False    |
-| 1034/aeh      | Brand in nucleaire installatie                                     | 72360       | never     | False    |
-| 1034/afg      | Brand in nucleaire installatie                                     | 73010       | never     | False    |
-| 1034/afh      | Brand in nucleaire installatie                                     | 72260       | never     | False    |
-| 1034/agh      | Brand in nucleaire installatie                                     | 72660       | never     | False    |
-| 1034/bcd      | Brand in nucleaire installatie                                     | 100200      | never     | False    |
-| 1034/bce      | Brand in nucleaire installatie                                     | 100075      | never     | False    |
-| 1034/bcf      | Brand in nucleaire installatie                                     | 99950       | never     | False    |
-| 1034/bcg      | Brand in nucleaire installatie                                     | 100450      | never     | False    |
-| 1034/bch      | Brand in nucleaire installatie                                     | 99512       | never     | False    |
-| 1034/bde      | Brand in nucleaire installatie                                     | 93825       | never     | False    |
-| 1034/bdf      | Brand in nucleaire installatie                                     | 93700       | never     | False    |
-| 1034/bdg      | Brand in nucleaire installatie                                     | 94200       | never     | False    |
-| 1034/bdh      | Brand in nucleaire installatie                                     | 93262       | never     | False    |
-| 1034/bef      | Brand in nucleaire installatie                                     | 93575       | never     | False    |
-| 1034/beg      | Brand in nucleaire installatie                                     | 94075       | never     | False    |
-| 1034/beh      | Brand in nucleaire installatie                                     | 93137       | never     | False    |
-| 1034/bfg      | Brand in nucleaire installatie                                     | 93950       | never     | False    |
-| 1034/bfh      | Brand in nucleaire installatie                                     | 93012       | never     | False    |
-| 1034/bgh      | Brand in nucleaire installatie                                     | 93512       | never     | False    |
-| 1034/cde      | Brand in nucleaire installatie                                     | 78510       | never     | False    |
-| 1034/cdf      | Brand in nucleaire installatie                                     | 78410       | never     | False    |
-| 1034/cdg      | Brand in nucleaire installatie                                     | 78810       | never     | False    |
-| 1034/cdh      | Brand in nucleaire installatie                                     | 78060       | never     | False    |
-| 1034/cef      | Brand in nucleaire installatie                                     | 78310       | never     | False    |
-| 1034/ceg      | Brand in nucleaire installatie                                     | 78710       | never     | False    |
-| 1034/ceh      | Brand in nucleaire installatie                                     | 77960       | never     | False    |
-| 1034/cfg      | Brand in nucleaire installatie                                     | 78610       | never     | False    |
-| 1034/cfh      | Brand in nucleaire installatie                                     | 77860       | never     | False    |
-| 1034/cgh      | Brand in nucleaire installatie                                     | 78260       | never     | False    |
-| 1034/def      | Brand in nucleaire installatie                                     | 73310       | never     | False    |
-| 1034/deg      | Brand in nucleaire installatie                                     | 73710       | never     | False    |
-| 1034/deh      | Brand in nucleaire installatie                                     | 72960       | never     | False    |
-| 1034/dfg      | Brand in nucleaire installatie                                     | 73610       | never     | False    |
-| 1034/dfh      | Brand in nucleaire installatie                                     | 72860       | never     | False    |
-| 1034/dgh      | Brand in nucleaire installatie                                     | 73260       | never     | False    |
-| 1034/efg      | Brand in nucleaire installatie                                     | 73510       | never     | False    |
-| 1034/efh      | Brand in nucleaire installatie                                     | 72760       | never     | False    |
-| 1034/egh      | Brand in nucleaire installatie                                     | 73160       | never     | False    |
-| 1034/fgh      | Brand in nucleaire installatie                                     | 73060       | never     | False    |
-| 1034/abcd     | Brand in nucleaire installatie                                     | 101200      | never     | False    |
-| 1034/abce     | Brand in nucleaire installatie                                     | 101075      | never     | False    |
-| 1034/abcf     | Brand in nucleaire installatie                                     | 100950      | never     | False    |
-| 1034/abcg     | Brand in nucleaire installatie                                     | 101450      | never     | False    |
-| 1034/abch     | Brand in nucleaire installatie                                     | 100512      | never     | False    |
-| 1034/abde     | Brand in nucleaire installatie                                     | 94825       | never     | False    |
-| 1034/abdf     | Brand in nucleaire installatie                                     | 94700       | never     | False    |
-| 1034/abdg     | Brand in nucleaire installatie                                     | 95200       | never     | False    |
-| 1034/abdh     | Brand in nucleaire installatie                                     | 94262       | never     | False    |
-| 1034/abef     | Brand in nucleaire installatie                                     | 94575       | never     | False    |
-| 1034/abeg     | Brand in nucleaire installatie                                     | 95075       | never     | False    |
-| 1034/abeh     | Brand in nucleaire installatie                                     | 94137       | never     | False    |
-| 1034/abfg     | Brand in nucleaire installatie                                     | 94950       | never     | False    |
-| 1034/abfh     | Brand in nucleaire installatie                                     | 94012       | never     | False    |
-| 1034/abgh     | Brand in nucleaire installatie                                     | 94512       | never     | False    |
-| 1034/acde     | Brand in nucleaire installatie                                     | 79310       | never     | False    |
-| 1034/acdf     | Brand in nucleaire installatie                                     | 79210       | never     | False    |
-| 1034/acdg     | Brand in nucleaire installatie                                     | 79610       | never     | False    |
-| 1034/acdh     | Brand in nucleaire installatie                                     | 78860       | never     | False    |
-| 1034/acef     | Brand in nucleaire installatie                                     | 79110       | never     | False    |
-| 1034/aceg     | Brand in nucleaire installatie                                     | 79510       | never     | False    |
-| 1034/aceh     | Brand in nucleaire installatie                                     | 78760       | never     | False    |
-| 1034/acfg     | Brand in nucleaire installatie                                     | 79410       | never     | False    |
-| 1034/acfh     | Brand in nucleaire installatie                                     | 78660       | never     | False    |
-| 1034/acgh     | Brand in nucleaire installatie                                     | 79060       | never     | False    |
-| 1034/adef     | Brand in nucleaire installatie                                     | 74110       | never     | False    |
-| 1034/adeg     | Brand in nucleaire installatie                                     | 74510       | never     | False    |
-| 1034/adeh     | Brand in nucleaire installatie                                     | 73760       | never     | False    |
-| 1034/adfg     | Brand in nucleaire installatie                                     | 74410       | never     | False    |
-| 1034/adfh     | Brand in nucleaire installatie                                     | 73660       | never     | False    |
-| 1034/adgh     | Brand in nucleaire installatie                                     | 74060       | never     | False    |
-| 1034/aefg     | Brand in nucleaire installatie                                     | 74310       | never     | False    |
-| 1034/aefh     | Brand in nucleaire installatie                                     | 73560       | never     | False    |
-| 1034/aegh     | Brand in nucleaire installatie                                     | 73960       | never     | False    |
-| 1034/afgh     | Brand in nucleaire installatie                                     | 73860       | never     | False    |
-| 1034/bcde     | Brand in nucleaire installatie                                     | 101825      | never     | False    |
-| 1034/bcdf     | Brand in nucleaire installatie                                     | 101700      | never     | False    |
-| 1034/bcdg     | Brand in nucleaire installatie                                     | 102200      | never     | False    |
-| 1034/bcdh     | Brand in nucleaire installatie                                     | 101262      | never     | False    |
-| 1034/bcef     | Brand in nucleaire installatie                                     | 101575      | never     | False    |
-| 1034/bceg     | Brand in nucleaire installatie                                     | 102075      | never     | False    |
-| 1034/bceh     | Brand in nucleaire installatie                                     | 101137      | never     | False    |
-| 1034/bcfg     | Brand in nucleaire installatie                                     | 101950      | never     | False    |
-| 1034/bcfh     | Brand in nucleaire installatie                                     | 101012      | never     | False    |
-| 1034/bcgh     | Brand in nucleaire installatie                                     | 101512      | never     | False    |
-| 1034/bdef     | Brand in nucleaire installatie                                     | 95325       | never     | False    |
-| 1034/bdeg     | Brand in nucleaire installatie                                     | 95825       | never     | False    |
-| 1034/bdeh     | Brand in nucleaire installatie                                     | 94887       | never     | False    |
-| 1034/bdfg     | Brand in nucleaire installatie                                     | 95700       | never     | False    |
-| 1034/bdfh     | Brand in nucleaire installatie                                     | 94762       | never     | False    |
-| 1034/bdgh     | Brand in nucleaire installatie                                     | 95262       | never     | False    |
-| 1034/befg     | Brand in nucleaire installatie                                     | 95575       | never     | False    |
-| 1034/befh     | Brand in nucleaire installatie                                     | 94637       | never     | False    |
-| 1034/begh     | Brand in nucleaire installatie                                     | 95137       | never     | False    |
-| 1034/bfgh     | Brand in nucleaire installatie                                     | 95012       | never     | False    |
-| 1034/cdef     | Brand in nucleaire installatie                                     | 79710       | never     | False    |
-| 1034/cdeg     | Brand in nucleaire installatie                                     | 80110       | never     | False    |
-| 1034/cdeh     | Brand in nucleaire installatie                                     | 79360       | never     | False    |
-| 1034/cdfg     | Brand in nucleaire installatie                                     | 80010       | never     | False    |
-| 1034/cdfh     | Brand in nucleaire installatie                                     | 79260       | never     | False    |
-| 1034/cdgh     | Brand in nucleaire installatie                                     | 79660       | never     | False    |
-| 1034/cefg     | Brand in nucleaire installatie                                     | 79910       | never     | False    |
-| 1034/cefh     | Brand in nucleaire installatie                                     | 79160       | never     | False    |
-| 1034/cegh     | Brand in nucleaire installatie                                     | 79560       | never     | False    |
-| 1034/cfgh     | Brand in nucleaire installatie                                     | 79460       | never     | False    |
-| 1034/defg     | Brand in nucleaire installatie                                     | 74910       | never     | False    |
-| 1034/defh     | Brand in nucleaire installatie                                     | 74160       | never     | False    |
-| 1034/degh     | Brand in nucleaire installatie                                     | 74560       | never     | False    |
-| 1034/dfgh     | Brand in nucleaire installatie                                     | 74460       | never     | False    |
-| 1034/efgh     | Brand in nucleaire installatie                                     | 74360       | never     | False    |
-| 1034/abcde    | Brand in nucleaire installatie                                     | 102825      | never     | False    |
-| 1034/abcdf    | Brand in nucleaire installatie                                     | 102700      | never     | False    |
-| 1034/abcdg    | Brand in nucleaire installatie                                     | 103200      | never     | False    |
-| 1034/abcdh    | Brand in nucleaire installatie                                     | 102262      | never     | False    |
-| 1034/abcef    | Brand in nucleaire installatie                                     | 102575      | never     | False    |
-| 1034/abceg    | Brand in nucleaire installatie                                     | 103075      | never     | False    |
-| 1034/abceh    | Brand in nucleaire installatie                                     | 102137      | never     | False    |
-| 1034/abcfg    | Brand in nucleaire installatie                                     | 102950      | never     | False    |
-| 1034/abcfh    | Brand in nucleaire installatie                                     | 102012      | never     | False    |
-| 1034/abcgh    | Brand in nucleaire installatie                                     | 102512      | never     | False    |
-| 1034/abdef    | Brand in nucleaire installatie                                     | 96325       | never     | False    |
-| 1034/abdeg    | Brand in nucleaire installatie                                     | 96825       | never     | False    |
-| 1034/abdeh    | Brand in nucleaire installatie                                     | 95887       | never     | False    |
-| 1034/abdfg    | Brand in nucleaire installatie                                     | 96700       | never     | False    |
-| 1034/abdfh    | Brand in nucleaire installatie                                     | 95762       | never     | False    |
-| 1034/abdgh    | Brand in nucleaire installatie                                     | 96262       | never     | False    |
-| 1034/abefg    | Brand in nucleaire installatie                                     | 96575       | never     | False    |
-| 1034/abefh    | Brand in nucleaire installatie                                     | 95637       | never     | False    |
-| 1034/abegh    | Brand in nucleaire installatie                                     | 96137       | never     | False    |
-| 1034/abfgh    | Brand in nucleaire installatie                                     | 96012       | never     | False    |
-| 1034/acdef    | Brand in nucleaire installatie                                     | 80510       | never     | False    |
-| 1034/acdeg    | Brand in nucleaire installatie                                     | 80910       | never     | False    |
-| 1034/acdeh    | Brand in nucleaire installatie                                     | 80160       | never     | False    |
-| 1034/acdfg    | Brand in nucleaire installatie                                     | 80810       | never     | False    |
-| 1034/acdfh    | Brand in nucleaire installatie                                     | 80060       | never     | False    |
-| 1034/acdgh    | Brand in nucleaire installatie                                     | 80460       | never     | False    |
-| 1034/acefg    | Brand in nucleaire installatie                                     | 80710       | never     | False    |
-| 1034/acefh    | Brand in nucleaire installatie                                     | 79960       | never     | False    |
-| 1034/acegh    | Brand in nucleaire installatie                                     | 80360       | never     | False    |
-| 1034/acfgh    | Brand in nucleaire installatie                                     | 80260       | never     | False    |
-| 1034/adefg    | Brand in nucleaire installatie                                     | 75710       | never     | False    |
-| 1034/adefh    | Brand in nucleaire installatie                                     | 74960       | never     | False    |
-| 1034/adegh    | Brand in nucleaire installatie                                     | 75360       | never     | False    |
-| 1034/adfgh    | Brand in nucleaire installatie                                     | 75260       | never     | False    |
-| 1034/aefgh    | Brand in nucleaire installatie                                     | 75160       | never     | False    |
-| 1034/bcdef    | Brand in nucleaire installatie                                     | 103325      | never     | False    |
-| 1034/bcdeg    | Brand in nucleaire installatie                                     | 103825      | never     | False    |
-| 1034/bcdeh    | Brand in nucleaire installatie                                     | 102887      | never     | False    |
-| 1034/bcdfg    | Brand in nucleaire installatie                                     | 103700      | never     | False    |
-| 1034/bcdfh    | Brand in nucleaire installatie                                     | 102762      | never     | False    |
-| 1034/bcdgh    | Brand in nucleaire installatie                                     | 103262      | never     | False    |
-| 1034/bcefg    | Brand in nucleaire installatie                                     | 103575      | never     | False    |
-| 1034/bcefh    | Brand in nucleaire installatie                                     | 102637      | never     | False    |
-| 1034/bcegh    | Brand in nucleaire installatie                                     | 103137      | never     | False    |
-| 1034/bcfgh    | Brand in nucleaire installatie                                     | 103012      | never     | False    |
-| 1034/bdefg    | Brand in nucleaire installatie                                     | 97325       | never     | False    |
-| 1034/bdefh    | Brand in nucleaire installatie                                     | 96387       | never     | False    |
-| 1034/bdegh    | Brand in nucleaire installatie                                     | 96887       | never     | False    |
-| 1034/bdfgh    | Brand in nucleaire installatie                                     | 96762       | never     | False    |
-| 1034/befgh    | Brand in nucleaire installatie                                     | 96637       | never     | False    |
-| 1034/cdefg    | Brand in nucleaire installatie                                     | 81310       | never     | False    |
-| 1034/cdefh    | Brand in nucleaire installatie                                     | 80560       | never     | False    |
-| 1034/cdegh    | Brand in nucleaire installatie                                     | 80960       | never     | False    |
-| 1034/cdfgh    | Brand in nucleaire installatie                                     | 80860       | never     | False    |
-| 1034/cefgh    | Brand in nucleaire installatie                                     | 80760       | never     | False    |
-| 1034/defgh    | Brand in nucleaire installatie                                     | 75760       | never     | False    |
-| 1034/abcdef   | Brand in nucleaire installatie                                     | 104325      | never     | False    |
-| 1034/abcdeg   | Brand in nucleaire installatie                                     | 104825      | never     | False    |
-| 1034/abcdeh   | Brand in nucleaire installatie                                     | 103887      | never     | False    |
-| 1034/abcdfg   | Brand in nucleaire installatie                                     | 104700      | never     | False    |
-| 1034/abcdfh   | Brand in nucleaire installatie                                     | 103762      | never     | False    |
-| 1034/abcdgh   | Brand in nucleaire installatie                                     | 104262      | never     | False    |
-| 1034/abcefg   | Brand in nucleaire installatie                                     | 104575      | never     | False    |
-| 1034/abcefh   | Brand in nucleaire installatie                                     | 103637      | never     | False    |
-| 1034/abcegh   | Brand in nucleaire installatie                                     | 104137      | never     | False    |
-| 1034/abcfgh   | Brand in nucleaire installatie                                     | 104012      | never     | False    |
-| 1034/abdefg   | Brand in nucleaire installatie                                     | 98325       | never     | False    |
-| 1034/abdefh   | Brand in nucleaire installatie                                     | 97387       | never     | False    |
-| 1034/abdegh   | Brand in nucleaire installatie                                     | 97887       | never     | False    |
-| 1034/abdfgh   | Brand in nucleaire installatie                                     | 97762       | never     | False    |
-| 1034/abefgh   | Brand in nucleaire installatie                                     | 97637       | never     | False    |
-| 1034/acdefg   | Brand in nucleaire installatie                                     | 82110       | never     | False    |
-| 1034/acdefh   | Brand in nucleaire installatie                                     | 81360       | never     | False    |
-| 1034/acdegh   | Brand in nucleaire installatie                                     | 81760       | never     | False    |
-| 1034/acdfgh   | Brand in nucleaire installatie                                     | 81660       | never     | False    |
-| 1034/acefgh   | Brand in nucleaire installatie                                     | 81560       | never     | False    |
-| 1034/adefgh   | Brand in nucleaire installatie                                     | 76560       | never     | False    |
-| 1034/bcdefg   | Brand in nucleaire installatie                                     | 105325      | never     | False    |
-| 1034/bcdefh   | Brand in nucleaire installatie                                     | 104387      | never     | False    |
-| 1034/bcdegh   | Brand in nucleaire installatie                                     | 104887      | never     | False    |
-| 1034/bcdfgh   | Brand in nucleaire installatie                                     | 104762      | never     | False    |
-| 1034/bcefgh   | Brand in nucleaire installatie                                     | 104637      | never     | False    |
-| 1034/bdefgh   | Brand in nucleaire installatie                                     | 98387       | never     | False    |
-| 1034/cdefgh   | Brand in nucleaire installatie                                     | 82160       | never     | False    |
-| 1034/abcdefg  | Brand in nucleaire installatie                                     | 106325      | never     | False    |
-| 1034/abcdefh  | Brand in nucleaire installatie                                     | 105387      | never     | False    |
-| 1034/abcdegh  | Brand in nucleaire installatie                                     | 105887      | never     | False    |
-| 1034/abcdfgh  | Brand in nucleaire installatie                                     | 105762      | never     | False    |
-| 1034/abcefgh  | Brand in nucleaire installatie                                     | 105637      | never     | False    |
-| 1034/abdefgh  | Brand in nucleaire installatie                                     | 99387       | never     | False    |
-| 1034/acdefgh  | Brand in nucleaire installatie                                     | 82960       | never     | False    |
-| 1034/bcdefgh  | Brand in nucleaire installatie                                     | 106387      | never     | False    |
-| 1034/abcdefgh | Brand in nucleaire installatie                                     | 107387      | never     | False    |
-| 1035          | Verward persoon dreigt van boord te springen                       | 1230        | never     | False    |
-| 1035/a        | Verward persoon dreigt van boord te springen                       | 2030        | never     | False    |
-| 1044/a        | Overval tankstation met gijzeling                                  | 8200        | never     | False    |
-| 1046          | Verstekeling aan boord                                             | 3030        | never     | False    |
-| 1048          | Geluidsoverlast door Racefans                                      | 500         | never     | True     |
-| 1049          | Racefans houden straatrace                                         | 2640        | never     | True     |
-| 1050          | Vergiftiging door uitlaatgassen                                    | None        | never     | True     |
-| 1051          | Valse kaartjes race in verkoop                                     | 1010        | never     | True     |
-| 1052-3        | Brand overheidsgebouw                                              | 26540       | never     | False    |
-| 1052-4        | Brand overheidsgebouw                                              | 36110       | never     | False    |
-| 1053          | Zuurstofgebrek aan boord schip                                     | 4480        | never     | False    |
-| 1054-1        | Explosief gevonden in winkelcentrum                                | 20280       | never     | False    |
-| 1056          | Ontruimingsoefening                                                | 13170       | never     | False    |
-| 1058          | Halloween decoratie in brand                                       | 500         | never     | True     |
-| 1059          | Winkeloverval door geesten                                         | 840         | never     | True     |
-| 1060          | Voedselvergiftiging door vergiftigd snoep                          | 1860        | never     | True     |
-| 1061          | Vermist persoon op begraafplaats                                   | 1010        | never     | True     |
-| 1062          | School shooting                                                    | 1970        | never     | False    |
-| 1062-1        | School shooting                                                    | 12570       | never     | False    |
-| 1063          | Ontplofte gasfles                                                  | 1680        | never     | False    |
-| 1070          | Oefening Handcrew                                                  | 33072       | never     | False    |
-| 1072          | Kerstman vast in schoorsteen                                       | 1250        | never     | True     |
-| 1073          | Kerstdecoratie op de weg                                           | 500         | never     | True     |
-| 1074          | Persoon verbrand door warme chocolademelk                          | None        | never     | True     |
-| 1075          | Ongeval met sleeën                                                 | None        | never     | True     |
-| 1076          | Persoon gevallen op glad ijs                                       | None        | never     | True     |
-| 1077          | Vrachtwagen gekanteld door ijzel                                   | 2260        | never     | True     |
-| 1078          | Aanrijding door ijzel                                              | 2780        | never     | True     |
-| 1079          | Verkeersongeval door verliefdheid                                  | 1200        | never     | True     |
-| 1080          | Kersenbloesems in brand                                            | 1000        | never     | True     |
-| 1081          | Bloemenveld in brand                                               | 2500        | never     | True     |
-| 1082          | Bloemen gestolen                                                   | 1200        | never     | True     |
-| 1087          | Zieke toeschouwer op de tribune                                    | None        | never     | True     |
-| 1088          | Zonnesteek bij buitenevenement                                     | 1180        | never     | True     |
-| 1089          | Allergische reactie bij een eetkraam                               | None        | never     | True     |
-| 1090          | Controle bij de openingsceremonie van sport evenement              | 20400       | never     | True     |
-| 1091          | Verdacht pakket gevonden bij de ingang van het sportstadion        | 1180        | never     | True     |
-| 1092          | Atleet vast in lift                                                | 1400        | never     | True     |
-| 1093          | Verkeersongeval met sportersbus                                    | 2900        | never     | True     |
-| 1094          | Wielrenner ongeluk tijdens wedstrijd                               | 1420        | never     | True     |
-| 1095          | Atleet gewond tijdens gymnastiekoefening                           | None        | never     | True     |
-| 1096          | Waterredding vereist bij zeilevenement                             | 1230        | never     | True     |
-| 1097          | Boze toeschouwer bij sportzwembad                                  | 670         | never     | True     |
-| 1098          | Brand op zomerkamp                                                 | 3180        | never     | True     |
-| 1099          | Storing in attractie pretpark                                      | 1420        | never     | True     |
-| 1100          | Gevecht op markt                                                   | 670         | never     | True     |
-| 1101          | Glijbaan ongeluk in Zwembad                                        | 250         | never     | True     |
-| 1102          | Aanrijding drive-in Bioscoop                                       | 670         | never     | True     |
-| 1102/a        | Aanrijding drive-in Bioscoop                                       | 1070        | never     | True     |
-| 1103          | Interfacilitair Transport                                          | None        | never     | False    |
-| 1104          | Aanrijding trein & betonmixer                                      | 14520       | never     | False    |
-| 1104/a        | Aanrijding trein & betonmixer                                      | 14820       | never     | False    |
-| 1104/b        | Aanrijding trein & betonmixer                                      | 15320       | never     | False    |
-| 1105          | Gevecht om de lelijkste kersttrui                                  | 1800        | never     | True     |
-| 1109          | Ongeval met sneeuwploeg                                            | 1200        | never     | True     |
-| 1110          | Redding bij ijsvissen                                              | 900         | never     | True     |
-| 1112          | Bevroren pijp barst                                                | 3000        | never     | True     |
-| 1119          | Gestolen vrachtwagen botst in een casino                           | 5450        | never     | False    |
-| 1130          | Picknick met kaarslicht veroorzaakt bosbrand                       | 2000        | never     | True     |
-| 1131          | Verlovingsring gestolen tijdens aanzoek                            | 500         | never     | True     |
-| 1132          | Persoon bekneld onder gigantische teddybeer                        | 500         | never     | True     |
-| 1137          | Man over boord                                                     | 5780        | never     | False    |
-| 1141          | Brand in chocolade-eierenfabriek                                   | 13755       | never     | True     |
-| 1142          | Onaangekondigde paashaasstaking                                    | 7500        | never     | True     |
-| 1148          | Grenscontrole                                                      | 17370       | never     | False    |
-| 1154          | Brand in graandroger                                               | 9500        | never     | False    |
-| 1155          | Paard schopt dierenarts                                            | None        | never     | False    |
-| 1161          | Verdachte situatie luchthaven                                      | 970         | never     | False    |
-| 1162          | Verdacht pakket luchthaven                                         | 2840        | never     | False    |
-| 1163          | Explosie luchthaven                                                | 19810       | never     | False    |
-| 1164          | Bom uit WOII gevonden                                              | 4920        | never     | False    |
-| 1165          | Verdacht pakket bij voordeur                                       | 3980        | never     | False    |
-| 1166          | Diepzeemijn aangetroffen                                           | 4810        | never     | False    |
-| 1167          | Vermoeden van opslag grote partij illegaal vuurwerk                | 8380        | never     | False    |
-| 1168          | Explosie in woonwijk                                               | 19810       | never     | False    |
-| 1169          | Mogelijk explosief gevonden bij magneetvissen                      | 1645        | never     | False    |
-| 1170          | Fietser op de snelweg                                              | 500         | never     | False    |
-| 1175          | Babbeltruc door spokenjagers                                       | 1200        | never     | True     |
-| 1176          | Heks op bezem botst tegen een woning                               | 1200        | never     | True     |
-| 1177          | Massale paniek bij halloween parade                                | 5200        | never     | True     |
-| 1179          | Brand in snackbar (Zeer Groot)                                     | 4850        | never     | False    |
-| 1180/a        | Brand in snackbar (Grip 1)                                         | 14000       | never     | False    |
-| 1182          | Bootje op drift                                                    | 3250        | never     | False    |
-| 1183          | Peperkoekhuis in brand                                             | 3050        | never     | True     |
-| 1184          | Voetganger aangereden door rendier                                 | 1250        | never     | True     |
-| 1185          | Protesterende elven                                                | 5640        | never     | True     |
-| 1187          | Bezit van verboden vuurwerk                                        | 670         | never     | True     |
-| 1188          | Zwaar vuurwerk aangetroffen                                        | 10740       | never     | True     |
-| 1191          | Nablussen natuur                                                   | 500         | never     | False    |
-| 1191-0        | Nablussen natuur                                                   | 1770        | never     | False    |
-| 1192          | Vergeten jubileum                                                  | 4110        | never     | True     |
-| 1194          | Sneeuwploeg gekanteld op provinciale weg                           | 2610        | never     | True     |
-| 1194/a        | Sneeuwploeg gekanteld op provinciale weg                           | 3110        | never     | True     |
-| 1197          | Vrachtwagen met eierpunch gekanteld                                | 1760        | never     | True     |
-| 1197/a        | Vrachtwagen met eierpunch gekanteld                                | 2060        | never     | True     |
-| 1198          | Paaseieren vermist                                                 | 1670        | never     | True     |
-| 1200          | Rellen tijdens voetbal wedstrijd                                   | 19680       | never     | False    |
-| 1202          | Brand in ziekenhuis (Grip 1)                                       | 12580       | never     | False    |
-| 1202/b        | Brand in ziekenhuis (Grip 1)                                       | 13380       | never     | False    |
-| 1202/ab       | Brand in ziekenhuis (Grip 1)                                       | 19225       | never     | False    |
-| 1202/ac       | Brand in ziekenhuis (Grip 1)                                       | 19225       | never     | False    |
-| 1202/bc       | Brand in ziekenhuis (Grip 1)                                       | 14180       | never     | False    |
-| 1202/abc      | Brand in ziekenhuis (Grip 1)                                       | 20225       | never     | False    |
-| 1203          | Brand in ziekenhuis (Grip 2)                                       | 20050       | never     | False    |
-| 1203/a        | Brand in ziekenhuis (Grip 2)                                       | 27562       | never     | False    |
-| 1203/b        | Brand in ziekenhuis (Grip 2)                                       | 20850       | never     | False    |
-| 1203/c        | Brand in ziekenhuis (Grip 2)                                       | 20850       | never     | False    |
-| 1203/ab       | Brand in ziekenhuis (Grip 2)                                       | 28562       | never     | False    |
-| 1203/ac       | Brand in ziekenhuis (Grip 2)                                       | 28562       | never     | False    |
-| 1203/bc       | Brand in ziekenhuis (Grip 2)                                       | 21650       | never     | False    |
-| 1203/abc      | Brand in ziekenhuis (Grip 2)                                       | 29562       | never     | False    |
-| 1205          | Brand in station (Groot)                                           | 15360       | never     | False    |
-| 1206/a        | Brand in station (Grip 1)                                          | 37000       | never     | False    |
-| 1206/b        | Brand in station (Grip 1)                                          | 28400       | never     | False    |
-| 1206/c        | Brand in station (Grip 1)                                          | 28400       | never     | False    |
-| 1206/ab       | Brand in station (Grip 1)                                          | 38000       | never     | False    |
-| 1206/ac       | Brand in station (Grip 1)                                          | 38000       | never     | False    |
-| 1206/bc       | Brand in station (Grip 1)                                          | 29200       | never     | False    |
-| 1206/abc      | Brand in station (Grip 1)                                          | 39000       | never     | False    |
-| 1207          | Brand in station (Grip 2)                                          | 41960       | never     | False    |
-| 1207/a        | Brand in station (Grip 2)                                          | 54950       | never     | False    |
-| 1207/b        | Brand in station (Grip 2)                                          | 42760       | never     | False    |
-| 1207/c        | Brand in station (Grip 2)                                          | 42760       | never     | False    |
-| 1207/ab       | Brand in station (Grip 2)                                          | 55950       | never     | False    |
-| 1207/ac       | Brand in station (Grip 2)                                          | 55950       | never     | False    |
-| 1207/bc       | Brand in station (Grip 2)                                          | 43560       | never     | False    |
-| 1207/abc      | Brand in station (Grip 2)                                          | 56950       | never     | False    |
+# Active never-seen missions
+
+Count: 912
+
+| ID            | Name                                                | Avg Credits | Last Seen | Inactive |
+| ------------- | --------------------------------------------------- | ----------: | --------- | -------- |
+| 15            | Bosbrand (Klein)                                    | 1090        | never     | False    |
+| 25/a          | Verkeersongeval met beknelling                      | 3240        | never     | False    |
+| 27            | Persoon aangereden                                  | 700         | never     | False    |
+| 36/b          | Brandende goederenwagon (Groot)                     | 6770        | never     | False    |
+| 36/ab         | Brandende goederenwagon (Groot)                     | 8570        | never     | False    |
+| 38            | Brandende afvalbak                                  | 110         | never     | False    |
+| 41            | Brand in kantoorpand                                | 22380       | never     | False    |
+| 42-0          | Brand in tankstation                                | 7360        | never     | False    |
+| 43            | Kettingbotsing                                      | 12030       | never     | False    |
+| 59            | Brand in opslagloods                                | 13710       | never     | False    |
+| 82/a          | Vrachtwagen gekanteld                               | 2970        | never     | False    |
+| 82/ab         | Vrachtwagen gekanteld                               | 3270        | never     | False    |
+| 91            | Psychiatrisch beeld                                 | None        | never     | False    |
+| 100/a         | Ammoniakalarm in opslagloods                        | 8370        | never     | False    |
+| 100/b         | Ammoniakalarm in opslagloods                        | 8320        | never     | False    |
+| 100/c         | Ammoniakalarm in opslagloods                        | 8470        | never     | False    |
+| 100/ab        | Ammoniakalarm in opslagloods                        | 9020        | never     | False    |
+| 100/ac        | Ammoniakalarm in opslagloods                        | 9170        | never     | False    |
+| 100/bc        | Ammoniakalarm in opslagloods                        | 9120        | never     | False    |
+| 100/abc       | Ammoniakalarm in opslagloods                        | 9820        | never     | False    |
+| 106           | Schaap in sloot                                     | 140         | never     | False    |
+| 108           | Ongeval met trein en personenauto                   | 2270        | never     | False    |
+| 108/a         | Ongeval met trein en personenauto                   | 2470        | never     | False    |
+| 116           | Voetbalwedstrijd                                    | 8700        | never     | False    |
+| 116-0         | Voetbalwedstrijd                                    | 10200       | never     | False    |
+| 117           | Voetbalwedstrijd, risicowedstrijd                   | 17910       | never     | False    |
+| 117-0         | Voetbalwedstrijd, risicowedstrijd                   | 20910       | never     | False    |
+| 118           | Hardloopevenement                                   | 3700        | never     | False    |
+| 119           | Begeleiding orkest                                  | 2000        | never     | False    |
+| 120           | Begeleiding wielrenners                             | 5610        | never     | False    |
+| 121           | Test brandalarm school                              | 1000        | never     | False    |
+| 124-0         | Achtervolging personenauto                          | 4610        | never     | False    |
+| 125           | Vermist persoon                                     | 3500        | never     | False    |
+| 137           | Besteld vervoer                                     | None        | never     | False    |
+| 143/b         | Natuurbrand (Grip 1)                                | 22052       | never     | False    |
+| 143/ab        | Natuurbrand (Grip 1)                                | 31252       | never     | False    |
+| 144/b         | Natuurbrand (Grip 2)                                | 25442       | never     | False    |
+| 144/ab        | Natuurbrand (Grip 2)                                | 35490       | never     | False    |
+| 145           | Natuurbrand                                         | 70194       | never     | False    |
+| 181           | Verkeersongeval met beknelling                      | 2090        | never     | False    |
+| 181/a         | Verkeersongeval met beknelling                      | 2890        | never     | False    |
+| 181/b         | Verkeersongeval met beknelling                      | 2490        | never     | False    |
+| 181/ab        | Verkeersongeval met beknelling                      | 3290        | never     | False    |
+| 182           | Personenauto in sloot                               | 2090        | never     | False    |
+| 182/a         | Personenauto in sloot                               | 2290        | never     | False    |
+| 183           | Paard in sloot                                      | 1200        | never     | False    |
+| 184           | Eend verstrikt in visdraad                          | 400         | never     | False    |
+| 185           | Verlaten kinderfiets langs waterkant                | 1200        | never     | False    |
+| 186           | Parkeergarage onder water                           | 2590        | never     | False    |
+| 193           | Koe in sloot                                        | 140         | never     | False    |
+| 194           | Koe in gierput                                      | 190         | never     | False    |
+| 200/a         | Drugslab aangetroffen                               | 1600        | never     | False    |
+| 203           | Verkeersongeval met gevaarlijke stoffen (Klein)     | 2240        | never     | False    |
+| 204/a         | Verkeersongeval met gevaarlijke stoffen (middel)    | 6490        | never     | False    |
+| 205           | Persoon te water                                    | 850         | never     | False    |
+| 206           | Persoon te water                                    | 1100        | never     | False    |
+| 207           | Personenauto te water                               | 3680        | never     | False    |
+| 207/a         | Personenauto te water                               | 3880        | never     | False    |
+| 208           | Personenauto te water                               | 4350        | never     | False    |
+| 208/a         | Personenauto te water                               | 4550        | never     | False    |
+| 209/a         | Aanvaring vrachtschip met vlet (Grip 3)             | 4912        | never     | False    |
+| 210           | Aanvaring vrachtschip met kajuitboot (Grip 3)       | 4180        | never     | False    |
+| 210/a         | Aanvaring vrachtschip met kajuitboot (Grip 3)       | 5975        | never     | False    |
+| 211           | Aanvaring 2 vrachtschepen (Grip 4)                  | 14990       | never     | False    |
+| 211/a         | Aanvaring 2 vrachtschepen (Grip 4)                  | 19487       | never     | False    |
+| 212           | Omgeslagen Zeilboot                                 | 1910        | never     | False    |
+| 213           | Omgeslagen Zeilboot                                 | 3150        | never     | False    |
+| 216/a         | Bosbrand (Grip 1)                                   | 15140       | never     | False    |
+| 216/b         | Bosbrand (Grip 1)                                   | 12312       | never     | False    |
+| 216/ab        | Bosbrand (Grip 1)                                   | 16140       | never     | False    |
+| 219           | Open dag, klein                                     | 2000        | never     | False    |
+| 220           | Open dag, groot                                     | 3000        | never     | False    |
+| 229           | Brand in tankstation                                | 4820        | never     | False    |
+| 234           | Vliegtuig neergestort                               | 15120       | never     | False    |
+| 242           | Verlaten kleding langs waterkant                    | 900         | never     | False    |
+| 243/a         | Verdachte situatie                                  | 1550        | never     | False    |
+| 244           | Persoon van podium gevallen                         | None        | never     | False    |
+| 245           | Ontruimen kraakpand                                 | 7365        | never     | False    |
+| 248/a         | Persoon vermist                                     | 6240        | never     | False    |
+| 251           | Vrachtwagen te water                                | 2660        | never     | False    |
+| 251/a         | Vrachtwagen te water                                | 2960        | never     | False    |
+| 252           | Vrachtwagen te water                                | 3830        | never     | False    |
+| 252/a         | Vrachtwagen te water                                | 4630        | never     | False    |
+| 252/b         | Vrachtwagen te water                                | 4130        | never     | False    |
+| 252/ab        | Vrachtwagen te water                                | 4930        | never     | False    |
+| 254           | Brandende goederenwagon (Klein)                     | 1490        | never     | False    |
+| 255           | Brandende goederenwagon (Middel)                    | 2590        | never     | False    |
+| 255/a         | Brandende goederenwagon (Middel)                    | 2690        | never     | False    |
+| 263           | Brandende personenauto in parkeergarage             | 300         | never     | False    |
+| 264           | Brandende personenauto in parkeergarage             | 650         | never     | False    |
+| 265           | Vliegtuig met hydraulisch probleem                  | 2010        | never     | False    |
+| 266           | Vliegtuig met rook in cabine                        | 2010        | never     | False    |
+| 267           | Vliegtuig met brandgeur in cabine                   | 2010        | never     | False    |
+| 268           | Vliegtuig met probleem met landingsgestel           | 8570        | never     | False    |
+| 269           | Vliegtuig met brandmelding in vrachtruim            | 7720        | never     | False    |
+| 270           | Vliegtuig buiten start-/landingsbaan beland         | 3540        | never     | False    |
+| 271           | Rookontwikkeling in vrachtruim vliegtuig            | 2010        | never     | False    |
+| 272           | Klein vliegtuig met motorisch probleem              | 2140        | never     | False    |
+| 273           | Klein vliegtuig neergestort                         | 2140        | never     | False    |
+| 274           | Klein vliegtuig neergestort                         | 5770        | never     | False    |
+| 274/a         | Klein vliegtuig neergestort                         | 6570        | never     | False    |
+| 275           | Brandend klein vliegtuig                            | 1560        | never     | False    |
+| 276           | Brandend klein vliegtuig                            | 3570        | never     | False    |
+| 277           | Pijn op de borst                                    | None        | never     | False    |
+| 278           | Beroerte                                            | None        | never     | False    |
+| 282           | Brand in garagebedrijf                              | 6340        | never     | False    |
+| 282-0         | Brand in garagebedrijf                              | 7190        | never     | False    |
+| 288           | Brand in magazijn                                   | 1750        | never     | False    |
+| 289           | Brand in magazijn                                   | 2150        | never     | False    |
+| 290           | Brand in magazijn                                   | 3000        | never     | False    |
+| 296           | Brand in museum                                     | 900         | never     | False    |
+| 297           | Brand in museum                                     | 1500        | never     | False    |
+| 299           | Brandend plezierjacht                               | 900         | never     | False    |
+| 300           | Brandend plezierjacht                               | 1450        | never     | False    |
+| 303           | Brand in kantoorgebouw                              | 2200        | never     | False    |
+| 307/a         | Verkeersongeval met touringcar                      | 8030        | never     | False    |
+| 307-0/a       | Verkeersongeval met touringcar                      | 6000        | never     | False    |
+| 307-1/a       | Verkeersongeval met touringcar                      | 14270       | never     | False    |
+| 307-2/a       | Verkeersongeval met touringcar                      | 15070       | never     | False    |
+| 308/a         | Natuurbrand (Grip 3)                                | 48465       | never     | False    |
+| 308/b         | Natuurbrand (Grip 3)                                | 36622       | never     | False    |
+| 308/ab        | Natuurbrand (Grip 3)                                | 49465       | never     | False    |
+| 309/b         | Natuurbrand (Grip 4)                                | 51442       | never     | False    |
+| 309/ab        | Natuurbrand (Grip 4)                                | 67990       | never     | False    |
+| 312/a         | Lekkende goederenwagon (Groot)                      | 6420        | never     | False    |
+| 312/b         | Lekkende goederenwagon (Groot)                      | 6370        | never     | False    |
+| 312/c         | Lekkende goederenwagon (Groot)                      | 6520        | never     | False    |
+| 312/ab        | Lekkende goederenwagon (Groot)                      | 7070        | never     | False    |
+| 312/ac        | Lekkende goederenwagon (Groot)                      | 7220        | never     | False    |
+| 312/bc        | Lekkende goederenwagon (Groot)                      | 7170        | never     | False    |
+| 312/abc       | Lekkende goederenwagon (Groot)                      | 7870        | never     | False    |
+| 314           | Brand in passagierstrein                            | 2100        | never     | False    |
+| 318           | Brand op binnenvaartschip                           | 1450        | never     | False    |
+| 319           | Brand op binnenvaartschip                           | 3100        | never     | False    |
+| 320           | Brand op binnenvaartschip                           | 5150        | never     | False    |
+| 320-0         | Brand op binnenvaartschip                           | 6850        | never     | False    |
+| 326           | Brand in landbouwschuur                             | 5635        | never     | False    |
+| 326-0         | Brand in landbouwschuur                             | 6485        | never     | False    |
+| 332           | Inbraak in bedrijfspand                             | 1500        | never     | False    |
+| 344           | Vreemde lucht in kantoorgebouw                      | 1375        | never     | False    |
+| 346           | Brand in opslagloods met gevaarlijke stoffen        | 65350       | never     | False    |
+| 347           | Brand bij afvalverwerker                            | 17500       | never     | False    |
+| 348           | Zwemmer vermist (Middel)                            | 3500        | never     | False    |
+| 349/a         | Zwemmer vermist (Grip 1)                            | 7437        | never     | False    |
+| 351/a         | Inbraakalarm woning                                 | 2300        | never     | False    |
+| 353           | Brand in terminal                                   | 3300        | never     | False    |
+| 354           | Brand in terminal                                   | 6470        | never     | False    |
+| 354-0         | Brand in terminal                                   | 7320        | never     | False    |
+| 355/b         | Heidebrand (Grip 1)                                 | 27392       | never     | False    |
+| 355/ab        | Heidebrand (Grip 1)                                 | 37927       | never     | False    |
+| 356/b         | Heidebrand (Grip 2)                                 | 32502       | never     | False    |
+| 356/ab        | Heidebrand (Grip 2)                                 | 44315       | never     | False    |
+| 357/a         | Natuurbrand (Grip 5)                                | 86352       | never     | False    |
+| 357/b         | Natuurbrand (Grip 5)                                | 66932       | never     | False    |
+| 363           | Brand op passagiersschip                            | 1450        | never     | False    |
+| 364           | Brand op passagiersschip                            | 3250        | never     | False    |
+| 365           | Brand op passagiersschip                            | 4800        | never     | False    |
+| 376           | Persoon te water                                    | 3000        | never     | False    |
+| 377           | Persoon te water                                    | 5200        | never     | False    |
+| 377/a         | Persoon te water                                    | 6000        | never     | False    |
+| 378           | Vreemde lucht in winkelcentrum                      | 1950        | never     | False    |
+| 383           | Brand in parkeergarage                              | 900         | never     | False    |
+| 394/b         | Brand bij afvalverwerker (Grip 1)                   | 9510        | never     | False    |
+| 394/ab        | Brand bij afvalverwerker (Grip 1)                   | 12637       | never     | False    |
+| 395/b         | Brand bij afvalverwerker (Grip 3)                   | 12510       | never     | False    |
+| 395/ab        | Brand bij afvalverwerker (Grip 3)                   | 16387       | never     | False    |
+| 398           | Vreemde lucht in kantoorgebouw                      | 1750        | never     | False    |
+| 409           | Brand in kerkgebouw                                 | 1500        | never     | False    |
+| 411           | Brand in kerkgebouw                                 | 2650        | never     | False    |
+| 414           | Brand in transformatorhuisje                        | 800         | never     | False    |
+| 415           | Brand in transformatorhuisje                        | 1800        | never     | False    |
+| 416-0         | Brand in transformatorhuisje                        | 5230        | never     | False    |
+| 417           | Verkeersongeval met lijnbus en voetganger           | 1000        | never     | False    |
+| 423           | Overval bankkantoor                                 | 4100        | never     | False    |
+| 424           | Overval bankkantoor                                 | 4500        | never     | False    |
+| 428/b         | Brand in bouwmarkt (Grip 1)                         | 9950        | never     | False    |
+| 428/ab        | Brand in bouwmarkt (Grip 1)                         | 13187       | never     | False    |
+| 428-0         | Brand in bouwmarkt (Grip 1)                         | 11050       | never     | False    |
+| 428-0/a       | Brand in bouwmarkt (Grip 1)                         | 14562       | never     | False    |
+| 428-0/b       | Brand in bouwmarkt (Grip 1)                         | 11850       | never     | False    |
+| 428-0/ab      | Brand in bouwmarkt (Grip 1)                         | 15562       | never     | False    |
+| 429/a         | Brand in bouwmarkt (Grip 2)                         | 18562       | never     | False    |
+| 429/b         | Brand in bouwmarkt (Grip 2)                         | 15050       | never     | False    |
+| 429/ab        | Brand in bouwmarkt (Grip 2)                         | 19562       | never     | False    |
+| 429-0         | Brand in bouwmarkt (Grip 2)                         | 17150       | never     | False    |
+| 429-0/a       | Brand in bouwmarkt (Grip 2)                         | 22187       | never     | False    |
+| 429-0/b       | Brand in bouwmarkt (Grip 2)                         | 17950       | never     | False    |
+| 429-0/ab      | Brand in bouwmarkt (Grip 2)                         | 23187       | never     | False    |
+| 430           | Persoon bekneld tussen containers                   | None        | never     | False    |
+| 435           | Lekkende tankwagen                                  | 6660        | never     | False    |
+| 436           | Persoon te water                                    | 900         | never     | False    |
+| 437           | Persoon te water                                    | 1150        | never     | False    |
+| 438           | Duiker vermist                                      | 850         | never     | False    |
+| 439           | Duiker vermist                                      | 1100        | never     | False    |
+| 441           | Brand in gevangenis                                 | 1950        | never     | False    |
+| 447           | Brand in hotel                                      | 4900        | never     | False    |
+| 451           | Zwaan met gebroken poot                             | 400         | never     | False    |
+| 456           | Brand in manege                                     | 800         | never     | False    |
+| 457           | Brand in manege                                     | 1950        | never     | False    |
+| 458           | Brand in manege                                     | 2980        | never     | False    |
+| 458-0         | Brand in manege                                     | 3830        | never     | False    |
+| 459           | Brandende vliegtuigtrekker                          | 1290        | never     | False    |
+| 460           | Brandende vliegtuigtrekker                          | 1840        | never     | False    |
+| 461           | Vliegtuig met motorisch probleem                    | 8570        | never     | False    |
+| 463/a         | Verdachte vaten aangetroffen                        | 4390        | never     | False    |
+| 474           | Brand in kantoorgebouw                              | 6740        | never     | False    |
+| 480           | Watersporter vermist                                | 850         | never     | False    |
+| 481           | Watersporter vermist                                | 1750        | never     | False    |
+| 482           | Watersporter vermist                                | 3000        | never     | False    |
+| 484           | Vat met gevaarlijke stoffen omgevallen              | 3880        | never     | False    |
+| 485           | Vat met gevaarlijke stoffen omgevallen              | 6660        | never     | False    |
+| 486           | Wateroverlast                                       | 1660        | never     | False    |
+| 492/a         | Ongeregeldheden voetbalsupporters horeca            | 6810        | never     | False    |
+| 492-0         | Ongeregeldheden voetbalsupporters horeca            | 6510        | never     | False    |
+| 492-0/a       | Ongeregeldheden voetbalsupporters horeca            | 7310        | never     | False    |
+| 492-1         | Ongeregeldheden voetbalsupporters horeca            | 6210        | never     | False    |
+| 492-1/a       | Ongeregeldheden voetbalsupporters horeca            | 7010        | never     | False    |
+| 492-2         | Ongeregeldheden voetbalsupporters horeca            | 7310        | never     | False    |
+| 492-2/a       | Ongeregeldheden voetbalsupporters horeca            | 8110        | never     | False    |
+| 493           | Ongeregeldheden voetbalsupporters horeca            | 4470        | never     | False    |
+| 493-1         | Ongeregeldheden voetbalsupporters horeca            | 3720        | never     | False    |
+| 493-2         | Ongeregeldheden voetbalsupporters horeca            | 4720        | never     | False    |
+| 494           | Personenauto in sloot                               | 1400        | never     | False    |
+| 495           | Personenauto in sloot                               | 1400        | never     | False    |
+| 496           | Personenauto te water                               | 900         | never     | False    |
+| 497           | Personenauto te water                               | 4850        | never     | False    |
+| 497/a         | Personenauto te water                               | 5650        | never     | False    |
+| 504           | Brand in fabriekshal                                | 900         | never     | False    |
+| 508           | Brand in fabriekshal                                | 7360        | never     | False    |
+| 509           | Brand in fabriekshal                                | 9930        | never     | False    |
+| 514           | Aanvaring vrachtschip met watertaxi (Grip 3)        | 2940        | never     | False    |
+| 514/a         | Aanvaring vrachtschip met watertaxi (Grip 3)        | 4425        | never     | False    |
+| 515           | Aanvaring vrachtschip met waterbus (Grip 3)         | 4680        | never     | False    |
+| 515/a         | Aanvaring vrachtschip met waterbus (Grip 3)         | 6600        | never     | False    |
+| 516           | Aanvaring met rondvaartboot (Grip 3)                | 5590        | never     | False    |
+| 516/a         | Aanvaring met rondvaartboot (Grip 3)                | 7737        | never     | False    |
+| 517           | Aanvaring met luxe jachtschip (Grip 4)              | 5750        | never     | False    |
+| 517/a         | Aanvaring met luxe jachtschip (Grip 4)              | 7937        | never     | False    |
+| 518           | Aanvaring vrachtschip met veerboot (Grip 4)         | 9200        | never     | False    |
+| 518/a         | Aanvaring vrachtschip met veerboot (Grip 4)         | 12250       | never     | False    |
+| 519           | Aanvaring vrachtschip met passagiersschip (Grip 4)  | 15530       | never     | False    |
+| 519/a         | Aanvaring vrachtschip met passagiersschip (Grip 4)  | 20162       | never     | False    |
+| 551           | Brand in theater                                    | 1600        | never     | False    |
+| 554           | Monteur in aanraking met hoogspanning               | 3800        | never     | False    |
+| 556           | Brand in theater                                    | 3200        | never     | False    |
+| 557           | Brand in theater                                    | 10450       | never     | False    |
+| 558-0         | Brand in theater                                    | 14490       | never     | False    |
+| 564           | Voetganger onder tram                               | 2040        | never     | False    |
+| 565           | Fietser onder tram                                  | 2140        | never     | False    |
+| 568/a         | Verward persoon (Hoge dreiging)                     | 2000        | never     | False    |
+| 574           | Assistentie handhaving                              | 300         | never     | False    |
+| 589           | Voorzorgslanding klein vliegtuig                    | 2310        | never     | False    |
+| 590           | Noodlanding groot vliegtuig                         | 8970        | never     | False    |
+| 591           | Uitslaande brand in veestal                         | 10775       | never     | False    |
+| 592           | Brand op bedrijventerrein                           | 12540       | never     | False    |
+| 593           | Begeleiding demonstratie (klein)                    | 9720        | never     | False    |
+| 594           | Begeleiding demonstratie (groot)                    | 35910       | never     | False    |
+| 598           | Brand in asielzoekerscentrum (wasserette)           | 1360        | never     | False    |
+| 603           | Brand in silo                                       | 1020        | never     | False    |
+| 604-0         | Brand in Silo                                       | 6305        | never     | False    |
+| 605           | Brand in Silo                                       | 11760       | never     | False    |
+| 610           | Brand in nachtclub                                  | 500         | never     | False    |
+| 612           | Brand in nachtclub                                  | 11350       | never     | False    |
+| 614           | Verward persoon op dak                              | 4390        | never     | False    |
+| 614/a         | Verward persoon op dak                              | 5190        | never     | False    |
+| 625/a         | Onbeheerde bagage gevonden                          | 2770        | never     | False    |
+| 629           | Lek/zinken plezierjacht                             | 2320        | never     | False    |
+| 632           | Brandende frietkraam                                | 3040        | never     | False    |
+| 633           | Brandwonden door frituurolie                        | None        | never     | False    |
+| 640           | Brand in hangaar                                    | 910         | never     | False    |
+| 641           | Brand in hangaar                                    | 1930        | never     | False    |
+| 642           | Brand in hangaar                                    | 10580       | never     | False    |
+| 652           | Stellingkast op persoon gevallen                    | None        | never     | False    |
+| 653           | Brand bij zendmast                                  | 500         | never     | False    |
+| 654           | Brand bij zendmast                                  | 2030        | never     | False    |
+| 656           | Koperdiefstal                                       | 2480        | never     | False    |
+| 659           | Brand in hoogspanningsruimte                        | 1250        | never     | False    |
+| 662           | Verkeerscontrole                                    | 2205        | never     | False    |
+| 663           | Verkeerscontrole                                    | 6690        | never     | False    |
+| 663/a         | Verkeerscontrole                                    | 7490        | never     | False    |
+| 667/a         | Ongeval met hete luchtballon                        | 5220        | never     | False    |
+| 669           | Toezicht Park                                       | 2110        | never     | False    |
+| 670           | Toezicht Winkelcentrum                              | 2210        | never     | False    |
+| 670/a         | Toezicht Winkelcentrum                              | 3010        | never     | False    |
+| 671           | Toezicht Horeca                                     | 7245        | never     | False    |
+| 671-0         | Toezicht Horeca                                     | 8745        | never     | False    |
+| 673           | Ruzie tijdens uitgaansnacht                         | 2415        | never     | False    |
+| 678           | Dienstverlening SEH ziekenhuis                      | 910         | never     | False    |
+| 681           | Medische assistentie                                | None        | never     | False    |
+| 682           | Gevangenisbewaarder aangevallen                     | 500         | never     | False    |
+| 687-0         | Brand zonnepanelen                                  | 12750       | never     | False    |
+| 709           | Brand in boerderij                                  | 2650        | never     | False    |
+| 713           | Brand in hooischuur                                 | 4515        | never     | False    |
+| 721/a         | Spontane opstand                                    | 10180       | never     | False    |
+| 724-0         | Explosie in woonhuis                                | 14820       | never     | False    |
+| 762/a         | Lekkage gevaarlijke stoffen (Middel)                | 6590        | never     | False    |
+| 763/a         | Toezicht bij manifestatie                           | 5515        | never     | False    |
+| 764           | Opbreken manifestatie                               | 10365       | never     | False    |
+| 764/a         | Opbreken manifestatie                               | 11165       | never     | False    |
+| 765/a         | Onaangekondigde demonstratie                        | 7755        | never     | False    |
+| 766/a         | Onrust in de wijk                                   | 3685        | never     | False    |
+| 767/a         | Ongeregeldheden in de wijk                          | 5925        | never     | False    |
+| 778           | Brand in houtzagerij                                | 840         | never     | False    |
+| 779           | Brand in houtzagerij                                | 2280        | never     | False    |
+| 780-0         | Brand in houtzagerij                                | 11370       | never     | False    |
+| 787/a         | Persoon bekneld in gierput                          | 5660        | never     | False    |
+| 787/b         | Persoon bekneld in gierput                          | 5610        | never     | False    |
+| 787/c         | Persoon bekneld in gierput                          | 5760        | never     | False    |
+| 787/ab        | Persoon bekneld in gierput                          | 6310        | never     | False    |
+| 787/ac        | Persoon bekneld in gierput                          | 6460        | never     | False    |
+| 787/bc        | Persoon bekneld in gierput                          | 6410        | never     | False    |
+| 787/abc       | Persoon bekneld in gierput                          | 7110        | never     | False    |
+| 794           | Onwelwording (strand)                               | 830         | never     | False    |
+| 795           | Allergische reactie (strand)                        | 830         | never     | False    |
+| 796           | Zoekactie vermist persoon                           | 1840        | never     | False    |
+| 796-0         | Zoekactie vermist persoon                           | 2090        | never     | False    |
+| 796-1         | Zoekactie vermist persoon                           | 5740        | never     | False    |
+| 797           | Zwemmer in problemen                                | 1230        | never     | False    |
+| 798           | Kitesurfer in problemen                             | 2400        | never     | False    |
+| 799           | Persoon op luchtbed in problemen                    | 830         | never     | False    |
+| 800           | Groep zwemmers in problemen                         | 3320        | never     | False    |
+| 800/a         | Groep zwemmers in problemen                         | 4120        | never     | False    |
+| 801           | Groep kitesurfers in problemen                      | 3990        | never     | False    |
+| 801/a         | Groep kitesurfers in problemen                      | 4790        | never     | False    |
+| 802           | Surfer gewond                                       | 1230        | never     | False    |
+| 803           | Persoon vermist rondom mui                          | 2570        | never     | False    |
+| 803/a         | Persoon vermist rondom mui                          | 3370        | never     | False    |
+| 804           | Grote zoekactie vermist persoon                     | 5650        | never     | False    |
+| 804-0         | Grote zoekactie vermist persoon                     | 5900        | never     | False    |
+| 804-1         | Grote zoekactie vermist persoon                     | 9550        | never     | False    |
+| 805           | Kind vermist                                        | 900         | never     | False    |
+| 806           | Zwemmer vermist                                     | 1400        | never     | False    |
+| 807           | Persoon bedolven onder zand                         | 830         | never     | False    |
+| 808           | Persoon van paard gevallen                          | 1330        | never     | False    |
+| 809           | Bootje op drift                                     | 1730        | never     | False    |
+| 810           | Gewonden op strand/ in de duinen                    | 3020        | never     | False    |
+| 813-0         | ANPR hit: Mobiel banditisme                         | 920         | never     | False    |
+| 814-0         | ANPR hit: Vervreemd voertuig                        | 1090        | never     | False    |
+| 817           | Gevallen blokarter                                  | 830         | never     | False    |
+| 818           | Aanrijding blokarters                               | 3020        | never     | False    |
+| 819           | Toezicht/Begeleiding Surfwedstrijd                  | 7860        | never     | False    |
+| 836-0         | Gaslek bedrijventerrein                             | 5470        | never     | False    |
+| 837           | Gaslek bedrijventerrein                             | 8580        | never     | False    |
+| 840-0         | Spookrijder                                         | 1090        | never     | False    |
+| 841/a         | Aanrijding met zwaar letsel                         | 5740        | never     | False    |
+| 841/b         | Aanrijding met zwaar letsel                         | 6140        | never     | False    |
+| 841/ab        | Aanrijding met zwaar letsel                         | 6540        | never     | False    |
+| 841-0         | Aanrijding met zwaar letsel                         | 6740        | never     | False    |
+| 841-0/a       | Aanrijding met zwaar letsel                         | 7140        | never     | False    |
+| 841-0/b       | Aanrijding met zwaar letsel                         | 7540        | never     | False    |
+| 841-0/ab      | Aanrijding met zwaar letsel                         | 7940        | never     | False    |
+| 842           | Voertuigbrand in tunnel                             | 2170        | never     | False    |
+| 842-0         | Voertuigbrand in tunnel                             | 3020        | never     | False    |
+| 843           | Voertuigbrand in tunnel                             | 4760        | never     | False    |
+| 843-0         | Voertuigbrand in tunnel                             | 5660        | never     | False    |
+| 847           | Brand in stacaravan                                 | 3630        | never     | False    |
+| 849           | Gevallen groep mountainbikers                       | 3020        | never     | False    |
+| 851-0         | Achtervolging gevaarlijke verdachte                 | 7380        | never     | False    |
+| 853/a         | Vliegtuig neergestort                               | 7690        | never     | False    |
+| 853-0         | Vliegtuig neergestort                               | 21820       | never     | False    |
+| 853-0/a       | Vliegtuig neergestort                               | 22620       | never     | False    |
+| 853-1         | Vliegtuig neergestort                               | 23660       | never     | False    |
+| 853-1/a       | Vliegtuig neergestort                               | 24460       | never     | False    |
+| 854           | Ongeval waterscooter                                | 1730        | never     | False    |
+| 854-0         | Ongeval waterscooter                                | 4980        | never     | False    |
+| 855           | Observatie                                          | 5790        | never     | False    |
+| 855/a         | Observatie                                          | 6590        | never     | False    |
+| 866           | Duinbrand                                           | 1170        | never     | False    |
+| 867           | Duinbrand (Middel)                                  | 2690        | never     | False    |
+| 868           | Duinbrand (Grip 1)                                  | 20747       | never     | False    |
+| 868/a         | Duinbrand (Grip 1)                                  | 26683       | never     | False    |
+| 868/b         | Duinbrand (Grip 1)                                  | 21547       | never     | False    |
+| 868/ab        | Duinbrand (Grip 1)                                  | 27683       | never     | False    |
+| 869/b         | Aanrijding hulpverleningsvoertuig                   | 2900        | never     | False    |
+| 869/ab        | Aanrijding hulpverleningsvoertuig                   | 3200        | never     | False    |
+| 871           | Brandende tankwagen                                 | 1180        | never     | False    |
+| 871-0         | Brandende tankwagen                                 | 1280        | never     | False    |
+| 871-1         | Brandende tankwagen                                 | 1940        | never     | False    |
+| 878           | Afzetten straat voor brandweer                      | 500         | never     | False    |
+| 878-0         | Afzetten straat voor brandweer                      | 670         | never     | False    |
+| 878-1         | Afzetten straat voor brandweer                      | 840         | never     | False    |
+| 879           | Persoon heeft rook ingeademd                        | None        | never     | False    |
+| 880           | Duinbrand (Grip 2)                                  | 40884       | never     | False    |
+| 880/a         | Duinbrand (Grip 2)                                  | 51855       | never     | False    |
+| 880/b         | Duinbrand (Grip 2)                                  | 41684       | never     | False    |
+| 880/ab        | Duinbrand (Grip 2)                                  | 52855       | never     | False    |
+| 881/a         | Duinbrand (Grip 3)                                  | 56817       | never     | False    |
+| 881/b         | Duinbrand (Grip 3)                                  | 45654       | never     | False    |
+| 881/ab        | Duinbrand (Grip 3)                                  | 57817       | never     | False    |
+| 882/a         | Duinbrand (Grip 4)                                  | 65217       | never     | False    |
+| 882/b         | Duinbrand (Grip 4)                                  | 52374       | never     | False    |
+| 882/ab        | Duinbrand (Grip 4)                                  | 66217       | never     | False    |
+| 883           | Eenzijdige aanrijding                               | 1520        | never     | False    |
+| 885/a         | Brand in vuurwerkopslag                             | 49470       | never     | False    |
+| 885/b         | Brand in vuurwerkopslag                             | 64525       | never     | False    |
+| 885/c         | Brand in vuurwerkopslag                             | 53870       | never     | False    |
+| 885/d         | Brand in vuurwerkopslag                             | 49320       | never     | False    |
+| 885/e         | Brand in vuurwerkopslag                             | 49470       | never     | False    |
+| 885/f         | Brand in vuurwerkopslag                             | 49870       | never     | False    |
+| 885/ab        | Brand in vuurwerkopslag                             | 65525       | never     | False    |
+| 885/ac        | Brand in vuurwerkopslag                             | 54670       | never     | False    |
+| 885/ad        | Brand in vuurwerkopslag                             | 50120       | never     | False    |
+| 885/ae        | Brand in vuurwerkopslag                             | 50270       | never     | False    |
+| 885/af        | Brand in vuurwerkopslag                             | 50670       | never     | False    |
+| 885/bc        | Brand in vuurwerkopslag                             | 71025       | never     | False    |
+| 885/bd        | Brand in vuurwerkopslag                             | 65337       | never     | False    |
+| 885/be        | Brand in vuurwerkopslag                             | 65525       | never     | False    |
+| 885/bf        | Brand in vuurwerkopslag                             | 66025       | never     | False    |
+| 885/cd        | Brand in vuurwerkopslag                             | 54520       | never     | False    |
+| 885/ce        | Brand in vuurwerkopslag                             | 54670       | never     | False    |
+| 885/cf        | Brand in vuurwerkopslag                             | 55070       | never     | False    |
+| 885/de        | Brand in vuurwerkopslag                             | 50120       | never     | False    |
+| 885/df        | Brand in vuurwerkopslag                             | 50520       | never     | False    |
+| 885/ef        | Brand in vuurwerkopslag                             | 50670       | never     | False    |
+| 885/abc       | Brand in vuurwerkopslag                             | 72025       | never     | False    |
+| 885/abd       | Brand in vuurwerkopslag                             | 66337       | never     | False    |
+| 885/abe       | Brand in vuurwerkopslag                             | 66525       | never     | False    |
+| 885/abf       | Brand in vuurwerkopslag                             | 67025       | never     | False    |
+| 885/acd       | Brand in vuurwerkopslag                             | 55320       | never     | False    |
+| 885/ace       | Brand in vuurwerkopslag                             | 55470       | never     | False    |
+| 885/acf       | Brand in vuurwerkopslag                             | 55870       | never     | False    |
+| 885/ade       | Brand in vuurwerkopslag                             | 50920       | never     | False    |
+| 885/adf       | Brand in vuurwerkopslag                             | 51320       | never     | False    |
+| 885/aef       | Brand in vuurwerkopslag                             | 51470       | never     | False    |
+| 885/bcd       | Brand in vuurwerkopslag                             | 71837       | never     | False    |
+| 885/bce       | Brand in vuurwerkopslag                             | 72025       | never     | False    |
+| 885/bcf       | Brand in vuurwerkopslag                             | 72525       | never     | False    |
+| 885/bde       | Brand in vuurwerkopslag                             | 66337       | never     | False    |
+| 885/bdf       | Brand in vuurwerkopslag                             | 66837       | never     | False    |
+| 885/bef       | Brand in vuurwerkopslag                             | 67025       | never     | False    |
+| 885/cde       | Brand in vuurwerkopslag                             | 55320       | never     | False    |
+| 885/cdf       | Brand in vuurwerkopslag                             | 55720       | never     | False    |
+| 885/cef       | Brand in vuurwerkopslag                             | 55870       | never     | False    |
+| 885/def       | Brand in vuurwerkopslag                             | 51320       | never     | False    |
+| 885/abcd      | Brand in vuurwerkopslag                             | 72837       | never     | False    |
+| 885/abce      | Brand in vuurwerkopslag                             | 73025       | never     | False    |
+| 885/abcf      | Brand in vuurwerkopslag                             | 73525       | never     | False    |
+| 885/abde      | Brand in vuurwerkopslag                             | 67337       | never     | False    |
+| 885/abdf      | Brand in vuurwerkopslag                             | 67837       | never     | False    |
+| 885/abef      | Brand in vuurwerkopslag                             | 68025       | never     | False    |
+| 885/acde      | Brand in vuurwerkopslag                             | 56120       | never     | False    |
+| 885/acdf      | Brand in vuurwerkopslag                             | 56520       | never     | False    |
+| 885/acef      | Brand in vuurwerkopslag                             | 56670       | never     | False    |
+| 885/adef      | Brand in vuurwerkopslag                             | 52120       | never     | False    |
+| 885/bcde      | Brand in vuurwerkopslag                             | 72837       | never     | False    |
+| 885/bcdf      | Brand in vuurwerkopslag                             | 73337       | never     | False    |
+| 885/bcef      | Brand in vuurwerkopslag                             | 73525       | never     | False    |
+| 885/bdef      | Brand in vuurwerkopslag                             | 67837       | never     | False    |
+| 885/cdef      | Brand in vuurwerkopslag                             | 56520       | never     | False    |
+| 885/abcde     | Brand in vuurwerkopslag                             | 73837       | never     | False    |
+| 885/abcdf     | Brand in vuurwerkopslag                             | 74337       | never     | False    |
+| 885/abcef     | Brand in vuurwerkopslag                             | 74525       | never     | False    |
+| 885/abdef     | Brand in vuurwerkopslag                             | 68837       | never     | False    |
+| 885/acdef     | Brand in vuurwerkopslag                             | 57320       | never     | False    |
+| 885/bcdef     | Brand in vuurwerkopslag                             | 74337       | never     | False    |
+| 885/abcdef    | Brand in vuurwerkopslag                             | 75337       | never     | False    |
+| 889           | 500 Ambulancestandplaats mijlpaal                   | 30000       | never     | False    |
+| 892           | 1000 Politiebureau mijlpaal                         | 50000       | never     | False    |
+| 896           | Windsurfer vermist                                  | 5140        | never     | False    |
+| 897           | Rellen na stadsderby                                | 15955       | never     | False    |
+| 897/a         | Rellen na stadsderby                                | 16755       | never     | False    |
+| 897-0/a       | Rellen na stadsderby                                | 17355       | never     | False    |
+| 897-1         | Rellen na stadsderby                                | 17555       | never     | False    |
+| 897-1/a       | Rellen na stadsderby                                | 18355       | never     | False    |
+| 897-2         | Rellen na stadsderby                                | 18555       | never     | False    |
+| 897-2/a       | Rellen na stadsderby                                | 19355       | never     | False    |
+| 899/a         | Aanrijding bus en tram                              | 9830        | never     | False    |
+| 901/a         | Trein ontspoord                                     | 5050        | never     | False    |
+| 901-0/a       | Trein ontspoord                                     | 8210        | never     | False    |
+| 901-1         | Trein ontspoord                                     | 13385       | never     | False    |
+| 901-1/a       | Trein ontspoord                                     | 14185       | never     | False    |
+| 901-2/a       | Trein ontspoord                                     | 15035       | never     | False    |
+| 919           | Begeleiding supporters                              | 14858       | never     | False    |
+| 919-0         | Begeleiding supporters                              | 15608       | never     | False    |
+| 929           | Brand in gasverdeelstation                          | 26510       | never     | False    |
+| 929/a         | Brand in gasverdeelstation                          | 27310       | never     | False    |
+| 929/b         | Brand in gasverdeelstation                          | 36825       | never     | False    |
+| 929/c         | Brand in gasverdeelstation                          | 31710       | never     | False    |
+| 929/d         | Brand in gasverdeelstation                          | 27310       | never     | False    |
+| 929/e         | Brand in gasverdeelstation                          | 27160       | never     | False    |
+| 929/ab        | Brand in gasverdeelstation                          | 37825       | never     | False    |
+| 929/ac        | Brand in gasverdeelstation                          | 32510       | never     | False    |
+| 929/ad        | Brand in gasverdeelstation                          | 28110       | never     | False    |
+| 929/ae        | Brand in gasverdeelstation                          | 27960       | never     | False    |
+| 929/bc        | Brand in gasverdeelstation                          | 43325       | never     | False    |
+| 929/bd        | Brand in gasverdeelstation                          | 37825       | never     | False    |
+| 929/be        | Brand in gasverdeelstation                          | 37637       | never     | False    |
+| 929/cd        | Brand in gasverdeelstation                          | 32510       | never     | False    |
+| 929/ce        | Brand in gasverdeelstation                          | 32360       | never     | False    |
+| 929/de        | Brand in gasverdeelstation                          | 27960       | never     | False    |
+| 929/abc       | Brand in gasverdeelstation                          | 44325       | never     | False    |
+| 929/abd       | Brand in gasverdeelstation                          | 38825       | never     | False    |
+| 929/abe       | Brand in gasverdeelstation                          | 38637       | never     | False    |
+| 929/acd       | Brand in gasverdeelstation                          | 33310       | never     | False    |
+| 929/ace       | Brand in gasverdeelstation                          | 33160       | never     | False    |
+| 929/ade       | Brand in gasverdeelstation                          | 28760       | never     | False    |
+| 929/bcd       | Brand in gasverdeelstation                          | 44325       | never     | False    |
+| 929/bce       | Brand in gasverdeelstation                          | 44137       | never     | False    |
+| 929/bde       | Brand in gasverdeelstation                          | 38637       | never     | False    |
+| 929/cde       | Brand in gasverdeelstation                          | 33160       | never     | False    |
+| 929/abcd      | Brand in gasverdeelstation                          | 45325       | never     | False    |
+| 929/abce      | Brand in gasverdeelstation                          | 45137       | never     | False    |
+| 929/abde      | Brand in gasverdeelstation                          | 39637       | never     | False    |
+| 929/acde      | Brand in gasverdeelstation                          | 33960       | never     | False    |
+| 929/bcde      | Brand in gasverdeelstation                          | 45137       | never     | False    |
+| 929/abcde     | Brand in gasverdeelstation                          | 46137       | never     | False    |
+| 932           | Brand op veerpont                                   | 3680        | never     | False    |
+| 932-0         | Brand op veerpont                                   | 10070       | never     | False    |
+| 932-1         | Brand op veerpont                                   | 17125       | never     | False    |
+| 933           | Bouwsteiger ingestort                               | 4480        | never     | False    |
+| 933-0         | Bouwsteiger ingestort                               | 6980        | never     | False    |
+| 934           | Ontsnapping gevaarlijke gedetineerde                | 8820        | never     | False    |
+| 939-1         | Schrootbrand op schip                               | 23560       | never     | False    |
+| 942           | Schoolbus te water                                  | 4650        | never     | False    |
+| 942/a         | Schoolbus te water                                  | 4950        | never     | False    |
+| 942/b         | Schoolbus te water                                  | 5450        | never     | False    |
+| 942/ab        | Schoolbus te water                                  | 5750        | never     | False    |
+| 942-0         | Schoolbus te water                                  | 8520        | never     | False    |
+| 942-0/a       | Schoolbus te water                                  | 8820        | never     | False    |
+| 942-0/b       | Schoolbus te water                                  | 9320        | never     | False    |
+| 942-0/ab      | Schoolbus te water                                  | 9620        | never     | False    |
+| 942-1         | Schoolbus te water                                  | 12020       | never     | False    |
+| 942-1/a       | Schoolbus te water                                  | 12320       | never     | False    |
+| 942-1/b       | Schoolbus te water                                  | 12820       | never     | False    |
+| 942-1/ab      | Schoolbus te water                                  | 13120       | never     | False    |
+| 945-0         | Gevel dreigt in te storten                          | 10205       | never     | False    |
+| 946           | Personen geraakt door weggevlogen parasol           | 3190        | never     | False    |
+| 948           | Brand op windmolenpark                              | 500         | never     | False    |
+| 948-0         | Brand op windmolenpark                              | 2100        | never     | False    |
+| 948-1         | Brand op windmolenpark                              | 11575       | never     | False    |
+| 952-2         | Brand in stadion                                    | 37440       | never     | False    |
+| 952-3         | Brand in stadion                                    | 43140       | never     | False    |
+| 957           | Persoon onwel in attractie                          | 670         | never     | False    |
+| 957-0         | Persoon onwel in attractie                          | 1760        | never     | False    |
+| 958           | Voetbalwedstrijd                                    | 11000       | never     | False    |
+| 959           | Voetbalwedstrijd, risicowedstrijd                   | 22510       | never     | False    |
+| 960           | Begeleiding demonstratie (klein)                    | 11220       | never     | False    |
+| 961           | Toezicht Horeca                                     | 8745        | never     | False    |
+| 961/a         | Toezicht Horeca                                     | 9545        | never     | False    |
+| 962           | Begeleiding supporters                              | 15608       | never     | False    |
+| 973/a         | Uit de handgelopen overwinningsfeest                | 8540        | never     | False    |
+| 974           | Ontspoorde tram botst tegen gebouw                  | 3110        | never     | False    |
+| 974-0         | Ontspoorde tram botst tegen gebouw                  | 8690        | never     | False    |
+| 974-1         | Ontspoorde tram botst tegen gebouw                  | 14330       | never     | False    |
+| 977           | Begeleiding demonstratie (groot)                    | 43135       | never     | False    |
+| 979/a         | Verward persoon bij spoor                           | 1640        | never     | False    |
+| 980           | Uit de hand gelopen manifestatie                    | 45080       | never     | False    |
+| 981           | Oefening brandweer                                  | 3585        | never     | False    |
+| 982           | Oefening brandweer                                  | 9210        | never     | False    |
+| 983           | Zeiljacht in problemen                              | 3080        | never     | False    |
+| 984           | Drugssmokkel op zee                                 | 4980        | never     | False    |
+| 985           | Olietanker in de problemen                          | 19360       | never     | False    |
+| 986           | Surfer vermist                                      | 4080        | never     | False    |
+| 987           | Schipbreukeling vermist                             | 5880        | never     | False    |
+| 988           | Persoon onwel op schip                              | 1230        | never     | False    |
+| 990           | Oefening brandweerduikers                           | 3300        | never     | False    |
+| 992/a         | Gijzeling                                           | 10730       | never     | False    |
+| 993           | Straat afzetten voor politie                        | 840         | never     | False    |
+| 995-0         | Opvang slachtoffers                                 | 1690        | never     | False    |
+| 995-1         | Opvang slachtoffers                                 | 3170        | never     | False    |
+| 1002/a        | Blokkade door boze menigte                          | 15330       | never     | False    |
+| 1009          | Auto tegen pijlwagen gereden                        | 4500        | never     | False    |
+| 1012/a        | Persoon met gevaarlijke stoffen                     | 11460       | never     | False    |
+| 1016/a        | Aanvaring veerpont                                  | 15530       | never     | False    |
+| 1017          | Redding overboord geslagen slachtoffers             | 1230        | never     | False    |
+| 1018          | Assistentie collega                                 | 840         | never     | False    |
+| 1020          | Rendez-Vous Ambulance                               | 670         | never     | False    |
+| 1021          | Alcoholcontrole                                     | 4020        | never     | False    |
+| 1027          | Reanimatie drenkeling                               | 1950        | never     | False    |
+| 1028          | Terroristische aanslag                              | 28860       | never     | False    |
+| 1028/a        | Terroristische aanslag                              | 29660       | never     | False    |
+| 1029          | Oefening Arrestatieteam                             | 15690       | never     | False    |
+| 1030/a        | Brand bij papierrecyclaar                           | 40960       | never     | False    |
+| 1030/b        | Brand bij papierrecyclaar                           | 53887       | never     | False    |
+| 1030/c        | Brand bij papierrecyclaar                           | 48360       | never     | False    |
+| 1030/d        | Brand bij papierrecyclaar                           | 41760       | never     | False    |
+| 1030/ab       | Brand bij papierrecyclaar                           | 54887       | never     | False    |
+| 1030/ac       | Brand bij papierrecyclaar                           | 49160       | never     | False    |
+| 1030/ad       | Brand bij papierrecyclaar                           | 42560       | never     | False    |
+| 1030/bc       | Brand bij papierrecyclaar                           | 64137       | never     | False    |
+| 1030/bd       | Brand bij papierrecyclaar                           | 55887       | never     | False    |
+| 1030/cd       | Brand bij papierrecyclaar                           | 49960       | never     | False    |
+| 1030/abc      | Brand bij papierrecyclaar                           | 65137       | never     | False    |
+| 1030/abd      | Brand bij papierrecyclaar                           | 56887       | never     | False    |
+| 1030/acd      | Brand bij papierrecyclaar                           | 50760       | never     | False    |
+| 1030/bcd      | Brand bij papierrecyclaar                           | 66137       | never     | False    |
+| 1030/abcd     | Brand bij papierrecyclaar                           | 67137       | never     | False    |
+| 1031          | Festival                                            | 31020       | never     | False    |
+| 1034          | Brand in nucleaire installatie                      | 69410       | never     | False    |
+| 1034/a        | Brand in nucleaire installatie                      | 70210       | never     | False    |
+| 1034/b        | Brand in nucleaire installatie                      | 90450       | never     | False    |
+| 1034/c        | Brand in nucleaire installatie                      | 75810       | never     | False    |
+| 1034/d        | Brand in nucleaire installatie                      | 70810       | never     | False    |
+| 1034/e        | Brand in nucleaire installatie                      | 70710       | never     | False    |
+| 1034/f        | Brand in nucleaire installatie                      | 70610       | never     | False    |
+| 1034/g        | Brand in nucleaire installatie                      | 71010       | never     | False    |
+| 1034/h        | Brand in nucleaire installatie                      | 70260       | never     | False    |
+| 1034/ab       | Brand in nucleaire installatie                      | 91450       | never     | False    |
+| 1034/ac       | Brand in nucleaire installatie                      | 76610       | never     | False    |
+| 1034/ad       | Brand in nucleaire installatie                      | 71610       | never     | False    |
+| 1034/ae       | Brand in nucleaire installatie                      | 71510       | never     | False    |
+| 1034/af       | Brand in nucleaire installatie                      | 71410       | never     | False    |
+| 1034/ag       | Brand in nucleaire installatie                      | 71810       | never     | False    |
+| 1034/ah       | Brand in nucleaire installatie                      | 71060       | never     | False    |
+| 1034/bc       | Brand in nucleaire installatie                      | 98450       | never     | False    |
+| 1034/bd       | Brand in nucleaire installatie                      | 92200       | never     | False    |
+| 1034/be       | Brand in nucleaire installatie                      | 92075       | never     | False    |
+| 1034/bf       | Brand in nucleaire installatie                      | 91950       | never     | False    |
+| 1034/bg       | Brand in nucleaire installatie                      | 92450       | never     | False    |
+| 1034/bh       | Brand in nucleaire installatie                      | 91512       | never     | False    |
+| 1034/cd       | Brand in nucleaire installatie                      | 77210       | never     | False    |
+| 1034/ce       | Brand in nucleaire installatie                      | 77110       | never     | False    |
+| 1034/cf       | Brand in nucleaire installatie                      | 77010       | never     | False    |
+| 1034/cg       | Brand in nucleaire installatie                      | 77410       | never     | False    |
+| 1034/ch       | Brand in nucleaire installatie                      | 76660       | never     | False    |
+| 1034/de       | Brand in nucleaire installatie                      | 72110       | never     | False    |
+| 1034/df       | Brand in nucleaire installatie                      | 72010       | never     | False    |
+| 1034/dg       | Brand in nucleaire installatie                      | 72410       | never     | False    |
+| 1034/dh       | Brand in nucleaire installatie                      | 71660       | never     | False    |
+| 1034/ef       | Brand in nucleaire installatie                      | 71910       | never     | False    |
+| 1034/eg       | Brand in nucleaire installatie                      | 72310       | never     | False    |
+| 1034/eh       | Brand in nucleaire installatie                      | 71560       | never     | False    |
+| 1034/fg       | Brand in nucleaire installatie                      | 72210       | never     | False    |
+| 1034/fh       | Brand in nucleaire installatie                      | 71460       | never     | False    |
+| 1034/gh       | Brand in nucleaire installatie                      | 71860       | never     | False    |
+| 1034/abc      | Brand in nucleaire installatie                      | 99450       | never     | False    |
+| 1034/abd      | Brand in nucleaire installatie                      | 93200       | never     | False    |
+| 1034/abe      | Brand in nucleaire installatie                      | 93075       | never     | False    |
+| 1034/abf      | Brand in nucleaire installatie                      | 92950       | never     | False    |
+| 1034/abg      | Brand in nucleaire installatie                      | 93450       | never     | False    |
+| 1034/abh      | Brand in nucleaire installatie                      | 92512       | never     | False    |
+| 1034/acd      | Brand in nucleaire installatie                      | 78010       | never     | False    |
+| 1034/ace      | Brand in nucleaire installatie                      | 77910       | never     | False    |
+| 1034/acf      | Brand in nucleaire installatie                      | 77810       | never     | False    |
+| 1034/acg      | Brand in nucleaire installatie                      | 78210       | never     | False    |
+| 1034/ach      | Brand in nucleaire installatie                      | 77460       | never     | False    |
+| 1034/ade      | Brand in nucleaire installatie                      | 72910       | never     | False    |
+| 1034/adf      | Brand in nucleaire installatie                      | 72810       | never     | False    |
+| 1034/adg      | Brand in nucleaire installatie                      | 73210       | never     | False    |
+| 1034/adh      | Brand in nucleaire installatie                      | 72460       | never     | False    |
+| 1034/aef      | Brand in nucleaire installatie                      | 72710       | never     | False    |
+| 1034/aeg      | Brand in nucleaire installatie                      | 73110       | never     | False    |
+| 1034/aeh      | Brand in nucleaire installatie                      | 72360       | never     | False    |
+| 1034/afg      | Brand in nucleaire installatie                      | 73010       | never     | False    |
+| 1034/afh      | Brand in nucleaire installatie                      | 72260       | never     | False    |
+| 1034/agh      | Brand in nucleaire installatie                      | 72660       | never     | False    |
+| 1034/bcd      | Brand in nucleaire installatie                      | 100200      | never     | False    |
+| 1034/bce      | Brand in nucleaire installatie                      | 100075      | never     | False    |
+| 1034/bcf      | Brand in nucleaire installatie                      | 99950       | never     | False    |
+| 1034/bcg      | Brand in nucleaire installatie                      | 100450      | never     | False    |
+| 1034/bch      | Brand in nucleaire installatie                      | 99512       | never     | False    |
+| 1034/bde      | Brand in nucleaire installatie                      | 93825       | never     | False    |
+| 1034/bdf      | Brand in nucleaire installatie                      | 93700       | never     | False    |
+| 1034/bdg      | Brand in nucleaire installatie                      | 94200       | never     | False    |
+| 1034/bdh      | Brand in nucleaire installatie                      | 93262       | never     | False    |
+| 1034/bef      | Brand in nucleaire installatie                      | 93575       | never     | False    |
+| 1034/beg      | Brand in nucleaire installatie                      | 94075       | never     | False    |
+| 1034/beh      | Brand in nucleaire installatie                      | 93137       | never     | False    |
+| 1034/bfg      | Brand in nucleaire installatie                      | 93950       | never     | False    |
+| 1034/bfh      | Brand in nucleaire installatie                      | 93012       | never     | False    |
+| 1034/bgh      | Brand in nucleaire installatie                      | 93512       | never     | False    |
+| 1034/cde      | Brand in nucleaire installatie                      | 78510       | never     | False    |
+| 1034/cdf      | Brand in nucleaire installatie                      | 78410       | never     | False    |
+| 1034/cdg      | Brand in nucleaire installatie                      | 78810       | never     | False    |
+| 1034/cdh      | Brand in nucleaire installatie                      | 78060       | never     | False    |
+| 1034/cef      | Brand in nucleaire installatie                      | 78310       | never     | False    |
+| 1034/ceg      | Brand in nucleaire installatie                      | 78710       | never     | False    |
+| 1034/ceh      | Brand in nucleaire installatie                      | 77960       | never     | False    |
+| 1034/cfg      | Brand in nucleaire installatie                      | 78610       | never     | False    |
+| 1034/cfh      | Brand in nucleaire installatie                      | 77860       | never     | False    |
+| 1034/cgh      | Brand in nucleaire installatie                      | 78260       | never     | False    |
+| 1034/def      | Brand in nucleaire installatie                      | 73310       | never     | False    |
+| 1034/deg      | Brand in nucleaire installatie                      | 73710       | never     | False    |
+| 1034/deh      | Brand in nucleaire installatie                      | 72960       | never     | False    |
+| 1034/dfg      | Brand in nucleaire installatie                      | 73610       | never     | False    |
+| 1034/dfh      | Brand in nucleaire installatie                      | 72860       | never     | False    |
+| 1034/dgh      | Brand in nucleaire installatie                      | 73260       | never     | False    |
+| 1034/efg      | Brand in nucleaire installatie                      | 73510       | never     | False    |
+| 1034/efh      | Brand in nucleaire installatie                      | 72760       | never     | False    |
+| 1034/egh      | Brand in nucleaire installatie                      | 73160       | never     | False    |
+| 1034/fgh      | Brand in nucleaire installatie                      | 73060       | never     | False    |
+| 1034/abcd     | Brand in nucleaire installatie                      | 101200      | never     | False    |
+| 1034/abce     | Brand in nucleaire installatie                      | 101075      | never     | False    |
+| 1034/abcf     | Brand in nucleaire installatie                      | 100950      | never     | False    |
+| 1034/abcg     | Brand in nucleaire installatie                      | 101450      | never     | False    |
+| 1034/abch     | Brand in nucleaire installatie                      | 100512      | never     | False    |
+| 1034/abde     | Brand in nucleaire installatie                      | 94825       | never     | False    |
+| 1034/abdf     | Brand in nucleaire installatie                      | 94700       | never     | False    |
+| 1034/abdg     | Brand in nucleaire installatie                      | 95200       | never     | False    |
+| 1034/abdh     | Brand in nucleaire installatie                      | 94262       | never     | False    |
+| 1034/abef     | Brand in nucleaire installatie                      | 94575       | never     | False    |
+| 1034/abeg     | Brand in nucleaire installatie                      | 95075       | never     | False    |
+| 1034/abeh     | Brand in nucleaire installatie                      | 94137       | never     | False    |
+| 1034/abfg     | Brand in nucleaire installatie                      | 94950       | never     | False    |
+| 1034/abfh     | Brand in nucleaire installatie                      | 94012       | never     | False    |
+| 1034/abgh     | Brand in nucleaire installatie                      | 94512       | never     | False    |
+| 1034/acde     | Brand in nucleaire installatie                      | 79310       | never     | False    |
+| 1034/acdf     | Brand in nucleaire installatie                      | 79210       | never     | False    |
+| 1034/acdg     | Brand in nucleaire installatie                      | 79610       | never     | False    |
+| 1034/acdh     | Brand in nucleaire installatie                      | 78860       | never     | False    |
+| 1034/acef     | Brand in nucleaire installatie                      | 79110       | never     | False    |
+| 1034/aceg     | Brand in nucleaire installatie                      | 79510       | never     | False    |
+| 1034/aceh     | Brand in nucleaire installatie                      | 78760       | never     | False    |
+| 1034/acfg     | Brand in nucleaire installatie                      | 79410       | never     | False    |
+| 1034/acfh     | Brand in nucleaire installatie                      | 78660       | never     | False    |
+| 1034/acgh     | Brand in nucleaire installatie                      | 79060       | never     | False    |
+| 1034/adef     | Brand in nucleaire installatie                      | 74110       | never     | False    |
+| 1034/adeg     | Brand in nucleaire installatie                      | 74510       | never     | False    |
+| 1034/adeh     | Brand in nucleaire installatie                      | 73760       | never     | False    |
+| 1034/adfg     | Brand in nucleaire installatie                      | 74410       | never     | False    |
+| 1034/adfh     | Brand in nucleaire installatie                      | 73660       | never     | False    |
+| 1034/adgh     | Brand in nucleaire installatie                      | 74060       | never     | False    |
+| 1034/aefg     | Brand in nucleaire installatie                      | 74310       | never     | False    |
+| 1034/aefh     | Brand in nucleaire installatie                      | 73560       | never     | False    |
+| 1034/aegh     | Brand in nucleaire installatie                      | 73960       | never     | False    |
+| 1034/afgh     | Brand in nucleaire installatie                      | 73860       | never     | False    |
+| 1034/bcde     | Brand in nucleaire installatie                      | 101825      | never     | False    |
+| 1034/bcdf     | Brand in nucleaire installatie                      | 101700      | never     | False    |
+| 1034/bcdg     | Brand in nucleaire installatie                      | 102200      | never     | False    |
+| 1034/bcdh     | Brand in nucleaire installatie                      | 101262      | never     | False    |
+| 1034/bcef     | Brand in nucleaire installatie                      | 101575      | never     | False    |
+| 1034/bceg     | Brand in nucleaire installatie                      | 102075      | never     | False    |
+| 1034/bceh     | Brand in nucleaire installatie                      | 101137      | never     | False    |
+| 1034/bcfg     | Brand in nucleaire installatie                      | 101950      | never     | False    |
+| 1034/bcfh     | Brand in nucleaire installatie                      | 101012      | never     | False    |
+| 1034/bcgh     | Brand in nucleaire installatie                      | 101512      | never     | False    |
+| 1034/bdef     | Brand in nucleaire installatie                      | 95325       | never     | False    |
+| 1034/bdeg     | Brand in nucleaire installatie                      | 95825       | never     | False    |
+| 1034/bdeh     | Brand in nucleaire installatie                      | 94887       | never     | False    |
+| 1034/bdfg     | Brand in nucleaire installatie                      | 95700       | never     | False    |
+| 1034/bdfh     | Brand in nucleaire installatie                      | 94762       | never     | False    |
+| 1034/bdgh     | Brand in nucleaire installatie                      | 95262       | never     | False    |
+| 1034/befg     | Brand in nucleaire installatie                      | 95575       | never     | False    |
+| 1034/befh     | Brand in nucleaire installatie                      | 94637       | never     | False    |
+| 1034/begh     | Brand in nucleaire installatie                      | 95137       | never     | False    |
+| 1034/bfgh     | Brand in nucleaire installatie                      | 95012       | never     | False    |
+| 1034/cdef     | Brand in nucleaire installatie                      | 79710       | never     | False    |
+| 1034/cdeg     | Brand in nucleaire installatie                      | 80110       | never     | False    |
+| 1034/cdeh     | Brand in nucleaire installatie                      | 79360       | never     | False    |
+| 1034/cdfg     | Brand in nucleaire installatie                      | 80010       | never     | False    |
+| 1034/cdfh     | Brand in nucleaire installatie                      | 79260       | never     | False    |
+| 1034/cdgh     | Brand in nucleaire installatie                      | 79660       | never     | False    |
+| 1034/cefg     | Brand in nucleaire installatie                      | 79910       | never     | False    |
+| 1034/cefh     | Brand in nucleaire installatie                      | 79160       | never     | False    |
+| 1034/cegh     | Brand in nucleaire installatie                      | 79560       | never     | False    |
+| 1034/cfgh     | Brand in nucleaire installatie                      | 79460       | never     | False    |
+| 1034/defg     | Brand in nucleaire installatie                      | 74910       | never     | False    |
+| 1034/defh     | Brand in nucleaire installatie                      | 74160       | never     | False    |
+| 1034/degh     | Brand in nucleaire installatie                      | 74560       | never     | False    |
+| 1034/dfgh     | Brand in nucleaire installatie                      | 74460       | never     | False    |
+| 1034/efgh     | Brand in nucleaire installatie                      | 74360       | never     | False    |
+| 1034/abcde    | Brand in nucleaire installatie                      | 102825      | never     | False    |
+| 1034/abcdf    | Brand in nucleaire installatie                      | 102700      | never     | False    |
+| 1034/abcdg    | Brand in nucleaire installatie                      | 103200      | never     | False    |
+| 1034/abcdh    | Brand in nucleaire installatie                      | 102262      | never     | False    |
+| 1034/abcef    | Brand in nucleaire installatie                      | 102575      | never     | False    |
+| 1034/abceg    | Brand in nucleaire installatie                      | 103075      | never     | False    |
+| 1034/abceh    | Brand in nucleaire installatie                      | 102137      | never     | False    |
+| 1034/abcfg    | Brand in nucleaire installatie                      | 102950      | never     | False    |
+| 1034/abcfh    | Brand in nucleaire installatie                      | 102012      | never     | False    |
+| 1034/abcgh    | Brand in nucleaire installatie                      | 102512      | never     | False    |
+| 1034/abdef    | Brand in nucleaire installatie                      | 96325       | never     | False    |
+| 1034/abdeg    | Brand in nucleaire installatie                      | 96825       | never     | False    |
+| 1034/abdeh    | Brand in nucleaire installatie                      | 95887       | never     | False    |
+| 1034/abdfg    | Brand in nucleaire installatie                      | 96700       | never     | False    |
+| 1034/abdfh    | Brand in nucleaire installatie                      | 95762       | never     | False    |
+| 1034/abdgh    | Brand in nucleaire installatie                      | 96262       | never     | False    |
+| 1034/abefg    | Brand in nucleaire installatie                      | 96575       | never     | False    |
+| 1034/abefh    | Brand in nucleaire installatie                      | 95637       | never     | False    |
+| 1034/abegh    | Brand in nucleaire installatie                      | 96137       | never     | False    |
+| 1034/abfgh    | Brand in nucleaire installatie                      | 96012       | never     | False    |
+| 1034/acdef    | Brand in nucleaire installatie                      | 80510       | never     | False    |
+| 1034/acdeg    | Brand in nucleaire installatie                      | 80910       | never     | False    |
+| 1034/acdeh    | Brand in nucleaire installatie                      | 80160       | never     | False    |
+| 1034/acdfg    | Brand in nucleaire installatie                      | 80810       | never     | False    |
+| 1034/acdfh    | Brand in nucleaire installatie                      | 80060       | never     | False    |
+| 1034/acdgh    | Brand in nucleaire installatie                      | 80460       | never     | False    |
+| 1034/acefg    | Brand in nucleaire installatie                      | 80710       | never     | False    |
+| 1034/acefh    | Brand in nucleaire installatie                      | 79960       | never     | False    |
+| 1034/acegh    | Brand in nucleaire installatie                      | 80360       | never     | False    |
+| 1034/acfgh    | Brand in nucleaire installatie                      | 80260       | never     | False    |
+| 1034/adefg    | Brand in nucleaire installatie                      | 75710       | never     | False    |
+| 1034/adefh    | Brand in nucleaire installatie                      | 74960       | never     | False    |
+| 1034/adegh    | Brand in nucleaire installatie                      | 75360       | never     | False    |
+| 1034/adfgh    | Brand in nucleaire installatie                      | 75260       | never     | False    |
+| 1034/aefgh    | Brand in nucleaire installatie                      | 75160       | never     | False    |
+| 1034/bcdef    | Brand in nucleaire installatie                      | 103325      | never     | False    |
+| 1034/bcdeg    | Brand in nucleaire installatie                      | 103825      | never     | False    |
+| 1034/bcdeh    | Brand in nucleaire installatie                      | 102887      | never     | False    |
+| 1034/bcdfg    | Brand in nucleaire installatie                      | 103700      | never     | False    |
+| 1034/bcdfh    | Brand in nucleaire installatie                      | 102762      | never     | False    |
+| 1034/bcdgh    | Brand in nucleaire installatie                      | 103262      | never     | False    |
+| 1034/bcefg    | Brand in nucleaire installatie                      | 103575      | never     | False    |
+| 1034/bcefh    | Brand in nucleaire installatie                      | 102637      | never     | False    |
+| 1034/bcegh    | Brand in nucleaire installatie                      | 103137      | never     | False    |
+| 1034/bcfgh    | Brand in nucleaire installatie                      | 103012      | never     | False    |
+| 1034/bdefg    | Brand in nucleaire installatie                      | 97325       | never     | False    |
+| 1034/bdefh    | Brand in nucleaire installatie                      | 96387       | never     | False    |
+| 1034/bdegh    | Brand in nucleaire installatie                      | 96887       | never     | False    |
+| 1034/bdfgh    | Brand in nucleaire installatie                      | 96762       | never     | False    |
+| 1034/befgh    | Brand in nucleaire installatie                      | 96637       | never     | False    |
+| 1034/cdefg    | Brand in nucleaire installatie                      | 81310       | never     | False    |
+| 1034/cdefh    | Brand in nucleaire installatie                      | 80560       | never     | False    |
+| 1034/cdegh    | Brand in nucleaire installatie                      | 80960       | never     | False    |
+| 1034/cdfgh    | Brand in nucleaire installatie                      | 80860       | never     | False    |
+| 1034/cefgh    | Brand in nucleaire installatie                      | 80760       | never     | False    |
+| 1034/defgh    | Brand in nucleaire installatie                      | 75760       | never     | False    |
+| 1034/abcdef   | Brand in nucleaire installatie                      | 104325      | never     | False    |
+| 1034/abcdeg   | Brand in nucleaire installatie                      | 104825      | never     | False    |
+| 1034/abcdeh   | Brand in nucleaire installatie                      | 103887      | never     | False    |
+| 1034/abcdfg   | Brand in nucleaire installatie                      | 104700      | never     | False    |
+| 1034/abcdfh   | Brand in nucleaire installatie                      | 103762      | never     | False    |
+| 1034/abcdgh   | Brand in nucleaire installatie                      | 104262      | never     | False    |
+| 1034/abcefg   | Brand in nucleaire installatie                      | 104575      | never     | False    |
+| 1034/abcefh   | Brand in nucleaire installatie                      | 103637      | never     | False    |
+| 1034/abcegh   | Brand in nucleaire installatie                      | 104137      | never     | False    |
+| 1034/abcfgh   | Brand in nucleaire installatie                      | 104012      | never     | False    |
+| 1034/abdefg   | Brand in nucleaire installatie                      | 98325       | never     | False    |
+| 1034/abdefh   | Brand in nucleaire installatie                      | 97387       | never     | False    |
+| 1034/abdegh   | Brand in nucleaire installatie                      | 97887       | never     | False    |
+| 1034/abdfgh   | Brand in nucleaire installatie                      | 97762       | never     | False    |
+| 1034/abefgh   | Brand in nucleaire installatie                      | 97637       | never     | False    |
+| 1034/acdefg   | Brand in nucleaire installatie                      | 82110       | never     | False    |
+| 1034/acdefh   | Brand in nucleaire installatie                      | 81360       | never     | False    |
+| 1034/acdegh   | Brand in nucleaire installatie                      | 81760       | never     | False    |
+| 1034/acdfgh   | Brand in nucleaire installatie                      | 81660       | never     | False    |
+| 1034/acefgh   | Brand in nucleaire installatie                      | 81560       | never     | False    |
+| 1034/adefgh   | Brand in nucleaire installatie                      | 76560       | never     | False    |
+| 1034/bcdefg   | Brand in nucleaire installatie                      | 105325      | never     | False    |
+| 1034/bcdefh   | Brand in nucleaire installatie                      | 104387      | never     | False    |
+| 1034/bcdegh   | Brand in nucleaire installatie                      | 104887      | never     | False    |
+| 1034/bcdfgh   | Brand in nucleaire installatie                      | 104762      | never     | False    |
+| 1034/bcefgh   | Brand in nucleaire installatie                      | 104637      | never     | False    |
+| 1034/bdefgh   | Brand in nucleaire installatie                      | 98387       | never     | False    |
+| 1034/cdefgh   | Brand in nucleaire installatie                      | 82160       | never     | False    |
+| 1034/abcdefg  | Brand in nucleaire installatie                      | 106325      | never     | False    |
+| 1034/abcdefh  | Brand in nucleaire installatie                      | 105387      | never     | False    |
+| 1034/abcdegh  | Brand in nucleaire installatie                      | 105887      | never     | False    |
+| 1034/abcdfgh  | Brand in nucleaire installatie                      | 105762      | never     | False    |
+| 1034/abcefgh  | Brand in nucleaire installatie                      | 105637      | never     | False    |
+| 1034/abdefgh  | Brand in nucleaire installatie                      | 99387       | never     | False    |
+| 1034/acdefgh  | Brand in nucleaire installatie                      | 82960       | never     | False    |
+| 1034/bcdefgh  | Brand in nucleaire installatie                      | 106387      | never     | False    |
+| 1034/abcdefgh | Brand in nucleaire installatie                      | 107387      | never     | False    |
+| 1035          | Verward persoon dreigt van boord te springen        | 1230        | never     | False    |
+| 1035/a        | Verward persoon dreigt van boord te springen        | 2030        | never     | False    |
+| 1044/a        | Overval tankstation met gijzeling                   | 8200        | never     | False    |
+| 1046          | Verstekeling aan boord                              | 3030        | never     | False    |
+| 1052-3        | Brand overheidsgebouw                               | 26540       | never     | False    |
+| 1052-4        | Brand overheidsgebouw                               | 36110       | never     | False    |
+| 1053          | Zuurstofgebrek aan boord schip                      | 4480        | never     | False    |
+| 1054-1        | Explosief gevonden in winkelcentrum                 | 20280       | never     | False    |
+| 1056          | Ontruimingsoefening                                 | 13170       | never     | False    |
+| 1062          | School shooting                                     | 1970        | never     | False    |
+| 1062-1        | School shooting                                     | 12570       | never     | False    |
+| 1063          | Ontplofte gasfles                                   | 1680        | never     | False    |
+| 1070          | Oefening Handcrew                                   | 33072       | never     | False    |
+| 1103          | Interfacilitair Transport                           | None        | never     | False    |
+| 1104          | Aanrijding trein & betonmixer                       | 14520       | never     | False    |
+| 1104/a        | Aanrijding trein & betonmixer                       | 14820       | never     | False    |
+| 1104/b        | Aanrijding trein & betonmixer                       | 15320       | never     | False    |
+| 1119          | Gestolen vrachtwagen botst in een casino            | 5450        | never     | False    |
+| 1137          | Man over boord                                      | 5780        | never     | False    |
+| 1148          | Grenscontrole                                       | 17370       | never     | False    |
+| 1154          | Brand in graandroger                                | 9500        | never     | False    |
+| 1155          | Paard schopt dierenarts                             | None        | never     | False    |
+| 1161          | Verdachte situatie luchthaven                       | 970         | never     | False    |
+| 1162          | Verdacht pakket luchthaven                          | 2840        | never     | False    |
+| 1163          | Explosie luchthaven                                 | 19810       | never     | False    |
+| 1164          | Bom uit WOII gevonden                               | 4920        | never     | False    |
+| 1165          | Verdacht pakket bij voordeur                        | 3980        | never     | False    |
+| 1166          | Diepzeemijn aangetroffen                            | 4810        | never     | False    |
+| 1167          | Vermoeden van opslag grote partij illegaal vuurwerk | 8380        | never     | False    |
+| 1168          | Explosie in woonwijk                                | 19810       | never     | False    |
+| 1169          | Mogelijk explosief gevonden bij magneetvissen       | 1645        | never     | False    |
+| 1170          | Fietser op de snelweg                               | 500         | never     | False    |
+| 1179          | Brand in snackbar (Zeer Groot)                      | 4850        | never     | False    |
+| 1180/a        | Brand in snackbar (Grip 1)                          | 14000       | never     | False    |
+| 1182          | Bootje op drift                                     | 3250        | never     | False    |
+| 1191          | Nablussen natuur                                    | 500         | never     | False    |
+| 1191-0        | Nablussen natuur                                    | 1770        | never     | False    |
+| 1200          | Rellen tijdens voetbal wedstrijd                    | 19680       | never     | False    |
+| 1202          | Brand in ziekenhuis (Grip 1)                        | 12580       | never     | False    |
+| 1202/b        | Brand in ziekenhuis (Grip 1)                        | 13380       | never     | False    |
+| 1202/ab       | Brand in ziekenhuis (Grip 1)                        | 19225       | never     | False    |
+| 1202/ac       | Brand in ziekenhuis (Grip 1)                        | 19225       | never     | False    |
+| 1202/bc       | Brand in ziekenhuis (Grip 1)                        | 14180       | never     | False    |
+| 1202/abc      | Brand in ziekenhuis (Grip 1)                        | 20225       | never     | False    |
+| 1203          | Brand in ziekenhuis (Grip 2)                        | 20050       | never     | False    |
+| 1203/a        | Brand in ziekenhuis (Grip 2)                        | 27562       | never     | False    |
+| 1203/b        | Brand in ziekenhuis (Grip 2)                        | 20850       | never     | False    |
+| 1203/c        | Brand in ziekenhuis (Grip 2)                        | 20850       | never     | False    |
+| 1203/ab       | Brand in ziekenhuis (Grip 2)                        | 28562       | never     | False    |
+| 1203/ac       | Brand in ziekenhuis (Grip 2)                        | 28562       | never     | False    |
+| 1203/bc       | Brand in ziekenhuis (Grip 2)                        | 21650       | never     | False    |
+| 1203/abc      | Brand in ziekenhuis (Grip 2)                        | 29562       | never     | False    |
+| 1205          | Brand in station (Groot)                            | 15360       | never     | False    |
+| 1206/a        | Brand in station (Grip 1)                           | 37000       | never     | False    |
+| 1206/b        | Brand in station (Grip 1)                           | 28400       | never     | False    |
+| 1206/c        | Brand in station (Grip 1)                           | 28400       | never     | False    |
+| 1206/ab       | Brand in station (Grip 1)                           | 38000       | never     | False    |
+| 1206/ac       | Brand in station (Grip 1)                           | 38000       | never     | False    |
+| 1206/bc       | Brand in station (Grip 1)                           | 29200       | never     | False    |
+| 1206/abc      | Brand in station (Grip 1)                           | 39000       | never     | False    |
+| 1207          | Brand in station (Grip 2)                           | 41960       | never     | False    |
+| 1207/a        | Brand in station (Grip 2)                           | 54950       | never     | False    |
+| 1207/b        | Brand in station (Grip 2)                           | 42760       | never     | False    |
+| 1207/c        | Brand in station (Grip 2)                           | 42760       | never     | False    |
+| 1207/ab       | Brand in station (Grip 2)                           | 55950       | never     | False    |
+| 1207/ac       | Brand in station (Grip 2)                           | 55950       | never     | False    |
+| 1207/bc       | Brand in station (Grip 2)                           | 43560       | never     | False    |
+| 1207/abc      | Brand in station (Grip 2)                           | 56950       | never     | False    |
+
+# Inactive never-seen missions
+
+Count: 253
+
+| ID     | Name                                                               | Avg Credits | Last Seen | Inactive |
+| ------ | ------------------------------------------------------------------ | ----------: | --------- | -------- |
+| 146    | Brandende vogelverschrikker                                        | 500         | never     | True     |
+| 147    | Brandend pompoenveld                                               | 1010        | never     | True     |
+| 148    | Overkookte pompoensoep                                             | 500         | never     | True     |
+| 149    | Heks vast in boom                                                  | 840         | never     | True     |
+| 150    | Monster uitgebroken                                                | 1010        | never     | True     |
+| 151    | Gestolen pompoenen                                                 | 500         | never     | True     |
+| 152    | Frankenstein gespot                                                | 840         | never     | True     |
+| 153    | Snoep diefstal                                                     | 500         | never     | True     |
+| 154    | Horrorclown gespot                                                 | 670         | never     | True     |
+| 160    | Brandende cadeautjes                                               | 500         | never     | True     |
+| 161    | Sinterklaas van dak gegleden                                       | None        | never     | True     |
+| 162    | Pepernoot op hoofd                                                 | None        | never     | True     |
+| 163    | Piet bestolen                                                      | 500         | never     | True     |
+| 164    | Kind geschrokken                                                   | None        | never     | True     |
+| 165    | Piet klem in schoorsteen                                           | 670         | never     | True     |
+| 166    | Toezicht manifestatie pietendiscussie                              | 29430       | never     | True     |
+| 167    | Schoenen dief                                                      | 500         | never     | True     |
+| 168    | Verstikking in pepernoot                                           | 500         | never     | True     |
+| 169    | Brandende kerstboom                                                | 500         | never     | True     |
+| 170    | Brandende kerstboom                                                | 500         | never     | True     |
+| 171    | Verkeersongeval door gladheid                                      | 1010        | never     | True     |
+| 172    | Gevallen kerstman                                                  | None        | never     | True     |
+| 173    | Ruzie op de kerstmarkt                                             | 670         | never     | True     |
+| 174    | Diefstal op de kerstmarkt                                          | 670         | never     | True     |
+| 175    | Brandende kerstmarktkraam                                          | 500         | never     | True     |
+| 176    | Gevallen schaatser                                                 | None        | never     | True     |
+| 177    | Gevallen persoon door gladheid                                     | None        | never     | True     |
+| 178    | Donkere dagen offensief                                            | 670         | never     | True     |
+| 179    | Snijwond door gebroken kerstbal                                    | None        | never     | True     |
+| 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | never     | True     |
+| 371    | Verlaten slee langs waterkant                                      | 1510        | never     | True     |
+| 372    | Brandende kerststal                                                | 500         | never     | True     |
+| 373    | Brandwonden door gourmetstel                                       | None        | never     | True     |
+| 374    | Geluidsoverlast door kerstmuziek                                   | 500         | never     | True     |
+| 375    | Persoon bekneld onder kerstpakketten                               | 1420        | never     | True     |
+| 525    | Auto in brand door vuurwerk                                        | 500         | never     | True     |
+| 526    | Auto in brand door vuurwerk                                        | 500         | never     | True     |
+| 527    | Afval in brand door vuurwerk                                       | 500         | never     | True     |
+| 528    | Afval in brand door vuurwerk                                       | 500         | never     | True     |
+| 529    | Grasbrand door vuurwerk                                            | 670         | never     | True     |
+| 530    | Kelderbrand door vuurwerk                                          | 1180        | never     | True     |
+| 531    | Brandend bushokje door vuurwerk                                    | 670         | never     | True     |
+| 532    | Brand op balkon door vuurwerk                                      | 1010        | never     | True     |
+| 533    | Brandende papiercontainer door vuurwerk                            | 500         | never     | True     |
+| 534    | Brandende heg door vuurwerk                                        | 500         | never     | True     |
+| 535    | Brandende heg door vuurwerk                                        | 500         | never     | True     |
+| 536    | Beschonken bestuurder na Oud en Nieuw feest                        | 500         | never     | True     |
+| 537    | Beschonken bestuurder na Oud en Nieuw feest                        | 500         | never     | True     |
+| 538    | Rieten kap woning in brand door vuurwerk                           | 3100        | never     | True     |
+| 539    | Auto beschadigd door vuurwerk                                      | 500         | never     | True     |
+| 540    | Overtreding op vuurwerkbesluit                                     | 500         | never     | True     |
+| 541    | Handletsel door vuurwerk                                           | None        | never     | True     |
+| 542    | Verkeersongeval door gladheid                                      | 1010        | never     | True     |
+| 543    | Verkeersongeval door gladheid                                      | 1010        | never     | True     |
+| 544    | Gevallen persoon door gladheid                                     | None        | never     | True     |
+| 545    | Gevallen persoon door gladheid                                     | None        | never     | True     |
+| 546    | Donkere dagen offensief                                            | 670         | never     | True     |
+| 547    | Donkere dagen offensief                                            | 670         | never     | True     |
+| 562    | Pijlen Cupido gestolen                                             | 500         | never     | True     |
+| 563    | Persoon gewond door pijl van Cupido                                | None        | never     | True     |
+| 578    | Paasei dief                                                        | 500         | never     | True     |
+| 579    | Kwast gestolen uit werkplaats                                      | 500         | never     | True     |
+| 580    | Ingestort konijnenhol                                              | 2440        | never     | True     |
+| 581    | Aangevallen Paashaas                                               | 500         | never     | True     |
+| 582    | Brandende paasmand                                                 | 500         | never     | True     |
+| 583    | Lekkende chocoladevrachtwagen                                      | 5000        | never     | True     |
+| 584    | Brandende eierkoker                                                | 840         | never     | True     |
+| 585    | Hazenbijeenkomst in Paaseistad                                     | 10530       | never     | True     |
+| 586    | Gekantelde paaseivrachtwagen                                       | 1420        | never     | True     |
+| 587    | Prioriteit: paasei-jacht                                           | 1350        | never     | True     |
+| 588    | Paashaas in een kraan                                              | 1690        | never     | True     |
+| 617    | Zonnesteek                                                         | 250         | never     | True     |
+| 618    | Hitteslag                                                          | 250         | never     | True     |
+| 619    | Hittekramp                                                         | 250         | never     | True     |
+| 620    | Uitgedroogde persoon                                               | 250         | never     | True     |
+| 621    | Barbecuebrand                                                      | 500         | never     | True     |
+| 688    | Illegaal afsteken van vuurwerk                                     | 670         | never     | True     |
+| 689    | Vuurwerkoverlast                                                   | 840         | never     | True     |
+| 690    | Vernieling met vuurwerk                                            | 670         | never     | True     |
+| 691    | Illegaal vuurwerk in huis                                          | 1170        | never     | True     |
+| 692    | Politie aangevallen met illegaal vuurwerk                          | 4580        | never     | True     |
+| 693    | Dier in paniek door vuurwerk                                       | None        | never     | True     |
+| 694    | Verwonding door ontplofte blindganger                              | None        | never     | True     |
+| 695    | Verwonding door onjuist vuurwerkgebruik                            | None        | never     | True     |
+| 696    | Persoon geraakt door vuurwerk                                      | None        | never     | True     |
+| 697    | Epileptische aanval na vuurwerkflitsen                             | None        | never     | True     |
+| 698    | Toezicht nieuwjaarsfeest                                           | 27975       | never     | True     |
+| 699    | Afsteken illegaal vuurwerk                                         | 670         | never     | True     |
+| 700    | Vuurwerk afgestoken op de weg                                      | 500         | never     | True     |
+| 701    | Auto verongelukt door vuurwerk op de weg                           | 1520        | never     | True     |
+| 702    | Gesabotteerde vuurwerkshow                                         | 1010        | never     | True     |
+| 727    | Stel heeft te veel chocola gegeten                                 | None        | never     | True     |
+| 728    | Vlinders in de buik                                                | None        | never     | True     |
+| 729    | Hartaanval door aanzoekschok                                       | None        | never     | True     |
+| 730    | Gebroken hart                                                      | None        | never     | True     |
+| 731    | Valentijnsdecoraties in restaurant in brand gevlogen               | 2710        | never     | True     |
+| 732    | Brand door diner met kaarsen                                       | 500         | never     | True     |
+| 733    | Zoektocht naar verdwenen vriendje                                  | 2170        | never     | True     |
+| 733/a  | Zoektocht naar verdwenen vriendje                                  | 2970        | never     | True     |
+| 734    | Klacht over luidruchtig ruziënd stel                               | 500         | never     | True     |
+| 735    | Gestolen hart                                                      | 670         | never     | True     |
+| 736    | Ongeluk bij bakken verjaardagstaart                                | 500         | never     | True     |
+| 737    | Verjaardagsballon vast in boom                                     | 840         | never     | True     |
+| 738    | Vuur door elektrische verjaardagsversiering (klein)                | 670         | never     | True     |
+| 739    | Vuur door elektrische verjaardagsversiering (groot)                | 1350        | never     | True     |
+| 740    | Verjaardagscadeau gestolen                                         | 500         | never     | True     |
+| 741    | Sabotage van verjaardagsjukeboxes                                  | 670         | never     | True     |
+| 742    | Verjaardagsgast vermist                                            | 1340        | never     | True     |
+| 743    | Verjaardagsgasten hebben versiering gestolen                       | 1010        | never     | True     |
+| 744    | Verjaardagsgasten hebben taart gestolen                            | 2680        | never     | True     |
+| 745    | Gast heeft teveel verjaardagstaart gegeten                         | None        | never     | True     |
+| 746    | Papiersnee bij openen verjaardagscadeau                            | None        | never     | True     |
+| 747    | Verjaardagsgast met gewrichtspijn na dansen                        | None        | never     | True     |
+| 748    | Verjaardagsgast geraakt door rondvliegende kurk                    | None        | never     | True     |
+| 749    | Verjaardagsgast flauwgevallen                                      | None        | never     | True     |
+| 750    | Mensen vermist op de dansvloer                                     | 5430        | never     | True     |
+| 751    | Ballonnen opblazen voor verjaardagsfeest                           | 6330        | never     | True     |
+| 752    | Gasten hebben een vergiftigd drankje gedronken op verjaardagsfeest | 2370        | never     | True     |
+| 788    | Iemand uitgegleden over gesmolten chocolade                        | None        | never     | True     |
+| 789    | Brandend boeket                                                    | 800         | never     | True     |
+| 790    | Slaapkamerbrand door kaars                                         | 1500        | never     | True     |
+| 791    | Brandende taart in oven                                            | 600         | never     | True     |
+| 792    | Keukenbrand                                                        | 1400        | never     | True     |
+| 793    | Chocoladediefstal                                                  | 1200        | never     | True     |
+| 830    | Beveiligen zwemwedstrijd                                           | 4410        | never     | True     |
+| 831    | Verontreinigde ijscokar                                            | 1350        | never     | True     |
+| 832    | Illegaal kampvuur in park                                          | 670         | never     | True     |
+| 856    | Persoon uitgegleden over natte bladeren                            | None        | never     | True     |
+| 857    | Verkeersongeval door gevallen bladeren                             | 2600        | never     | True     |
+| 858    | Persoon gevallen in een hoop bladeren                              | None        | never     | True     |
+| 859    | Op hol geslagen bladblazer                                         | 500         | never     | True     |
+| 860    | Afvoerput verstopt met bladeren                                    | 500         | never     | True     |
+| 861    | Onderkoeling na zwemmen in koud water                              | None        | never     | True     |
+| 862    | Ongeluk op mistige weg                                             | 1580        | never     | True     |
+| 863    | Ongeluk met overstekend hert                                       | 1750        | never     | True     |
+| 864    | Brandende hoop bladeren                                            | 670         | never     | True     |
+| 865    | Bladeren op spoor                                                  | 1080        | never     | True     |
+| 886    | Massa-beroerte tijdens het eten van fondue (klein)                 | 3720        | never     | True     |
+| 886-0  | Massa-beroerte tijdens het eten van fondue (groot)                 | 6480        | never     | True     |
+| 886-1  | Massa-beroerte tijdens het eten van fondue (enorm)                 | 16050       | never     | True     |
+| 902    | Verhoog bewustzijn van het bestaan van 112 onder kinderen          | 500         | never     | True     |
+| 902-0  | Verhoog bewustzijn van het bestaan van 112 onder kinderen          | 2270        | never     | True     |
+| 903    | Verhoog bewustzijn van het bestaan van 112 onder kinderen          | 500         | never     | True     |
+| 903-0  | Verhoog bewustzijn van het bestaan van 112 onder kinderen          | 2905        | never     | True     |
+| 904    | Aankondiging voor nieuwe 112 functionaliteiten                     | 4500        | never     | True     |
+| 904-0  | Aankondiging voor nieuwe 112 functionaliteiten                     | 6120        | never     | True     |
+| 905    | Europese 112 dag viering                                           | 2270        | never     | True     |
+| 905-0  | Europese 112 dag viering                                           | 8060        | never     | True     |
+| 906    | Nationale 112 award ceremonie                                      | 10380       | never     | True     |
+| 907    | Brandend praalwagen                                                | 1940        | never     | True     |
+| 908    | Ongelukken in de carnavalsoptocht                                  | 2360        | never     | True     |
+| 909    | Gestolen masker                                                    | 1170        | never     | True     |
+| 910    | Gemaskerd bal trofee gestolen                                      | 1680        | never     | True     |
+| 911    | Brand op carnaval feest                                            | 670         | never     | True     |
+| 912    | Ongeluk op carnaval feest                                          | None        | never     | True     |
+| 913    | Carnaval beveiliging                                               | 3735        | never     | True     |
+| 914    | Crimineel verstopt zich op carnaval feest                          | 670         | never     | True     |
+| 915    | Carnaval outfit in brand                                           | 500         | never     | True     |
+| 916    | Feestkleding gestolen                                              | 500         | never     | True     |
+| 920    | Allergische reactie bijensteek                                     | None        | never     | True     |
+| 921    | Allergische reactie door pollen                                    | None        | never     | True     |
+| 922    | Val van ladder tijdens voorjaarsschoonmaak                         | 1170        | never     | True     |
+| 923    | Wild dier valt picknickers aan                                     | 1850        | never     | True     |
+| 924    | Voedselvergiftiging van wilde bessen                               | None        | never     | True     |
+| 925    | Picknickmand in brand                                              | 670         | never     | True     |
+| 926    | Persoon steelt kalveren                                            | 670         | never     | True     |
+| 927    | Koeien dief op de vlucht                                           | 2180        | never     | True     |
+| 928    | Dief aangevallen door een koe                                      | 500         | never     | True     |
+| 935    | Gesmolten chocolade haas                                           | 500         | never     | True     |
+| 936    | Bliksem treft konijnenhol                                          | 2600        | never     | True     |
+| 937    | Chocolade haas opgesloten in auto                                  | 250         | never     | True     |
+| 938    | Paaseieren zoeken onder water                                      | 1670        | never     | True     |
+| 963    | Grote alcoholcontrole bij race-evenement                           | 12390       | never     | True     |
+| 964    | Racewagen brand                                                    | 500         | never     | True     |
+| 965    | Crash op Circuit                                                   | 2090        | never     | True     |
+| 966    | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | never     | True     |
+| 967    | Persoon van tribune gevallen                                       | None        | never     | True     |
+| 968    | Uit de handgelopen overwinningsfeest                               | 7740        | never     | True     |
+| 969    | Illegale raceauto op snelweg                                       | 4330        | never     | True     |
+| 970    | Racistisch gezang van fans op de tribune                           | 1010        | never     | True     |
+| 971    | Protest voor racecircuit                                           | 2530        | never     | True     |
+| 971-0  | Protest voor racecircuit                                           | 5230        | never     | True     |
+| 972    | Racewinnaar viel van het podium                                    | None        | never     | True     |
+| 997    | Kerstdecoratie in brand                                            | 670         | never     | True     |
+| 998    | De slee van de kerstman blokkeert de weg                           | 670         | never     | True     |
+| 999    | Kerstboom gestolen                                                 | 840         | never     | True     |
+| 1000   | Kerstcadeau's gestolen in winkelcentrum                            | 670         | never     | True     |
+| 1003   | Houtschuur in brand door kampvuur                                  | 670         | never     | True     |
+| 1004   | Vechtpartij op bevroren meer                                       | 500         | never     | True     |
+| 1005   | Schaatser uitgegleden                                              | None        | never     | True     |
+| 1006   | Sneeuwbalgevecht aan de gang                                       | 500         | never     | True     |
+| 1013   | Ongeluk bij bakken valentijn diner                                 | 670         | never     | True     |
+| 1014   | Brandend Valentijnsboeket                                          | 670         | never     | True     |
+| 1015   | Kaars omgevallen bij diner                                         | 500         | never     | True     |
+| 1048   | Geluidsoverlast door Racefans                                      | 500         | never     | True     |
+| 1049   | Racefans houden straatrace                                         | 2640        | never     | True     |
+| 1050   | Vergiftiging door uitlaatgassen                                    | None        | never     | True     |
+| 1051   | Valse kaartjes race in verkoop                                     | 1010        | never     | True     |
+| 1058   | Halloween decoratie in brand                                       | 500         | never     | True     |
+| 1059   | Winkeloverval door geesten                                         | 840         | never     | True     |
+| 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | never     | True     |
+| 1061   | Vermist persoon op begraafplaats                                   | 1010        | never     | True     |
+| 1072   | Kerstman vast in schoorsteen                                       | 1250        | never     | True     |
+| 1073   | Kerstdecoratie op de weg                                           | 500         | never     | True     |
+| 1074   | Persoon verbrand door warme chocolademelk                          | None        | never     | True     |
+| 1075   | Ongeval met sleeën                                                 | None        | never     | True     |
+| 1076   | Persoon gevallen op glad ijs                                       | None        | never     | True     |
+| 1077   | Vrachtwagen gekanteld door ijzel                                   | 2260        | never     | True     |
+| 1078   | Aanrijding door ijzel                                              | 2780        | never     | True     |
+| 1079   | Verkeersongeval door verliefdheid                                  | 1200        | never     | True     |
+| 1080   | Kersenbloesems in brand                                            | 1000        | never     | True     |
+| 1081   | Bloemenveld in brand                                               | 2500        | never     | True     |
+| 1082   | Bloemen gestolen                                                   | 1200        | never     | True     |
+| 1087   | Zieke toeschouwer op de tribune                                    | None        | never     | True     |
+| 1088   | Zonnesteek bij buitenevenement                                     | 1180        | never     | True     |
+| 1089   | Allergische reactie bij een eetkraam                               | None        | never     | True     |
+| 1090   | Controle bij de openingsceremonie van sport evenement              | 20400       | never     | True     |
+| 1091   | Verdacht pakket gevonden bij de ingang van het sportstadion        | 1180        | never     | True     |
+| 1092   | Atleet vast in lift                                                | 1400        | never     | True     |
+| 1093   | Verkeersongeval met sportersbus                                    | 2900        | never     | True     |
+| 1094   | Wielrenner ongeluk tijdens wedstrijd                               | 1420        | never     | True     |
+| 1095   | Atleet gewond tijdens gymnastiekoefening                           | None        | never     | True     |
+| 1096   | Waterredding vereist bij zeilevenement                             | 1230        | never     | True     |
+| 1097   | Boze toeschouwer bij sportzwembad                                  | 670         | never     | True     |
+| 1098   | Brand op zomerkamp                                                 | 3180        | never     | True     |
+| 1099   | Storing in attractie pretpark                                      | 1420        | never     | True     |
+| 1100   | Gevecht op markt                                                   | 670         | never     | True     |
+| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | never     | True     |
+| 1102   | Aanrijding drive-in Bioscoop                                       | 670         | never     | True     |
+| 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | never     | True     |
+| 1105   | Gevecht om de lelijkste kersttrui                                  | 1800        | never     | True     |
+| 1109   | Ongeval met sneeuwploeg                                            | 1200        | never     | True     |
+| 1110   | Redding bij ijsvissen                                              | 900         | never     | True     |
+| 1112   | Bevroren pijp barst                                                | 3000        | never     | True     |
+| 1130   | Picknick met kaarslicht veroorzaakt bosbrand                       | 2000        | never     | True     |
+| 1131   | Verlovingsring gestolen tijdens aanzoek                            | 500         | never     | True     |
+| 1132   | Persoon bekneld onder gigantische teddybeer                        | 500         | never     | True     |
+| 1141   | Brand in chocolade-eierenfabriek                                   | 13755       | never     | True     |
+| 1142   | Onaangekondigde paashaasstaking                                    | 7500        | never     | True     |
+| 1175   | Babbeltruc door spokenjagers                                       | 1200        | never     | True     |
+| 1176   | Heks op bezem botst tegen een woning                               | 1200        | never     | True     |
+| 1177   | Massale paniek bij halloween parade                                | 5200        | never     | True     |
+| 1183   | Peperkoekhuis in brand                                             | 3050        | never     | True     |
+| 1184   | Voetganger aangereden door rendier                                 | 1250        | never     | True     |
+| 1185   | Protesterende elven                                                | 5640        | never     | True     |
+| 1187   | Bezit van verboden vuurwerk                                        | 670         | never     | True     |
+| 1188   | Zwaar vuurwerk aangetroffen                                        | 10740       | never     | True     |
+| 1192   | Vergeten jubileum                                                  | 4110        | never     | True     |
+| 1194   | Sneeuwploeg gekanteld op provinciale weg                           | 2610        | never     | True     |
+| 1194/a | Sneeuwploeg gekanteld op provinciale weg                           | 3110        | never     | True     |
+| 1197   | Vrachtwagen met eierpunch gekanteld                                | 1760        | never     | True     |
+| 1197/a | Vrachtwagen met eierpunch gekanteld                                | 2060        | never     | True     |
+| 1198   | Paaseieren vermist                                                 | 1670        | never     | True     |
