@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1069
+Count: 1060
 
 # Active never-seen missions
 
-Count: 816
+Count: 807
 
 | ID            | Name                                                | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------- | ----------: | --------- | -------- |
@@ -39,7 +39,6 @@ Count: 816
 | 185           | Verlaten kinderfiets langs waterkant                | 1200        | never     | False    |
 | 186           | Parkeergarage onder water                           | 2590        | never     | False    |
 | 193           | Koe in sloot                                        | 140         | never     | False    |
-| 194           | Koe in gierput                                      | 190         | never     | False    |
 | 200/a         | Drugslab aangetroffen                               | 1600        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein)     | 2240        | never     | False    |
 | 204/a         | Verkeersongeval met gevaarlijke stoffen (middel)    | 6490        | never     | False    |
@@ -55,7 +54,6 @@ Count: 816
 | 211/a         | Aanvaring 2 vrachtschepen (Grip 4)                  | 19487       | never     | False    |
 | 212           | Omgeslagen Zeilboot                                 | 1910        | never     | False    |
 | 213           | Omgeslagen Zeilboot                                 | 3150        | never     | False    |
-| 219           | Open dag, klein                                     | 2000        | never     | False    |
 | 220           | Open dag, groot                                     | 3000        | never     | False    |
 | 234           | Vliegtuig neergestort                               | 15120       | never     | False    |
 | 242           | Verlaten kleding langs waterkant                    | 900         | never     | False    |
@@ -137,7 +135,6 @@ Count: 816
 | 414           | Brand in transformatorhuisje                        | 800         | never     | False    |
 | 415           | Brand in transformatorhuisje                        | 1800        | never     | False    |
 | 416-0         | Brand in transformatorhuisje                        | 5230        | never     | False    |
-| 417           | Verkeersongeval met lijnbus en voetganger           | 1000        | never     | False    |
 | 424           | Overval bankkantoor                                 | 4500        | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                         | 9950        | never     | False    |
 | 428/ab        | Brand in bouwmarkt (Grip 1)                         | 13187       | never     | False    |
@@ -145,7 +142,6 @@ Count: 816
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                         | 14562       | never     | False    |
 | 428-0/b       | Brand in bouwmarkt (Grip 1)                         | 11850       | never     | False    |
 | 428-0/ab      | Brand in bouwmarkt (Grip 1)                         | 15562       | never     | False    |
-| 429/a         | Brand in bouwmarkt (Grip 2)                         | 18562       | never     | False    |
 | 429/b         | Brand in bouwmarkt (Grip 2)                         | 15050       | never     | False    |
 | 429/ab        | Brand in bouwmarkt (Grip 2)                         | 19562       | never     | False    |
 | 429-0         | Brand in bouwmarkt (Grip 2)                         | 17150       | never     | False    |
@@ -234,7 +230,6 @@ Count: 816
 | 663           | Verkeerscontrole                                    | 6690        | never     | False    |
 | 663/a         | Verkeerscontrole                                    | 7490        | never     | False    |
 | 667/a         | Ongeval met hete luchtballon                        | 5220        | never     | False    |
-| 670           | Toezicht Winkelcentrum                              | 2210        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                              | 3010        | never     | False    |
 | 671           | Toezicht Horeca                                     | 7245        | never     | False    |
 | 671-0         | Toezicht Horeca                                     | 8745        | never     | False    |
@@ -317,7 +312,6 @@ Count: 816
 | 855/a         | Observatie                                          | 6590        | never     | False    |
 | 866           | Duinbrand                                           | 1170        | never     | False    |
 | 867           | Duinbrand (Middel)                                  | 2690        | never     | False    |
-| 868           | Duinbrand (Grip 1)                                  | 20747       | never     | False    |
 | 868/a         | Duinbrand (Grip 1)                                  | 26683       | never     | False    |
 | 868/b         | Duinbrand (Grip 1)                                  | 21547       | never     | False    |
 | 868/ab        | Duinbrand (Grip 1)                                  | 27683       | never     | False    |
@@ -473,7 +467,6 @@ Count: 816
 | 960           | Begeleiding demonstratie (klein)                    | 11220       | never     | False    |
 | 961           | Toezicht Horeca                                     | 8745        | never     | False    |
 | 961/a         | Toezicht Horeca                                     | 9545        | never     | False    |
-| 962           | Begeleiding supporters                              | 15608       | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest                | 8540        | never     | False    |
 | 974           | Ontspoorde tram botst tegen gebouw                  | 3110        | never     | False    |
 | 974-1         | Ontspoorde tram botst tegen gebouw                  | 14330       | never     | False    |
@@ -771,10 +764,8 @@ Count: 816
 | 1034/abcdefgh | Brand in nucleaire installatie                      | 107387      | never     | False    |
 | 1035/a        | Verward persoon dreigt van boord te springen        | 2030        | never     | False    |
 | 1044/a        | Overval tankstation met gijzeling                   | 8200        | never     | False    |
-| 1052-3        | Brand overheidsgebouw                               | 26540       | never     | False    |
 | 1052-4        | Brand overheidsgebouw                               | 36110       | never     | False    |
 | 1053          | Zuurstofgebrek aan boord schip                      | 4480        | never     | False    |
-| 1056          | Ontruimingsoefening                                 | 13170       | never     | False    |
 | 1062-1        | School shooting                                     | 12570       | never     | False    |
 | 1063          | Ontplofte gasfles                                   | 1680        | never     | False    |
 | 1104          | Aanrijding trein & betonmixer                       | 14520       | never     | False    |
