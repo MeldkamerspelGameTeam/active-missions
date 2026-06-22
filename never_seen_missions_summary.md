@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1011
+Count: 1006
 
 # Active never-seen missions
 
-Count: 758
+Count: 753
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -31,12 +31,10 @@ Count: 758
 | 181/a         | Verkeersongeval met beknelling                     | 2890        | never     | False    |
 | 181/b         | Verkeersongeval met beknelling                     | 2490        | never     | False    |
 | 181/ab        | Verkeersongeval met beknelling                     | 3290        | never     | False    |
-| 182           | Personenauto in sloot                              | 2090        | never     | False    |
 | 182/a         | Personenauto in sloot                              | 2290        | never     | False    |
 | 183           | Paard in sloot                                     | 1200        | never     | False    |
 | 184           | Eend verstrikt in visdraad                         | 400         | never     | False    |
 | 185           | Verlaten kinderfiets langs waterkant               | 1200        | never     | False    |
-| 186           | Parkeergarage onder water                          | 2590        | never     | False    |
 | 193           | Koe in sloot                                       | 140         | never     | False    |
 | 200/a         | Drugslab aangetroffen                              | 1600        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein)    | 2240        | never     | False    |
@@ -51,7 +49,6 @@ Count: 758
 | 211           | Aanvaring 2 vrachtschepen (Grip 4)                 | 14990       | never     | False    |
 | 212           | Omgeslagen Zeilboot                                | 1910        | never     | False    |
 | 213           | Omgeslagen Zeilboot                                | 3150        | never     | False    |
-| 220           | Open dag, groot                                    | 3000        | never     | False    |
 | 234           | Vliegtuig neergestort                              | 15120       | never     | False    |
 | 242           | Verlaten kleding langs waterkant                   | 900         | never     | False    |
 | 243/a         | Verdachte situatie                                 | 1550        | never     | False    |
@@ -79,7 +76,6 @@ Count: 758
 | 274/a         | Klein vliegtuig neergestort                        | 6570        | never     | False    |
 | 275           | Brandend klein vliegtuig                           | 1560        | never     | False    |
 | 276           | Brandend klein vliegtuig                           | 3570        | never     | False    |
-| 277           | Pijn op de borst                                   | None        | never     | False    |
 | 278           | Beroerte                                           | None        | never     | False    |
 | 282           | Brand in garagebedrijf                             | 6340        | never     | False    |
 | 282-0         | Brand in garagebedrijf                             | 7190        | never     | False    |
@@ -122,7 +118,6 @@ Count: 758
 | 394/ab        | Brand bij afvalverwerker (Grip 1)                  | 12637       | never     | False    |
 | 395/b         | Brand bij afvalverwerker (Grip 3)                  | 12510       | never     | False    |
 | 414           | Brand in transformatorhuisje                       | 800         | never     | False    |
-| 415           | Brand in transformatorhuisje                       | 1800        | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                        | 9950        | never     | False    |
 | 428/ab        | Brand in bouwmarkt (Grip 1)                        | 13187       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                        | 11050       | never     | False    |
@@ -265,7 +260,6 @@ Count: 758
 | 841-0/b       | Aanrijding met zwaar letsel                        | 7540        | never     | False    |
 | 841-0/ab      | Aanrijding met zwaar letsel                        | 7940        | never     | False    |
 | 842           | Voertuigbrand in tunnel                            | 2170        | never     | False    |
-| 842-0         | Voertuigbrand in tunnel                            | 3020        | never     | False    |
 | 843           | Voertuigbrand in tunnel                            | 4760        | never     | False    |
 | 847           | Brand in stacaravan                                | 3630        | never     | False    |
 | 849           | Gevallen groep mountainbikers                      | 3020        | never     | False    |
@@ -425,7 +419,6 @@ Count: 758
 | 957           | Persoon onwel in attractie                         | 670         | never     | False    |
 | 958           | Voetbalwedstrijd                                   | 11000       | never     | False    |
 | 959           | Voetbalwedstrijd, risicowedstrijd                  | 22510       | never     | False    |
-| 960           | Begeleiding demonstratie (klein)                   | 11220       | never     | False    |
 | 961           | Toezicht Horeca                                    | 8745        | never     | False    |
 | 961/a         | Toezicht Horeca                                    | 9545        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest               | 8540        | never     | False    |
@@ -766,6 +759,8 @@ Count: 758
 | 1207/ac       | Brand in station (Grip 2)                          | 55950       | never     | False    |
 | 1207/bc       | Brand in station (Grip 2)                          | 43560       | never     | False    |
 | 1207/abc      | Brand in station (Grip 2)                          | 56950       | never     | False    |
+| 1218          | Wasmachine in brand                                | 1010        | never     | False    |
+| 1219          | Droger in brand                                    | 1010        | never     | False    |
 
 # Inactive never-seen missions
 
