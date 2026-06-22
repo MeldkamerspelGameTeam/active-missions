@@ -44,11 +44,11 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD }}
 
-      - name: Run recent-seen overview (Dutch 23:00 hour only)
+      - name: Run recent-seen overview (Dutch 00:00 hour only)
         run: |
           DUTCH_HOUR=$(TZ=Europe/Amsterdam date +%H)
-          if [ "$DUTCH_HOUR" = "23" ]; then
-            echo "Dutch time is 23:xx, running recent-seen overview script."
+          if [ "$DUTCH_HOUR" = "00" ]; then
+            echo "Dutch time is 00:xx, running recent-seen overview script."
             python generate_recent_seen_overview.py
           else
             echo "Dutch time is ${DUTCH_HOUR}:xx, skipping recent-seen overview script."
@@ -60,8 +60,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           DUTCH_HOUR=$(TZ=Europe/Amsterdam date +%H)
-          if [ "$DUTCH_HOUR" = "23" ]; then
-            echo "Dutch time is 23:xx, including data/*.json and grouped recent-seen overview in commit."
+          if [ "$DUTCH_HOUR" = "00" ]; then
+            echo "Dutch time is 00:xx, including data/*.json and grouped recent-seen overview in commit."
             git add data/*.json
             git add missions_seen_last_30_days_grouped.md
           else

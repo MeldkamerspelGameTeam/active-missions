@@ -112,13 +112,28 @@ def generate_overview(ids_payload: list[dict[str, Any]], days: int) -> str:
     all_missions = [m for d in sorted_dates for m in grouped[d]]
     global_widths = compute_table_widths(all_missions)
 
-    summary_rows = [[date_key, str(len(grouped[date_key]))] for date_key in sorted_dates]
-    date_col_width = max((len(r[0]) for r in summary_rows), default=4)
-    count_col_width = max(max((len(r[1]) for r in summary_rows), default=5), 5)
-    summary_header = f"| {'Date'.ljust(date_col_width)} | {'Count'.rjust(count_col_width)} |"
-    summary_sep = f"| {'-' * date_col_width} | {'-' * (count_col_width - 1) + ':'} |"
+    summary_rows: list[tuple[str, str, str, str]] = []
+    now_date = now_utc.date()
+    for date_key in sorted_dates:
+        seen_dt = datetime.strptime(date_key, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        old_seen_date = (seen_dt + timedelta(days=days)).date()
+        old_seen_on = old_seen_date.strftime("%Y-%m-%d")
+        days_left = (old_seen_date - now_date).days
+        summary_rows.append((date_key, old_seen_on, str(days_left), str(len(grouped[date_key]))))
+
+    date_col_width = max(max((len(r[0]) for r in summary_rows), default=4), len("Date"))
+    old_seen_col_width = max(max((len(r[1]) for r in summary_rows), default=11), len("Old Seen On"))
+    days_left_col_width = max(max((len(r[2]) for r in summary_rows), default=9), len("Days Left"))
+    count_col_width = max(max((len(r[3]) for r in summary_rows), default=5), len("Count"))
+    summary_header = (
+        f"| {'Date'.ljust(date_col_width)} | {'Old Seen On'.ljust(old_seen_col_width)} | {'Days Left'.rjust(days_left_col_width)} | {'Count'.rjust(count_col_width)} |"
+    )
+    summary_sep = (
+        f"| {'-' * date_col_width} | {'-' * old_seen_col_width} | {'-' * (days_left_col_width - 1) + ':'} | {'-' * (count_col_width - 1) + ':'} |"
+    )
     summary_lines = [summary_header, summary_sep] + [
-        f"| {r[0].ljust(date_col_width)} | {r[1].rjust(count_col_width)} |" for r in summary_rows
+        f"| {r[0].ljust(date_col_width)} | {r[1].ljust(old_seen_col_width)} | {r[2].rjust(days_left_col_width)} | {r[3].rjust(count_col_width)} |"
+        for r in summary_rows
     ]
 
     lines = [
