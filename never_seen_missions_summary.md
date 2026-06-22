@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 931
+Count: 925
 
 # Active never-seen missions
 
-Count: 678
+Count: 672
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -80,7 +80,6 @@ Count: 678
 | 312/ac        | Lekkende goederenwagon (Groot)                     | 7220        | never     | False    |
 | 312/bc        | Lekkende goederenwagon (Groot)                     | 7170        | never     | False    |
 | 312/abc       | Lekkende goederenwagon (Groot)                     | 7870        | never     | False    |
-| 314           | Brand in passagierstrein                           | 2100        | never     | False    |
 | 318           | Brand op binnenvaartschip                          | 1450        | never     | False    |
 | 319           | Brand op binnenvaartschip                          | 3100        | never     | False    |
 | 320           | Brand op binnenvaartschip                          | 5150        | never     | False    |
@@ -189,7 +188,6 @@ Count: 678
 | 796-0         | Zoekactie vermist persoon                          | 2090        | never     | False    |
 | 797           | Zwemmer in problemen                               | 1230        | never     | False    |
 | 798           | Kitesurfer in problemen                            | 2400        | never     | False    |
-| 799           | Persoon op luchtbed in problemen                   | 830         | never     | False    |
 | 800/a         | Groep zwemmers in problemen                        | 4120        | never     | False    |
 | 801           | Groep kitesurfers in problemen                     | 3990        | never     | False    |
 | 801/a         | Groep kitesurfers in problemen                     | 4790        | never     | False    |
@@ -197,7 +195,6 @@ Count: 678
 | 803/a         | Persoon vermist rondom mui                         | 3370        | never     | False    |
 | 804-0         | Grote zoekactie vermist persoon                    | 5900        | never     | False    |
 | 804-1         | Grote zoekactie vermist persoon                    | 9550        | never     | False    |
-| 806           | Zwemmer vermist                                    | 1400        | never     | False    |
 | 808           | Persoon van paard gevallen                         | 1330        | never     | False    |
 | 809           | Bootje op drift                                    | 1730        | never     | False    |
 | 819           | Toezicht/Begeleiding Surfwedstrijd                 | 7860        | never     | False    |
@@ -375,7 +372,6 @@ Count: 678
 | 992/a         | Gijzeling                                          | 10730       | never     | False    |
 | 993           | Straat afzetten voor politie                       | 840         | never     | False    |
 | 995-1         | Opvang slachtoffers                                | 3170        | never     | False    |
-| 1002/a        | Blokkade door boze menigte                         | 15330       | never     | False    |
 | 1016/a        | Aanvaring veerpont                                 | 15530       | never     | False    |
 | 1017          | Redding overboord geslagen slachtoffers            | 1230        | never     | False    |
 | 1018          | Assistentie collega                                | 840         | never     | False    |
@@ -653,12 +649,10 @@ Count: 678
 | 1148          | Grenscontrole                                      | 17370       | never     | False    |
 | 1162          | Verdacht pakket luchthaven                         | 2840        | never     | False    |
 | 1163          | Explosie luchthaven                                | 19810       | never     | False    |
-| 1164          | Bom uit WOII gevonden                              | 4920        | never     | False    |
 | 1166          | Diepzeemijn aangetroffen                           | 4810        | never     | False    |
 | 1168          | Explosie in woonwijk                               | 19810       | never     | False    |
 | 1169          | Mogelijk explosief gevonden bij magneetvissen      | 1645        | never     | False    |
 | 1180/a        | Brand in snackbar (Grip 1)                         | 14000       | never     | False    |
-| 1200          | Rellen tijdens voetbal wedstrijd                   | 19680       | never     | False    |
 | 1202          | Brand in ziekenhuis (Grip 1)                       | 12580       | never     | False    |
 | 1202/b        | Brand in ziekenhuis (Grip 1)                       | 13380       | never     | False    |
 | 1202/ab       | Brand in ziekenhuis (Grip 1)                       | 19225       | never     | False    |
