@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1006
+Count: 996
 
 # Active never-seen missions
 
-Count: 753
+Count: 743
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -35,7 +35,6 @@ Count: 753
 | 183           | Paard in sloot                                     | 1200        | never     | False    |
 | 184           | Eend verstrikt in visdraad                         | 400         | never     | False    |
 | 185           | Verlaten kinderfiets langs waterkant               | 1200        | never     | False    |
-| 193           | Koe in sloot                                       | 140         | never     | False    |
 | 200/a         | Drugslab aangetroffen                              | 1600        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein)    | 2240        | never     | False    |
 | 204/a         | Verkeersongeval met gevaarlijke stoffen (middel)   | 6490        | never     | False    |
@@ -198,7 +197,6 @@ Count: 753
 | 652           | Stellingkast op persoon gevallen                   | None        | never     | False    |
 | 653           | Brand bij zendmast                                 | 500         | never     | False    |
 | 654           | Brand bij zendmast                                 | 2030        | never     | False    |
-| 656           | Koperdiefstal                                      | 2480        | never     | False    |
 | 663           | Verkeerscontrole                                   | 6690        | never     | False    |
 | 663/a         | Verkeerscontrole                                   | 7490        | never     | False    |
 | 667/a         | Ongeval met hete luchtballon                       | 5220        | never     | False    |
@@ -209,14 +207,12 @@ Count: 753
 | 709           | Brand in boerderij                                 | 2650        | never     | False    |
 | 713           | Brand in hooischuur                                | 4515        | never     | False    |
 | 721/a         | Spontane opstand                                   | 10180       | never     | False    |
-| 762/a         | Lekkage gevaarlijke stoffen (Middel)               | 6590        | never     | False    |
 | 763/a         | Toezicht bij manifestatie                          | 5515        | never     | False    |
 | 764           | Opbreken manifestatie                              | 10365       | never     | False    |
 | 764/a         | Opbreken manifestatie                              | 11165       | never     | False    |
 | 765/a         | Onaangekondigde demonstratie                       | 7755        | never     | False    |
 | 766/a         | Onrust in de wijk                                  | 3685        | never     | False    |
 | 767/a         | Ongeregeldheden in de wijk                         | 5925        | never     | False    |
-| 778           | Brand in houtzagerij                               | 840         | never     | False    |
 | 787/a         | Persoon bekneld in gierput                         | 5660        | never     | False    |
 | 787/b         | Persoon bekneld in gierput                         | 5610        | never     | False    |
 | 787/c         | Persoon bekneld in gierput                         | 5760        | never     | False    |
@@ -278,8 +274,6 @@ Count: 753
 | 868/ab        | Duinbrand (Grip 1)                                 | 27683       | never     | False    |
 | 869/b         | Aanrijding hulpverleningsvoertuig                  | 2900        | never     | False    |
 | 869/ab        | Aanrijding hulpverleningsvoertuig                  | 3200        | never     | False    |
-| 871           | Brandende tankwagen                                | 1180        | never     | False    |
-| 871-0         | Brandende tankwagen                                | 1280        | never     | False    |
 | 871-1         | Brandende tankwagen                                | 1940        | never     | False    |
 | 878           | Afzetten straat voor brandweer                     | 500         | never     | False    |
 | 878-0         | Afzetten straat voor brandweer                     | 670         | never     | False    |
@@ -360,7 +354,6 @@ Count: 753
 | 897-2         | Rellen na stadsderby                               | 18555       | never     | False    |
 | 897-2/a       | Rellen na stadsderby                               | 19355       | never     | False    |
 | 899/a         | Aanrijding bus en tram                             | 9830        | never     | False    |
-| 901/a         | Trein ontspoord                                    | 5050        | never     | False    |
 | 901-0/a       | Trein ontspoord                                    | 8210        | never     | False    |
 | 901-2/a       | Trein ontspoord                                    | 15035       | never     | False    |
 | 919           | Begeleiding supporters                             | 14858       | never     | False    |
@@ -441,8 +434,6 @@ Count: 753
 | 1017          | Redding overboord geslagen slachtoffers            | 1230        | never     | False    |
 | 1018          | Assistentie collega                                | 840         | never     | False    |
 | 1029          | Oefening Arrestatieteam                            | 15690       | never     | False    |
-| 1030/a        | Brand bij papierrecyclaar                          | 40960       | never     | False    |
-| 1030/b        | Brand bij papierrecyclaar                          | 53887       | never     | False    |
 | 1030/c        | Brand bij papierrecyclaar                          | 48360       | never     | False    |
 | 1030/d        | Brand bij papierrecyclaar                          | 41760       | never     | False    |
 | 1030/ac       | Brand bij papierrecyclaar                          | 49160       | never     | False    |
@@ -759,7 +750,6 @@ Count: 753
 | 1207/ac       | Brand in station (Grip 2)                          | 55950       | never     | False    |
 | 1207/bc       | Brand in station (Grip 2)                          | 43560       | never     | False    |
 | 1207/abc      | Brand in station (Grip 2)                          | 56950       | never     | False    |
-| 1218          | Wasmachine in brand                                | 1010        | never     | False    |
 | 1219          | Droger in brand                                    | 1010        | never     | False    |
 
 # Inactive never-seen missions
