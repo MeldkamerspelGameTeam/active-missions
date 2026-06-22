@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 951
+Count: 941
 
 # Active never-seen missions
 
-Count: 698
+Count: 688
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -18,7 +18,6 @@ Count: 698
 | 43            | Kettingbotsing                                     | 12030       | never     | False    |
 | 59            | Brand in opslagloods                               | 13710       | never     | False    |
 | 82/a          | Vrachtwagen gekanteld                              | 2970        | never     | False    |
-| 82/ab         | Vrachtwagen gekanteld                              | 3270        | never     | False    |
 | 116           | Voetbalwedstrijd                                   | 8700        | never     | False    |
 | 116-0         | Voetbalwedstrijd                                   | 10200       | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd                  | 17910       | never     | False    |
@@ -70,7 +69,6 @@ Count: 698
 | 275           | Brandend klein vliegtuig                           | 1560        | never     | False    |
 | 276           | Brandend klein vliegtuig                           | 3570        | never     | False    |
 | 278           | Beroerte                                           | None        | never     | False    |
-| 282           | Brand in garagebedrijf                             | 6340        | never     | False    |
 | 282-0         | Brand in garagebedrijf                             | 7190        | never     | False    |
 | 299           | Brandend plezierjacht                              | 900         | never     | False    |
 | 300           | Brandend plezierjacht                              | 1450        | never     | False    |
@@ -105,7 +103,6 @@ Count: 698
 | 376           | Persoon te water                                   | 3000        | never     | False    |
 | 377/a         | Persoon te water                                   | 6000        | never     | False    |
 | 394/b         | Brand bij afvalverwerker (Grip 1)                  | 9510        | never     | False    |
-| 394/ab        | Brand bij afvalverwerker (Grip 1)                  | 12637       | never     | False    |
 | 395/b         | Brand bij afvalverwerker (Grip 3)                  | 12510       | never     | False    |
 | 414           | Brand in transformatorhuisje                       | 800         | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                        | 9950        | never     | False    |
@@ -181,14 +178,12 @@ Count: 698
 | 667/a         | Ongeval met hete luchtballon                       | 5220        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                             | 3010        | never     | False    |
 | 671-0         | Toezicht Horeca                                    | 8745        | never     | False    |
-| 709           | Brand in boerderij                                 | 2650        | never     | False    |
 | 721/a         | Spontane opstand                                   | 10180       | never     | False    |
 | 763/a         | Toezicht bij manifestatie                          | 5515        | never     | False    |
 | 764           | Opbreken manifestatie                              | 10365       | never     | False    |
 | 764/a         | Opbreken manifestatie                              | 11165       | never     | False    |
 | 765/a         | Onaangekondigde demonstratie                       | 7755        | never     | False    |
 | 766/a         | Onrust in de wijk                                  | 3685        | never     | False    |
-| 767/a         | Ongeregeldheden in de wijk                         | 5925        | never     | False    |
 | 787/a         | Persoon bekneld in gierput                         | 5660        | never     | False    |
 | 787/b         | Persoon bekneld in gierput                         | 5610        | never     | False    |
 | 787/c         | Persoon bekneld in gierput                         | 5760        | never     | False    |
@@ -395,7 +390,6 @@ Count: 698
 | 1018          | Assistentie collega                                | 840         | never     | False    |
 | 1029          | Oefening Arrestatieteam                            | 15690       | never     | False    |
 | 1030/c        | Brand bij papierrecyclaar                          | 48360       | never     | False    |
-| 1030/d        | Brand bij papierrecyclaar                          | 41760       | never     | False    |
 | 1030/ac       | Brand bij papierrecyclaar                          | 49160       | never     | False    |
 | 1030/ad       | Brand bij papierrecyclaar                          | 42560       | never     | False    |
 | 1030/bc       | Brand bij papierrecyclaar                          | 64137       | never     | False    |
@@ -409,7 +403,6 @@ Count: 698
 | 1034/a        | Brand in nucleaire installatie                     | 70210       | never     | False    |
 | 1034/b        | Brand in nucleaire installatie                     | 90450       | never     | False    |
 | 1034/c        | Brand in nucleaire installatie                     | 75810       | never     | False    |
-| 1034/d        | Brand in nucleaire installatie                     | 70810       | never     | False    |
 | 1034/e        | Brand in nucleaire installatie                     | 70710       | never     | False    |
 | 1034/f        | Brand in nucleaire installatie                     | 70610       | never     | False    |
 | 1034/g        | Brand in nucleaire installatie                     | 71010       | never     | False    |
@@ -671,12 +664,10 @@ Count: 698
 | 1162          | Verdacht pakket luchthaven                         | 2840        | never     | False    |
 | 1163          | Explosie luchthaven                                | 19810       | never     | False    |
 | 1164          | Bom uit WOII gevonden                              | 4920        | never     | False    |
-| 1165          | Verdacht pakket bij voordeur                       | 3980        | never     | False    |
 | 1166          | Diepzeemijn aangetroffen                           | 4810        | never     | False    |
 | 1168          | Explosie in woonwijk                               | 19810       | never     | False    |
 | 1169          | Mogelijk explosief gevonden bij magneetvissen      | 1645        | never     | False    |
 | 1180/a        | Brand in snackbar (Grip 1)                         | 14000       | never     | False    |
-| 1191          | Nablussen natuur                                   | 500         | never     | False    |
 | 1200          | Rellen tijdens voetbal wedstrijd                   | 19680       | never     | False    |
 | 1202          | Brand in ziekenhuis (Grip 1)                       | 12580       | never     | False    |
 | 1202/b        | Brand in ziekenhuis (Grip 1)                       | 13380       | never     | False    |
@@ -704,7 +695,6 @@ Count: 698
 | 1207/b        | Brand in station (Grip 2)                          | 42760       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                          | 55950       | never     | False    |
 | 1207/ac       | Brand in station (Grip 2)                          | 55950       | never     | False    |
-| 1207/bc       | Brand in station (Grip 2)                          | 43560       | never     | False    |
 | 1207/abc      | Brand in station (Grip 2)                          | 56950       | never     | False    |
 
 # Inactive never-seen missions
