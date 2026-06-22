@@ -213,7 +213,7 @@ def filter_never_or_stale_missions(payload: Any, now_utc: datetime, days: int = 
     return filtered
 
 
-def summarize_missions_markdown(title: str, missions: list[dict[str, Any]]) -> str:
+def summarize_missions_markdown(title: str, missions: list[dict[str, Any]], widths: list[int] | None = None) -> str:
     headers = ["ID", "Name", "Avg Credits", "Last Seen", "Inactive"]
 
     rows: list[list[str]] = []
@@ -228,10 +228,11 @@ def summarize_missions_markdown(title: str, missions: list[dict[str, Any]]) -> s
             ]
         )
 
-    widths = [len(header) for header in headers]
-    for row in rows:
-        for index, value in enumerate(row):
-            widths[index] = max(widths[index], len(value))
+    if widths is None:
+        widths = [len(header) for header in headers]
+        for row in rows:
+            for index, value in enumerate(row):
+                widths[index] = max(widths[index], len(value))
 
     def render_row(values: list[str]) -> str:
         return "| " + " | ".join(values[i].ljust(widths[i]) for i in range(len(values))) + " |"
@@ -289,6 +290,21 @@ def summarize_inactive_grouped_by_date_markdown(missions: list[dict[str, Any]]) 
         groups.setdefault(key, []).append(item)
 
     sorted_keys = sorted(groups.keys(), key=lambda k: (k[0], k[1]))
+
+    all_group_items = [item for key in sorted_keys for item in groups[key]]
+    headers = ["ID", "Name", "Avg Credits", "Last Seen", "Inactive"]
+    global_widths = [len(h) for h in headers]
+    for item in all_group_items:
+        row = [
+            str(item.get("id", "")).replace("|", "\\|"),
+            str(item.get("name", "")).replace("|", "\\|"),
+            str(item.get("average_credits", "")).replace("|", "\\|"),
+            str(item.get("last_seen", "")).replace("|", "\\|"),
+            str(item.get("inactive", "")).replace("|", "\\|"),
+        ]
+        for idx, value in enumerate(row):
+            global_widths[idx] = max(global_widths[idx], len(value))
+
     lines = [
         "# Inactive missions grouped by date window",
         "",
@@ -301,7 +317,7 @@ def summarize_inactive_grouped_by_date_markdown(missions: list[dict[str, Any]]) 
         group_items = groups[(start, end)]
         lines.append(f"## Start: {start} | End: {end} | Count: {len(group_items)}")
         lines.append("")
-        lines.append(summarize_missions_markdown("Missions", group_items).rstrip())
+        lines.append(summarize_missions_markdown("Missions", group_items, global_widths).rstrip())
         lines.append("")
 
     return "\n".join(lines)

@@ -38,7 +38,22 @@ def natural_mission_id_key(value: str) -> tuple[tuple[int, Any], ...]:
     return tuple(key_parts)
 
 
-def render_group_table(missions: list[dict[str, Any]]) -> str:
+def compute_table_widths(missions: list[dict[str, Any]]) -> list[int]:
+    headers = ["ID", "Name", "Avg Credits", "Inactive"]
+    widths = [len(h) for h in headers]
+    for item in missions:
+        row = [
+            str(item.get("id", "")).replace("|", "\\|"),
+            str(item.get("name", "")).replace("|", "\\|"),
+            str(item.get("average_credits", "")).replace("|", "\\|"),
+            str(item.get("inactive", "")).replace("|", "\\|"),
+        ]
+        for idx, value in enumerate(row):
+            widths[idx] = max(widths[idx], len(value))
+    return widths
+
+
+def render_group_table(missions: list[dict[str, Any]], widths: list[int] | None = None) -> str:
     headers = ["ID", "Name", "Avg Credits", "Inactive"]
     rows = [
         [
@@ -50,10 +65,11 @@ def render_group_table(missions: list[dict[str, Any]]) -> str:
         for item in missions
     ]
 
-    widths = [len(header) for header in headers]
-    for row in rows:
-        for idx, value in enumerate(row):
-            widths[idx] = max(widths[idx], len(value))
+    if widths is None:
+        widths = [len(h) for h in headers]
+        for row in rows:
+            for idx, value in enumerate(row):
+                widths[idx] = max(widths[idx], len(value))
 
     def render_row(values: list[str]) -> str:
         return "| " + " | ".join(values[i].ljust(widths[i]) for i in range(len(values))) + " |"
@@ -93,6 +109,9 @@ def generate_overview(ids_payload: list[dict[str, Any]], days: int) -> str:
     sorted_dates = sorted(grouped.keys(), reverse=True)
     total_missions = sum(len(grouped[d]) for d in sorted_dates)
 
+    all_missions = [m for d in sorted_dates for m in grouped[d]]
+    global_widths = compute_table_widths(all_missions)
+
     summary_rows = [[date_key, str(len(grouped[date_key]))] for date_key in sorted_dates]
     date_col_width = max((len(r[0]) for r in summary_rows), default=4)
     count_col_width = max(max((len(r[1]) for r in summary_rows), default=5), 5)
@@ -118,7 +137,7 @@ def generate_overview(ids_payload: list[dict[str, Any]], days: int) -> str:
 
         lines.append(f"## {date_key} (Count: {len(missions)})")
         lines.append("")
-        lines.append(render_group_table(missions))
+        lines.append(render_group_table(missions, global_widths))
         lines.append("")
 
     if not sorted_dates:
