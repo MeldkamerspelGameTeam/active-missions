@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 984
+Count: 980
 
 # Active never-seen missions
 
-Count: 731
+Count: 727
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -133,9 +133,7 @@ Count: 731
 | 439           | Duiker vermist                                     | 1100        | never     | False    |
 | 451           | Zwaan met gebroken poot                            | 400         | never     | False    |
 | 456           | Brand in manege                                    | 800         | never     | False    |
-| 457           | Brand in manege                                    | 1950        | never     | False    |
 | 458           | Brand in manege                                    | 2980        | never     | False    |
-| 458-0         | Brand in manege                                    | 3830        | never     | False    |
 | 459           | Brandende vliegtuigtrekker                         | 1290        | never     | False    |
 | 460           | Brandende vliegtuigtrekker                         | 1840        | never     | False    |
 | 463/a         | Verdachte vaten aangetroffen                       | 4390        | never     | False    |
@@ -173,7 +171,6 @@ Count: 731
 | 518/a         | Aanvaring vrachtschip met veerboot (Grip 4)        | 12250       | never     | False    |
 | 519           | Aanvaring vrachtschip met passagiersschip (Grip 4) | 15530       | never     | False    |
 | 519/a         | Aanvaring vrachtschip met passagiersschip (Grip 4) | 20162       | never     | False    |
-| 551           | Brand in theater                                   | 1600        | never     | False    |
 | 554           | Monteur in aanraking met hoogspanning              | 3800        | never     | False    |
 | 568/a         | Verward persoon (Hoge dreiging)                    | 2000        | never     | False    |
 | 591           | Uitslaande brand in veestal                        | 10775       | never     | False    |
@@ -695,7 +692,6 @@ Count: 731
 | 1044/a        | Overval tankstation met gijzeling                  | 8200        | never     | False    |
 | 1053          | Zuurstofgebrek aan boord schip                     | 4480        | never     | False    |
 | 1062-1        | School shooting                                    | 12570       | never     | False    |
-| 1063          | Ontplofte gasfles                                  | 1680        | never     | False    |
 | 1104          | Aanrijding trein & betonmixer                      | 14520       | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                      | 15320       | never     | False    |
 | 1137          | Man over boord                                     | 5780        | never     | False    |
