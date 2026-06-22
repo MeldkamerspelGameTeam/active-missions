@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 938
+Count: 931
 
 # Active never-seen missions
 
-Count: 685
+Count: 678
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -17,7 +17,6 @@ Count: 685
 | 42-0          | Brand in tankstation                               | 7360        | never     | False    |
 | 43            | Kettingbotsing                                     | 12030       | never     | False    |
 | 59            | Brand in opslagloods                               | 13710       | never     | False    |
-| 82/a          | Vrachtwagen gekanteld                              | 2970        | never     | False    |
 | 116           | Voetbalwedstrijd                                   | 8700        | never     | False    |
 | 116-0         | Voetbalwedstrijd                                   | 10200       | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd                  | 17910       | never     | False    |
@@ -28,7 +27,6 @@ Count: 685
 | 181/b         | Verkeersongeval met beknelling                     | 2490        | never     | False    |
 | 181/ab        | Verkeersongeval met beknelling                     | 3290        | never     | False    |
 | 182/a         | Personenauto in sloot                              | 2290        | never     | False    |
-| 183           | Paard in sloot                                     | 1200        | never     | False    |
 | 184           | Eend verstrikt in visdraad                         | 400         | never     | False    |
 | 185           | Verlaten kinderfiets langs waterkant               | 1200        | never     | False    |
 | 200/a         | Drugslab aangetroffen                              | 1600        | never     | False    |
@@ -43,7 +41,6 @@ Count: 685
 | 212           | Omgeslagen Zeilboot                                | 1910        | never     | False    |
 | 213           | Omgeslagen Zeilboot                                | 3150        | never     | False    |
 | 234           | Vliegtuig neergestort                              | 15120       | never     | False    |
-| 242           | Verlaten kleding langs waterkant                   | 900         | never     | False    |
 | 243/a         | Verdachte situatie                                 | 1550        | never     | False    |
 | 245           | Ontruimen kraakpand                                | 7365        | never     | False    |
 | 248/a         | Persoon vermist                                    | 6240        | never     | False    |
@@ -126,7 +123,6 @@ Count: 685
 | 459           | Brandende vliegtuigtrekker                         | 1290        | never     | False    |
 | 460           | Brandende vliegtuigtrekker                         | 1840        | never     | False    |
 | 463/a         | Verdachte vaten aangetroffen                       | 4390        | never     | False    |
-| 480           | Watersporter vermist                               | 850         | never     | False    |
 | 482           | Watersporter vermist                               | 3000        | never     | False    |
 | 484           | Vat met gevaarlijke stoffen omgevallen             | 3880        | never     | False    |
 | 485           | Vat met gevaarlijke stoffen omgevallen             | 6660        | never     | False    |
@@ -202,7 +198,6 @@ Count: 685
 | 804-0         | Grote zoekactie vermist persoon                    | 5900        | never     | False    |
 | 804-1         | Grote zoekactie vermist persoon                    | 9550        | never     | False    |
 | 806           | Zwemmer vermist                                    | 1400        | never     | False    |
-| 807           | Persoon bedolven onder zand                        | 830         | never     | False    |
 | 808           | Persoon van paard gevallen                         | 1330        | never     | False    |
 | 809           | Bootje op drift                                    | 1730        | never     | False    |
 | 819           | Toezicht/Begeleiding Surfwedstrijd                 | 7860        | never     | False    |
@@ -381,7 +376,6 @@ Count: 685
 | 993           | Straat afzetten voor politie                       | 840         | never     | False    |
 | 995-1         | Opvang slachtoffers                                | 3170        | never     | False    |
 | 1002/a        | Blokkade door boze menigte                         | 15330       | never     | False    |
-| 1012/a        | Persoon met gevaarlijke stoffen                    | 11460       | never     | False    |
 | 1016/a        | Aanvaring veerpont                                 | 15530       | never     | False    |
 | 1017          | Redding overboord geslagen slachtoffers            | 1230        | never     | False    |
 | 1018          | Assistentie collega                                | 840         | never     | False    |
@@ -405,7 +399,6 @@ Count: 685
 | 1034/g        | Brand in nucleaire installatie                     | 71010       | never     | False    |
 | 1034/h        | Brand in nucleaire installatie                     | 70260       | never     | False    |
 | 1034/ab       | Brand in nucleaire installatie                     | 91450       | never     | False    |
-| 1034/ac       | Brand in nucleaire installatie                     | 76610       | never     | False    |
 | 1034/ad       | Brand in nucleaire installatie                     | 71610       | never     | False    |
 | 1034/ae       | Brand in nucleaire installatie                     | 71510       | never     | False    |
 | 1034/af       | Brand in nucleaire installatie                     | 71410       | never     | False    |
