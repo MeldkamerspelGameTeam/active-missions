@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 996
+Count: 987
 
 # Active never-seen missions
 
-Count: 743
+Count: 734
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -100,7 +100,6 @@ Count: 743
 | 332           | Inbraak in bedrijfspand                            | 1500        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen       | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                           | 17500       | never     | False    |
-| 348           | Zwemmer vermist (Middel)                           | 3500        | never     | False    |
 | 349/a         | Zwemmer vermist (Grip 1)                           | 7437        | never     | False    |
 | 351/a         | Inbraakalarm woning                                | 2300        | never     | False    |
 | 353           | Brand in terminal                                  | 3300        | never     | False    |
@@ -110,7 +109,6 @@ Count: 743
 | 356/b         | Heidebrand (Grip 2)                                | 32502       | never     | False    |
 | 363           | Brand op passagiersschip                           | 1450        | never     | False    |
 | 364           | Brand op passagiersschip                           | 3250        | never     | False    |
-| 365           | Brand op passagiersschip                           | 4800        | never     | False    |
 | 376           | Persoon te water                                   | 3000        | never     | False    |
 | 377/a         | Persoon te water                                   | 6000        | never     | False    |
 | 394/b         | Brand bij afvalverwerker (Grip 1)                  | 9510        | never     | False    |
@@ -129,7 +127,6 @@ Count: 743
 | 429-0/a       | Brand in bouwmarkt (Grip 2)                        | 22187       | never     | False    |
 | 429-0/b       | Brand in bouwmarkt (Grip 2)                        | 17950       | never     | False    |
 | 429-0/ab      | Brand in bouwmarkt (Grip 2)                        | 23187       | never     | False    |
-| 430           | Persoon bekneld tussen containers                  | None        | never     | False    |
 | 435           | Lekkende tankwagen                                 | 6660        | never     | False    |
 | 436           | Persoon te water                                   | 900         | never     | False    |
 | 437           | Persoon te water                                   | 1150        | never     | False    |
@@ -164,7 +161,6 @@ Count: 743
 | 497           | Personenauto te water                              | 4850        | never     | False    |
 | 497/a         | Personenauto te water                              | 5650        | never     | False    |
 | 504           | Brand in fabriekshal                               | 900         | never     | False    |
-| 508           | Brand in fabriekshal                               | 7360        | never     | False    |
 | 509           | Brand in fabriekshal                               | 9930        | never     | False    |
 | 514           | Aanvaring vrachtschip met watertaxi (Grip 3)       | 2940        | never     | False    |
 | 514/a         | Aanvaring vrachtschip met watertaxi (Grip 3)       | 4425        | never     | False    |
@@ -180,9 +176,7 @@ Count: 743
 | 519/a         | Aanvaring vrachtschip met passagiersschip (Grip 4) | 20162       | never     | False    |
 | 551           | Brand in theater                                   | 1600        | never     | False    |
 | 554           | Monteur in aanraking met hoogspanning              | 3800        | never     | False    |
-| 565           | Fietser onder tram                                 | 2140        | never     | False    |
 | 568/a         | Verward persoon (Hoge dreiging)                    | 2000        | never     | False    |
-| 590           | Noodlanding groot vliegtuig                        | 8970        | never     | False    |
 | 591           | Uitslaande brand in veestal                        | 10775       | never     | False    |
 | 592           | Brand op bedrijventerrein                          | 12540       | never     | False    |
 | 593           | Begeleiding demonstratie (klein)                   | 9720        | never     | False    |
@@ -205,7 +199,6 @@ Count: 743
 | 671-0         | Toezicht Horeca                                    | 8745        | never     | False    |
 | 673           | Ruzie tijdens uitgaansnacht                        | 2415        | never     | False    |
 | 709           | Brand in boerderij                                 | 2650        | never     | False    |
-| 713           | Brand in hooischuur                                | 4515        | never     | False    |
 | 721/a         | Spontane opstand                                   | 10180       | never     | False    |
 | 763/a         | Toezicht bij manifestatie                          | 5515        | never     | False    |
 | 764           | Opbreken manifestatie                              | 10365       | never     | False    |
@@ -274,7 +267,6 @@ Count: 743
 | 868/ab        | Duinbrand (Grip 1)                                 | 27683       | never     | False    |
 | 869/b         | Aanrijding hulpverleningsvoertuig                  | 2900        | never     | False    |
 | 869/ab        | Aanrijding hulpverleningsvoertuig                  | 3200        | never     | False    |
-| 871-1         | Brandende tankwagen                                | 1940        | never     | False    |
 | 878           | Afzetten straat voor brandweer                     | 500         | never     | False    |
 | 878-0         | Afzetten straat voor brandweer                     | 670         | never     | False    |
 | 878-1         | Afzetten straat voor brandweer                     | 840         | never     | False    |
@@ -750,7 +742,6 @@ Count: 743
 | 1207/ac       | Brand in station (Grip 2)                          | 55950       | never     | False    |
 | 1207/bc       | Brand in station (Grip 2)                          | 43560       | never     | False    |
 | 1207/abc      | Brand in station (Grip 2)                          | 56950       | never     | False    |
-| 1219          | Droger in brand                                    | 1010        | never     | False    |
 
 # Inactive never-seen missions
 
