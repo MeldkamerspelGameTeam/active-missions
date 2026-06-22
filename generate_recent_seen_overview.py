@@ -93,11 +93,22 @@ def generate_overview(ids_payload: list[dict[str, Any]], days: int) -> str:
     sorted_dates = sorted(grouped.keys(), reverse=True)
     total_missions = sum(len(grouped[d]) for d in sorted_dates)
 
+    summary_rows = [[date_key, str(len(grouped[date_key]))] for date_key in sorted_dates]
+    date_col_width = max((len(r[0]) for r in summary_rows), default=4)
+    count_col_width = max(max((len(r[1]) for r in summary_rows), default=5), 5)
+    summary_header = f"| {'Date'.ljust(date_col_width)} | {'Count'.rjust(count_col_width)} |"
+    summary_sep = f"| {'-' * date_col_width} | {'-' * (count_col_width - 1) + ':'} |"
+    summary_lines = [summary_header, summary_sep] + [
+        f"| {r[0].ljust(date_col_width)} | {r[1].rjust(count_col_width)} |" for r in summary_rows
+    ]
+
     lines = [
         f"# Missions Seen In Last {days} Days (Grouped by Last Seen Date)",
         "",
         f"Total missions: {total_missions}",
         f"Date groups: {len(sorted_dates)}",
+        "",
+        *summary_lines,
         "",
     ]
 
