@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 980
+Count: 975
 
 # Active never-seen missions
 
-Count: 727
+Count: 722
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -58,7 +58,6 @@ Count: 727
 | 252/a         | Vrachtwagen te water                               | 4630        | never     | False    |
 | 252/b         | Vrachtwagen te water                               | 4130        | never     | False    |
 | 252/ab        | Vrachtwagen te water                               | 4930        | never     | False    |
-| 254           | Brandende goederenwagon (Klein)                    | 1490        | never     | False    |
 | 255/a         | Brandende goederenwagon (Middel)                   | 2690        | never     | False    |
 | 263           | Brandende personenauto in parkeergarage            | 300         | never     | False    |
 | 265           | Vliegtuig met hydraulisch probleem                 | 2010        | never     | False    |
@@ -157,7 +156,6 @@ Count: 727
 | 496           | Personenauto te water                              | 900         | never     | False    |
 | 497           | Personenauto te water                              | 4850        | never     | False    |
 | 497/a         | Personenauto te water                              | 5650        | never     | False    |
-| 504           | Brand in fabriekshal                               | 900         | never     | False    |
 | 509           | Brand in fabriekshal                               | 9930        | never     | False    |
 | 514           | Aanvaring vrachtschip met watertaxi (Grip 3)       | 2940        | never     | False    |
 | 514/a         | Aanvaring vrachtschip met watertaxi (Grip 3)       | 4425        | never     | False    |
@@ -171,7 +169,6 @@ Count: 727
 | 518/a         | Aanvaring vrachtschip met veerboot (Grip 4)        | 12250       | never     | False    |
 | 519           | Aanvaring vrachtschip met passagiersschip (Grip 4) | 15530       | never     | False    |
 | 519/a         | Aanvaring vrachtschip met passagiersschip (Grip 4) | 20162       | never     | False    |
-| 554           | Monteur in aanraking met hoogspanning              | 3800        | never     | False    |
 | 568/a         | Verward persoon (Hoge dreiging)                    | 2000        | never     | False    |
 | 591           | Uitslaande brand in veestal                        | 10775       | never     | False    |
 | 592           | Brand op bedrijventerrein                          | 12540       | never     | False    |
@@ -193,7 +190,6 @@ Count: 727
 | 670/a         | Toezicht Winkelcentrum                             | 3010        | never     | False    |
 | 671           | Toezicht Horeca                                    | 7245        | never     | False    |
 | 671-0         | Toezicht Horeca                                    | 8745        | never     | False    |
-| 673           | Ruzie tijdens uitgaansnacht                        | 2415        | never     | False    |
 | 709           | Brand in boerderij                                 | 2650        | never     | False    |
 | 721/a         | Spontane opstand                                   | 10180       | never     | False    |
 | 763/a         | Toezicht bij manifestatie                          | 5515        | never     | False    |
@@ -245,7 +241,6 @@ Count: 727
 | 841-0/b       | Aanrijding met zwaar letsel                        | 7540        | never     | False    |
 | 841-0/ab      | Aanrijding met zwaar letsel                        | 7940        | never     | False    |
 | 842           | Voertuigbrand in tunnel                            | 2170        | never     | False    |
-| 843           | Voertuigbrand in tunnel                            | 4760        | never     | False    |
 | 847           | Brand in stacaravan                                | 3630        | never     | False    |
 | 849           | Gevallen groep mountainbikers                      | 3020        | never     | False    |
 | 853/a         | Vliegtuig neergestort                              | 7690        | never     | False    |
