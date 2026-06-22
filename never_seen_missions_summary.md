@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 941
+Count: 938
 
 # Active never-seen missions
 
-Count: 688
+Count: 685
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -58,7 +58,6 @@ Count: 688
 | 265           | Vliegtuig met hydraulisch probleem                 | 2010        | never     | False    |
 | 266           | Vliegtuig met rook in cabine                       | 2010        | never     | False    |
 | 267           | Vliegtuig met brandgeur in cabine                  | 2010        | never     | False    |
-| 268           | Vliegtuig met probleem met landingsgestel          | 8570        | never     | False    |
 | 269           | Vliegtuig met brandmelding in vrachtruim           | 7720        | never     | False    |
 | 270           | Vliegtuig buiten start-/landingsbaan beland        | 3540        | never     | False    |
 | 271           | Rookontwikkeling in vrachtruim vliegtuig           | 2010        | never     | False    |
@@ -127,7 +126,6 @@ Count: 688
 | 459           | Brandende vliegtuigtrekker                         | 1290        | never     | False    |
 | 460           | Brandende vliegtuigtrekker                         | 1840        | never     | False    |
 | 463/a         | Verdachte vaten aangetroffen                       | 4390        | never     | False    |
-| 474           | Brand in kantoorgebouw                             | 6740        | never     | False    |
 | 480           | Watersporter vermist                               | 850         | never     | False    |
 | 482           | Watersporter vermist                               | 3000        | never     | False    |
 | 484           | Vat met gevaarlijke stoffen omgevallen             | 3880        | never     | False    |
@@ -196,7 +194,6 @@ Count: 688
 | 797           | Zwemmer in problemen                               | 1230        | never     | False    |
 | 798           | Kitesurfer in problemen                            | 2400        | never     | False    |
 | 799           | Persoon op luchtbed in problemen                   | 830         | never     | False    |
-| 800           | Groep zwemmers in problemen                        | 3320        | never     | False    |
 | 800/a         | Groep zwemmers in problemen                        | 4120        | never     | False    |
 | 801           | Groep kitesurfers in problemen                     | 3990        | never     | False    |
 | 801/a         | Groep kitesurfers in problemen                     | 4790        | never     | False    |
