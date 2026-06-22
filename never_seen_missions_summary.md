@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 987
+Count: 984
 
 # Active never-seen missions
 
-Count: 734
+Count: 731
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -19,7 +19,6 @@ Count: 734
 | 59            | Brand in opslagloods                               | 13710       | never     | False    |
 | 82/a          | Vrachtwagen gekanteld                              | 2970        | never     | False    |
 | 82/ab         | Vrachtwagen gekanteld                              | 3270        | never     | False    |
-| 108           | Ongeval met trein en personenauto                  | 2270        | never     | False    |
 | 116           | Voetbalwedstrijd                                   | 8700        | never     | False    |
 | 116-0         | Voetbalwedstrijd                                   | 10200       | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd                  | 17910       | never     | False    |
@@ -337,7 +336,6 @@ Count: 734
 | 885/acdef     | Brand in vuurwerkopslag                            | 57320       | never     | False    |
 | 885/bcdef     | Brand in vuurwerkopslag                            | 74337       | never     | False    |
 | 885/abcdef    | Brand in vuurwerkopslag                            | 75337       | never     | False    |
-| 889           | 500 Ambulancestandplaats mijlpaal                  | 30000       | never     | False    |
 | 896           | Windsurfer vermist                                 | 5140        | never     | False    |
 | 897           | Rellen na stadsderby                               | 15955       | never     | False    |
 | 897/a         | Rellen na stadsderby                               | 16755       | never     | False    |
@@ -699,7 +697,6 @@ Count: 734
 | 1062-1        | School shooting                                    | 12570       | never     | False    |
 | 1063          | Ontplofte gasfles                                  | 1680        | never     | False    |
 | 1104          | Aanrijding trein & betonmixer                      | 14520       | never     | False    |
-| 1104/a        | Aanrijding trein & betonmixer                      | 14820       | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                      | 15320       | never     | False    |
 | 1137          | Man over boord                                     | 5780        | never     | False    |
 | 1148          | Grenscontrole                                      | 17370       | never     | False    |
