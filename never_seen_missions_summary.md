@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 975
+Count: 972
 
 # Active never-seen missions
 
-Count: 722
+Count: 719
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -23,7 +23,6 @@ Count: 722
 | 116-0         | Voetbalwedstrijd                                   | 10200       | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd                  | 17910       | never     | False    |
 | 117-0         | Voetbalwedstrijd, risicowedstrijd                  | 20910       | never     | False    |
-| 124-0         | Achtervolging personenauto                         | 4610        | never     | False    |
 | 125           | Vermist persoon                                    | 3500        | never     | False    |
 | 145           | Natuurbrand                                        | 70194       | never     | False    |
 | 181           | Verkeersongeval met beknelling                     | 2090        | never     | False    |
@@ -105,7 +104,6 @@ Count: 722
 | 354-0         | Brand in terminal                                  | 7320        | never     | False    |
 | 355/b         | Heidebrand (Grip 1)                                | 27392       | never     | False    |
 | 356/b         | Heidebrand (Grip 2)                                | 32502       | never     | False    |
-| 363           | Brand op passagiersschip                           | 1450        | never     | False    |
 | 364           | Brand op passagiersschip                           | 3250        | never     | False    |
 | 376           | Persoon te water                                   | 3000        | never     | False    |
 | 377/a         | Persoon te water                                   | 6000        | never     | False    |
@@ -181,7 +179,6 @@ Count: 722
 | 629           | Lek/zinken plezierjacht                            | 2320        | never     | False    |
 | 640           | Brand in hangaar                                   | 910         | never     | False    |
 | 641           | Brand in hangaar                                   | 1930        | never     | False    |
-| 652           | Stellingkast op persoon gevallen                   | None        | never     | False    |
 | 653           | Brand bij zendmast                                 | 500         | never     | False    |
 | 654           | Brand bij zendmast                                 | 2030        | never     | False    |
 | 663           | Verkeerscontrole                                   | 6690        | never     | False    |
