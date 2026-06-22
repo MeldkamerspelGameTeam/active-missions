@@ -948,7 +948,7 @@
     "id": "92",
     "name": "Botbreuk",
     "average_credits": null,
-    "last_seen": "2026-06-22",
+    "last_seen": "2026-06-23",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -1011,7 +1011,7 @@
     "id": "99",
     "name": "Stankoverlast",
     "average_credits": 550,
-    "last_seen": "2026-06-22",
+    "last_seen": "2026-06-23",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -4512,7 +4512,7 @@
     "id": "395/a",
     "name": "Brand bij afvalverwerker (Grip 3)",
     "average_credits": 15387,
-    "last_seen": "2026-06-22",
+    "last_seen": "2026-06-23",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -9417,7 +9417,7 @@
     "id": "841/a",
     "name": "Aanrijding met zwaar letsel",
     "average_credits": 5740,
-    "last_seen": "2026-06-22",
+    "last_seen": "2026-06-23",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -10839,7 +10839,7 @@
     "id": "893",
     "name": "500 Brandweerkazerne mijlpaal",
     "average_credits": 30000,
-    "last_seen": "2026-06-22",
+    "last_seen": "2026-06-23",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -12684,7 +12684,7 @@
     "id": "1009/a",
     "name": "Auto tegen pijlwagen gereden",
     "average_credits": 5300,
-    "last_seen": "2026-06-22",
+    "last_seen": "2026-06-23",
     "inactive": false,
     "date_start": null,
     "date_end": null
@@ -16941,7 +16941,7 @@
     "id": "1190",
     "name": "Vrachtwagen rijdt tegen losgeschoten aanhanger",
     "average_credits": 7000,
-    "last_seen": "2026-06-22",
+    "last_seen": "2026-06-23",
     "inactive": false,
     "date_start": null,
     "date_end": null

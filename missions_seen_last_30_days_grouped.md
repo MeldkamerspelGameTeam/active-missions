@@ -1,15 +1,15 @@
 # Missions Seen In Last 30 Days (Grouped by Last Seen Date)
 
-Total missions: 1020
+Total missions: 1013
 Date groups: 3
 
-| Date       | Count |
-| ---------- | ----: |
-| 2026-06-22 |   922 |
-| 2026-06-21 |    91 |
-| 2026-06-20 |     7 |
+| Date       | Old Seen On | Days Left | Count |
+| ---------- | ----------- | --------: | ----: |
+| 2026-06-22 | 2026-07-22  |        30 |   915 |
+| 2026-06-21 | 2026-07-21  |        29 |    91 |
+| 2026-06-20 | 2026-07-20  |        28 |     7 |
 
-## 2026-06-22 (Count: 922)
+## 2026-06-22 (Count: 915)
 
 | ID      | Name                                                                             | Avg Credits | Inactive |
 | ------- | -------------------------------------------------------------------------------- | ----------: | -------- |
@@ -107,14 +107,12 @@ Date groups: 3
 | 91      | Psychiatrisch beeld                                                              | None        | False    |
 | 91-0    | Psychiatrisch beeld                                                              | 670         | False    |
 | 91-1    | Psychiatrisch beeld                                                              | 2140        | False    |
-| 92      | Botbreuk                                                                         | None        | False    |
 | 93      | Gebroken rib                                                                     | None        | False    |
 | 94      | Hoofdletsel                                                                      | None        | False    |
 | 95      | Hyperventilatie                                                                  | None        | False    |
 | 96      | Hittekramp                                                                       | None        | False    |
 | 97      | Hoofdwond                                                                        | None        | False    |
 | 98      | Vreemde lucht                                                                    | 600         | False    |
-| 99      | Stankoverlast                                                                    | 550         | False    |
 | 100     | Ammoniakalarm in opslagloods                                                     | 7670        | False    |
 | 101     | Koolmonoxide vrijgekomen                                                         | 1660        | False    |
 | 102     | Lekkende goederenwagon (Klein)                                                   | 1900        | False    |
@@ -350,7 +348,6 @@ Date groups: 3
 | 394/a   | Brand bij afvalverwerker (Grip 1)                                                | 11637       | False    |
 | 394/ab  | Brand bij afvalverwerker (Grip 1)                                                | 12637       | False    |
 | 395     | Brand bij afvalverwerker (Grip 3)                                                | 11710       | False    |
-| 395/a   | Brand bij afvalverwerker (Grip 3)                                                | 15387       | False    |
 | 395/ab  | Brand bij afvalverwerker (Grip 3)                                                | 16387       | False    |
 | 396     | Lekkende LPG installatie                                                         | 2600        | False    |
 | 397     | Gaslekkage                                                                       | 1200        | False    |
@@ -677,7 +674,6 @@ Date groups: 3
 | 839     | Hevige paniekaanval                                                              | None        | False    |
 | 840     | Spookrijder                                                                      | 840         | False    |
 | 841     | Aanrijding met zwaar letsel                                                      | 5340        | False    |
-| 841/a   | Aanrijding met zwaar letsel                                                      | 5740        | False    |
 | 842-0   | Voertuigbrand in tunnel                                                          | 3020        | False    |
 | 843     | Voertuigbrand in tunnel                                                          | 4760        | False    |
 | 844     | Onwel geworden persoon vast in lift                                              | 500         | False    |
@@ -723,7 +719,6 @@ Date groups: 3
 | 889     | 500 Ambulancestandplaats mijlpaal                                                | 30000       | False    |
 | 890     | 500 Politiebureau mijlpaal                                                       | 40000       | False    |
 | 891     | 750 Politiebureau mijlpaal                                                       | 45000       | False    |
-| 893     | 500 Brandweerkazerne mijlpaal                                                    | 30000       | False    |
 | 894     | 750 Brandweerkazerne mijlpaal                                                    | 38370       | False    |
 | 895     | 1000 Brandweerkazerne mijlpaal                                                   | 45000       | False    |
 | 896     | Windsurfer vermist                                                               | 5140        | False    |
@@ -786,7 +781,6 @@ Date groups: 3
 | 1008    | Aanrijding snelweg, veroorzaker gevlucht                                         | 4520        | False    |
 | 1008/a  | Aanrijding snelweg, veroorzaker gevlucht                                         | 4920        | False    |
 | 1009    | Auto tegen pijlwagen gereden                                                     | 4500        | False    |
-| 1009/a  | Auto tegen pijlwagen gereden                                                     | 5300        | False    |
 | 1010    | Meningsverschil in bankkantoor                                                   | 500         | False    |
 | 1011    | Vechtpartij in bankkantoor                                                       | 1810        | False    |
 | 1012    | Persoon met gevaarlijke stoffen                                                  | 10660       | False    |
@@ -911,7 +905,6 @@ Date groups: 3
 | 1182    | Bootje op drift                                                                  | 3250        | False    |
 | 1186    | Aanrijding meerdere vrachtwagens                                                 | 8350        | False    |
 | 1189    | Aanhanger losgeschoten                                                           | 3450        | False    |
-| 1190    | Vrachtwagen rijdt tegen losgeschoten aanhanger                                   | 7000        | False    |
 | 1191    | Nablussen natuur                                                                 | 500         | False    |
 | 1193    | Brand in appartementencomplex                                                    | 4370        | False    |
 | 1195    | Aanrijding met 2 fatbikers                                                       | 2020        | False    |
