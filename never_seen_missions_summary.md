@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1058
+Count: 1055
 
 # Active never-seen missions
 
-Count: 805
+Count: 802
 
 | ID            | Name                                                | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------- | ----------: | --------- | -------- |
@@ -133,8 +133,6 @@ Count: 805
 | 395/ab        | Brand bij afvalverwerker (Grip 3)                   | 16387       | never     | False    |
 | 414           | Brand in transformatorhuisje                        | 800         | never     | False    |
 | 415           | Brand in transformatorhuisje                        | 1800        | never     | False    |
-| 416-0         | Brand in transformatorhuisje                        | 5230        | never     | False    |
-| 424           | Overval bankkantoor                                 | 4500        | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                         | 9950        | never     | False    |
 | 428/ab        | Brand in bouwmarkt (Grip 1)                         | 13187       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                         | 11050       | never     | False    |
@@ -780,7 +778,6 @@ Count: 805
 | 1168          | Explosie in woonwijk                                | 19810       | never     | False    |
 | 1169          | Mogelijk explosief gevonden bij magneetvissen       | 1645        | never     | False    |
 | 1170          | Fietser op de snelweg                               | 500         | never     | False    |
-| 1179          | Brand in snackbar (Zeer Groot)                      | 4850        | never     | False    |
 | 1180/a        | Brand in snackbar (Grip 1)                          | 14000       | never     | False    |
 | 1182          | Bootje op drift                                     | 3250        | never     | False    |
 | 1191          | Nablussen natuur                                    | 500         | never     | False    |
