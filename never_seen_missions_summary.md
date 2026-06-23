@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 925
+Count: 923
 
 # Active never-seen missions
 
-Count: 672
+Count: 670
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -134,7 +134,6 @@ Count: 672
 | 492-2/a       | Ongeregeldheden voetbalsupporters horeca           | 8110        | never     | False    |
 | 493           | Ongeregeldheden voetbalsupporters horeca           | 4470        | never     | False    |
 | 493-1         | Ongeregeldheden voetbalsupporters horeca           | 3720        | never     | False    |
-| 493-2         | Ongeregeldheden voetbalsupporters horeca           | 4720        | never     | False    |
 | 494           | Personenauto in sloot                              | 1400        | never     | False    |
 | 495           | Personenauto in sloot                              | 1400        | never     | False    |
 | 496           | Personenauto te water                              | 900         | never     | False    |
@@ -207,7 +206,6 @@ Count: 672
 | 841-0/b       | Aanrijding met zwaar letsel                        | 7540        | never     | False    |
 | 841-0/ab      | Aanrijding met zwaar letsel                        | 7940        | never     | False    |
 | 842           | Voertuigbrand in tunnel                            | 2170        | never     | False    |
-| 847           | Brand in stacaravan                                | 3630        | never     | False    |
 | 853/a         | Vliegtuig neergestort                              | 7690        | never     | False    |
 | 853-0         | Vliegtuig neergestort                              | 21820       | never     | False    |
 | 853-0/a       | Vliegtuig neergestort                              | 22620       | never     | False    |
