@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 887
+Count: 883
 
 # Active never-seen missions
 
-Count: 634
+Count: 630
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -14,7 +14,6 @@ Count: 634
 | 36/ab         | Brandende goederenwagon (Groot)                    | 8570        | never     | False    |
 | 38            | Brandende afvalbak                                 | 110         | never     | False    |
 | 41            | Brand in kantoorpand                               | 22380       | never     | False    |
-| 42-0          | Brand in tankstation                               | 7360        | never     | False    |
 | 43            | Kettingbotsing                                     | 12030       | never     | False    |
 | 59            | Brand in opslagloods                               | 13710       | never     | False    |
 | 116           | Voetbalwedstrijd                                   | 8700        | never     | False    |
@@ -144,7 +143,6 @@ Count: 634
 | 605           | Brand in Silo                                      | 11760       | never     | False    |
 | 614/a         | Verward persoon op dak                             | 5190        | never     | False    |
 | 625/a         | Onbeheerde bagage gevonden                         | 2770        | never     | False    |
-| 629           | Lek/zinken plezierjacht                            | 2320        | never     | False    |
 | 640           | Brand in hangaar                                   | 910         | never     | False    |
 | 641           | Brand in hangaar                                   | 1930        | never     | False    |
 | 653           | Brand bij zendmast                                 | 500         | never     | False    |
@@ -170,7 +168,6 @@ Count: 634
 | 796-0         | Zoekactie vermist persoon                          | 2090        | never     | False    |
 | 800/a         | Groep zwemmers in problemen                        | 4120        | never     | False    |
 | 801           | Groep kitesurfers in problemen                     | 3990        | never     | False    |
-| 801/a         | Groep kitesurfers in problemen                     | 4790        | never     | False    |
 | 802           | Surfer gewond                                      | 1230        | never     | False    |
 | 803/a         | Persoon vermist rondom mui                         | 3370        | never     | False    |
 | 804-0         | Grote zoekactie vermist persoon                    | 5900        | never     | False    |
@@ -339,7 +336,6 @@ Count: 634
 | 986           | Surfer vermist                                     | 4080        | never     | False    |
 | 992/a         | Gijzeling                                          | 10730       | never     | False    |
 | 993           | Straat afzetten voor politie                       | 840         | never     | False    |
-| 995-1         | Opvang slachtoffers                                | 3170        | never     | False    |
 | 1016/a        | Aanvaring veerpont                                 | 15530       | never     | False    |
 | 1017          | Redding overboord geslagen slachtoffers            | 1230        | never     | False    |
 | 1018          | Assistentie collega                                | 840         | never     | False    |
