@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 892
+Count: 887
 
 # Active never-seen missions
 
-Count: 639
+Count: 634
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -132,7 +132,6 @@ Count: 639
 | 515           | Aanvaring vrachtschip met waterbus (Grip 3)        | 4680        | never     | False    |
 | 515/a         | Aanvaring vrachtschip met waterbus (Grip 3)        | 6600        | never     | False    |
 | 516           | Aanvaring met rondvaartboot (Grip 3)               | 5590        | never     | False    |
-| 516/a         | Aanvaring met rondvaartboot (Grip 3)               | 7737        | never     | False    |
 | 518           | Aanvaring vrachtschip met veerboot (Grip 4)        | 9200        | never     | False    |
 | 518/a         | Aanvaring vrachtschip met veerboot (Grip 4)        | 12250       | never     | False    |
 | 519/a         | Aanvaring vrachtschip met passagiersschip (Grip 4) | 20162       | never     | False    |
@@ -204,9 +203,7 @@ Count: 639
 | 878-1         | Afzetten straat voor brandweer                     | 840         | never     | False    |
 | 879           | Persoon heeft rook ingeademd                       | None        | never     | False    |
 | 880/b         | Duinbrand (Grip 2)                                 | 41684       | never     | False    |
-| 880/ab        | Duinbrand (Grip 2)                                 | 52855       | never     | False    |
 | 881/b         | Duinbrand (Grip 3)                                 | 45654       | never     | False    |
-| 885/a         | Brand in vuurwerkopslag                            | 49470       | never     | False    |
 | 885/b         | Brand in vuurwerkopslag                            | 64525       | never     | False    |
 | 885/c         | Brand in vuurwerkopslag                            | 53870       | never     | False    |
 | 885/d         | Brand in vuurwerkopslag                            | 49320       | never     | False    |
@@ -327,7 +324,6 @@ Count: 639
 | 948           | Brand op windmolenpark                             | 500         | never     | False    |
 | 948-0         | Brand op windmolenpark                             | 2100        | never     | False    |
 | 948-1         | Brand op windmolenpark                             | 11575       | never     | False    |
-| 952-2         | Brand in stadion                                   | 37440       | never     | False    |
 | 952-3         | Brand in stadion                                   | 43140       | never     | False    |
 | 958           | Voetbalwedstrijd                                   | 11000       | never     | False    |
 | 959           | Voetbalwedstrijd, risicowedstrijd                  | 22510       | never     | False    |
@@ -636,7 +632,6 @@ Count: 639
 | 1203/abc      | Brand in ziekenhuis (Grip 2)                       | 29562       | never     | False    |
 | 1206/a        | Brand in station (Grip 1)                          | 37000       | never     | False    |
 | 1206/b        | Brand in station (Grip 1)                          | 28400       | never     | False    |
-| 1206/c        | Brand in station (Grip 1)                          | 28400       | never     | False    |
 | 1206/ab       | Brand in station (Grip 1)                          | 38000       | never     | False    |
 | 1206/ac       | Brand in station (Grip 1)                          | 38000       | never     | False    |
 | 1206/bc       | Brand in station (Grip 1)                          | 29200       | never     | False    |
