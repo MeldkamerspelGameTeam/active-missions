@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 874
+Count: 873
 
 # Active never-seen missions
 
-Count: 621
+Count: 620
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -49,7 +49,6 @@ Count: 621
 | 263           | Brandende personenauto in parkeergarage          | 300         | never     | False    |
 | 265           | Vliegtuig met hydraulisch probleem               | 2010        | never     | False    |
 | 266           | Vliegtuig met rook in cabine                     | 2010        | never     | False    |
-| 269           | Vliegtuig met brandmelding in vrachtruim         | 7720        | never     | False    |
 | 270           | Vliegtuig buiten start-/landingsbaan beland      | 3540        | never     | False    |
 | 271           | Rookontwikkeling in vrachtruim vliegtuig         | 2010        | never     | False    |
 | 272           | Klein vliegtuig met motorisch probleem           | 2140        | never     | False    |
