@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 907
+Count: 895
 
 # Active never-seen missions
 
-Count: 654
+Count: 642
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -51,7 +51,6 @@ Count: 654
 | 263           | Brandende personenauto in parkeergarage            | 300         | never     | False    |
 | 265           | Vliegtuig met hydraulisch probleem                 | 2010        | never     | False    |
 | 266           | Vliegtuig met rook in cabine                       | 2010        | never     | False    |
-| 267           | Vliegtuig met brandgeur in cabine                  | 2010        | never     | False    |
 | 269           | Vliegtuig met brandmelding in vrachtruim           | 7720        | never     | False    |
 | 270           | Vliegtuig buiten start-/landingsbaan beland        | 3540        | never     | False    |
 | 271           | Rookontwikkeling in vrachtruim vliegtuig           | 2010        | never     | False    |
@@ -63,7 +62,6 @@ Count: 654
 | 276           | Brandend klein vliegtuig                           | 3570        | never     | False    |
 | 282-0         | Brand in garagebedrijf                             | 7190        | never     | False    |
 | 299           | Brandend plezierjacht                              | 900         | never     | False    |
-| 303           | Brand in kantoorgebouw                             | 2200        | never     | False    |
 | 307/a         | Verkeersongeval met touringcar                     | 8030        | never     | False    |
 | 307-0/a       | Verkeersongeval met touringcar                     | 6000        | never     | False    |
 | 307-1/a       | Verkeersongeval met touringcar                     | 14270       | never     | False    |
@@ -129,7 +127,6 @@ Count: 654
 | 493-1         | Ongeregeldheden voetbalsupporters horeca           | 3720        | never     | False    |
 | 494           | Personenauto in sloot                              | 1400        | never     | False    |
 | 495           | Personenauto in sloot                              | 1400        | never     | False    |
-| 497           | Personenauto te water                              | 4850        | never     | False    |
 | 497/a         | Personenauto te water                              | 5650        | never     | False    |
 | 509           | Brand in fabriekshal                               | 9930        | never     | False    |
 | 514           | Aanvaring vrachtschip met watertaxi (Grip 3)       | 2940        | never     | False    |
@@ -162,7 +159,6 @@ Count: 654
 | 671-0         | Toezicht Horeca                                    | 8745        | never     | False    |
 | 721/a         | Spontane opstand                                   | 10180       | never     | False    |
 | 763/a         | Toezicht bij manifestatie                          | 5515        | never     | False    |
-| 764           | Opbreken manifestatie                              | 10365       | never     | False    |
 | 764/a         | Opbreken manifestatie                              | 11165       | never     | False    |
 | 765/a         | Onaangekondigde demonstratie                       | 7755        | never     | False    |
 | 766/a         | Onrust in de wijk                                  | 3685        | never     | False    |
@@ -175,8 +171,6 @@ Count: 654
 | 787/abc       | Persoon bekneld in gierput                         | 7110        | never     | False    |
 | 796           | Zoekactie vermist persoon                          | 1840        | never     | False    |
 | 796-0         | Zoekactie vermist persoon                          | 2090        | never     | False    |
-| 797           | Zwemmer in problemen                               | 1230        | never     | False    |
-| 798           | Kitesurfer in problemen                            | 2400        | never     | False    |
 | 800/a         | Groep zwemmers in problemen                        | 4120        | never     | False    |
 | 801           | Groep kitesurfers in problemen                     | 3990        | never     | False    |
 | 801/a         | Groep kitesurfers in problemen                     | 4790        | never     | False    |
@@ -187,7 +181,6 @@ Count: 654
 | 809           | Bootje op drift                                    | 1730        | never     | False    |
 | 819           | Toezicht/Begeleiding Surfwedstrijd                 | 7860        | never     | False    |
 | 837           | Gaslek bedrijventerrein                            | 8580        | never     | False    |
-| 840-0         | Spookrijder                                        | 1090        | never     | False    |
 | 841/b         | Aanrijding met zwaar letsel                        | 6140        | never     | False    |
 | 841/ab        | Aanrijding met zwaar letsel                        | 6540        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                        | 6740        | never     | False    |
@@ -201,7 +194,6 @@ Count: 654
 | 853-1         | Vliegtuig neergestort                              | 23660       | never     | False    |
 | 853-1/a       | Vliegtuig neergestort                              | 24460       | never     | False    |
 | 854           | Ongeval waterscooter                               | 1730        | never     | False    |
-| 854-0         | Ongeval waterscooter                               | 4980        | never     | False    |
 | 855           | Observatie                                         | 5790        | never     | False    |
 | 855/a         | Observatie                                         | 6590        | never     | False    |
 | 866           | Duinbrand                                          | 1170        | never     | False    |
@@ -299,7 +291,6 @@ Count: 654
 | 929/ac        | Brand in gasverdeelstation                         | 32510       | never     | False    |
 | 929/ad        | Brand in gasverdeelstation                         | 28110       | never     | False    |
 | 929/ae        | Brand in gasverdeelstation                         | 27960       | never     | False    |
-| 929/bc        | Brand in gasverdeelstation                         | 43325       | never     | False    |
 | 929/bd        | Brand in gasverdeelstation                         | 37825       | never     | False    |
 | 929/cd        | Brand in gasverdeelstation                         | 32510       | never     | False    |
 | 929/ce        | Brand in gasverdeelstation                         | 32360       | never     | False    |
@@ -632,13 +623,10 @@ Count: 654
 | 1162          | Verdacht pakket luchthaven                         | 2840        | never     | False    |
 | 1163          | Explosie luchthaven                                | 19810       | never     | False    |
 | 1166          | Diepzeemijn aangetroffen                           | 4810        | never     | False    |
-| 1168          | Explosie in woonwijk                               | 19810       | never     | False    |
-| 1169          | Mogelijk explosief gevonden bij magneetvissen      | 1645        | never     | False    |
 | 1180/a        | Brand in snackbar (Grip 1)                         | 14000       | never     | False    |
 | 1202          | Brand in ziekenhuis (Grip 1)                       | 12580       | never     | False    |
 | 1202/b        | Brand in ziekenhuis (Grip 1)                       | 13380       | never     | False    |
 | 1202/ab       | Brand in ziekenhuis (Grip 1)                       | 19225       | never     | False    |
-| 1202/ac       | Brand in ziekenhuis (Grip 1)                       | 19225       | never     | False    |
 | 1202/bc       | Brand in ziekenhuis (Grip 1)                       | 14180       | never     | False    |
 | 1202/abc      | Brand in ziekenhuis (Grip 1)                       | 20225       | never     | False    |
 | 1203          | Brand in ziekenhuis (Grip 2)                       | 20050       | never     | False    |
