@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 923
+Count: 919
 
 # Active never-seen missions
 
-Count: 670
+Count: 666
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -33,7 +33,6 @@ Count: 670
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein)    | 2240        | never     | False    |
 | 204/a         | Verkeersongeval met gevaarlijke stoffen (middel)   | 6490        | never     | False    |
 | 207           | Personenauto te water                              | 3680        | never     | False    |
-| 207/a         | Personenauto te water                              | 3880        | never     | False    |
 | 208           | Personenauto te water                              | 4350        | never     | False    |
 | 209/a         | Aanvaring vrachtschip met vlet (Grip 3)            | 4912        | never     | False    |
 | 210           | Aanvaring vrachtschip met kajuitboot (Grip 3)      | 4180        | never     | False    |
@@ -136,7 +135,6 @@ Count: 670
 | 493-1         | Ongeregeldheden voetbalsupporters horeca           | 3720        | never     | False    |
 | 494           | Personenauto in sloot                              | 1400        | never     | False    |
 | 495           | Personenauto in sloot                              | 1400        | never     | False    |
-| 496           | Personenauto te water                              | 900         | never     | False    |
 | 497           | Personenauto te water                              | 4850        | never     | False    |
 | 497/a         | Personenauto te water                              | 5650        | never     | False    |
 | 509           | Brand in fabriekshal                               | 9930        | never     | False    |
@@ -218,7 +216,6 @@ Count: 670
 | 866           | Duinbrand                                          | 1170        | never     | False    |
 | 867           | Duinbrand (Middel)                                 | 2690        | never     | False    |
 | 868/b         | Duinbrand (Grip 1)                                 | 21547       | never     | False    |
-| 868/ab        | Duinbrand (Grip 1)                                 | 27683       | never     | False    |
 | 869/b         | Aanrijding hulpverleningsvoertuig                  | 2900        | never     | False    |
 | 869/ab        | Aanrijding hulpverleningsvoertuig                  | 3200        | never     | False    |
 | 878           | Afzetten straat voor brandweer                     | 500         | never     | False    |
@@ -365,7 +362,6 @@ Count: 670
 | 980           | Uit de hand gelopen manifestatie                   | 45080       | never     | False    |
 | 983           | Zeiljacht in problemen                             | 3080        | never     | False    |
 | 984           | Drugssmokkel op zee                                | 4980        | never     | False    |
-| 985           | Olietanker in de problemen                         | 19360       | never     | False    |
 | 986           | Surfer vermist                                     | 4080        | never     | False    |
 | 992/a         | Gijzeling                                          | 10730       | never     | False    |
 | 993           | Straat afzetten voor politie                       | 840         | never     | False    |
