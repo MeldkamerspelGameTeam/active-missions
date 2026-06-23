@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 919
+Count: 907
 
 # Active never-seen missions
 
-Count: 666
+Count: 654
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -26,7 +26,6 @@ Count: 666
 | 181/a         | Verkeersongeval met beknelling                     | 2890        | never     | False    |
 | 181/b         | Verkeersongeval met beknelling                     | 2490        | never     | False    |
 | 181/ab        | Verkeersongeval met beknelling                     | 3290        | never     | False    |
-| 182/a         | Personenauto in sloot                              | 2290        | never     | False    |
 | 184           | Eend verstrikt in visdraad                         | 400         | never     | False    |
 | 185           | Verlaten kinderfiets langs waterkant               | 1200        | never     | False    |
 | 200/a         | Drugslab aangetroffen                              | 1600        | never     | False    |
@@ -49,7 +48,6 @@ Count: 666
 | 252/a         | Vrachtwagen te water                               | 4630        | never     | False    |
 | 252/b         | Vrachtwagen te water                               | 4130        | never     | False    |
 | 252/ab        | Vrachtwagen te water                               | 4930        | never     | False    |
-| 255/a         | Brandende goederenwagon (Middel)                   | 2690        | never     | False    |
 | 263           | Brandende personenauto in parkeergarage            | 300         | never     | False    |
 | 265           | Vliegtuig met hydraulisch probleem                 | 2010        | never     | False    |
 | 266           | Vliegtuig met rook in cabine                       | 2010        | never     | False    |
@@ -63,10 +61,8 @@ Count: 666
 | 274/a         | Klein vliegtuig neergestort                        | 6570        | never     | False    |
 | 275           | Brandend klein vliegtuig                           | 1560        | never     | False    |
 | 276           | Brandend klein vliegtuig                           | 3570        | never     | False    |
-| 278           | Beroerte                                           | None        | never     | False    |
 | 282-0         | Brand in garagebedrijf                             | 7190        | never     | False    |
 | 299           | Brandend plezierjacht                              | 900         | never     | False    |
-| 300           | Brandend plezierjacht                              | 1450        | never     | False    |
 | 303           | Brand in kantoorgebouw                             | 2200        | never     | False    |
 | 307/a         | Verkeersongeval met touringcar                     | 8030        | never     | False    |
 | 307-0/a       | Verkeersongeval met touringcar                     | 6000        | never     | False    |
@@ -81,7 +77,6 @@ Count: 666
 | 312/abc       | Lekkende goederenwagon (Groot)                     | 7870        | never     | False    |
 | 318           | Brand op binnenvaartschip                          | 1450        | never     | False    |
 | 319           | Brand op binnenvaartschip                          | 3100        | never     | False    |
-| 320           | Brand op binnenvaartschip                          | 5150        | never     | False    |
 | 320-0         | Brand op binnenvaartschip                          | 6850        | never     | False    |
 | 332           | Inbraak in bedrijfspand                            | 1500        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen       | 65350       | never     | False    |
@@ -116,7 +111,6 @@ Count: 666
 | 438           | Duiker vermist                                     | 850         | never     | False    |
 | 439           | Duiker vermist                                     | 1100        | never     | False    |
 | 451           | Zwaan met gebroken poot                            | 400         | never     | False    |
-| 456           | Brand in manege                                    | 800         | never     | False    |
 | 458           | Brand in manege                                    | 2980        | never     | False    |
 | 459           | Brandende vliegtuigtrekker                         | 1290        | never     | False    |
 | 460           | Brandende vliegtuigtrekker                         | 1840        | never     | False    |
@@ -144,8 +138,6 @@ Count: 666
 | 515/a         | Aanvaring vrachtschip met waterbus (Grip 3)        | 6600        | never     | False    |
 | 516           | Aanvaring met rondvaartboot (Grip 3)               | 5590        | never     | False    |
 | 516/a         | Aanvaring met rondvaartboot (Grip 3)               | 7737        | never     | False    |
-| 517           | Aanvaring met luxe jachtschip (Grip 4)             | 5750        | never     | False    |
-| 517/a         | Aanvaring met luxe jachtschip (Grip 4)             | 7937        | never     | False    |
 | 518           | Aanvaring vrachtschip met veerboot (Grip 4)        | 9200        | never     | False    |
 | 518/a         | Aanvaring vrachtschip met veerboot (Grip 4)        | 12250       | never     | False    |
 | 519/a         | Aanvaring vrachtschip met passagiersschip (Grip 4) | 20162       | never     | False    |
@@ -192,7 +184,6 @@ Count: 666
 | 803/a         | Persoon vermist rondom mui                         | 3370        | never     | False    |
 | 804-0         | Grote zoekactie vermist persoon                    | 5900        | never     | False    |
 | 804-1         | Grote zoekactie vermist persoon                    | 9550        | never     | False    |
-| 808           | Persoon van paard gevallen                         | 1330        | never     | False    |
 | 809           | Bootje op drift                                    | 1730        | never     | False    |
 | 819           | Toezicht/Begeleiding Surfwedstrijd                 | 7860        | never     | False    |
 | 837           | Gaslek bedrijventerrein                            | 8580        | never     | False    |
@@ -349,7 +340,6 @@ Count: 666
 | 948-1         | Brand op windmolenpark                             | 11575       | never     | False    |
 | 952-2         | Brand in stadion                                   | 37440       | never     | False    |
 | 952-3         | Brand in stadion                                   | 43140       | never     | False    |
-| 957           | Persoon onwel in attractie                         | 670         | never     | False    |
 | 958           | Voetbalwedstrijd                                   | 11000       | never     | False    |
 | 959           | Voetbalwedstrijd, risicowedstrijd                  | 22510       | never     | False    |
 | 961           | Toezicht Horeca                                    | 8745        | never     | False    |
@@ -360,7 +350,6 @@ Count: 666
 | 977           | Begeleiding demonstratie (groot)                   | 43135       | never     | False    |
 | 979/a         | Verward persoon bij spoor                          | 1640        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                   | 45080       | never     | False    |
-| 983           | Zeiljacht in problemen                             | 3080        | never     | False    |
 | 984           | Drugssmokkel op zee                                | 4980        | never     | False    |
 | 986           | Surfer vermist                                     | 4080        | never     | False    |
 | 992/a         | Gijzeling                                          | 10730       | never     | False    |
@@ -638,7 +627,6 @@ Count: 666
 | 1044/a        | Overval tankstation met gijzeling                  | 8200        | never     | False    |
 | 1053          | Zuurstofgebrek aan boord schip                     | 4480        | never     | False    |
 | 1062-1        | School shooting                                    | 12570       | never     | False    |
-| 1104          | Aanrijding trein & betonmixer                      | 14520       | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                      | 15320       | never     | False    |
 | 1148          | Grenscontrole                                      | 17370       | never     | False    |
 | 1162          | Verdacht pakket luchthaven                         | 2840        | never     | False    |
