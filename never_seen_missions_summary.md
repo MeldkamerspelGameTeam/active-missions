@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 872
+Count: 871
 
 # Active never-seen missions
 
-Count: 619
+Count: 618
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -272,7 +272,6 @@ Count: 619
 | 929/d         | Brand in gasverdeelstation                       | 27310       | never     | False    |
 | 929/e         | Brand in gasverdeelstation                       | 27160       | never     | False    |
 | 929/ab        | Brand in gasverdeelstation                       | 37825       | never     | False    |
-| 929/ac        | Brand in gasverdeelstation                       | 32510       | never     | False    |
 | 929/ad        | Brand in gasverdeelstation                       | 28110       | never     | False    |
 | 929/ae        | Brand in gasverdeelstation                       | 27960       | never     | False    |
 | 929/bd        | Brand in gasverdeelstation                       | 37825       | never     | False    |
