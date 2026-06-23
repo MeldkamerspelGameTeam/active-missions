@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 871
+Count: 870
 
 # Active never-seen missions
 
-Count: 618
+Count: 617
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -610,7 +610,6 @@ Count: 618
 | 1203          | Brand in ziekenhuis (Grip 2)                     | 20050       | never     | False    |
 | 1203/a        | Brand in ziekenhuis (Grip 2)                     | 27562       | never     | False    |
 | 1203/b        | Brand in ziekenhuis (Grip 2)                     | 20850       | never     | False    |
-| 1203/c        | Brand in ziekenhuis (Grip 2)                     | 20850       | never     | False    |
 | 1203/ab       | Brand in ziekenhuis (Grip 2)                     | 28562       | never     | False    |
 | 1203/ac       | Brand in ziekenhuis (Grip 2)                     | 28562       | never     | False    |
 | 1203/bc       | Brand in ziekenhuis (Grip 2)                     | 21650       | never     | False    |
