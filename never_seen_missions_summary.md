@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 873
+Count: 872
 
 # Active never-seen missions
 
-Count: 620
+Count: 619
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -39,7 +39,6 @@ Count: 620
 | 234           | Vliegtuig neergestort                            | 15120       | never     | False    |
 | 243/a         | Verdachte situatie                               | 1550        | never     | False    |
 | 245           | Ontruimen kraakpand                              | 7365        | never     | False    |
-| 248/a         | Persoon vermist                                  | 6240        | never     | False    |
 | 251           | Vrachtwagen te water                             | 2660        | never     | False    |
 | 251/a         | Vrachtwagen te water                             | 2960        | never     | False    |
 | 252           | Vrachtwagen te water                             | 3830        | never     | False    |
