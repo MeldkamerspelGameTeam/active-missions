@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 895
+Count: 892
 
 # Active never-seen missions
 
-Count: 642
+Count: 639
 
 | ID            | Name                                               | Avg Credits | Last Seen | Inactive |
 | ------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -61,7 +61,6 @@ Count: 642
 | 275           | Brandend klein vliegtuig                           | 1560        | never     | False    |
 | 276           | Brandend klein vliegtuig                           | 3570        | never     | False    |
 | 282-0         | Brand in garagebedrijf                             | 7190        | never     | False    |
-| 299           | Brandend plezierjacht                              | 900         | never     | False    |
 | 307/a         | Verkeersongeval met touringcar                     | 8030        | never     | False    |
 | 307-0/a       | Verkeersongeval met touringcar                     | 6000        | never     | False    |
 | 307-1/a       | Verkeersongeval met touringcar                     | 14270       | never     | False    |
@@ -113,7 +112,6 @@ Count: 642
 | 459           | Brandende vliegtuigtrekker                         | 1290        | never     | False    |
 | 460           | Brandende vliegtuigtrekker                         | 1840        | never     | False    |
 | 463/a         | Verdachte vaten aangetroffen                       | 4390        | never     | False    |
-| 482           | Watersporter vermist                               | 3000        | never     | False    |
 | 484           | Vat met gevaarlijke stoffen omgevallen             | 3880        | never     | False    |
 | 485           | Vat met gevaarlijke stoffen omgevallen             | 6660        | never     | False    |
 | 492/a         | Ongeregeldheden voetbalsupporters horeca           | 6810        | never     | False    |
@@ -620,7 +618,6 @@ Count: 642
 | 1062-1        | School shooting                                    | 12570       | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                      | 15320       | never     | False    |
 | 1148          | Grenscontrole                                      | 17370       | never     | False    |
-| 1162          | Verdacht pakket luchthaven                         | 2840        | never     | False    |
 | 1163          | Explosie luchthaven                                | 19810       | never     | False    |
 | 1166          | Diepzeemijn aangetroffen                           | 4810        | never     | False    |
 | 1180/a        | Brand in snackbar (Grip 1)                         | 14000       | never     | False    |
