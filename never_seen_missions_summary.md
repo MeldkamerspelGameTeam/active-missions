@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 858
+Count: 857
 
 # Active never-seen missions
 
-Count: 605
+Count: 604
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -114,7 +114,6 @@ Count: 605
 | 495           | Personenauto in sloot                            | 1400        | never     | False    |
 | 497/a         | Personenauto te water                            | 5650        | never     | False    |
 | 509           | Brand in fabriekshal                             | 9930        | never     | False    |
-| 514           | Aanvaring vrachtschip met watertaxi (Grip 3)     | 2940        | never     | False    |
 | 515           | Aanvaring vrachtschip met waterbus (Grip 3)      | 4680        | never     | False    |
 | 515/a         | Aanvaring vrachtschip met waterbus (Grip 3)      | 6600        | never     | False    |
 | 516           | Aanvaring met rondvaartboot (Grip 3)             | 5590        | never     | False    |
