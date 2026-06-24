@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 846
+Count: 843
 
 # Active never-seen missions
 
-Count: 593
+Count: 590
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -34,7 +34,6 @@ Count: 593
 | 210           | Aanvaring vrachtschip met kajuitboot (Grip 3)    | 4180        | never     | False    |
 | 210/a         | Aanvaring vrachtschip met kajuitboot (Grip 3)    | 5975        | never     | False    |
 | 212           | Omgeslagen Zeilboot                              | 1910        | never     | False    |
-| 213           | Omgeslagen Zeilboot                              | 3150        | never     | False    |
 | 234           | Vliegtuig neergestort                            | 15120       | never     | False    |
 | 243/a         | Verdachte situatie                               | 1550        | never     | False    |
 | 245           | Ontruimen kraakpand                              | 7365        | never     | False    |
@@ -74,8 +73,6 @@ Count: 593
 | 349/a         | Zwemmer vermist (Grip 1)                         | 7437        | never     | False    |
 | 351/a         | Inbraakalarm woning                              | 2300        | never     | False    |
 | 353           | Brand in terminal                                | 3300        | never     | False    |
-| 354           | Brand in terminal                                | 6470        | never     | False    |
-| 354-0         | Brand in terminal                                | 7320        | never     | False    |
 | 355/b         | Heidebrand (Grip 1)                              | 27392       | never     | False    |
 | 356/b         | Heidebrand (Grip 2)                              | 32502       | never     | False    |
 | 376           | Persoon te water                                 | 3000        | never     | False    |
