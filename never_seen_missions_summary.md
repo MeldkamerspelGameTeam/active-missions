@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 864
+Count: 860
 
 # Active never-seen missions
 
-Count: 611
+Count: 607
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -25,7 +25,6 @@ Count: 611
 | 181/a         | Verkeersongeval met beknelling                   | 2890        | never     | False    |
 | 181/b         | Verkeersongeval met beknelling                   | 2490        | never     | False    |
 | 181/ab        | Verkeersongeval met beknelling                   | 3290        | never     | False    |
-| 184           | Eend verstrikt in visdraad                       | 400         | never     | False    |
 | 200/a         | Drugslab aangetroffen                            | 1600        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein)  | 2240        | never     | False    |
 | 204/a         | Verkeersongeval met gevaarlijke stoffen (middel) | 6490        | never     | False    |
@@ -97,7 +96,6 @@ Count: 611
 | 429-0/ab      | Brand in bouwmarkt (Grip 2)                      | 23187       | never     | False    |
 | 435           | Lekkende tankwagen                               | 6660        | never     | False    |
 | 437           | Persoon te water                                 | 1150        | never     | False    |
-| 438           | Duiker vermist                                   | 850         | never     | False    |
 | 439           | Duiker vermist                                   | 1100        | never     | False    |
 | 451           | Zwaan met gebroken poot                          | 400         | never     | False    |
 | 458           | Brand in manege                                  | 2980        | never     | False    |
@@ -113,8 +111,6 @@ Count: 611
 | 492-1/a       | Ongeregeldheden voetbalsupporters horeca         | 7010        | never     | False    |
 | 492-2         | Ongeregeldheden voetbalsupporters horeca         | 7310        | never     | False    |
 | 492-2/a       | Ongeregeldheden voetbalsupporters horeca         | 8110        | never     | False    |
-| 493           | Ongeregeldheden voetbalsupporters horeca         | 4470        | never     | False    |
-| 493-1         | Ongeregeldheden voetbalsupporters horeca         | 3720        | never     | False    |
 | 494           | Personenauto in sloot                            | 1400        | never     | False    |
 | 495           | Personenauto in sloot                            | 1400        | never     | False    |
 | 497/a         | Personenauto te water                            | 5650        | never     | False    |
