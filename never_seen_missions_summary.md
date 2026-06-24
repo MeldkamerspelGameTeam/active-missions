@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 854
+Count: 852
 
 # Active never-seen missions
 
-Count: 601
+Count: 599
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -55,7 +55,6 @@ Count: 601
 | 274/a         | Klein vliegtuig neergestort                      | 6570        | never     | False    |
 | 275           | Brandend klein vliegtuig                         | 1560        | never     | False    |
 | 276           | Brandend klein vliegtuig                         | 3570        | never     | False    |
-| 282-0         | Brand in garagebedrijf                           | 7190        | never     | False    |
 | 307/a         | Verkeersongeval met touringcar                   | 8030        | never     | False    |
 | 307-0/a       | Verkeersongeval met touringcar                   | 6000        | never     | False    |
 | 307-1/a       | Verkeersongeval met touringcar                   | 14270       | never     | False    |
@@ -97,7 +96,6 @@ Count: 601
 | 435           | Lekkende tankwagen                               | 6660        | never     | False    |
 | 437           | Persoon te water                                 | 1150        | never     | False    |
 | 439           | Duiker vermist                                   | 1100        | never     | False    |
-| 451           | Zwaan met gebroken poot                          | 400         | never     | False    |
 | 458           | Brand in manege                                  | 2980        | never     | False    |
 | 459           | Brandende vliegtuigtrekker                       | 1290        | never     | False    |
 | 460           | Brandende vliegtuigtrekker                       | 1840        | never     | False    |
