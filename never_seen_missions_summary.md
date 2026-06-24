@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 856
+Count: 854
 
 # Active never-seen missions
 
-Count: 603
+Count: 601
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -111,7 +111,6 @@ Count: 603
 | 492-2         | Ongeregeldheden voetbalsupporters horeca         | 7310        | never     | False    |
 | 492-2/a       | Ongeregeldheden voetbalsupporters horeca         | 8110        | never     | False    |
 | 494           | Personenauto in sloot                            | 1400        | never     | False    |
-| 495           | Personenauto in sloot                            | 1400        | never     | False    |
 | 497/a         | Personenauto te water                            | 5650        | never     | False    |
 | 509           | Brand in fabriekshal                             | 9930        | never     | False    |
 | 515           | Aanvaring vrachtschip met waterbus (Grip 3)      | 4680        | never     | False    |
@@ -308,7 +307,6 @@ Count: 603
 | 973/a         | Uit de handgelopen overwinningsfeest             | 8540        | never     | False    |
 | 974           | Ontspoorde tram botst tegen gebouw               | 3110        | never     | False    |
 | 974-1         | Ontspoorde tram botst tegen gebouw               | 14330       | never     | False    |
-| 977           | Begeleiding demonstratie (groot)                 | 43135       | never     | False    |
 | 979/a         | Verward persoon bij spoor                        | 1640        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                 | 45080       | never     | False    |
 | 984           | Drugssmokkel op zee                              | 4980        | never     | False    |
