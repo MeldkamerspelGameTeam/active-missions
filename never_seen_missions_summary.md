@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 852
+Count: 850
 
 # Active never-seen missions
 
-Count: 599
+Count: 597
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -79,7 +79,6 @@ Count: 599
 | 354-0         | Brand in terminal                                | 7320        | never     | False    |
 | 355/b         | Heidebrand (Grip 1)                              | 27392       | never     | False    |
 | 356/b         | Heidebrand (Grip 2)                              | 32502       | never     | False    |
-| 364           | Brand op passagiersschip                         | 3250        | never     | False    |
 | 376           | Persoon te water                                 | 3000        | never     | False    |
 | 377/a         | Persoon te water                                 | 6000        | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                      | 9950        | never     | False    |
@@ -182,7 +181,6 @@ Count: 599
 | 880/b         | Duinbrand (Grip 2)                               | 41684       | never     | False    |
 | 881/b         | Duinbrand (Grip 3)                               | 45654       | never     | False    |
 | 885/b         | Brand in vuurwerkopslag                          | 64525       | never     | False    |
-| 885/c         | Brand in vuurwerkopslag                          | 53870       | never     | False    |
 | 885/d         | Brand in vuurwerkopslag                          | 49320       | never     | False    |
 | 885/e         | Brand in vuurwerkopslag                          | 49470       | never     | False    |
 | 885/f         | Brand in vuurwerkopslag                          | 49870       | never     | False    |
