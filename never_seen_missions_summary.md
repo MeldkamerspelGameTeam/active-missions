@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 860
+Count: 859
 
 # Active never-seen missions
 
-Count: 607
+Count: 606
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -107,7 +107,6 @@ Count: 607
 | 492/a         | Ongeregeldheden voetbalsupporters horeca         | 6810        | never     | False    |
 | 492-0         | Ongeregeldheden voetbalsupporters horeca         | 6510        | never     | False    |
 | 492-0/a       | Ongeregeldheden voetbalsupporters horeca         | 7310        | never     | False    |
-| 492-1         | Ongeregeldheden voetbalsupporters horeca         | 6210        | never     | False    |
 | 492-1/a       | Ongeregeldheden voetbalsupporters horeca         | 7010        | never     | False    |
 | 492-2         | Ongeregeldheden voetbalsupporters horeca         | 7310        | never     | False    |
 | 492-2/a       | Ongeregeldheden voetbalsupporters horeca         | 8110        | never     | False    |
