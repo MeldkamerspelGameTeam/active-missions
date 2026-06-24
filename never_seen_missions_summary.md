@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 870
+Count: 864
 
 # Active never-seen missions
 
-Count: 617
+Count: 611
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -84,14 +84,12 @@ Count: 617
 | 364           | Brand op passagiersschip                         | 3250        | never     | False    |
 | 376           | Persoon te water                                 | 3000        | never     | False    |
 | 377/a         | Persoon te water                                 | 6000        | never     | False    |
-| 394/b         | Brand bij afvalverwerker (Grip 1)                | 9510        | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                      | 9950        | never     | False    |
 | 428/ab        | Brand in bouwmarkt (Grip 1)                      | 13187       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                      | 11050       | never     | False    |
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                      | 14562       | never     | False    |
 | 428-0/b       | Brand in bouwmarkt (Grip 1)                      | 11850       | never     | False    |
 | 428-0/ab      | Brand in bouwmarkt (Grip 1)                      | 15562       | never     | False    |
-| 429/b         | Brand in bouwmarkt (Grip 2)                      | 15050       | never     | False    |
 | 429/ab        | Brand in bouwmarkt (Grip 2)                      | 19562       | never     | False    |
 | 429-0         | Brand in bouwmarkt (Grip 2)                      | 17150       | never     | False    |
 | 429-0/a       | Brand in bouwmarkt (Grip 2)                      | 22187       | never     | False    |
@@ -209,7 +207,6 @@ Count: 617
 | 885/be        | Brand in vuurwerkopslag                          | 65525       | never     | False    |
 | 885/bf        | Brand in vuurwerkopslag                          | 66025       | never     | False    |
 | 885/cd        | Brand in vuurwerkopslag                          | 54520       | never     | False    |
-| 885/ce        | Brand in vuurwerkopslag                          | 54670       | never     | False    |
 | 885/cf        | Brand in vuurwerkopslag                          | 55070       | never     | False    |
 | 885/de        | Brand in vuurwerkopslag                          | 50120       | never     | False    |
 | 885/df        | Brand in vuurwerkopslag                          | 50520       | never     | False    |
@@ -270,7 +267,6 @@ Count: 617
 | 929/b         | Brand in gasverdeelstation                       | 36825       | never     | False    |
 | 929/c         | Brand in gasverdeelstation                       | 31710       | never     | False    |
 | 929/d         | Brand in gasverdeelstation                       | 27310       | never     | False    |
-| 929/e         | Brand in gasverdeelstation                       | 27160       | never     | False    |
 | 929/ab        | Brand in gasverdeelstation                       | 37825       | never     | False    |
 | 929/ad        | Brand in gasverdeelstation                       | 28110       | never     | False    |
 | 929/ae        | Brand in gasverdeelstation                       | 27960       | never     | False    |
@@ -348,7 +344,6 @@ Count: 617
 | 1034/e        | Brand in nucleaire installatie                   | 70710       | never     | False    |
 | 1034/f        | Brand in nucleaire installatie                   | 70610       | never     | False    |
 | 1034/g        | Brand in nucleaire installatie                   | 71010       | never     | False    |
-| 1034/h        | Brand in nucleaire installatie                   | 70260       | never     | False    |
 | 1034/ab       | Brand in nucleaire installatie                   | 91450       | never     | False    |
 | 1034/ad       | Brand in nucleaire installatie                   | 71610       | never     | False    |
 | 1034/ae       | Brand in nucleaire installatie                   | 71510       | never     | False    |
@@ -357,7 +352,6 @@ Count: 617
 | 1034/ah       | Brand in nucleaire installatie                   | 71060       | never     | False    |
 | 1034/bc       | Brand in nucleaire installatie                   | 98450       | never     | False    |
 | 1034/bd       | Brand in nucleaire installatie                   | 92200       | never     | False    |
-| 1034/be       | Brand in nucleaire installatie                   | 92075       | never     | False    |
 | 1034/bf       | Brand in nucleaire installatie                   | 91950       | never     | False    |
 | 1034/bg       | Brand in nucleaire installatie                   | 92450       | never     | False    |
 | 1034/bh       | Brand in nucleaire installatie                   | 91512       | never     | False    |
