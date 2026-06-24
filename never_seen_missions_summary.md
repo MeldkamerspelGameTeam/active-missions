@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 850
+Count: 847
 
 # Active never-seen missions
 
-Count: 597
+Count: 594
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -39,7 +39,6 @@ Count: 597
 | 243/a         | Verdachte situatie                               | 1550        | never     | False    |
 | 245           | Ontruimen kraakpand                              | 7365        | never     | False    |
 | 251           | Vrachtwagen te water                             | 2660        | never     | False    |
-| 251/a         | Vrachtwagen te water                             | 2960        | never     | False    |
 | 252           | Vrachtwagen te water                             | 3830        | never     | False    |
 | 252/a         | Vrachtwagen te water                             | 4630        | never     | False    |
 | 252/b         | Vrachtwagen te water                             | 4130        | never     | False    |
@@ -134,7 +133,6 @@ Count: 597
 | 671-0         | Toezicht Horeca                                  | 8745        | never     | False    |
 | 721/a         | Spontane opstand                                 | 10180       | never     | False    |
 | 763/a         | Toezicht bij manifestatie                        | 5515        | never     | False    |
-| 764/a         | Opbreken manifestatie                            | 11165       | never     | False    |
 | 765/a         | Onaangekondigde demonstratie                     | 7755        | never     | False    |
 | 766/a         | Onrust in de wijk                                | 3685        | never     | False    |
 | 787/a         | Persoon bekneld in gierput                       | 5660        | never     | False    |
@@ -576,7 +574,6 @@ Count: 597
 | 1034/bcdefgh  | Brand in nucleaire installatie                   | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                   | 107387      | never     | False    |
 | 1035/a        | Verward persoon dreigt van boord te springen     | 2030        | never     | False    |
-| 1044/a        | Overval tankstation met gijzeling                | 8200        | never     | False    |
 | 1053          | Zuurstofgebrek aan boord schip                   | 4480        | never     | False    |
 | 1062-1        | School shooting                                  | 12570       | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                    | 15320       | never     | False    |
