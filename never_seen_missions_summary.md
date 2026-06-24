@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 847
+Count: 846
 
 # Active never-seen missions
 
-Count: 594
+Count: 593
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -92,7 +92,6 @@ Count: 594
 | 429-0/b       | Brand in bouwmarkt (Grip 2)                      | 17950       | never     | False    |
 | 429-0/ab      | Brand in bouwmarkt (Grip 2)                      | 23187       | never     | False    |
 | 435           | Lekkende tankwagen                               | 6660        | never     | False    |
-| 437           | Persoon te water                                 | 1150        | never     | False    |
 | 439           | Duiker vermist                                   | 1100        | never     | False    |
 | 458           | Brand in manege                                  | 2980        | never     | False    |
 | 459           | Brandende vliegtuigtrekker                       | 1290        | never     | False    |
