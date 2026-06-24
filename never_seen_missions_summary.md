@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 843
+Count: 840
 
 # Active never-seen missions
 
-Count: 590
+Count: 587
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
@@ -51,7 +51,6 @@ Count: 590
 | 273           | Klein vliegtuig neergestort                      | 2140        | never     | False    |
 | 274           | Klein vliegtuig neergestort                      | 5770        | never     | False    |
 | 274/a         | Klein vliegtuig neergestort                      | 6570        | never     | False    |
-| 275           | Brandend klein vliegtuig                         | 1560        | never     | False    |
 | 276           | Brandend klein vliegtuig                         | 3570        | never     | False    |
 | 307/a         | Verkeersongeval met touringcar                   | 8030        | never     | False    |
 | 307-0/a       | Verkeersongeval met touringcar                   | 6000        | never     | False    |
@@ -92,7 +91,6 @@ Count: 590
 | 439           | Duiker vermist                                   | 1100        | never     | False    |
 | 458           | Brand in manege                                  | 2980        | never     | False    |
 | 459           | Brandende vliegtuigtrekker                       | 1290        | never     | False    |
-| 460           | Brandende vliegtuigtrekker                       | 1840        | never     | False    |
 | 463/a         | Verdachte vaten aangetroffen                     | 4390        | never     | False    |
 | 484           | Vat met gevaarlijke stoffen omgevallen           | 3880        | never     | False    |
 | 485           | Vat met gevaarlijke stoffen omgevallen           | 6660        | never     | False    |
@@ -118,7 +116,6 @@ Count: 590
 | 605           | Brand in Silo                                    | 11760       | never     | False    |
 | 614/a         | Verward persoon op dak                           | 5190        | never     | False    |
 | 625/a         | Onbeheerde bagage gevonden                       | 2770        | never     | False    |
-| 640           | Brand in hangaar                                 | 910         | never     | False    |
 | 641           | Brand in hangaar                                 | 1930        | never     | False    |
 | 653           | Brand bij zendmast                               | 500         | never     | False    |
 | 654           | Brand bij zendmast                               | 2030        | never     | False    |
