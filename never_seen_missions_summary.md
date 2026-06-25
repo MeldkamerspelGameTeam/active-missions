@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 828
+Count: 824
 
 # Active never-seen missions
 
-Count: 575
+Count: 571
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -47,9 +47,7 @@ Count: 575
 | 272           | Klein vliegtuig met motorisch probleem          | 2140        | never     | False    |
 | 273           | Klein vliegtuig neergestort                     | 2140        | never     | False    |
 | 274           | Klein vliegtuig neergestort                     | 5770        | never     | False    |
-| 274/a         | Klein vliegtuig neergestort                     | 6570        | never     | False    |
 | 276           | Brandend klein vliegtuig                        | 3570        | never     | False    |
-| 307/a         | Verkeersongeval met touringcar                  | 8030        | never     | False    |
 | 307-0/a       | Verkeersongeval met touringcar                  | 6000        | never     | False    |
 | 307-1/a       | Verkeersongeval met touringcar                  | 14270       | never     | False    |
 | 307-2/a       | Verkeersongeval met touringcar                  | 15070       | never     | False    |
@@ -132,7 +130,6 @@ Count: 575
 | 787/abc       | Persoon bekneld in gierput                      | 7110        | never     | False    |
 | 796           | Zoekactie vermist persoon                       | 1840        | never     | False    |
 | 796-0         | Zoekactie vermist persoon                       | 2090        | never     | False    |
-| 800/a         | Groep zwemmers in problemen                     | 4120        | never     | False    |
 | 801           | Groep kitesurfers in problemen                  | 3990        | never     | False    |
 | 802           | Surfer gewond                                   | 1230        | never     | False    |
 | 803/a         | Persoon vermist rondom mui                      | 3370        | never     | False    |
@@ -286,7 +283,6 @@ Count: 575
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
 | 984           | Drugssmokkel op zee                             | 4980        | never     | False    |
 | 986           | Surfer vermist                                  | 4080        | never     | False    |
-| 992/a         | Gijzeling                                       | 10730       | never     | False    |
 | 993           | Straat afzetten voor politie                    | 840         | never     | False    |
 | 1016/a        | Aanvaring veerpont                              | 15530       | never     | False    |
 | 1017          | Redding overboord geslagen slachtoffers         | 1230        | never     | False    |
