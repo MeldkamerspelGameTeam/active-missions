@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 832
+Count: 828
 
 # Active never-seen missions
 
-Count: 579
+Count: 575
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -31,7 +31,6 @@ Count: 579
 | 209/a         | Aanvaring vrachtschip met vlet (Grip 3)         | 4912        | never     | False    |
 | 210           | Aanvaring vrachtschip met kajuitboot (Grip 3)   | 4180        | never     | False    |
 | 210/a         | Aanvaring vrachtschip met kajuitboot (Grip 3)   | 5975        | never     | False    |
-| 212           | Omgeslagen Zeilboot                             | 1910        | never     | False    |
 | 234           | Vliegtuig neergestort                           | 15120       | never     | False    |
 | 243/a         | Verdachte situatie                              | 1550        | never     | False    |
 | 245           | Ontruimen kraakpand                             | 7365        | never     | False    |
@@ -116,7 +115,6 @@ Count: 579
 | 641           | Brand in hangaar                                | 1930        | never     | False    |
 | 653           | Brand bij zendmast                              | 500         | never     | False    |
 | 654           | Brand bij zendmast                              | 2030        | never     | False    |
-| 663           | Verkeerscontrole                                | 6690        | never     | False    |
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 667/a         | Ongeval met hete luchtballon                    | 5220        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
@@ -144,7 +142,6 @@ Count: 579
 | 819           | Toezicht/Begeleiding Surfwedstrijd              | 7860        | never     | False    |
 | 837           | Gaslek bedrijventerrein                         | 8580        | never     | False    |
 | 841/b         | Aanrijding met zwaar letsel                     | 6140        | never     | False    |
-| 841/ab        | Aanrijding met zwaar letsel                     | 6540        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                     | 6740        | never     | False    |
 | 841-0/a       | Aanrijding met zwaar letsel                     | 7140        | never     | False    |
 | 841-0/b       | Aanrijding met zwaar letsel                     | 7540        | never     | False    |
@@ -279,7 +276,6 @@ Count: 579
 | 948-0         | Brand op windmolenpark                          | 2100        | never     | False    |
 | 948-1         | Brand op windmolenpark                          | 11575       | never     | False    |
 | 952-3         | Brand in stadion                                | 43140       | never     | False    |
-| 958           | Voetbalwedstrijd                                | 11000       | never     | False    |
 | 959           | Voetbalwedstrijd, risicowedstrijd               | 22510       | never     | False    |
 | 961           | Toezicht Horeca                                 | 8745        | never     | False    |
 | 961/a         | Toezicht Horeca                                 | 9545        | never     | False    |
