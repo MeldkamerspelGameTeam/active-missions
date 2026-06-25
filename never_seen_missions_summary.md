@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 816
+Count: 815
 
 # Active never-seen missions
 
-Count: 564
+Count: 563
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -58,7 +58,6 @@ Count: 564
 | 312/bc        | Lekkende goederenwagon (Groot)                  | 7170        | never     | False    |
 | 312/abc       | Lekkende goederenwagon (Groot)                  | 7870        | never     | False    |
 | 318           | Brand op binnenvaartschip                       | 1450        | never     | False    |
-| 319           | Brand op binnenvaartschip                       | 3100        | never     | False    |
 | 332           | Inbraak in bedrijfspand                         | 1500        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                        | 17500       | never     | False    |
