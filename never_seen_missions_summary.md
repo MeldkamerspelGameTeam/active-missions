@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 821
+Count: 816
 
 # Active never-seen missions
 
-Count: 568
+Count: 564
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -59,7 +59,6 @@ Count: 568
 | 312/abc       | Lekkende goederenwagon (Groot)                  | 7870        | never     | False    |
 | 318           | Brand op binnenvaartschip                       | 1450        | never     | False    |
 | 319           | Brand op binnenvaartschip                       | 3100        | never     | False    |
-| 320-0         | Brand op binnenvaartschip                       | 6850        | never     | False    |
 | 332           | Inbraak in bedrijfspand                         | 1500        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                        | 17500       | never     | False    |
@@ -110,7 +109,6 @@ Count: 568
 | 614/a         | Verward persoon op dak                          | 5190        | never     | False    |
 | 625/a         | Onbeheerde bagage gevonden                      | 2770        | never     | False    |
 | 641           | Brand in hangaar                                | 1930        | never     | False    |
-| 653           | Brand bij zendmast                              | 500         | never     | False    |
 | 654           | Brand bij zendmast                              | 2030        | never     | False    |
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 667/a         | Ongeval met hete luchtballon                    | 5220        | never     | False    |
@@ -152,7 +150,6 @@ Count: 568
 | 878           | Afzetten straat voor brandweer                  | 500         | never     | False    |
 | 878-0         | Afzetten straat voor brandweer                  | 670         | never     | False    |
 | 878-1         | Afzetten straat voor brandweer                  | 840         | never     | False    |
-| 879           | Persoon heeft rook ingeademd                    | None        | never     | False    |
 | 880/b         | Duinbrand (Grip 2)                              | 41684       | never     | False    |
 | 881/b         | Duinbrand (Grip 3)                              | 45654       | never     | False    |
 | 885/b         | Brand in vuurwerkopslag                         | 64525       | never     | False    |
@@ -279,7 +276,6 @@ Count: 568
 | 979/a         | Verward persoon bij spoor                       | 1640        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
 | 984           | Drugssmokkel op zee                             | 4980        | never     | False    |
-| 986           | Surfer vermist                                  | 4080        | never     | False    |
 | 993           | Straat afzetten voor politie                    | 840         | never     | False    |
 | 1016/a        | Aanvaring veerpont                              | 15530       | never     | False    |
 | 1017          | Redding overboord geslagen slachtoffers         | 1230        | never     | False    |
@@ -579,7 +575,7 @@ Count: 568
 
 # Inactive never-seen missions
 
-Count: 253
+Count: 252
 
 | ID     | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | --------- | -------- |
@@ -707,7 +703,6 @@ Count: 253
 | 791    | Brandende taart in oven                                            | 600         | never     | True     |
 | 792    | Keukenbrand                                                        | 1400        | never     | True     |
 | 793    | Chocoladediefstal                                                  | 1200        | never     | True     |
-| 830    | Beveiligen zwemwedstrijd                                           | 4410        | never     | True     |
 | 831    | Verontreinigde ijscokar                                            | 1350        | never     | True     |
 | 832    | Illegaal kampvuur in park                                          | 670         | never     | True     |
 | 856    | Persoon uitgegleden over natte bladeren                            | None        | never     | True     |
