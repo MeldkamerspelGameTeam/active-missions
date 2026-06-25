@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 824
+Count: 821
 
 # Active never-seen missions
 
-Count: 571
+Count: 568
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -50,7 +50,6 @@ Count: 571
 | 276           | Brandend klein vliegtuig                        | 3570        | never     | False    |
 | 307-0/a       | Verkeersongeval met touringcar                  | 6000        | never     | False    |
 | 307-1/a       | Verkeersongeval met touringcar                  | 14270       | never     | False    |
-| 307-2/a       | Verkeersongeval met touringcar                  | 15070       | never     | False    |
 | 312/a         | Lekkende goederenwagon (Groot)                  | 6420        | never     | False    |
 | 312/b         | Lekkende goederenwagon (Groot)                  | 6370        | never     | False    |
 | 312/c         | Lekkende goederenwagon (Groot)                  | 6520        | never     | False    |
@@ -122,7 +121,6 @@ Count: 571
 | 765/a         | Onaangekondigde demonstratie                    | 7755        | never     | False    |
 | 766/a         | Onrust in de wijk                               | 3685        | never     | False    |
 | 787/a         | Persoon bekneld in gierput                      | 5660        | never     | False    |
-| 787/b         | Persoon bekneld in gierput                      | 5610        | never     | False    |
 | 787/c         | Persoon bekneld in gierput                      | 5760        | never     | False    |
 | 787/ab        | Persoon bekneld in gierput                      | 6310        | never     | False    |
 | 787/ac        | Persoon bekneld in gierput                      | 6460        | never     | False    |
@@ -135,7 +133,6 @@ Count: 571
 | 803/a         | Persoon vermist rondom mui                      | 3370        | never     | False    |
 | 804-0         | Grote zoekactie vermist persoon                 | 5900        | never     | False    |
 | 804-1         | Grote zoekactie vermist persoon                 | 9550        | never     | False    |
-| 809           | Bootje op drift                                 | 1730        | never     | False    |
 | 819           | Toezicht/Begeleiding Surfwedstrijd              | 7860        | never     | False    |
 | 837           | Gaslek bedrijventerrein                         | 8580        | never     | False    |
 | 841/b         | Aanrijding met zwaar letsel                     | 6140        | never     | False    |
