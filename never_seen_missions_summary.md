@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 806
+Count: 805
 
 # Active never-seen missions
 
-Count: 554
+Count: 553
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -206,7 +206,6 @@ Count: 554
 | 897/a         | Rellen na stadsderby                            | 16755       | never     | False    |
 | 897-0/a       | Rellen na stadsderby                            | 17355       | never     | False    |
 | 897-1/a       | Rellen na stadsderby                            | 18355       | never     | False    |
-| 897-2         | Rellen na stadsderby                            | 18555       | never     | False    |
 | 897-2/a       | Rellen na stadsderby                            | 19355       | never     | False    |
 | 899/a         | Aanrijding bus en tram                          | 9830        | never     | False    |
 | 901-0/a       | Trein ontspoord                                 | 8210        | never     | False    |
