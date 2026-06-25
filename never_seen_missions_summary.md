@@ -1,16 +1,15 @@
 # Never seen missions
 
-Count: 840
+Count: 834
 
 # Active never-seen missions
 
-Count: 587
+Count: 581
 
 | ID            | Name                                             | Avg Credits | Last Seen | Inactive |
 | ------------- | ------------------------------------------------ | ----------: | --------- | -------- |
 | 25/a          | Verkeersongeval met beknelling                   | 3240        | never     | False    |
 | 27            | Persoon aangereden                               | 700         | never     | False    |
-| 36/b          | Brandende goederenwagon (Groot)                  | 6770        | never     | False    |
 | 36/ab         | Brandende goederenwagon (Groot)                  | 8570        | never     | False    |
 | 38            | Brandende afvalbak                               | 110         | never     | False    |
 | 41            | Brand in kantoorpand                             | 22380       | never     | False    |
@@ -113,7 +112,6 @@ Count: 587
 | 592           | Brand op bedrijventerrein                        | 12540       | never     | False    |
 | 593           | Begeleiding demonstratie (klein)                 | 9720        | never     | False    |
 | 594           | Begeleiding demonstratie (groot)                 | 35910       | never     | False    |
-| 605           | Brand in Silo                                    | 11760       | never     | False    |
 | 614/a         | Verward persoon op dak                           | 5190        | never     | False    |
 | 625/a         | Onbeheerde bagage gevonden                       | 2770        | never     | False    |
 | 641           | Brand in hangaar                                 | 1930        | never     | False    |
@@ -155,13 +153,10 @@ Count: 587
 | 853/a         | Vliegtuig neergestort                            | 7690        | never     | False    |
 | 853-0         | Vliegtuig neergestort                            | 21820       | never     | False    |
 | 853-0/a       | Vliegtuig neergestort                            | 22620       | never     | False    |
-| 853-1         | Vliegtuig neergestort                            | 23660       | never     | False    |
 | 853-1/a       | Vliegtuig neergestort                            | 24460       | never     | False    |
 | 854           | Ongeval waterscooter                             | 1730        | never     | False    |
-| 855           | Observatie                                       | 5790        | never     | False    |
 | 855/a         | Observatie                                       | 6590        | never     | False    |
 | 866           | Duinbrand                                        | 1170        | never     | False    |
-| 867           | Duinbrand (Middel)                               | 2690        | never     | False    |
 | 868/b         | Duinbrand (Grip 1)                               | 21547       | never     | False    |
 | 869/b         | Aanrijding hulpverleningsvoertuig                | 2900        | never     | False    |
 | 869/ab        | Aanrijding hulpverleningsvoertuig                | 3200        | never     | False    |
@@ -269,7 +264,6 @@ Count: 587
 | 929/bcde      | Brand in gasverdeelstation                       | 45137       | never     | False    |
 | 929/abcde     | Brand in gasverdeelstation                       | 46137       | never     | False    |
 | 932           | Brand op veerpont                                | 3680        | never     | False    |
-| 933           | Bouwsteiger ingestort                            | 4480        | never     | False    |
 | 933-0         | Bouwsteiger ingestort                            | 6980        | never     | False    |
 | 942           | Schoolbus te water                               | 4650        | never     | False    |
 | 942/a         | Schoolbus te water                               | 4950        | never     | False    |
