@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 811
+Count: 810
 
 # Active never-seen missions
 
-Count: 559
+Count: 558
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -106,7 +106,6 @@ Count: 559
 | 614/a         | Verward persoon op dak                          | 5190        | never     | False    |
 | 625/a         | Onbeheerde bagage gevonden                      | 2770        | never     | False    |
 | 641           | Brand in hangaar                                | 1930        | never     | False    |
-| 654           | Brand bij zendmast                              | 2030        | never     | False    |
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 667/a         | Ongeval met hete luchtballon                    | 5220        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
