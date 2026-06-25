@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 814
+Count: 811
 
 # Active never-seen missions
 
-Count: 562
+Count: 559
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -58,7 +58,6 @@ Count: 562
 | 312/bc        | Lekkende goederenwagon (Groot)                  | 7170        | never     | False    |
 | 312/abc       | Lekkende goederenwagon (Groot)                  | 7870        | never     | False    |
 | 318           | Brand op binnenvaartschip                       | 1450        | never     | False    |
-| 332           | Inbraak in bedrijfspand                         | 1500        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                        | 17500       | never     | False    |
 | 349/a         | Zwemmer vermist (Grip 1)                        | 7437        | never     | False    |
@@ -125,7 +124,6 @@ Count: 562
 | 796           | Zoekactie vermist persoon                       | 1840        | never     | False    |
 | 796-0         | Zoekactie vermist persoon                       | 2090        | never     | False    |
 | 801           | Groep kitesurfers in problemen                  | 3990        | never     | False    |
-| 802           | Surfer gewond                                   | 1230        | never     | False    |
 | 803/a         | Persoon vermist rondom mui                      | 3370        | never     | False    |
 | 804-0         | Grote zoekactie vermist persoon                 | 5900        | never     | False    |
 | 804-1         | Grote zoekactie vermist persoon                 | 9550        | never     | False    |
@@ -147,7 +145,6 @@ Count: 562
 | 869/ab        | Aanrijding hulpverleningsvoertuig               | 3200        | never     | False    |
 | 878           | Afzetten straat voor brandweer                  | 500         | never     | False    |
 | 878-0         | Afzetten straat voor brandweer                  | 670         | never     | False    |
-| 878-1         | Afzetten straat voor brandweer                  | 840         | never     | False    |
 | 880/b         | Duinbrand (Grip 2)                              | 41684       | never     | False    |
 | 881/b         | Duinbrand (Grip 3)                              | 45654       | never     | False    |
 | 885/b         | Brand in vuurwerkopslag                         | 64525       | never     | False    |
