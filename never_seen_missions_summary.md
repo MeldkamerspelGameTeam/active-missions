@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 810
+Count: 806
 
 # Active never-seen missions
 
-Count: 558
+Count: 554
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -48,7 +48,6 @@ Count: 558
 | 273           | Klein vliegtuig neergestort                     | 2140        | never     | False    |
 | 274           | Klein vliegtuig neergestort                     | 5770        | never     | False    |
 | 276           | Brandend klein vliegtuig                        | 3570        | never     | False    |
-| 307-0/a       | Verkeersongeval met touringcar                  | 6000        | never     | False    |
 | 307-1/a       | Verkeersongeval met touringcar                  | 14270       | never     | False    |
 | 312/a         | Lekkende goederenwagon (Groot)                  | 6420        | never     | False    |
 | 312/b         | Lekkende goederenwagon (Groot)                  | 6370        | never     | False    |
@@ -57,7 +56,6 @@ Count: 558
 | 312/ac        | Lekkende goederenwagon (Groot)                  | 7220        | never     | False    |
 | 312/bc        | Lekkende goederenwagon (Groot)                  | 7170        | never     | False    |
 | 312/abc       | Lekkende goederenwagon (Groot)                  | 7870        | never     | False    |
-| 318           | Brand op binnenvaartschip                       | 1450        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                        | 17500       | never     | False    |
 | 349/a         | Zwemmer vermist (Grip 1)                        | 7437        | never     | False    |
@@ -86,7 +84,6 @@ Count: 558
 | 484           | Vat met gevaarlijke stoffen omgevallen          | 3880        | never     | False    |
 | 485           | Vat met gevaarlijke stoffen omgevallen          | 6660        | never     | False    |
 | 492/a         | Ongeregeldheden voetbalsupporters horeca        | 6810        | never     | False    |
-| 492-0         | Ongeregeldheden voetbalsupporters horeca        | 6510        | never     | False    |
 | 492-0/a       | Ongeregeldheden voetbalsupporters horeca        | 7310        | never     | False    |
 | 492-1/a       | Ongeregeldheden voetbalsupporters horeca        | 7010        | never     | False    |
 | 492-2         | Ongeregeldheden voetbalsupporters horeca        | 7310        | never     | False    |
@@ -539,7 +536,6 @@ Count: 558
 | 1034/abcdefgh | Brand in nucleaire installatie                  | 107387      | never     | False    |
 | 1035/a        | Verward persoon dreigt van boord te springen    | 2030        | never     | False    |
 | 1053          | Zuurstofgebrek aan boord schip                  | 4480        | never     | False    |
-| 1062-1        | School shooting                                 | 12570       | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                   | 15320       | never     | False    |
 | 1148          | Grenscontrole                                   | 17370       | never     | False    |
 | 1163          | Explosie luchthaven                             | 19810       | never     | False    |
