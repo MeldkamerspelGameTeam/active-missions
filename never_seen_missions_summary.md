@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 805
+Count: 804
 
 # Active never-seen missions
 
-Count: 553
+Count: 552
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -140,7 +140,6 @@ Count: 553
 | 869/b         | Aanrijding hulpverleningsvoertuig               | 2900        | never     | False    |
 | 869/ab        | Aanrijding hulpverleningsvoertuig               | 3200        | never     | False    |
 | 878           | Afzetten straat voor brandweer                  | 500         | never     | False    |
-| 878-0         | Afzetten straat voor brandweer                  | 670         | never     | False    |
 | 880/b         | Duinbrand (Grip 2)                              | 41684       | never     | False    |
 | 881/b         | Duinbrand (Grip 3)                              | 45654       | never     | False    |
 | 885/b         | Brand in vuurwerkopslag                         | 64525       | never     | False    |
