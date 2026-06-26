@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 796
+Count: 791
 
 # Active never-seen missions
 
-Count: 544
+Count: 539
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -41,7 +41,6 @@ Count: 544
 | 252/ab        | Vrachtwagen te water                            | 4930        | never     | False    |
 | 263           | Brandende personenauto in parkeergarage         | 300         | never     | False    |
 | 265           | Vliegtuig met hydraulisch probleem              | 2010        | never     | False    |
-| 266           | Vliegtuig met rook in cabine                    | 2010        | never     | False    |
 | 270           | Vliegtuig buiten start-/landingsbaan beland     | 3540        | never     | False    |
 | 271           | Rookontwikkeling in vrachtruim vliegtuig        | 2010        | never     | False    |
 | 274           | Klein vliegtuig neergestort                     | 5770        | never     | False    |
@@ -93,7 +92,6 @@ Count: 544
 | 516           | Aanvaring met rondvaartboot (Grip 3)            | 5590        | never     | False    |
 | 518           | Aanvaring vrachtschip met veerboot (Grip 4)     | 9200        | never     | False    |
 | 518/a         | Aanvaring vrachtschip met veerboot (Grip 4)     | 12250       | never     | False    |
-| 568/a         | Verward persoon (Hoge dreiging)                 | 2000        | never     | False    |
 | 591           | Uitslaande brand in veestal                     | 10775       | never     | False    |
 | 592           | Brand op bedrijventerrein                       | 12540       | never     | False    |
 | 593           | Begeleiding demonstratie (klein)                | 9720        | never     | False    |
@@ -116,7 +114,6 @@ Count: 544
 | 787/abc       | Persoon bekneld in gierput                      | 7110        | never     | False    |
 | 796           | Zoekactie vermist persoon                       | 1840        | never     | False    |
 | 796-0         | Zoekactie vermist persoon                       | 2090        | never     | False    |
-| 801           | Groep kitesurfers in problemen                  | 3990        | never     | False    |
 | 803/a         | Persoon vermist rondom mui                      | 3370        | never     | False    |
 | 804-0         | Grote zoekactie vermist persoon                 | 5900        | never     | False    |
 | 804-1         | Grote zoekactie vermist persoon                 | 9550        | never     | False    |
@@ -210,7 +207,6 @@ Count: 544
 | 929/c         | Brand in gasverdeelstation                      | 31710       | never     | False    |
 | 929/d         | Brand in gasverdeelstation                      | 27310       | never     | False    |
 | 929/ab        | Brand in gasverdeelstation                      | 37825       | never     | False    |
-| 929/ad        | Brand in gasverdeelstation                      | 28110       | never     | False    |
 | 929/ae        | Brand in gasverdeelstation                      | 27960       | never     | False    |
 | 929/bd        | Brand in gasverdeelstation                      | 37825       | never     | False    |
 | 929/cd        | Brand in gasverdeelstation                      | 32510       | never     | False    |
@@ -525,7 +521,6 @@ Count: 544
 | 1034/acdefgh  | Brand in nucleaire installatie                  | 82960       | never     | False    |
 | 1034/bcdefgh  | Brand in nucleaire installatie                  | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                  | 107387      | never     | False    |
-| 1035/a        | Verward persoon dreigt van boord te springen    | 2030        | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                   | 15320       | never     | False    |
 | 1148          | Grenscontrole                                   | 17370       | never     | False    |
 | 1163          | Explosie luchthaven                             | 19810       | never     | False    |
