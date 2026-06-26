@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 767
+Count: 762
 
 # Active never-seen missions
 
-Count: 528
+Count: 523
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -28,7 +28,6 @@ Count: 528
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
 | 207           | Personenauto te water                           | 3680        | never     | False    |
 | 208           | Personenauto te water                           | 4350        | never     | False    |
-| 209/a         | Aanvaring vrachtschip met vlet (Grip 3)         | 4912        | never     | False    |
 | 210           | Aanvaring vrachtschip met kajuitboot (Grip 3)   | 4180        | never     | False    |
 | 210/a         | Aanvaring vrachtschip met kajuitboot (Grip 3)   | 5975        | never     | False    |
 | 234           | Vliegtuig neergestort                           | 15120       | never     | False    |
@@ -42,7 +41,6 @@ Count: 528
 | 270           | Vliegtuig buiten start-/landingsbaan beland     | 3540        | never     | False    |
 | 274           | Klein vliegtuig neergestort                     | 5770        | never     | False    |
 | 276           | Brandend klein vliegtuig                        | 3570        | never     | False    |
-| 307-1/a       | Verkeersongeval met touringcar                  | 14270       | never     | False    |
 | 312/a         | Lekkende goederenwagon (Groot)                  | 6420        | never     | False    |
 | 312/b         | Lekkende goederenwagon (Groot)                  | 6370        | never     | False    |
 | 312/c         | Lekkende goederenwagon (Groot)                  | 6520        | never     | False    |
@@ -56,7 +54,6 @@ Count: 528
 | 351/a         | Inbraakalarm woning                             | 2300        | never     | False    |
 | 353           | Brand in terminal                               | 3300        | never     | False    |
 | 356/b         | Heidebrand (Grip 2)                             | 32502       | never     | False    |
-| 376           | Persoon te water                                | 3000        | never     | False    |
 | 377/a         | Persoon te water                                | 6000        | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                     | 9950        | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                     | 11050       | never     | False    |
@@ -274,7 +271,6 @@ Count: 528
 | 1034/ag       | Brand in nucleaire installatie                  | 71810       | never     | False    |
 | 1034/ah       | Brand in nucleaire installatie                  | 71060       | never     | False    |
 | 1034/bc       | Brand in nucleaire installatie                  | 98450       | never     | False    |
-| 1034/bd       | Brand in nucleaire installatie                  | 92200       | never     | False    |
 | 1034/bf       | Brand in nucleaire installatie                  | 91950       | never     | False    |
 | 1034/bg       | Brand in nucleaire installatie                  | 92450       | never     | False    |
 | 1034/bh       | Brand in nucleaire installatie                  | 91512       | never     | False    |
@@ -532,7 +528,6 @@ Count: 528
 | 1206/bc       | Brand in station (Grip 1)                       | 29200       | never     | False    |
 | 1206/abc      | Brand in station (Grip 1)                       | 39000       | never     | False    |
 | 1207          | Brand in station (Grip 2)                       | 41960       | never     | False    |
-| 1207/a        | Brand in station (Grip 2)                       | 54950       | never     | False    |
 | 1207/b        | Brand in station (Grip 2)                       | 42760       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                       | 55950       | never     | False    |
 | 1207/abc      | Brand in station (Grip 2)                       | 56950       | never     | False    |
