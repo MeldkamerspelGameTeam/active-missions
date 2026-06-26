@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 791
+Count: 789
 
 # Active never-seen missions
 
-Count: 539
+Count: 537
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -74,7 +74,6 @@ Count: 539
 | 429-0/b       | Brand in bouwmarkt (Grip 2)                     | 17950       | never     | False    |
 | 429-0/ab      | Brand in bouwmarkt (Grip 2)                     | 23187       | never     | False    |
 | 435           | Lekkende tankwagen                              | 6660        | never     | False    |
-| 439           | Duiker vermist                                  | 1100        | never     | False    |
 | 458           | Brand in manege                                 | 2980        | never     | False    |
 | 459           | Brandende vliegtuigtrekker                      | 1290        | never     | False    |
 | 463/a         | Verdachte vaten aangetroffen                    | 4390        | never     | False    |
@@ -250,7 +249,6 @@ Count: 539
 | 961           | Toezicht Horeca                                 | 8745        | never     | False    |
 | 961/a         | Toezicht Horeca                                 | 9545        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest            | 8540        | never     | False    |
-| 974           | Ontspoorde tram botst tegen gebouw              | 3110        | never     | False    |
 | 974-1         | Ontspoorde tram botst tegen gebouw              | 14330       | never     | False    |
 | 979/a         | Verward persoon bij spoor                       | 1640        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
