@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 789
+Count: 788
 
 # Active never-seen missions
 
-Count: 537
+Count: 536
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -39,7 +39,6 @@ Count: 537
 | 252/a         | Vrachtwagen te water                            | 4630        | never     | False    |
 | 252/b         | Vrachtwagen te water                            | 4130        | never     | False    |
 | 252/ab        | Vrachtwagen te water                            | 4930        | never     | False    |
-| 263           | Brandende personenauto in parkeergarage         | 300         | never     | False    |
 | 265           | Vliegtuig met hydraulisch probleem              | 2010        | never     | False    |
 | 270           | Vliegtuig buiten start-/landingsbaan beland     | 3540        | never     | False    |
 | 271           | Rookontwikkeling in vrachtruim vliegtuig        | 2010        | never     | False    |
