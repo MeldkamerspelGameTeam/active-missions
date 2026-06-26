@@ -1,7 +1,7 @@
 # Inactive missions grouped by date window
 
-Inactive missions: 258
-Date window groups: 25
+Inactive missions: 245
+Date window groups: 24
 
 ## Start: 2024-07-26T09:00:00Z | End: 2024-08-11T23:59:59Z | Count: 7
 
@@ -463,25 +463,3 @@ Count: 6
 | 1039-0 | Vader vermist                                                      | 3480        | 2026-06-22 | True     |
 | 1040   | Ongeval tijdens maken Vaderdag cadeau                              | None        | 2026-06-22 | True     |
 | 1041   | Kind gewond tijdens maken Vaderdag ontbijt                         | None        | 2026-06-22 | True     |
-
-## Start: 2026-06-26T09:00:00Z | End: 2026-08-21T09:00:00Z | Count: 13
-
-# Missions
-
-Count: 13
-
-| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 617    | Zonnesteek                                                         | 250         | never      | True     |
-| 618    | Hitteslag                                                          | 250         | never      | True     |
-| 619    | Hittekramp                                                         | 250         | never      | True     |
-| 620    | Uitgedroogde persoon                                               | 250         | never      | True     |
-| 621    | Barbecuebrand                                                      | 500         | never      | True     |
-| 831    | Verontreinigde ijscokar                                            | 1350        | never      | True     |
-| 832    | Illegaal kampvuur in park                                          | 670         | never      | True     |
-| 1098   | Brand op zomerkamp                                                 | 3180        | never      | True     |
-| 1099   | Storing in attractie pretpark                                      | 1420        | never      | True     |
-| 1100   | Gevecht op markt                                                   | 670         | never      | True     |
-| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | never      | True     |
-| 1102   | Aanrijding drive-in Bioscoop                                       | 670         | never      | True     |
-| 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | never      | True     |

@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 788
+Count: 771
 
 # Active never-seen missions
 
-Count: 536
+Count: 532
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -39,9 +39,7 @@ Count: 536
 | 252/a         | Vrachtwagen te water                            | 4630        | never     | False    |
 | 252/b         | Vrachtwagen te water                            | 4130        | never     | False    |
 | 252/ab        | Vrachtwagen te water                            | 4930        | never     | False    |
-| 265           | Vliegtuig met hydraulisch probleem              | 2010        | never     | False    |
 | 270           | Vliegtuig buiten start-/landingsbaan beland     | 3540        | never     | False    |
-| 271           | Rookontwikkeling in vrachtruim vliegtuig        | 2010        | never     | False    |
 | 274           | Klein vliegtuig neergestort                     | 5770        | never     | False    |
 | 276           | Brandend klein vliegtuig                        | 3570        | never     | False    |
 | 307-1/a       | Verkeersongeval met touringcar                  | 14270       | never     | False    |
@@ -57,12 +55,10 @@ Count: 536
 | 349/a         | Zwemmer vermist (Grip 1)                        | 7437        | never     | False    |
 | 351/a         | Inbraakalarm woning                             | 2300        | never     | False    |
 | 353           | Brand in terminal                               | 3300        | never     | False    |
-| 355/b         | Heidebrand (Grip 1)                             | 27392       | never     | False    |
 | 356/b         | Heidebrand (Grip 2)                             | 32502       | never     | False    |
 | 376           | Persoon te water                                | 3000        | never     | False    |
 | 377/a         | Persoon te water                                | 6000        | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                     | 9950        | never     | False    |
-| 428/ab        | Brand in bouwmarkt (Grip 1)                     | 13187       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                     | 11050       | never     | False    |
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                     | 14562       | never     | False    |
 | 428-0/b       | Brand in bouwmarkt (Grip 1)                     | 11850       | never     | False    |
@@ -86,7 +82,6 @@ Count: 536
 | 494           | Personenauto in sloot                           | 1400        | never     | False    |
 | 497/a         | Personenauto te water                           | 5650        | never     | False    |
 | 509           | Brand in fabriekshal                            | 9930        | never     | False    |
-| 515           | Aanvaring vrachtschip met waterbus (Grip 3)     | 4680        | never     | False    |
 | 516           | Aanvaring met rondvaartboot (Grip 3)            | 5590        | never     | False    |
 | 518           | Aanvaring vrachtschip met veerboot (Grip 4)     | 9200        | never     | False    |
 | 518/a         | Aanvaring vrachtschip met veerboot (Grip 4)     | 12250       | never     | False    |
@@ -98,7 +93,6 @@ Count: 536
 | 625/a         | Onbeheerde bagage gevonden                      | 2770        | never     | False    |
 | 641           | Brand in hangaar                                | 1930        | never     | False    |
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
-| 667/a         | Ongeval met hete luchtballon                    | 5220        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
 | 721/a         | Spontane opstand                                | 10180       | never     | False    |
 | 763/a         | Toezicht bij manifestatie                       | 5515        | never     | False    |
@@ -116,6 +110,7 @@ Count: 536
 | 804-0         | Grote zoekactie vermist persoon                 | 5900        | never     | False    |
 | 804-1         | Grote zoekactie vermist persoon                 | 9550        | never     | False    |
 | 819           | Toezicht/Begeleiding Surfwedstrijd              | 7860        | never     | False    |
+| 830           | Beveiligen zwemwedstrijd                        | 4410        | never     | False    |
 | 837           | Gaslek bedrijventerrein                         | 8580        | never     | False    |
 | 841/b         | Aanrijding met zwaar letsel                     | 6140        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                     | 6740        | never     | False    |
@@ -227,7 +222,6 @@ Count: 536
 | 929/bcde      | Brand in gasverdeelstation                      | 45137       | never     | False    |
 | 929/abcde     | Brand in gasverdeelstation                      | 46137       | never     | False    |
 | 932           | Brand op veerpont                               | 3680        | never     | False    |
-| 933-0         | Bouwsteiger ingestort                           | 6980        | never     | False    |
 | 942           | Schoolbus te water                              | 4650        | never     | False    |
 | 942/a         | Schoolbus te water                              | 4950        | never     | False    |
 | 942/b         | Schoolbus te water                              | 5450        | never     | False    |
@@ -518,6 +512,8 @@ Count: 536
 | 1034/acdefgh  | Brand in nucleaire installatie                  | 82960       | never     | False    |
 | 1034/bcdefgh  | Brand in nucleaire installatie                  | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                  | 107387      | never     | False    |
+| 1099          | Storing in attractie pretpark                   | 1420        | never     | False    |
+| 1101          | Glijbaan ongeluk in Zwembad                     | 250         | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                   | 15320       | never     | False    |
 | 1148          | Grenscontrole                                   | 17370       | never     | False    |
 | 1163          | Explosie luchthaven                             | 19810       | never     | False    |
@@ -547,7 +543,7 @@ Count: 536
 
 # Inactive never-seen missions
 
-Count: 252
+Count: 239
 
 | ID     | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | --------- | -------- |
@@ -622,11 +618,6 @@ Count: 252
 | 586    | Gekantelde paaseivrachtwagen                                       | 1420        | never     | True     |
 | 587    | Prioriteit: paasei-jacht                                           | 1350        | never     | True     |
 | 588    | Paashaas in een kraan                                              | 1690        | never     | True     |
-| 617    | Zonnesteek                                                         | 250         | never     | True     |
-| 618    | Hitteslag                                                          | 250         | never     | True     |
-| 619    | Hittekramp                                                         | 250         | never     | True     |
-| 620    | Uitgedroogde persoon                                               | 250         | never     | True     |
-| 621    | Barbecuebrand                                                      | 500         | never     | True     |
 | 688    | Illegaal afsteken van vuurwerk                                     | 670         | never     | True     |
 | 689    | Vuurwerkoverlast                                                   | 840         | never     | True     |
 | 690    | Vernieling met vuurwerk                                            | 670         | never     | True     |
@@ -675,8 +666,6 @@ Count: 252
 | 791    | Brandende taart in oven                                            | 600         | never     | True     |
 | 792    | Keukenbrand                                                        | 1400        | never     | True     |
 | 793    | Chocoladediefstal                                                  | 1200        | never     | True     |
-| 831    | Verontreinigde ijscokar                                            | 1350        | never     | True     |
-| 832    | Illegaal kampvuur in park                                          | 670         | never     | True     |
 | 856    | Persoon uitgegleden over natte bladeren                            | None        | never     | True     |
 | 857    | Verkeersongeval door gevallen bladeren                             | 2600        | never     | True     |
 | 858    | Persoon gevallen in een hoop bladeren                              | None        | never     | True     |
@@ -774,12 +763,6 @@ Count: 252
 | 1095   | Atleet gewond tijdens gymnastiekoefening                           | None        | never     | True     |
 | 1096   | Waterredding vereist bij zeilevenement                             | 1230        | never     | True     |
 | 1097   | Boze toeschouwer bij sportzwembad                                  | 670         | never     | True     |
-| 1098   | Brand op zomerkamp                                                 | 3180        | never     | True     |
-| 1099   | Storing in attractie pretpark                                      | 1420        | never     | True     |
-| 1100   | Gevecht op markt                                                   | 670         | never     | True     |
-| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | never     | True     |
-| 1102   | Aanrijding drive-in Bioscoop                                       | 670         | never     | True     |
-| 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | never     | True     |
 | 1105   | Gevecht om de lelijkste kersttrui                                  | 1800        | never     | True     |
 | 1109   | Ongeval met sneeuwploeg                                            | 1200        | never     | True     |
 | 1110   | Redding bij ijsvissen                                              | 900         | never     | True     |
