@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 770
+Count: 769
 
 # Active never-seen missions
 
-Count: 531
+Count: 530
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -512,7 +512,6 @@ Count: 531
 | 1034/acdefgh  | Brand in nucleaire installatie                  | 82960       | never     | False    |
 | 1034/bcdefgh  | Brand in nucleaire installatie                  | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                  | 107387      | never     | False    |
-| 1099          | Storing in attractie pretpark                   | 1420        | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                   | 15320       | never     | False    |
 | 1148          | Grenscontrole                                   | 17370       | never     | False    |
 | 1163          | Explosie luchthaven                             | 19810       | never     | False    |
