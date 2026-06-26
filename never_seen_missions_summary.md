@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 804
+Count: 796
 
 # Active never-seen missions
 
-Count: 552
+Count: 544
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -44,8 +44,6 @@ Count: 552
 | 266           | Vliegtuig met rook in cabine                    | 2010        | never     | False    |
 | 270           | Vliegtuig buiten start-/landingsbaan beland     | 3540        | never     | False    |
 | 271           | Rookontwikkeling in vrachtruim vliegtuig        | 2010        | never     | False    |
-| 272           | Klein vliegtuig met motorisch probleem          | 2140        | never     | False    |
-| 273           | Klein vliegtuig neergestort                     | 2140        | never     | False    |
 | 274           | Klein vliegtuig neergestort                     | 5770        | never     | False    |
 | 276           | Brandend klein vliegtuig                        | 3570        | never     | False    |
 | 307-1/a       | Verkeersongeval met touringcar                  | 14270       | never     | False    |
@@ -106,7 +104,6 @@ Count: 552
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 667/a         | Ongeval met hete luchtballon                    | 5220        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
-| 671-0         | Toezicht Horeca                                 | 8745        | never     | False    |
 | 721/a         | Spontane opstand                                | 10180       | never     | False    |
 | 763/a         | Toezicht bij manifestatie                       | 5515        | never     | False    |
 | 765/a         | Onaangekondigde demonstratie                    | 7755        | never     | False    |
@@ -145,7 +142,6 @@ Count: 552
 | 885/b         | Brand in vuurwerkopslag                         | 64525       | never     | False    |
 | 885/d         | Brand in vuurwerkopslag                         | 49320       | never     | False    |
 | 885/e         | Brand in vuurwerkopslag                         | 49470       | never     | False    |
-| 885/f         | Brand in vuurwerkopslag                         | 49870       | never     | False    |
 | 885/ab        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
 | 885/ac        | Brand in vuurwerkopslag                         | 54670       | never     | False    |
 | 885/ad        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
@@ -208,10 +204,8 @@ Count: 552
 | 897-2/a       | Rellen na stadsderby                            | 19355       | never     | False    |
 | 899/a         | Aanrijding bus en tram                          | 9830        | never     | False    |
 | 901-0/a       | Trein ontspoord                                 | 8210        | never     | False    |
-| 901-2/a       | Trein ontspoord                                 | 15035       | never     | False    |
 | 919           | Begeleiding supporters                          | 14858       | never     | False    |
 | 919-0         | Begeleiding supporters                          | 15608       | never     | False    |
-| 929/a         | Brand in gasverdeelstation                      | 27310       | never     | False    |
 | 929/b         | Brand in gasverdeelstation                      | 36825       | never     | False    |
 | 929/c         | Brand in gasverdeelstation                      | 31710       | never     | False    |
 | 929/d         | Brand in gasverdeelstation                      | 27310       | never     | False    |
@@ -264,7 +258,6 @@ Count: 552
 | 974-1         | Ontspoorde tram botst tegen gebouw              | 14330       | never     | False    |
 | 979/a         | Verward persoon bij spoor                       | 1640        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
-| 984           | Drugssmokkel op zee                             | 4980        | never     | False    |
 | 993           | Straat afzetten voor politie                    | 840         | never     | False    |
 | 1016/a        | Aanvaring veerpont                              | 15530       | never     | False    |
 | 1017          | Redding overboord geslagen slachtoffers         | 1230        | never     | False    |
@@ -533,7 +526,6 @@ Count: 552
 | 1034/bcdefgh  | Brand in nucleaire installatie                  | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                  | 107387      | never     | False    |
 | 1035/a        | Verward persoon dreigt van boord te springen    | 2030        | never     | False    |
-| 1053          | Zuurstofgebrek aan boord schip                  | 4480        | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                   | 15320       | never     | False    |
 | 1148          | Grenscontrole                                   | 17370       | never     | False    |
 | 1163          | Explosie luchthaven                             | 19810       | never     | False    |
