@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 745
+Count: 743
 
 # Active never-seen missions
 
-Count: 506
+Count: 504
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -36,7 +36,6 @@ Count: 506
 | 252/ab        | Vrachtwagen te water                            | 4930        | never     | False    |
 | 270           | Vliegtuig buiten start-/landingsbaan beland     | 3540        | never     | False    |
 | 274           | Klein vliegtuig neergestort                     | 5770        | never     | False    |
-| 276           | Brandend klein vliegtuig                        | 3570        | never     | False    |
 | 312/b         | Lekkende goederenwagon (Groot)                  | 6370        | never     | False    |
 | 312/c         | Lekkende goederenwagon (Groot)                  | 6520        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                  | 7070        | never     | False    |
@@ -205,7 +204,6 @@ Count: 506
 | 929/acde      | Brand in gasverdeelstation                      | 33960       | never     | False    |
 | 929/bcde      | Brand in gasverdeelstation                      | 45137       | never     | False    |
 | 929/abcde     | Brand in gasverdeelstation                      | 46137       | never     | False    |
-| 932           | Brand op veerpont                               | 3680        | never     | False    |
 | 942           | Schoolbus te water                              | 4650        | never     | False    |
 | 942/b         | Schoolbus te water                              | 5450        | never     | False    |
 | 942/ab        | Schoolbus te water                              | 5750        | never     | False    |
