@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 761
+Count: 760
 
 # Active never-seen missions
 
-Count: 522
+Count: 521
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -244,7 +244,6 @@ Count: 522
 | 993           | Straat afzetten voor politie                    | 840         | never     | False    |
 | 1016/a        | Aanvaring veerpont                              | 15530       | never     | False    |
 | 1017          | Redding overboord geslagen slachtoffers         | 1230        | never     | False    |
-| 1018          | Assistentie collega                             | 840         | never     | False    |
 | 1029          | Oefening Arrestatieteam                         | 15690       | never     | False    |
 | 1030/c        | Brand bij papierrecyclaar                       | 48360       | never     | False    |
 | 1030/ac       | Brand bij papierrecyclaar                       | 49160       | never     | False    |
