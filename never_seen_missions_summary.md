@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 743
+Count: 741
 
 # Active never-seen missions
 
-Count: 504
+Count: 502
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -61,7 +61,6 @@ Count: 504
 | 429-0/ab      | Brand in bouwmarkt (Grip 2)                     | 23187       | never     | False    |
 | 435           | Lekkende tankwagen                              | 6660        | never     | False    |
 | 458           | Brand in manege                                 | 2980        | never     | False    |
-| 459           | Brandende vliegtuigtrekker                      | 1290        | never     | False    |
 | 463/a         | Verdachte vaten aangetroffen                    | 4390        | never     | False    |
 | 484           | Vat met gevaarlijke stoffen omgevallen          | 3880        | never     | False    |
 | 485           | Vat met gevaarlijke stoffen omgevallen          | 6660        | never     | False    |
@@ -81,7 +80,6 @@ Count: 504
 | 594           | Begeleiding demonstratie (groot)                | 35910       | never     | False    |
 | 614/a         | Verward persoon op dak                          | 5190        | never     | False    |
 | 625/a         | Onbeheerde bagage gevonden                      | 2770        | never     | False    |
-| 641           | Brand in hangaar                                | 1930        | never     | False    |
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
 | 721/a         | Spontane opstand                                | 10180       | never     | False    |
