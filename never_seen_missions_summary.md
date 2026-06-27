@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 754
+Count: 751
 
 # Active never-seen missions
 
-Count: 515
+Count: 512
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -30,7 +30,6 @@ Count: 515
 | 210           | Aanvaring vrachtschip met kajuitboot (Grip 3)   | 4180        | never     | False    |
 | 234           | Vliegtuig neergestort                           | 15120       | never     | False    |
 | 243/a         | Verdachte situatie                              | 1550        | never     | False    |
-| 245           | Ontruimen kraakpand                             | 7365        | never     | False    |
 | 251           | Vrachtwagen te water                            | 2660        | never     | False    |
 | 252           | Vrachtwagen te water                            | 3830        | never     | False    |
 | 252/a         | Vrachtwagen te water                            | 4630        | never     | False    |
@@ -74,7 +73,6 @@ Count: 515
 | 492-1/a       | Ongeregeldheden voetbalsupporters horeca        | 7010        | never     | False    |
 | 492-2         | Ongeregeldheden voetbalsupporters horeca        | 7310        | never     | False    |
 | 492-2/a       | Ongeregeldheden voetbalsupporters horeca        | 8110        | never     | False    |
-| 494           | Personenauto in sloot                           | 1400        | never     | False    |
 | 497/a         | Personenauto te water                           | 5650        | never     | False    |
 | 509           | Brand in fabriekshal                            | 9930        | never     | False    |
 | 516           | Aanvaring met rondvaartboot (Grip 3)            | 5590        | never     | False    |
@@ -215,7 +213,6 @@ Count: 515
 | 929/abcde     | Brand in gasverdeelstation                      | 46137       | never     | False    |
 | 932           | Brand op veerpont                               | 3680        | never     | False    |
 | 942           | Schoolbus te water                              | 4650        | never     | False    |
-| 942/a         | Schoolbus te water                              | 4950        | never     | False    |
 | 942/b         | Schoolbus te water                              | 5450        | never     | False    |
 | 942/ab        | Schoolbus te water                              | 5750        | never     | False    |
 | 942-0         | Schoolbus te water                              | 8520        | never     | False    |
