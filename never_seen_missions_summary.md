@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 760
+Count: 759
 
 # Active never-seen missions
 
-Count: 521
+Count: 520
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -24,7 +24,6 @@ Count: 521
 | 181/a         | Verkeersongeval met beknelling                  | 2890        | never     | False    |
 | 181/b         | Verkeersongeval met beknelling                  | 2490        | never     | False    |
 | 181/ab        | Verkeersongeval met beknelling                  | 3290        | never     | False    |
-| 200/a         | Drugslab aangetroffen                           | 1600        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
 | 207           | Personenauto te water                           | 3680        | never     | False    |
 | 208           | Personenauto te water                           | 4350        | never     | False    |
