@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 751
+Count: 750
 
 # Active never-seen missions
 
-Count: 512
+Count: 511
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -112,7 +112,6 @@ Count: 512
 | 853-0         | Vliegtuig neergestort                           | 21820       | never     | False    |
 | 853-0/a       | Vliegtuig neergestort                           | 22620       | never     | False    |
 | 853-1/a       | Vliegtuig neergestort                           | 24460       | never     | False    |
-| 854           | Ongeval waterscooter                            | 1730        | never     | False    |
 | 855/a         | Observatie                                      | 6590        | never     | False    |
 | 868/b         | Duinbrand (Grip 1)                              | 21547       | never     | False    |
 | 869/b         | Aanrijding hulpverleningsvoertuig               | 2900        | never     | False    |
