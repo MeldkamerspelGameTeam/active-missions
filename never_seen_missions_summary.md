@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 759
+Count: 758
 
 # Active never-seen missions
 
-Count: 520
+Count: 519
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -237,7 +237,6 @@ Count: 520
 | 961           | Toezicht Horeca                                 | 8745        | never     | False    |
 | 961/a         | Toezicht Horeca                                 | 9545        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest            | 8540        | never     | False    |
-| 974-1         | Ontspoorde tram botst tegen gebouw              | 14330       | never     | False    |
 | 979/a         | Verward persoon bij spoor                       | 1640        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
 | 993           | Straat afzetten voor politie                    | 840         | never     | False    |
