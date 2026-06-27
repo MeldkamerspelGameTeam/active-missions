@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 757
+Count: 754
 
 # Active never-seen missions
 
-Count: 518
+Count: 515
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -28,7 +28,6 @@ Count: 518
 | 207           | Personenauto te water                           | 3680        | never     | False    |
 | 208           | Personenauto te water                           | 4350        | never     | False    |
 | 210           | Aanvaring vrachtschip met kajuitboot (Grip 3)   | 4180        | never     | False    |
-| 210/a         | Aanvaring vrachtschip met kajuitboot (Grip 3)   | 5975        | never     | False    |
 | 234           | Vliegtuig neergestort                           | 15120       | never     | False    |
 | 243/a         | Verdachte situatie                              | 1550        | never     | False    |
 | 245           | Ontruimen kraakpand                             | 7365        | never     | False    |
@@ -106,14 +105,12 @@ Count: 518
 | 804-0         | Grote zoekactie vermist persoon                 | 5900        | never     | False    |
 | 804-1         | Grote zoekactie vermist persoon                 | 9550        | never     | False    |
 | 819           | Toezicht/Begeleiding Surfwedstrijd              | 7860        | never     | False    |
-| 830           | Beveiligen zwemwedstrijd                        | 4410        | never     | False    |
 | 837           | Gaslek bedrijventerrein                         | 8580        | never     | False    |
 | 841/b         | Aanrijding met zwaar letsel                     | 6140        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                     | 6740        | never     | False    |
 | 841-0/a       | Aanrijding met zwaar letsel                     | 7140        | never     | False    |
 | 841-0/b       | Aanrijding met zwaar letsel                     | 7540        | never     | False    |
 | 841-0/ab      | Aanrijding met zwaar letsel                     | 7940        | never     | False    |
-| 853/a         | Vliegtuig neergestort                           | 7690        | never     | False    |
 | 853-0         | Vliegtuig neergestort                           | 21820       | never     | False    |
 | 853-0/a       | Vliegtuig neergestort                           | 22620       | never     | False    |
 | 853-1/a       | Vliegtuig neergestort                           | 24460       | never     | False    |
