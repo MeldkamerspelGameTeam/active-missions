@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 750
+Count: 745
 
 # Active never-seen missions
 
-Count: 511
+Count: 506
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -16,7 +16,6 @@ Count: 511
 | 43            | Kettingbotsing                                  | 12030       | never     | False    |
 | 59            | Brand in opslagloods                            | 13710       | never     | False    |
 | 116           | Voetbalwedstrijd                                | 8700        | never     | False    |
-| 116-0         | Voetbalwedstrijd                                | 10200       | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd               | 17910       | never     | False    |
 | 117-0         | Voetbalwedstrijd, risicowedstrijd               | 20910       | never     | False    |
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
@@ -38,7 +37,6 @@ Count: 511
 | 270           | Vliegtuig buiten start-/landingsbaan beland     | 3540        | never     | False    |
 | 274           | Klein vliegtuig neergestort                     | 5770        | never     | False    |
 | 276           | Brandend klein vliegtuig                        | 3570        | never     | False    |
-| 312/a         | Lekkende goederenwagon (Groot)                  | 6420        | never     | False    |
 | 312/b         | Lekkende goederenwagon (Groot)                  | 6370        | never     | False    |
 | 312/c         | Lekkende goederenwagon (Groot)                  | 6520        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                  | 7070        | never     | False    |
@@ -102,7 +100,6 @@ Count: 511
 | 803/a         | Persoon vermist rondom mui                      | 3370        | never     | False    |
 | 804-0         | Grote zoekactie vermist persoon                 | 5900        | never     | False    |
 | 804-1         | Grote zoekactie vermist persoon                 | 9550        | never     | False    |
-| 819           | Toezicht/Begeleiding Surfwedstrijd              | 7860        | never     | False    |
 | 837           | Gaslek bedrijventerrein                         | 8580        | never     | False    |
 | 841/b         | Aanrijding met zwaar letsel                     | 6140        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                     | 6740        | never     | False    |
@@ -127,13 +124,11 @@ Count: 511
 | 885/ae        | Brand in vuurwerkopslag                         | 50270       | never     | False    |
 | 885/af        | Brand in vuurwerkopslag                         | 50670       | never     | False    |
 | 885/bc        | Brand in vuurwerkopslag                         | 71025       | never     | False    |
-| 885/bd        | Brand in vuurwerkopslag                         | 65337       | never     | False    |
 | 885/be        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
 | 885/bf        | Brand in vuurwerkopslag                         | 66025       | never     | False    |
 | 885/cd        | Brand in vuurwerkopslag                         | 54520       | never     | False    |
 | 885/cf        | Brand in vuurwerkopslag                         | 55070       | never     | False    |
 | 885/de        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
-| 885/df        | Brand in vuurwerkopslag                         | 50520       | never     | False    |
 | 885/ef        | Brand in vuurwerkopslag                         | 50670       | never     | False    |
 | 885/abc       | Brand in vuurwerkopslag                         | 72025       | never     | False    |
 | 885/abd       | Brand in vuurwerkopslag                         | 66337       | never     | False    |
