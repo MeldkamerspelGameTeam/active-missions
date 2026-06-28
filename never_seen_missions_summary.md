@@ -1,14 +1,13 @@
 # Never seen missions
 
-Count: 723
+Count: 722
 
 # Active never-seen missions
 
-Count: 484
+Count: 483
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
-| 25/a          | Verkeersongeval met beknelling                  | 3240        | never     | False    |
 | 27            | Persoon aangereden                              | 700         | never     | False    |
 | 36/ab         | Brandende goederenwagon (Groot)                 | 8570        | never     | False    |
 | 38            | Brandende afvalbak                              | 110         | never     | False    |
