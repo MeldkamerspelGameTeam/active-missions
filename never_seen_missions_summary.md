@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 736
+Count: 734
 
 # Active never-seen missions
 
-Count: 497
+Count: 495
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -92,7 +92,6 @@ Count: 497
 | 796           | Zoekactie vermist persoon                       | 1840        | never     | False    |
 | 796-0         | Zoekactie vermist persoon                       | 2090        | never     | False    |
 | 803/a         | Persoon vermist rondom mui                      | 3370        | never     | False    |
-| 804-0         | Grote zoekactie vermist persoon                 | 5900        | never     | False    |
 | 804-1         | Grote zoekactie vermist persoon                 | 9550        | never     | False    |
 | 837           | Gaslek bedrijventerrein                         | 8580        | never     | False    |
 | 841/b         | Aanrijding met zwaar letsel                     | 6140        | never     | False    |
@@ -106,7 +105,6 @@ Count: 497
 | 855/a         | Observatie                                      | 6590        | never     | False    |
 | 868/b         | Duinbrand (Grip 1)                              | 21547       | never     | False    |
 | 869/b         | Aanrijding hulpverleningsvoertuig               | 2900        | never     | False    |
-| 869/ab        | Aanrijding hulpverleningsvoertuig               | 3200        | never     | False    |
 | 880/b         | Duinbrand (Grip 2)                              | 41684       | never     | False    |
 | 881/b         | Duinbrand (Grip 3)                              | 45654       | never     | False    |
 | 885/d         | Brand in vuurwerkopslag                         | 49320       | never     | False    |
