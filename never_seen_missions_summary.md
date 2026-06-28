@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 738
+Count: 736
 
 # Active never-seen missions
 
-Count: 499
+Count: 497
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -44,7 +44,6 @@ Count: 499
 | 347           | Brand bij afvalverwerker                        | 17500       | never     | False    |
 | 349/a         | Zwemmer vermist (Grip 1)                        | 7437        | never     | False    |
 | 351/a         | Inbraakalarm woning                             | 2300        | never     | False    |
-| 353           | Brand in terminal                               | 3300        | never     | False    |
 | 356/b         | Heidebrand (Grip 2)                             | 32502       | never     | False    |
 | 377/a         | Persoon te water                                | 6000        | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                     | 9950        | never     | False    |
@@ -214,7 +213,6 @@ Count: 499
 | 948-0         | Brand op windmolenpark                          | 2100        | never     | False    |
 | 948-1         | Brand op windmolenpark                          | 11575       | never     | False    |
 | 952-3         | Brand in stadion                                | 43140       | never     | False    |
-| 959           | Voetbalwedstrijd, risicowedstrijd               | 22510       | never     | False    |
 | 961           | Toezicht Horeca                                 | 8745        | never     | False    |
 | 961/a         | Toezicht Horeca                                 | 9545        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest            | 8540        | never     | False    |
