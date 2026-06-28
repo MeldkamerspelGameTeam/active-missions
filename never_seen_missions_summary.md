@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 729
+Count: 727
 
 # Active never-seen missions
 
-Count: 490
+Count: 488
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -50,7 +50,6 @@ Count: 490
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                     | 14562       | never     | False    |
 | 428-0/b       | Brand in bouwmarkt (Grip 1)                     | 11850       | never     | False    |
 | 428-0/ab      | Brand in bouwmarkt (Grip 1)                     | 15562       | never     | False    |
-| 429/ab        | Brand in bouwmarkt (Grip 2)                     | 19562       | never     | False    |
 | 429-0         | Brand in bouwmarkt (Grip 2)                     | 17150       | never     | False    |
 | 429-0/a       | Brand in bouwmarkt (Grip 2)                     | 22187       | never     | False    |
 | 429-0/b       | Brand in bouwmarkt (Grip 2)                     | 17950       | never     | False    |
@@ -234,7 +233,6 @@ Count: 490
 | 1034/b        | Brand in nucleaire installatie                  | 90450       | never     | False    |
 | 1034/c        | Brand in nucleaire installatie                  | 75810       | never     | False    |
 | 1034/e        | Brand in nucleaire installatie                  | 70710       | never     | False    |
-| 1034/f        | Brand in nucleaire installatie                  | 70610       | never     | False    |
 | 1034/g        | Brand in nucleaire installatie                  | 71010       | never     | False    |
 | 1034/ab       | Brand in nucleaire installatie                  | 91450       | never     | False    |
 | 1034/ad       | Brand in nucleaire installatie                  | 71610       | never     | False    |
