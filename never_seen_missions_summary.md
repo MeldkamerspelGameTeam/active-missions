@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 734
+Count: 729
 
 # Active never-seen missions
 
-Count: 495
+Count: 490
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -39,7 +39,6 @@ Count: 495
 | 312/ab        | Lekkende goederenwagon (Groot)                  | 7070        | never     | False    |
 | 312/ac        | Lekkende goederenwagon (Groot)                  | 7220        | never     | False    |
 | 312/bc        | Lekkende goederenwagon (Groot)                  | 7170        | never     | False    |
-| 312/abc       | Lekkende goederenwagon (Groot)                  | 7870        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                        | 17500       | never     | False    |
 | 349/a         | Zwemmer vermist (Grip 1)                        | 7437        | never     | False    |
@@ -252,7 +251,6 @@ Count: 495
 | 1034/cf       | Brand in nucleaire installatie                  | 77010       | never     | False    |
 | 1034/cg       | Brand in nucleaire installatie                  | 77410       | never     | False    |
 | 1034/ch       | Brand in nucleaire installatie                  | 76660       | never     | False    |
-| 1034/de       | Brand in nucleaire installatie                  | 72110       | never     | False    |
 | 1034/df       | Brand in nucleaire installatie                  | 72010       | never     | False    |
 | 1034/dg       | Brand in nucleaire installatie                  | 72410       | never     | False    |
 | 1034/dh       | Brand in nucleaire installatie                  | 71660       | never     | False    |
@@ -482,18 +480,15 @@ Count: 495
 | 1034/bcdefgh  | Brand in nucleaire installatie                  | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                  | 107387      | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                   | 15320       | never     | False    |
-| 1163          | Explosie luchthaven                             | 19810       | never     | False    |
 | 1202/b        | Brand in ziekenhuis (Grip 1)                    | 13380       | never     | False    |
 | 1202/ab       | Brand in ziekenhuis (Grip 1)                    | 19225       | never     | False    |
 | 1202/bc       | Brand in ziekenhuis (Grip 1)                    | 14180       | never     | False    |
 | 1202/abc      | Brand in ziekenhuis (Grip 1)                    | 20225       | never     | False    |
-| 1203          | Brand in ziekenhuis (Grip 2)                    | 20050       | never     | False    |
 | 1203/a        | Brand in ziekenhuis (Grip 2)                    | 27562       | never     | False    |
 | 1203/b        | Brand in ziekenhuis (Grip 2)                    | 20850       | never     | False    |
 | 1203/ab       | Brand in ziekenhuis (Grip 2)                    | 28562       | never     | False    |
 | 1203/bc       | Brand in ziekenhuis (Grip 2)                    | 21650       | never     | False    |
 | 1203/abc      | Brand in ziekenhuis (Grip 2)                    | 29562       | never     | False    |
-| 1206/a        | Brand in station (Grip 1)                       | 37000       | never     | False    |
 | 1206/b        | Brand in station (Grip 1)                       | 28400       | never     | False    |
 | 1206/ab       | Brand in station (Grip 1)                       | 38000       | never     | False    |
 | 1206/ac       | Brand in station (Grip 1)                       | 38000       | never     | False    |
