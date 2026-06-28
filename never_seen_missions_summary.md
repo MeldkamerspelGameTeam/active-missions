@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 739
+Count: 738
 
 # Active never-seen missions
 
-Count: 500
+Count: 499
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -32,7 +32,6 @@ Count: 500
 | 251           | Vrachtwagen te water                            | 2660        | never     | False    |
 | 252           | Vrachtwagen te water                            | 3830        | never     | False    |
 | 252/a         | Vrachtwagen te water                            | 4630        | never     | False    |
-| 252/b         | Vrachtwagen te water                            | 4130        | never     | False    |
 | 252/ab        | Vrachtwagen te water                            | 4930        | never     | False    |
 | 274           | Klein vliegtuig neergestort                     | 5770        | never     | False    |
 | 312/b         | Lekkende goederenwagon (Groot)                  | 6370        | never     | False    |
