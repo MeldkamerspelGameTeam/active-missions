@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 725
+Count: 723
 
 # Active never-seen missions
 
-Count: 486
+Count: 484
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -42,7 +42,6 @@ Count: 486
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                        | 17500       | never     | False    |
 | 349/a         | Zwemmer vermist (Grip 1)                        | 7437        | never     | False    |
-| 351/a         | Inbraakalarm woning                             | 2300        | never     | False    |
 | 356/b         | Heidebrand (Grip 2)                             | 32502       | never     | False    |
 | 377/a         | Persoon te water                                | 6000        | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                     | 9950        | never     | False    |
@@ -61,7 +60,6 @@ Count: 486
 | 492/a         | Ongeregeldheden voetbalsupporters horeca        | 6810        | never     | False    |
 | 492-0/a       | Ongeregeldheden voetbalsupporters horeca        | 7310        | never     | False    |
 | 492-1/a       | Ongeregeldheden voetbalsupporters horeca        | 7010        | never     | False    |
-| 492-2         | Ongeregeldheden voetbalsupporters horeca        | 7310        | never     | False    |
 | 492-2/a       | Ongeregeldheden voetbalsupporters horeca        | 8110        | never     | False    |
 | 497/a         | Personenauto te water                           | 5650        | never     | False    |
 | 509           | Brand in fabriekshal                            | 9930        | never     | False    |
