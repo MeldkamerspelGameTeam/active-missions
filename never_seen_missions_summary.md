@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 720
+Count: 719
 
 # Active never-seen missions
 
-Count: 481
+Count: 480
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -488,7 +488,6 @@ Count: 481
 | 1207/b        | Brand in station (Grip 2)                       | 42760       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                       | 55950       | never     | False    |
 | 1207/abc      | Brand in station (Grip 2)                       | 56950       | never     | False    |
-| 1220          | Persoon geraakt door schroef van boot           | 1740        | never     | False    |
 
 # Inactive never-seen missions
 
