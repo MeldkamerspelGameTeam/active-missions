@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 722
+Count: 720
 
 # Active never-seen missions
 
-Count: 483
+Count: 481
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -27,7 +27,6 @@ Count: 483
 | 208           | Personenauto te water                           | 4350        | never     | False    |
 | 210           | Aanvaring vrachtschip met kajuitboot (Grip 3)   | 4180        | never     | False    |
 | 234           | Vliegtuig neergestort                           | 15120       | never     | False    |
-| 243/a         | Verdachte situatie                              | 1550        | never     | False    |
 | 251           | Vrachtwagen te water                            | 2660        | never     | False    |
 | 252           | Vrachtwagen te water                            | 3830        | never     | False    |
 | 252/a         | Vrachtwagen te water                            | 4630        | never     | False    |
@@ -76,7 +75,6 @@ Count: 483
 | 721/a         | Spontane opstand                                | 10180       | never     | False    |
 | 763/a         | Toezicht bij manifestatie                       | 5515        | never     | False    |
 | 765/a         | Onaangekondigde demonstratie                    | 7755        | never     | False    |
-| 766/a         | Onrust in de wijk                               | 3685        | never     | False    |
 | 787/c         | Persoon bekneld in gierput                      | 5760        | never     | False    |
 | 787/ab        | Persoon bekneld in gierput                      | 6310        | never     | False    |
 | 787/ac        | Persoon bekneld in gierput                      | 6460        | never     | False    |
