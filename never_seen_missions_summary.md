@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 715
+Count: 714
 
 # Active never-seen missions
 
-Count: 476
+Count: 475
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -196,7 +196,6 @@ Count: 476
 | 942-1/a       | Schoolbus te water                              | 12320       | never     | False    |
 | 942-1/b       | Schoolbus te water                              | 12820       | never     | False    |
 | 942-1/ab      | Schoolbus te water                              | 13120       | never     | False    |
-| 948           | Brand op windmolenpark                          | 500         | never     | False    |
 | 948-0         | Brand op windmolenpark                          | 2100        | never     | False    |
 | 952-3         | Brand in stadion                                | 43140       | never     | False    |
 | 961           | Toezicht Horeca                                 | 8745        | never     | False    |
