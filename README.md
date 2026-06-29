@@ -8,10 +8,10 @@ This README is auto-updated by main.py and the GitHub workflow.
 
 | Metric | Value |
 | --- | ---: |
-| Total missions | 1945 |
-| Active missions | 1700 |
+| Total missions | 1946 |
+| Active missions | 1701 |
 | Inactive missions | 245 |
-| Missions seen in last 30 days | 1225 |
+| Missions seen in last 30 days | 1226 |
 
 ### Never-Seen Breakdown
 

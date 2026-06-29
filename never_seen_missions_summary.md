@@ -72,7 +72,6 @@ Count: 481
 | 625/a         | Onbeheerde bagage gevonden                      | 2770        | never     | False    |
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
-| 721/a         | Spontane opstand                                | 10180       | never     | False    |
 | 763/a         | Toezicht bij manifestatie                       | 5515        | never     | False    |
 | 765/a         | Onaangekondigde demonstratie                    | 7755        | never     | False    |
 | 787/c         | Persoon bekneld in gierput                      | 5760        | never     | False    |
@@ -489,6 +488,7 @@ Count: 481
 | 1207/b        | Brand in station (Grip 2)                       | 42760       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                       | 55950       | never     | False    |
 | 1207/abc      | Brand in station (Grip 2)                       | 56950       | never     | False    |
+| 1220          | Persoon geraakt door schroef van boot           | 1740        | never     | False    |
 
 # Inactive never-seen missions
 

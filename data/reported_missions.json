@@ -891,7 +891,7 @@
   "719": "newly_active",
   "720": "newly_active",
   "721": "newly_active",
-  "721/a": "newly_discovered",
+  "721/a": "newly_active",
   "722": "newly_active",
   "723": "newly_active",
   "723-0": "newly_active",
@@ -1943,5 +1943,6 @@
   "1216": "newly_active",
   "1217": "newly_active",
   "1218": "newly_active",
-  "1219": "newly_active"
+  "1219": "newly_active",
+  "1220": "newly_discovered"
 }
