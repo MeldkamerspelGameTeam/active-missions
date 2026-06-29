@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 718
+Count: 715
 
 # Active never-seen missions
 
-Count: 479
+Count: 476
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -97,7 +97,6 @@ Count: 479
 | 869/b         | Aanrijding hulpverleningsvoertuig               | 2900        | never     | False    |
 | 880/b         | Duinbrand (Grip 2)                              | 41684       | never     | False    |
 | 881/b         | Duinbrand (Grip 3)                              | 45654       | never     | False    |
-| 885/d         | Brand in vuurwerkopslag                         | 49320       | never     | False    |
 | 885/e         | Brand in vuurwerkopslag                         | 49470       | never     | False    |
 | 885/ab        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
 | 885/ac        | Brand in vuurwerkopslag                         | 54670       | never     | False    |
@@ -199,7 +198,6 @@ Count: 479
 | 942-1/ab      | Schoolbus te water                              | 13120       | never     | False    |
 | 948           | Brand op windmolenpark                          | 500         | never     | False    |
 | 948-0         | Brand op windmolenpark                          | 2100        | never     | False    |
-| 948-1         | Brand op windmolenpark                          | 11575       | never     | False    |
 | 952-3         | Brand in stadion                                | 43140       | never     | False    |
 | 961           | Toezicht Horeca                                 | 8745        | never     | False    |
 | 961/a         | Toezicht Horeca                                 | 9545        | never     | False    |
@@ -213,7 +211,6 @@ Count: 479
 | 1030/c        | Brand bij papierrecyclaar                       | 48360       | never     | False    |
 | 1030/ac       | Brand bij papierrecyclaar                       | 49160       | never     | False    |
 | 1030/ad       | Brand bij papierrecyclaar                       | 42560       | never     | False    |
-| 1030/bc       | Brand bij papierrecyclaar                       | 64137       | never     | False    |
 | 1030/bd       | Brand bij papierrecyclaar                       | 55887       | never     | False    |
 | 1030/cd       | Brand bij papierrecyclaar                       | 49960       | never     | False    |
 | 1030/abc      | Brand bij papierrecyclaar                       | 65137       | never     | False    |
