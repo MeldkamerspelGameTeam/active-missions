@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 708
+Count: 707
 
 # Active never-seen missions
 
-Count: 469
+Count: 468
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -66,7 +66,6 @@ Count: 469
 | 592           | Brand op bedrijventerrein                       | 12540       | never     | False    |
 | 593           | Begeleiding demonstratie (klein)                | 9720        | never     | False    |
 | 594           | Begeleiding demonstratie (groot)                | 35910       | never     | False    |
-| 614/a         | Verward persoon op dak                          | 5190        | never     | False    |
 | 625/a         | Onbeheerde bagage gevonden                      | 2770        | never     | False    |
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
