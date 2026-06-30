@@ -1443,7 +1443,7 @@
   "1030/abc": "newly_discovered",
   "1030/abcd": "newly_discovered",
   "1030/abd": "newly_discovered",
-  "1030/ac": "newly_discovered",
+  "1030/ac": "newly_active",
   "1030/acd": "newly_discovered",
   "1030/ad": "newly_discovered",
   "1030/b": "newly_active",
