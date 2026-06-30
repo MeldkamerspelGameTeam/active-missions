@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 712
+Count: 710
 
 # Active never-seen missions
 
-Count: 473
+Count: 471
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -20,7 +20,6 @@ Count: 473
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
 | 181           | Verkeersongeval met beknelling                  | 2090        | never     | False    |
 | 181/a         | Verkeersongeval met beknelling                  | 2890        | never     | False    |
-| 181/b         | Verkeersongeval met beknelling                  | 2490        | never     | False    |
 | 181/ab        | Verkeersongeval met beknelling                  | 3290        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
 | 207           | Personenauto te water                           | 3680        | never     | False    |
@@ -155,7 +154,6 @@ Count: 473
 | 897/a         | Rellen na stadsderby                            | 16755       | never     | False    |
 | 897-0/a       | Rellen na stadsderby                            | 17355       | never     | False    |
 | 897-1/a       | Rellen na stadsderby                            | 18355       | never     | False    |
-| 897-2/a       | Rellen na stadsderby                            | 19355       | never     | False    |
 | 899/a         | Aanrijding bus en tram                          | 9830        | never     | False    |
 | 901-0/a       | Trein ontspoord                                 | 8210        | never     | False    |
 | 919           | Begeleiding supporters                          | 14858       | never     | False    |
