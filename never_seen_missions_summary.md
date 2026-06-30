@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 713
+Count: 712
 
 # Active never-seen missions
 
-Count: 474
+Count: 473
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -201,7 +201,6 @@ Count: 474
 | 961           | Toezicht Horeca                                 | 8745        | never     | False    |
 | 961/a         | Toezicht Horeca                                 | 9545        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest            | 8540        | never     | False    |
-| 979/a         | Verward persoon bij spoor                       | 1640        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
 | 993           | Straat afzetten voor politie                    | 840         | never     | False    |
 | 1016/a        | Aanvaring veerpont                              | 15530       | never     | False    |
