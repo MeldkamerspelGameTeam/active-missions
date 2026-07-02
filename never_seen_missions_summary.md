@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 701
+Count: 700
 
 # Active never-seen missions
 
-Count: 462
+Count: 461
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -66,7 +66,6 @@ Count: 462
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
 | 763/a         | Toezicht bij manifestatie                       | 5515        | never     | False    |
-| 787/c         | Persoon bekneld in gierput                      | 5760        | never     | False    |
 | 787/ab        | Persoon bekneld in gierput                      | 6310        | never     | False    |
 | 787/ac        | Persoon bekneld in gierput                      | 6460        | never     | False    |
 | 787/bc        | Persoon bekneld in gierput                      | 6410        | never     | False    |
