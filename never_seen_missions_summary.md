@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 706
+Count: 705
 
 # Active never-seen missions
 
-Count: 467
+Count: 466
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -38,7 +38,6 @@ Count: 467
 | 312/bc        | Lekkende goederenwagon (Groot)                  | 7170        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                        | 17500       | never     | False    |
-| 349/a         | Zwemmer vermist (Grip 1)                        | 7437        | never     | False    |
 | 356/b         | Heidebrand (Grip 2)                             | 32502       | never     | False    |
 | 377/a         | Persoon te water                                | 6000        | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                     | 9950        | never     | False    |
