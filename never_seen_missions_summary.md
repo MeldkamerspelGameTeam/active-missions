@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 704
+Count: 703
 
 # Active never-seen missions
 
-Count: 465
+Count: 464
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -54,7 +54,6 @@ Count: 465
 | 484           | Vat met gevaarlijke stoffen omgevallen          | 3880        | never     | False    |
 | 485           | Vat met gevaarlijke stoffen omgevallen          | 6660        | never     | False    |
 | 492/a         | Ongeregeldheden voetbalsupporters horeca        | 6810        | never     | False    |
-| 492-1/a       | Ongeregeldheden voetbalsupporters horeca        | 7010        | never     | False    |
 | 497/a         | Personenauto te water                           | 5650        | never     | False    |
 | 509           | Brand in fabriekshal                            | 9930        | never     | False    |
 | 516           | Aanvaring met rondvaartboot (Grip 3)            | 5590        | never     | False    |
