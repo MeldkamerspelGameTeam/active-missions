@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 694
+Count: 692
 
 # Active never-seen missions
 
-Count: 455
+Count: 453
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -155,7 +155,6 @@ Count: 455
 | 929/bd        | Brand in gasverdeelstation                      | 37825       | never     | False    |
 | 929/cd        | Brand in gasverdeelstation                      | 32510       | never     | False    |
 | 929/ce        | Brand in gasverdeelstation                      | 32360       | never     | False    |
-| 929/de        | Brand in gasverdeelstation                      | 27960       | never     | False    |
 | 929/abc       | Brand in gasverdeelstation                      | 44325       | never     | False    |
 | 929/abd       | Brand in gasverdeelstation                      | 38825       | never     | False    |
 | 929/abe       | Brand in gasverdeelstation                      | 38637       | never     | False    |
@@ -215,7 +214,6 @@ Count: 455
 | 1034/bc       | Brand in nucleaire installatie                  | 98450       | never     | False    |
 | 1034/bf       | Brand in nucleaire installatie                  | 91950       | never     | False    |
 | 1034/bg       | Brand in nucleaire installatie                  | 92450       | never     | False    |
-| 1034/bh       | Brand in nucleaire installatie                  | 91512       | never     | False    |
 | 1034/cd       | Brand in nucleaire installatie                  | 77210       | never     | False    |
 | 1034/cf       | Brand in nucleaire installatie                  | 77010       | never     | False    |
 | 1034/ch       | Brand in nucleaire installatie                  | 76660       | never     | False    |
