@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 695
+Count: 694
 
 # Active never-seen missions
 
-Count: 456
+Count: 455
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -79,7 +79,6 @@ Count: 456
 | 841-0/a       | Aanrijding met zwaar letsel                     | 7140        | never     | False    |
 | 841-0/b       | Aanrijding met zwaar letsel                     | 7540        | never     | False    |
 | 841-0/ab      | Aanrijding met zwaar letsel                     | 7940        | never     | False    |
-| 853-0         | Vliegtuig neergestort                           | 21820       | never     | False    |
 | 853-0/a       | Vliegtuig neergestort                           | 22620       | never     | False    |
 | 853-1/a       | Vliegtuig neergestort                           | 24460       | never     | False    |
 | 855/a         | Observatie                                      | 6590        | never     | False    |
