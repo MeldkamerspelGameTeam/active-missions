@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 687
+Count: 686
 
 # Active never-seen missions
 
-Count: 448
+Count: 447
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -36,7 +36,6 @@ Count: 448
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                        | 17500       | never     | False    |
 | 356/b         | Heidebrand (Grip 2)                             | 32502       | never     | False    |
-| 377/a         | Persoon te water                                | 6000        | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                     | 9950        | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                     | 11050       | never     | False    |
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                     | 14562       | never     | False    |
