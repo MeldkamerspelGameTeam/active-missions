@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 692
+Count: 688
 
 # Active never-seen missions
 
-Count: 453
+Count: 449
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -29,7 +29,6 @@ Count: 453
 | 252           | Vrachtwagen te water                            | 3830        | never     | False    |
 | 252/a         | Vrachtwagen te water                            | 4630        | never     | False    |
 | 252/ab        | Vrachtwagen te water                            | 4930        | never     | False    |
-| 274           | Klein vliegtuig neergestort                     | 5770        | never     | False    |
 | 312/b         | Lekkende goederenwagon (Groot)                  | 6370        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                  | 7070        | never     | False    |
 | 312/ac        | Lekkende goederenwagon (Groot)                  | 7220        | never     | False    |
@@ -56,7 +55,6 @@ Count: 453
 | 509           | Brand in fabriekshal                            | 9930        | never     | False    |
 | 516           | Aanvaring met rondvaartboot (Grip 3)            | 5590        | never     | False    |
 | 518           | Aanvaring vrachtschip met veerboot (Grip 4)     | 9200        | never     | False    |
-| 518/a         | Aanvaring vrachtschip met veerboot (Grip 4)     | 12250       | never     | False    |
 | 591           | Uitslaande brand in veestal                     | 10775       | never     | False    |
 | 592           | Brand op bedrijventerrein                       | 12540       | never     | False    |
 | 593           | Begeleiding demonstratie (klein)                | 9720        | never     | False    |
@@ -99,7 +97,6 @@ Count: 453
 | 885/cf        | Brand in vuurwerkopslag                         | 55070       | never     | False    |
 | 885/de        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
 | 885/ef        | Brand in vuurwerkopslag                         | 50670       | never     | False    |
-| 885/abc       | Brand in vuurwerkopslag                         | 72025       | never     | False    |
 | 885/abd       | Brand in vuurwerkopslag                         | 66337       | never     | False    |
 | 885/abe       | Brand in vuurwerkopslag                         | 66525       | never     | False    |
 | 885/abf       | Brand in vuurwerkopslag                         | 67025       | never     | False    |
@@ -147,7 +144,6 @@ Count: 453
 | 901-0/a       | Trein ontspoord                                 | 8210        | never     | False    |
 | 919           | Begeleiding supporters                          | 14858       | never     | False    |
 | 919-0         | Begeleiding supporters                          | 15608       | never     | False    |
-| 929/b         | Brand in gasverdeelstation                      | 36825       | never     | False    |
 | 929/c         | Brand in gasverdeelstation                      | 31710       | never     | False    |
 | 929/d         | Brand in gasverdeelstation                      | 27310       | never     | False    |
 | 929/ab        | Brand in gasverdeelstation                      | 37825       | never     | False    |
