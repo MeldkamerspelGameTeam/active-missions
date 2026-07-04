@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 688
+Count: 687
 
 # Active never-seen missions
 
-Count: 449
+Count: 448
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -53,7 +53,6 @@ Count: 449
 | 492/a         | Ongeregeldheden voetbalsupporters horeca        | 6810        | never     | False    |
 | 497/a         | Personenauto te water                           | 5650        | never     | False    |
 | 509           | Brand in fabriekshal                            | 9930        | never     | False    |
-| 516           | Aanvaring met rondvaartboot (Grip 3)            | 5590        | never     | False    |
 | 518           | Aanvaring vrachtschip met veerboot (Grip 4)     | 9200        | never     | False    |
 | 591           | Uitslaande brand in veestal                     | 10775       | never     | False    |
 | 592           | Brand op bedrijventerrein                       | 12540       | never     | False    |
