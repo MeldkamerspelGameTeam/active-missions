@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 684
+Count: 682
 
 # Active never-seen missions
 
-Count: 445
+Count: 443
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -70,7 +70,6 @@ Count: 445
 | 803/a         | Persoon vermist rondom mui                      | 3370        | never     | False    |
 | 804-1         | Grote zoekactie vermist persoon                 | 9550        | never     | False    |
 | 837           | Gaslek bedrijventerrein                         | 8580        | never     | False    |
-| 841/b         | Aanrijding met zwaar letsel                     | 6140        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                     | 6740        | never     | False    |
 | 841-0/a       | Aanrijding met zwaar letsel                     | 7140        | never     | False    |
 | 841-0/b       | Aanrijding met zwaar letsel                     | 7540        | never     | False    |
@@ -439,7 +438,6 @@ Count: 445
 | 1034/abcdefgh | Brand in nucleaire installatie                  | 107387      | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                   | 15320       | never     | False    |
 | 1202/b        | Brand in ziekenhuis (Grip 1)                    | 13380       | never     | False    |
-| 1202/ab       | Brand in ziekenhuis (Grip 1)                    | 19225       | never     | False    |
 | 1203/a        | Brand in ziekenhuis (Grip 2)                    | 27562       | never     | False    |
 | 1203/b        | Brand in ziekenhuis (Grip 2)                    | 20850       | never     | False    |
 | 1203/ab       | Brand in ziekenhuis (Grip 2)                    | 28562       | never     | False    |
