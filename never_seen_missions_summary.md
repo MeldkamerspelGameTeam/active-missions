@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 679
+Count: 677
 
 # Active never-seen missions
 
-Count: 440
+Count: 438
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -56,8 +56,6 @@ Count: 440
 | 591           | Uitslaande brand in veestal                     | 10775       | never     | False    |
 | 592           | Brand op bedrijventerrein                       | 12540       | never     | False    |
 | 593           | Begeleiding demonstratie (klein)                | 9720        | never     | False    |
-| 594           | Begeleiding demonstratie (groot)                | 35910       | never     | False    |
-| 625/a         | Onbeheerde bagage gevonden                      | 2770        | never     | False    |
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
 | 763/a         | Toezicht bij manifestatie                       | 5515        | never     | False    |
