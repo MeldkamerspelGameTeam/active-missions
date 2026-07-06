@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 677
+Count: 681
 
 # Active never-seen missions
 
-Count: 438
+Count: 442
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -29,6 +29,7 @@ Count: 438
 | 252           | Vrachtwagen te water                            | 3830        | never     | False    |
 | 252/a         | Vrachtwagen te water                            | 4630        | never     | False    |
 | 252/ab        | Vrachtwagen te water                            | 4930        | never     | False    |
+| 301/a         | Inbraakalarm                                    | 1170        | never     | False    |
 | 312/b         | Lekkende goederenwagon (Groot)                  | 6370        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                  | 7070        | never     | False    |
 | 312/ac        | Lekkende goederenwagon (Groot)                  | 7220        | never     | False    |
@@ -56,6 +57,7 @@ Count: 438
 | 591           | Uitslaande brand in veestal                     | 10775       | never     | False    |
 | 592           | Brand op bedrijventerrein                       | 12540       | never     | False    |
 | 593           | Begeleiding demonstratie (klein)                | 9720        | never     | False    |
+| 655/a         | Koperdiefstal                                   | 1340        | never     | False    |
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
 | 763/a         | Toezicht bij manifestatie                       | 5515        | never     | False    |
@@ -72,6 +74,7 @@ Count: 438
 | 841-0/a       | Aanrijding met zwaar letsel                     | 7140        | never     | False    |
 | 841-0/b       | Aanrijding met zwaar letsel                     | 7540        | never     | False    |
 | 841-0/ab      | Aanrijding met zwaar letsel                     | 7940        | never     | False    |
+| 846/a         | Woningoverval                                   | 3480        | never     | False    |
 | 853-0/a       | Vliegtuig neergestort                           | 22620       | never     | False    |
 | 853-1/a       | Vliegtuig neergestort                           | 24460       | never     | False    |
 | 855/a         | Observatie                                      | 6590        | never     | False    |
@@ -172,6 +175,7 @@ Count: 438
 | 942-1/b       | Schoolbus te water                              | 12820       | never     | False    |
 | 942-1/ab      | Schoolbus te water                              | 13120       | never     | False    |
 | 948-0         | Brand op windmolenpark                          | 2100        | never     | False    |
+| 951/a         | Vechtpartij horecagebied                        | 3570        | never     | False    |
 | 952-3         | Brand in stadion                                | 43140       | never     | False    |
 | 961           | Toezicht Horeca                                 | 8745        | never     | False    |
 | 961/a         | Toezicht Horeca                                 | 9545        | never     | False    |
