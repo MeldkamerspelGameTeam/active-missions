@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 680
+Count: 679
 
 # Active never-seen missions
 
-Count: 441
+Count: 440
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -183,7 +183,6 @@ Count: 441
 | 993           | Straat afzetten voor politie                    | 840         | never     | False    |
 | 1016/a        | Aanvaring veerpont                              | 15530       | never     | False    |
 | 1017          | Redding overboord geslagen slachtoffers         | 1230        | never     | False    |
-| 1030/ad       | Brand bij papierrecyclaar                       | 42560       | never     | False    |
 | 1030/bd       | Brand bij papierrecyclaar                       | 55887       | never     | False    |
 | 1030/abc      | Brand bij papierrecyclaar                       | 65137       | never     | False    |
 | 1030/abd      | Brand bij papierrecyclaar                       | 56887       | never     | False    |
