@@ -11,7 +11,7 @@ This README is auto-updated by main.py and the GitHub workflow.
 | Total missions | 1950 |
 | Active missions | 1705 |
 | Inactive missions | 245 |
-| Missions seen in last 30 days | 1276 |
+| Missions seen in last 30 days | 1274 |
 
 ### Never-Seen Breakdown
 
