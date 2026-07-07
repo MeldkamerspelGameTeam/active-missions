@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 676
+Count: 675
 
 # Active never-seen missions
 
-Count: 437
+Count: 436
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -24,7 +24,6 @@ Count: 437
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
 | 207           | Personenauto te water                           | 3680        | never     | False    |
 | 208           | Personenauto te water                           | 4350        | never     | False    |
-| 210           | Aanvaring vrachtschip met kajuitboot (Grip 3)   | 4180        | never     | False    |
 | 251           | Vrachtwagen te water                            | 2660        | never     | False    |
 | 252           | Vrachtwagen te water                            | 3830        | never     | False    |
 | 252/a         | Vrachtwagen te water                            | 4630        | never     | False    |
