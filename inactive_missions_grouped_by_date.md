@@ -1,7 +1,7 @@
 # Inactive missions grouped by date window
 
-Inactive missions: 245
-Date window groups: 24
+Inactive missions: 225
+Date window groups: 22
 
 ## Start: 2024-07-26T09:00:00Z | End: 2024-08-11T23:59:59Z | Count: 7
 
@@ -395,44 +395,6 @@ Count: 12
 | 1080   | Kersenbloesems in brand                                            | 1000        | never      | True     |
 | 1081   | Bloemenveld in brand                                               | 2500        | never      | True     |
 | 1082   | Bloemen gestolen                                                   | 1200        | never      | True     |
-
-## Start: 2026-03-20T10:00:00Z | End: 2026-04-07T23:59:59+02:00 | Count: 17
-
-# Missions
-
-Count: 17
-
-| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 578    | Paasei dief                                                        | 500         | never      | True     |
-| 579    | Kwast gestolen uit werkplaats                                      | 500         | never      | True     |
-| 580    | Ingestort konijnenhol                                              | 2440        | never      | True     |
-| 581    | Aangevallen Paashaas                                               | 500         | never      | True     |
-| 582    | Brandende paasmand                                                 | 500         | never      | True     |
-| 583    | Lekkende chocoladevrachtwagen                                      | 5000        | never      | True     |
-| 584    | Brandende eierkoker                                                | 840         | never      | True     |
-| 585    | Hazenbijeenkomst in Paaseistad                                     | 10530       | never      | True     |
-| 586    | Gekantelde paaseivrachtwagen                                       | 1420        | never      | True     |
-| 587    | Prioriteit: paasei-jacht                                           | 1350        | never      | True     |
-| 588    | Paashaas in een kraan                                              | 1690        | never      | True     |
-| 935    | Gesmolten chocolade haas                                           | 500         | never      | True     |
-| 936    | Bliksem treft konijnenhol                                          | 2600        | never      | True     |
-| 937    | Chocolade haas opgesloten in auto                                  | 250         | never      | True     |
-| 938    | Paaseieren zoeken onder water                                      | 1670        | never      | True     |
-| 1141   | Brand in chocolade-eierenfabriek                                   | 13755       | never      | True     |
-| 1142   | Onaangekondigde paashaasstaking                                    | 7500        | never      | True     |
-
-## Start: 2026-03-23T10:00:00+01:00 | End: 2026-04-07T23:59:59+02:00 | Count: 3
-
-# Missions
-
-Count: 3
-
-| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 1197   | Vrachtwagen met eierpunch gekanteld                                | 1760        | never      | True     |
-| 1197/a | Vrachtwagen met eierpunch gekanteld                                | 2060        | never      | True     |
-| 1198   | Paaseieren vermist                                                 | 1670        | never      | True     |
 
 ## Start: 2026-05-08T09:00:00Z | End: 2026-05-10T23:59:59+02:00 | Count: 6
 
