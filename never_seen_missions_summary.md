@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 673
+Count: 672
 
 # Active never-seen missions
 
-Count: 434
+Count: 433
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -46,7 +46,6 @@ Count: 434
 | 429-0/b       | Brand in bouwmarkt (Grip 2)                     | 17950       | never     | False    |
 | 429-0/ab      | Brand in bouwmarkt (Grip 2)                     | 23187       | never     | False    |
 | 435           | Lekkende tankwagen                              | 6660        | never     | False    |
-| 463/a         | Verdachte vaten aangetroffen                    | 4390        | never     | False    |
 | 484           | Vat met gevaarlijke stoffen omgevallen          | 3880        | never     | False    |
 | 485           | Vat met gevaarlijke stoffen omgevallen          | 6660        | never     | False    |
 | 492/a         | Ongeregeldheden voetbalsupporters horeca        | 6810        | never     | False    |
