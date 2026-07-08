@@ -412,7 +412,7 @@ Count: 17
 | 583    | Lekkende chocoladevrachtwagen                                      | 5000        | 2026-07-08 | True     |
 | 584    | Brandende eierkoker                                                | 840         | never      | True     |
 | 585    | Hazenbijeenkomst in Paaseistad                                     | 10530       | never      | True     |
-| 586    | Gekantelde paaseivrachtwagen                                       | 1420        | never      | True     |
+| 586    | Gekantelde paaseivrachtwagen                                       | 1420        | 2026-07-08 | True     |
 | 587    | Prioriteit: paasei-jacht                                           | 1350        | 2026-07-08 | True     |
 | 588    | Paashaas in een kraan                                              | 1690        | 2026-07-08 | True     |
 | 935    | Gesmolten chocolade haas                                           | 500         | 2026-07-08 | True     |

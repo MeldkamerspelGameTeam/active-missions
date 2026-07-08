@@ -1,6 +1,6 @@
 # Never seen missions
 
-Count: 655
+Count: 654
 
 # Active never-seen missions
 
@@ -440,7 +440,7 @@ Count: 429
 
 # Inactive never-seen missions
 
-Count: 226
+Count: 225
 
 | ID     | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | --------- | -------- |
@@ -508,7 +508,6 @@ Count: 226
 | 582    | Brandende paasmand                                                 | 500         | never     | True     |
 | 584    | Brandende eierkoker                                                | 840         | never     | True     |
 | 585    | Hazenbijeenkomst in Paaseistad                                     | 10530       | never     | True     |
-| 586    | Gekantelde paaseivrachtwagen                                       | 1420        | never     | True     |
 | 688    | Illegaal afsteken van vuurwerk                                     | 670         | never     | True     |
 | 689    | Vuurwerkoverlast                                                   | 840         | never     | True     |
 | 690    | Vernieling met vuurwerk                                            | 670         | never     | True     |
