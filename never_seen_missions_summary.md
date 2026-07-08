@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 657
+Count: 655
 
 # Active never-seen missions
 
-Count: 431
+Count: 429
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -49,7 +49,6 @@ Count: 431
 | 485           | Vat met gevaarlijke stoffen omgevallen          | 6660        | never     | False    |
 | 492/a         | Ongeregeldheden voetbalsupporters horeca        | 6810        | never     | False    |
 | 497/a         | Personenauto te water                           | 5650        | never     | False    |
-| 518           | Aanvaring vrachtschip met veerboot (Grip 4)     | 9200        | never     | False    |
 | 591           | Uitslaande brand in veestal                     | 10775       | never     | False    |
 | 592           | Brand op bedrijventerrein                       | 12540       | never     | False    |
 | 593           | Begeleiding demonstratie (klein)                | 9720        | never     | False    |
@@ -62,7 +61,6 @@ Count: 431
 | 787/abc       | Persoon bekneld in gierput                      | 7110        | never     | False    |
 | 796           | Zoekactie vermist persoon                       | 1840        | never     | False    |
 | 796-0         | Zoekactie vermist persoon                       | 2090        | never     | False    |
-| 803/a         | Persoon vermist rondom mui                      | 3370        | never     | False    |
 | 804-1         | Grote zoekactie vermist persoon                 | 9550        | never     | False    |
 | 837           | Gaslek bedrijventerrein                         | 8580        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                     | 6740        | never     | False    |
