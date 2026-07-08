@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 672
+Count: 671
 
 # Active never-seen missions
 
-Count: 433
+Count: 432
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -28,7 +28,6 @@ Count: 433
 | 252           | Vrachtwagen te water                            | 3830        | never     | False    |
 | 252/a         | Vrachtwagen te water                            | 4630        | never     | False    |
 | 252/ab        | Vrachtwagen te water                            | 4930        | never     | False    |
-| 301/a         | Inbraakalarm                                    | 1170        | never     | False    |
 | 312/b         | Lekkende goederenwagon (Groot)                  | 6370        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                  | 7070        | never     | False    |
 | 312/ac        | Lekkende goederenwagon (Groot)                  | 7220        | never     | False    |
