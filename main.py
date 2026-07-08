@@ -19,6 +19,7 @@ SOURCES = {
 }
 
 OUTPUT_DIR = Path(__file__).resolve().parent / "data"
+INACTIVE_STATE_PATH = OUTPUT_DIR / "inactive_state.json"
 
 
 def fetch_text(url: str, timeout: int = 30) -> str:
@@ -400,6 +401,8 @@ def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[d
         "| **Never→Active** | 🎯 | 🟨 Yellow (65535) | A never-seen mission gets its first activity | Batch message with transitions |",
         "| **Not Seen 30+ Days** | 🚨 | 🔴 Red (16711680) | Mission hasn't been seen in 30+ days | Batch message with stale missions |",
         "| **Back to Activity** | ✅ | 🟢 Green (65280) | Previously inactive mission (30+ days) is active again | Batch message with resumed missions |",
+        "| **Active→Inactive** | ⏸️ | 🟠 Orange (16098851) | Mission date window moved outside active period | Batch message with state changes |",
+        "| **Inactive→Active** | ▶️ | 🟩 Green (5763719) | Mission date window re-entered active period | Batch message with state changes |",
         "| **Weekly Totals** | 📊 | 🔵 Blue (3447003) | Monday 08:00-08:59 Dutch time | Single summary message with totals |",
         "",
         "### Message Format",
@@ -646,6 +649,82 @@ def send_batch_discord_webhook(missions: list[dict[str, Any]], title: str, color
             print(f"Failed to send batch Discord notification: {err}")
 
 
+def load_inactive_state() -> dict[str, bool]:
+    """Load previously known inactive state per mission ID."""
+    if not INACTIVE_STATE_PATH.exists():
+        return {}
+
+    try:
+        with INACTIVE_STATE_PATH.open("r", encoding="utf-8") as f:
+            data = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+    if not isinstance(data, dict):
+        return {}
+
+    normalized: dict[str, bool] = {}
+    for mission_id, inactive in data.items():
+        normalized[str(mission_id)] = bool(inactive)
+    return normalized
+
+
+def save_inactive_state(state: dict[str, bool]) -> None:
+    """Persist inactive state in natural mission-ID order."""
+
+    def mission_sort_key(mission_id: str) -> tuple[tuple[int, Any], ...]:
+        parts = re.split(r"(\d+)", mission_id)
+        key_parts: list[tuple[int, Any]] = []
+        for part in parts:
+            if not part:
+                continue
+            if part.isdigit():
+                key_parts.append((0, int(part)))
+            else:
+                key_parts.append((1, part.lower()))
+        return tuple(key_parts)
+
+    ordered = {key: bool(state[key]) for key in sorted(state.keys(), key=mission_sort_key)}
+    save_json(INACTIVE_STATE_PATH, ordered)
+
+
+def report_inactive_state_transitions(ids_payload: list[dict[str, Any]]) -> None:
+    """Report missions that changed between active and inactive based on date window."""
+    previous_state = load_inactive_state()
+    current_state: dict[str, bool] = {}
+    became_inactive: list[dict[str, Any]] = []
+    became_active: list[dict[str, Any]] = []
+
+    for mission in ids_payload:
+        mission_id = str(mission.get("id", ""))
+        if not mission_id:
+            continue
+
+        current_inactive = bool(mission.get("inactive", False))
+        current_state[mission_id] = current_inactive
+
+        # Skip first-seen missions to avoid noisy first-run notifications.
+        if mission_id not in previous_state:
+            continue
+
+        old_inactive = previous_state[mission_id]
+        if old_inactive == current_inactive:
+            continue
+
+        if current_inactive:
+            became_inactive.append(mission)
+        else:
+            became_active.append(mission)
+
+    save_inactive_state(current_state)
+
+    if became_inactive:
+        send_batch_discord_webhook(became_inactive, "⏸️ Missions became inactive (date window)", 16098851)
+
+    if became_active:
+        send_batch_discord_webhook(became_active, "▶️ Missions became active (date window)", 5763719)
+
+
 def report_newly_discovered_missions(never_seen: list[dict[str, Any]], ids_payload: list[dict[str, Any]]) -> None:
     """Report newly discovered missions and never-to-active transitions."""
     reported = load_reported_missions()
@@ -745,6 +824,7 @@ def main() -> None:
         # Report mission discoveries to Discord
         report_newly_discovered_missions(never_seen, ids_payload)
         report_new_old_seen_missions(old_seen, ids_payload)
+        report_inactive_state_transitions(ids_payload)
 
 
 if __name__ == "__main__":
