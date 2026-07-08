@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 662
+Count: 657
 
 # Active never-seen missions
 
-Count: 443
+Count: 431
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -50,13 +50,6 @@ Count: 443
 | 492/a         | Ongeregeldheden voetbalsupporters horeca        | 6810        | never     | False    |
 | 497/a         | Personenauto te water                           | 5650        | never     | False    |
 | 518           | Aanvaring vrachtschip met veerboot (Grip 4)     | 9200        | never     | False    |
-| 578           | Paasei dief                                     | 500         | never     | False    |
-| 579           | Kwast gestolen uit werkplaats                   | 500         | never     | False    |
-| 582           | Brandende paasmand                              | 500         | never     | False    |
-| 583           | Lekkende chocoladevrachtwagen                   | 5000        | never     | False    |
-| 584           | Brandende eierkoker                             | 840         | never     | False    |
-| 585           | Hazenbijeenkomst in Paaseistad                  | 10530       | never     | False    |
-| 586           | Gekantelde paaseivrachtwagen                    | 1420        | never     | False    |
 | 591           | Uitslaande brand in veestal                     | 10775       | never     | False    |
 | 592           | Brand op bedrijventerrein                       | 12540       | never     | False    |
 | 593           | Begeleiding demonstratie (klein)                | 9720        | never     | False    |
@@ -164,7 +157,6 @@ Count: 443
 | 929/acde      | Brand in gasverdeelstation                      | 33960       | never     | False    |
 | 929/bcde      | Brand in gasverdeelstation                      | 45137       | never     | False    |
 | 929/abcde     | Brand in gasverdeelstation                      | 46137       | never     | False    |
-| 938           | Paaseieren zoeken onder water                   | 1670        | never     | False    |
 | 942           | Schoolbus te water                              | 4650        | never     | False    |
 | 942/ab        | Schoolbus te water                              | 5750        | never     | False    |
 | 942-0         | Schoolbus te water                              | 8520        | never     | False    |
@@ -178,7 +170,6 @@ Count: 443
 | 948-0         | Brand op windmolenpark                          | 2100        | never     | False    |
 | 952-3         | Brand in stadion                                | 43140       | never     | False    |
 | 961           | Toezicht Horeca                                 | 8745        | never     | False    |
-| 961/a         | Toezicht Horeca                                 | 9545        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest            | 8540        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
 | 993           | Straat afzetten voor politie                    | 840         | never     | False    |
@@ -435,9 +426,6 @@ Count: 443
 | 1034/bcdefgh  | Brand in nucleaire installatie                  | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                  | 107387      | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                   | 15320       | never     | False    |
-| 1141          | Brand in chocolade-eierenfabriek                | 13755       | never     | False    |
-| 1142          | Onaangekondigde paashaasstaking                 | 7500        | never     | False    |
-| 1197/a        | Vrachtwagen met eierpunch gekanteld             | 2060        | never     | False    |
 | 1202/b        | Brand in ziekenhuis (Grip 1)                    | 13380       | never     | False    |
 | 1203/a        | Brand in ziekenhuis (Grip 2)                    | 27562       | never     | False    |
 | 1203/b        | Brand in ziekenhuis (Grip 2)                    | 20850       | never     | False    |
@@ -454,7 +442,7 @@ Count: 443
 
 # Inactive never-seen missions
 
-Count: 219
+Count: 226
 
 | ID     | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | --------- | -------- |
@@ -518,6 +506,11 @@ Count: 219
 | 547    | Donkere dagen offensief                                            | 670         | never     | True     |
 | 562    | Pijlen Cupido gestolen                                             | 500         | never     | True     |
 | 563    | Persoon gewond door pijl van Cupido                                | None        | never     | True     |
+| 579    | Kwast gestolen uit werkplaats                                      | 500         | never     | True     |
+| 582    | Brandende paasmand                                                 | 500         | never     | True     |
+| 584    | Brandende eierkoker                                                | 840         | never     | True     |
+| 585    | Hazenbijeenkomst in Paaseistad                                     | 10530       | never     | True     |
+| 586    | Gekantelde paaseivrachtwagen                                       | 1420        | never     | True     |
 | 688    | Illegaal afsteken van vuurwerk                                     | 670         | never     | True     |
 | 689    | Vuurwerkoverlast                                                   | 840         | never     | True     |
 | 690    | Vernieling met vuurwerk                                            | 670         | never     | True     |
@@ -607,6 +600,7 @@ Count: 219
 | 926    | Persoon steelt kalveren                                            | 670         | never     | True     |
 | 927    | Koeien dief op de vlucht                                           | 2180        | never     | True     |
 | 928    | Dief aangevallen door een koe                                      | 500         | never     | True     |
+| 938    | Paaseieren zoeken onder water                                      | 1670        | never     | True     |
 | 963    | Grote alcoholcontrole bij race-evenement                           | 12390       | never     | True     |
 | 964    | Racewagen brand                                                    | 500         | never     | True     |
 | 965    | Crash op Circuit                                                   | 2090        | never     | True     |
@@ -677,3 +671,4 @@ Count: 219
 | 1192   | Vergeten jubileum                                                  | 4110        | never     | True     |
 | 1194   | Sneeuwploeg gekanteld op provinciale weg                           | 2610        | never     | True     |
 | 1194/a | Sneeuwploeg gekanteld op provinciale weg                           | 3110        | never     | True     |
+| 1197/a | Vrachtwagen met eierpunch gekanteld                                | 2060        | never     | True     |
