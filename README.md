@@ -55,6 +55,8 @@ The script sends automated notifications to Discord when mission statuses change
 | **Never→Active** | 🎯 | 🟨 Yellow (65535) | A never-seen mission gets its first activity | Batch message with transitions |
 | **Not Seen 30+ Days** | 🚨 | 🔴 Red (16711680) | Mission hasn't been seen in 30+ days | Batch message with stale missions |
 | **Back to Activity** | ✅ | 🟢 Green (65280) | Previously inactive mission (30+ days) is active again | Batch message with resumed missions |
+| **Active→Inactive** | ⏸️ | 🟠 Orange (16098851) | Mission date window moved outside active period | Batch message with state changes |
+| **Inactive→Active** | ▶️ | 🟩 Green (5763719) | Mission date window re-entered active period | Batch message with state changes |
 | **Weekly Totals** | 📊 | 🔵 Blue (3447003) | Monday 08:00-08:59 Dutch time | Single summary message with totals |
 
 ### Message Format
