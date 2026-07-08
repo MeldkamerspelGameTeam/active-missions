@@ -71,6 +71,7 @@ jobs:
           # Always persist reporting state to avoid duplicate Discord notifications.
           git add data/reported_missions.json
           git add data/weekly_status.json
+          git add data/inactive_state.json
 
           git add never_seen_missions_summary.md old_seen_missions_summary.md inactive_missions_grouped_by_date.md README.md
           if git diff --cached --quiet; then
