@@ -1,0 +1,38 @@
+name: Manual Weekly Discord Update
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  send-weekly-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Send weekly totals to Discord
+        run: python send_weekly_discord_summary.py
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD }}
+
+      - name: Commit weekly status marker
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/weekly_status.json
+          if git diff --cached --quiet; then
+            echo "No weekly status changes to commit."
+          else
+            git commit -m "chore: store manual weekly summary marker"
+            git push
+          fi
