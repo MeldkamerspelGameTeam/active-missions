@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 648
+Count: 645
 
 # Active never-seen missions
 
-Count: 423
+Count: 420
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -59,7 +59,6 @@ Count: 423
 | 787/abc       | Persoon bekneld in gierput                      | 7110        | never     | False    |
 | 796           | Zoekactie vermist persoon                       | 1840        | never     | False    |
 | 796-0         | Zoekactie vermist persoon                       | 2090        | never     | False    |
-| 804-1         | Grote zoekactie vermist persoon                 | 9550        | never     | False    |
 | 837           | Gaslek bedrijventerrein                         | 8580        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                     | 6740        | never     | False    |
 | 841-0/a       | Aanrijding met zwaar letsel                     | 7140        | never     | False    |
@@ -67,7 +66,6 @@ Count: 423
 | 841-0/ab      | Aanrijding met zwaar letsel                     | 7940        | never     | False    |
 | 853-0/a       | Vliegtuig neergestort                           | 22620       | never     | False    |
 | 853-1/a       | Vliegtuig neergestort                           | 24460       | never     | False    |
-| 855/a         | Observatie                                      | 6590        | never     | False    |
 | 868/b         | Duinbrand (Grip 1)                              | 21547       | never     | False    |
 | 881/b         | Duinbrand (Grip 3)                              | 45654       | never     | False    |
 | 885/e         | Brand in vuurwerkopslag                         | 49470       | never     | False    |
@@ -110,7 +108,6 @@ Count: 423
 | 885/abef      | Brand in vuurwerkopslag                         | 68025       | never     | False    |
 | 885/acde      | Brand in vuurwerkopslag                         | 56120       | never     | False    |
 | 885/acdf      | Brand in vuurwerkopslag                         | 56520       | never     | False    |
-| 885/acef      | Brand in vuurwerkopslag                         | 56670       | never     | False    |
 | 885/adef      | Brand in vuurwerkopslag                         | 52120       | never     | False    |
 | 885/bcde      | Brand in vuurwerkopslag                         | 72837       | never     | False    |
 | 885/bcdf      | Brand in vuurwerkopslag                         | 73337       | never     | False    |
