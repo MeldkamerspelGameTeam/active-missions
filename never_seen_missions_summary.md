@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 650
+Count: 648
 
 # Active never-seen missions
 
-Count: 425
+Count: 423
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -28,7 +28,6 @@ Count: 425
 | 252           | Vrachtwagen te water                            | 3830        | never     | False    |
 | 252/a         | Vrachtwagen te water                            | 4630        | never     | False    |
 | 252/ab        | Vrachtwagen te water                            | 4930        | never     | False    |
-| 312/b         | Lekkende goederenwagon (Groot)                  | 6370        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                  | 7070        | never     | False    |
 | 312/ac        | Lekkende goederenwagon (Groot)                  | 7220        | never     | False    |
 | 312/bc        | Lekkende goederenwagon (Groot)                  | 7170        | never     | False    |
@@ -176,7 +175,6 @@ Count: 425
 | 1030/acd      | Brand bij papierrecyclaar                       | 50760       | never     | False    |
 | 1030/bcd      | Brand bij papierrecyclaar                       | 66137       | never     | False    |
 | 1030/abcd     | Brand bij papierrecyclaar                       | 67137       | never     | False    |
-| 1034/a        | Brand in nucleaire installatie                  | 70210       | never     | False    |
 | 1034/b        | Brand in nucleaire installatie                  | 90450       | never     | False    |
 | 1034/e        | Brand in nucleaire installatie                  | 70710       | never     | False    |
 | 1034/g        | Brand in nucleaire installatie                  | 71010       | never     | False    |
