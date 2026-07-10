@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 643
+Count: 642
 
 # Active never-seen missions
 
-Count: 418
+Count: 417
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -423,7 +423,6 @@ Count: 418
 | 1206/b        | Brand in station (Grip 1)                       | 28400       | never     | False    |
 | 1206/ab       | Brand in station (Grip 1)                       | 38000       | never     | False    |
 | 1206/bc       | Brand in station (Grip 1)                       | 29200       | never     | False    |
-| 1207          | Brand in station (Grip 2)                       | 41960       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                       | 55950       | never     | False    |
 | 1207/abc      | Brand in station (Grip 2)                       | 56950       | never     | False    |
 
