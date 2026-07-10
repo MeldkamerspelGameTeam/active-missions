@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 639
+Count: 637
 
 # Active never-seen missions
 
-Count: 414
+Count: 412
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -67,7 +67,6 @@ Count: 414
 | 853-1/a       | Vliegtuig neergestort                           | 24460       | never     | False    |
 | 868/b         | Duinbrand (Grip 1)                              | 21547       | never     | False    |
 | 881/b         | Duinbrand (Grip 3)                              | 45654       | never     | False    |
-| 885/e         | Brand in vuurwerkopslag                         | 49470       | never     | False    |
 | 885/ab        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
 | 885/ac        | Brand in vuurwerkopslag                         | 54670       | never     | False    |
 | 885/ad        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
@@ -157,7 +156,6 @@ Count: 414
 | 942-1/b       | Schoolbus te water                              | 12820       | never     | False    |
 | 942-1/ab      | Schoolbus te water                              | 13120       | never     | False    |
 | 948-0         | Brand op windmolenpark                          | 2100        | never     | False    |
-| 952-3         | Brand in stadion                                | 43140       | never     | False    |
 | 961           | Toezicht Horeca                                 | 8745        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest            | 8540        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
