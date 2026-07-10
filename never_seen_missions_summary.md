@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 642
+Count: 640
 
 # Active never-seen missions
 
-Count: 417
+Count: 415
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -33,7 +33,6 @@ Count: 417
 | 312/bc        | Lekkende goederenwagon (Groot)                  | 7170        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                        | 17500       | never     | False    |
-| 356/b         | Heidebrand (Grip 2)                             | 32502       | never     | False    |
 | 428/b         | Brand in bouwmarkt (Grip 1)                     | 9950        | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                     | 11050       | never     | False    |
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                     | 14562       | never     | False    |
@@ -173,7 +172,6 @@ Count: 417
 | 1030/abcd     | Brand bij papierrecyclaar                       | 67137       | never     | False    |
 | 1034/b        | Brand in nucleaire installatie                  | 90450       | never     | False    |
 | 1034/e        | Brand in nucleaire installatie                  | 70710       | never     | False    |
-| 1034/g        | Brand in nucleaire installatie                  | 71010       | never     | False    |
 | 1034/ab       | Brand in nucleaire installatie                  | 91450       | never     | False    |
 | 1034/ad       | Brand in nucleaire installatie                  | 71610       | never     | False    |
 | 1034/ae       | Brand in nucleaire installatie                  | 71510       | never     | False    |
