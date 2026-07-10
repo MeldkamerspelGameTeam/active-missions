@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 637
+Count: 635
 
 # Active never-seen missions
 
-Count: 412
+Count: 410
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -52,7 +52,6 @@ Count: 412
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
 | 763/a         | Toezicht bij manifestatie                       | 5515        | never     | False    |
-| 787/ab        | Persoon bekneld in gierput                      | 6310        | never     | False    |
 | 787/ac        | Persoon bekneld in gierput                      | 6460        | never     | False    |
 | 787/bc        | Persoon bekneld in gierput                      | 6410        | never     | False    |
 | 787/abc       | Persoon bekneld in gierput                      | 7110        | never     | False    |
@@ -200,7 +199,6 @@ Count: 412
 | 1034/acf      | Brand in nucleaire installatie                  | 77810       | never     | False    |
 | 1034/acg      | Brand in nucleaire installatie                  | 78210       | never     | False    |
 | 1034/ach      | Brand in nucleaire installatie                  | 77460       | never     | False    |
-| 1034/ade      | Brand in nucleaire installatie                  | 72910       | never     | False    |
 | 1034/adf      | Brand in nucleaire installatie                  | 72810       | never     | False    |
 | 1034/adg      | Brand in nucleaire installatie                  | 73210       | never     | False    |
 | 1034/adh      | Brand in nucleaire installatie                  | 72460       | never     | False    |
