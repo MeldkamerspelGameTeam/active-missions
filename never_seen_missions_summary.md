@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 635
+Count: 630
 
 # Active never-seen missions
 
-Count: 410
+Count: 405
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -75,7 +75,6 @@ Count: 410
 | 885/be        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
 | 885/bf        | Brand in vuurwerkopslag                         | 66025       | never     | False    |
 | 885/cd        | Brand in vuurwerkopslag                         | 54520       | never     | False    |
-| 885/cf        | Brand in vuurwerkopslag                         | 55070       | never     | False    |
 | 885/de        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
 | 885/ef        | Brand in vuurwerkopslag                         | 50670       | never     | False    |
 | 885/abd       | Brand in vuurwerkopslag                         | 66337       | never     | False    |
@@ -122,8 +121,6 @@ Count: 410
 | 897-1/a       | Rellen na stadsderby                            | 18355       | never     | False    |
 | 919           | Begeleiding supporters                          | 14858       | never     | False    |
 | 919-0         | Begeleiding supporters                          | 15608       | never     | False    |
-| 929/c         | Brand in gasverdeelstation                      | 31710       | never     | False    |
-| 929/ab        | Brand in gasverdeelstation                      | 37825       | never     | False    |
 | 929/ae        | Brand in gasverdeelstation                      | 27960       | never     | False    |
 | 929/bd        | Brand in gasverdeelstation                      | 37825       | never     | False    |
 | 929/cd        | Brand in gasverdeelstation                      | 32510       | never     | False    |
@@ -172,7 +169,6 @@ Count: 410
 | 1034/ad       | Brand in nucleaire installatie                  | 71610       | never     | False    |
 | 1034/ae       | Brand in nucleaire installatie                  | 71510       | never     | False    |
 | 1034/af       | Brand in nucleaire installatie                  | 71410       | never     | False    |
-| 1034/ag       | Brand in nucleaire installatie                  | 71810       | never     | False    |
 | 1034/ah       | Brand in nucleaire installatie                  | 71060       | never     | False    |
 | 1034/bc       | Brand in nucleaire installatie                  | 98450       | never     | False    |
 | 1034/bf       | Brand in nucleaire installatie                  | 91950       | never     | False    |
@@ -184,7 +180,6 @@ Count: 410
 | 1034/dg       | Brand in nucleaire installatie                  | 72410       | never     | False    |
 | 1034/dh       | Brand in nucleaire installatie                  | 71660       | never     | False    |
 | 1034/ef       | Brand in nucleaire installatie                  | 71910       | never     | False    |
-| 1034/eg       | Brand in nucleaire installatie                  | 72310       | never     | False    |
 | 1034/eh       | Brand in nucleaire installatie                  | 71560       | never     | False    |
 | 1034/fh       | Brand in nucleaire installatie                  | 71460       | never     | False    |
 | 1034/gh       | Brand in nucleaire installatie                  | 71860       | never     | False    |
