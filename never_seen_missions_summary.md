@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 621
+Count: 618
 
 # Active never-seen missions
 
-Count: 396
+Count: 393
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -64,7 +64,6 @@ Count: 396
 | 881/b         | Duinbrand (Grip 3)                              | 45654       | never     | False    |
 | 885/ab        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
 | 885/ad        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
-| 885/ae        | Brand in vuurwerkopslag                         | 50270       | never     | False    |
 | 885/af        | Brand in vuurwerkopslag                         | 50670       | never     | False    |
 | 885/bc        | Brand in vuurwerkopslag                         | 71025       | never     | False    |
 | 885/be        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
@@ -144,7 +143,6 @@ Count: 396
 | 942-1/a       | Schoolbus te water                              | 12320       | never     | False    |
 | 942-1/b       | Schoolbus te water                              | 12820       | never     | False    |
 | 942-1/ab      | Schoolbus te water                              | 13120       | never     | False    |
-| 948-0         | Brand op windmolenpark                          | 2100        | never     | False    |
 | 961           | Toezicht Horeca                                 | 8745        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest            | 8540        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
@@ -156,7 +154,6 @@ Count: 396
 | 1030/acd      | Brand bij papierrecyclaar                       | 50760       | never     | False    |
 | 1030/bcd      | Brand bij papierrecyclaar                       | 66137       | never     | False    |
 | 1030/abcd     | Brand bij papierrecyclaar                       | 67137       | never     | False    |
-| 1034/e        | Brand in nucleaire installatie                  | 70710       | never     | False    |
 | 1034/ab       | Brand in nucleaire installatie                  | 91450       | never     | False    |
 | 1034/ad       | Brand in nucleaire installatie                  | 71610       | never     | False    |
 | 1034/ae       | Brand in nucleaire installatie                  | 71510       | never     | False    |
