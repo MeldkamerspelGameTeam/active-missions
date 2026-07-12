@@ -27,7 +27,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run generator
-        run: python main.py
+        run: python scripts/main.py
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD }}
 
@@ -37,7 +37,7 @@ jobs:
           DUTCH_HOUR=$(TZ=Europe/Amsterdam date +%H)
           if [ "$DUTCH_WEEKDAY" = "1" ] && [ "$DUTCH_HOUR" = "08" ]; then
             echo "Dutch time is Monday 08:xx, sending weekly totals summary."
-            python send_weekly_discord_summary.py
+            python scripts/send_weekly_discord_summary.py
           else
             echo "Dutch time is weekday ${DUTCH_WEEKDAY}, hour ${DUTCH_HOUR}:xx, skipping weekly totals summary."
           fi
@@ -49,7 +49,7 @@ jobs:
           DUTCH_HOUR=$(TZ=Europe/Amsterdam date +%H)
           if [ "$DUTCH_HOUR" = "00" ]; then
             echo "Dutch time is 00:xx, running recent-seen overview script."
-            python generate_recent_seen_overview.py
+            python scripts/generate_recent_seen_overview.py
           else
             echo "Dutch time is ${DUTCH_HOUR}:xx, skipping recent-seen overview script."
           fi

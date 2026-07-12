@@ -1,6 +1,6 @@
 # Active Missions Report
 
-This README is auto-updated by main.py and the GitHub workflow.
+This README is auto-updated by scripts/main.py and the GitHub workflow.
 
 ## Summary
 

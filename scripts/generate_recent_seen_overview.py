@@ -10,7 +10,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
-ROOT_DIR = Path(__file__).resolve().parent
+ROOT_DIR = Path(__file__).resolve().parent.parent
 DEFAULT_INPUT = ROOT_DIR / "data" / "inzetten_ids.json"
 DEFAULT_OUTPUT = ROOT_DIR / "missions_seen_last_30_days_grouped.md"
 

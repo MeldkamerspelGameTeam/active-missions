@@ -18,7 +18,8 @@ SOURCES = {
     "missions_log": "https://piet2001-mks.hf.space/missions/log",
 }
 
-OUTPUT_DIR = Path(__file__).resolve().parent / "data"
+REPO_ROOT = Path(__file__).resolve().parent.parent
+OUTPUT_DIR = REPO_ROOT / "data"
 INACTIVE_STATE_PATH = OUTPUT_DIR / "inactive_state.json"
 
 
@@ -346,7 +347,7 @@ def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[d
     lines = [
         "# Active Missions Report",
         "",
-        "This README is auto-updated by main.py and the GitHub workflow.",
+        "This README is auto-updated by scripts/main.py and the GitHub workflow.",
         "",
         "## Summary",
         "",
@@ -800,7 +801,7 @@ def main() -> None:
 
         never_seen, old_seen = split_never_and_old_missions(ids_payload, now_utc, days=30)
 
-        root_dir = Path(__file__).resolve().parent
+        root_dir = REPO_ROOT
         never_seen_output = root_dir / "never_seen_missions_summary.md"
         never_seen_md = summarize_never_seen_markdown("Never seen missions", never_seen)
         save_text(never_seen_output, never_seen_md)

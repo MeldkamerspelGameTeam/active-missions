@@ -20,7 +20,7 @@ jobs:
           python-version: "3.12"
 
       - name: Send weekly totals to Discord
-        run: python send_weekly_discord_summary.py
+        run: python scripts/send_weekly_discord_summary.py
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD }}
 

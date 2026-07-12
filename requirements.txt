@@ -1,2 +1,2 @@
-# No third-party dependencies are required for main.py at the moment.
+# No third-party dependencies are required for scripts/main.py at the moment.
 # This file is kept so CI/workflows have an explicit dependency step.

@@ -11,7 +11,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
-ROOT_DIR = Path(__file__).resolve().parent
+ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
 IDS_PATH = DATA_DIR / "inzetten_ids.json"
 REPORTED_PATH = DATA_DIR / "reported_missions.json"
