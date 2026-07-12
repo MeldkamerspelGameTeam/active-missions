@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate a markdown report grouping missions by mission_categories."""
+"""Generate a markdown report grouping missions by requirements keys."""
 
 from __future__ import annotations
 
@@ -13,7 +13,7 @@ from typing import Any
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DEFAULT_INPUT = ROOT_DIR / "data" / "inzetten.json"
 DEFAULT_SEEN_INPUT = ROOT_DIR / "data" / "inzetten_ids.json"
-DEFAULT_OUTPUT = ROOT_DIR / "missions_grouped_by_category.md"
+DEFAULT_OUTPUT = ROOT_DIR / "missions_grouped_by_requirement.md"
 
 
 def natural_id_key(value: str) -> tuple[Any, ...]:
@@ -58,7 +58,12 @@ def build_table(missions: list[dict[str, Any]]) -> str:
     def render_row(values: list[str]) -> str:
         return "| " + " | ".join(values[i].ljust(widths[i]) for i in range(len(values))) + " |"
 
-    align = ["-" * widths[0], "-" * widths[1], "-" * max(3, widths[2] - 1) + ":", "-" * widths[3]]
+    align = [
+        "-" * widths[0],
+        "-" * widths[1],
+        "-" * max(3, widths[2] - 1) + ":",
+        "-" * widths[3],
+    ]
 
     lines = [render_row(headers), "| " + " | ".join(align) + " |"]
     lines.extend(render_row(row) for row in rows)
@@ -152,7 +157,7 @@ def generate_report(payload: Any, last_seen_map: dict[str, str], days: int = 30)
 
     now_utc = datetime.now(timezone.utc)
     grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
-    uncategorized: list[dict[str, Any]] = []
+    no_requirements: list[dict[str, Any]] = []
 
     for item in payload:
         if not isinstance(item, dict):
@@ -162,33 +167,36 @@ def generate_report(payload: Any, last_seen_map: dict[str, str], days: int = 30)
         enriched_item = dict(item)
         enriched_item["last_seen"] = last_seen_map.get(mission_id, "never")
 
-        categories = item.get("mission_categories")
-        if isinstance(categories, list) and categories:
-            for category in categories:
-                if isinstance(category, str) and category.strip():
-                    grouped[category.strip().lower()].append(enriched_item)
+        requirements = item.get("requirements")
+        if isinstance(requirements, dict) and requirements:
+            for req_key, req_value in requirements.items():
+                if not isinstance(req_key, str) or not req_key.strip():
+                    continue
+                req_item = dict(enriched_item)
+                req_item["required_count"] = req_value
+                grouped[req_key.strip().lower()].append(req_item)
         else:
-            uncategorized.append(enriched_item)
+            no_requirements.append(enriched_item)
 
     lines: list[str] = [
-        "# Missions Grouped By Category",
+        "# Missions Grouped By Requirement Key",
         "",
         f"Total missions: {len(payload)}",
-        f"Category groups: {len(grouped)}",
+        f"Requirement groups: {len(grouped)}",
         "",
-        "A mission can appear in multiple category sections.",
+        "A mission can appear in multiple requirement sections.",
         f"Seen split: last {days} days, old seen, and never seen.",
         "",
     ]
 
-    for category in sorted(grouped.keys()):
-        missions = grouped[category]
+    for req_key in sorted(grouped.keys()):
+        missions = grouped[req_key]
         buckets = split_by_seen_bucket(missions, now_utc, days)
         recent = buckets["last_seen_30_days"]
         old = buckets["old_seen"]
         never = buckets["never_seen"]
 
-        lines.append(f"## {category} (Count: {len(missions)})")
+        lines.append(f"## {req_key} (Count: {len(missions)})")
         lines.append("")
         if recent:
             lines.append(f"- Last seen {days} days: {len(recent)}")
@@ -203,13 +211,13 @@ def generate_report(payload: Any, last_seen_map: dict[str, str], days: int = 30)
         append_non_empty_section(lines, "### Never Seen", never)
         lines.append("")
 
-    if uncategorized:
-        buckets = split_by_seen_bucket(uncategorized, now_utc, days)
+    if no_requirements:
+        buckets = split_by_seen_bucket(no_requirements, now_utc, days)
         recent = buckets["last_seen_30_days"]
         old = buckets["old_seen"]
         never = buckets["never_seen"]
 
-        lines.append(f"## uncategorized (Count: {len(uncategorized)})")
+        lines.append(f"## no_requirements (Count: {len(no_requirements)})")
         lines.append("")
         if recent:
             lines.append(f"- Last seen {days} days: {len(recent)}")
@@ -228,7 +236,7 @@ def generate_report(payload: Any, last_seen_map: dict[str, str], days: int = 30)
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Group missions by mission_categories and save markdown report.")
+    parser = argparse.ArgumentParser(description="Group missions by requirements keys and save markdown report.")
     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT, help="Path to inzetten.json")
     parser.add_argument("--seen-input", type=Path, default=DEFAULT_SEEN_INPUT, help="Path to inzetten_ids.json")
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT, help="Path to output markdown report")
@@ -251,7 +259,7 @@ def main() -> None:
     with args.output.open("w", encoding="utf-8") as file:
         file.write(report)
 
-    print(f"Saved category report -> {args.output}")
+    print(f"Saved requirement report -> {args.output}")
 
 
 if __name__ == "__main__":
