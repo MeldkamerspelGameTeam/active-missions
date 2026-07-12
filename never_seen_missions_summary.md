@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 622
+Count: 621
 
 # Active never-seen missions
 
-Count: 397
+Count: 396
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -53,7 +53,6 @@ Count: 397
 | 787/bc        | Persoon bekneld in gierput                      | 6410        | never     | False    |
 | 787/abc       | Persoon bekneld in gierput                      | 7110        | never     | False    |
 | 796           | Zoekactie vermist persoon                       | 1840        | never     | False    |
-| 796-0         | Zoekactie vermist persoon                       | 2090        | never     | False    |
 | 837           | Gaslek bedrijventerrein                         | 8580        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                     | 6740        | never     | False    |
 | 841-0/a       | Aanrijding met zwaar letsel                     | 7140        | never     | False    |
