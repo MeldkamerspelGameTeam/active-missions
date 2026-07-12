@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 623
+Count: 622
 
 # Active never-seen missions
 
-Count: 398
+Count: 397
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -64,7 +64,6 @@ Count: 398
 | 868/b         | Duinbrand (Grip 1)                              | 21547       | never     | False    |
 | 881/b         | Duinbrand (Grip 3)                              | 45654       | never     | False    |
 | 885/ab        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
-| 885/ac        | Brand in vuurwerkopslag                         | 54670       | never     | False    |
 | 885/ad        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
 | 885/ae        | Brand in vuurwerkopslag                         | 50270       | never     | False    |
 | 885/af        | Brand in vuurwerkopslag                         | 50670       | never     | False    |
