@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 625
+Count: 623
 
 # Active never-seen missions
 
-Count: 400
+Count: 398
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -16,7 +16,6 @@ Count: 400
 | 59            | Brand in opslagloods                            | 13710       | never     | False    |
 | 116           | Voetbalwedstrijd                                | 8700        | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd               | 17910       | never     | False    |
-| 117-0         | Voetbalwedstrijd, risicowedstrijd               | 20910       | never     | False    |
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
 | 181           | Verkeersongeval met beknelling                  | 2090        | never     | False    |
 | 181/a         | Verkeersongeval met beknelling                  | 2890        | never     | False    |
@@ -24,7 +23,6 @@ Count: 400
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
 | 207           | Personenauto te water                           | 3680        | never     | False    |
 | 208           | Personenauto te water                           | 4350        | never     | False    |
-| 252           | Vrachtwagen te water                            | 3830        | never     | False    |
 | 252/a         | Vrachtwagen te water                            | 4630        | never     | False    |
 | 252/ab        | Vrachtwagen te water                            | 4930        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                  | 7070        | never     | False    |
