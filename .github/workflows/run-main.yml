@@ -51,6 +51,7 @@ jobs:
             echo "Dutch time is 00:xx, running midnight report scripts."
             python scripts/generate_recent_seen_overview.py
             python scripts/group_missions_by_category.py
+            python scripts/group_missions_by_requirement.py
           else
             echo "Dutch time is ${DUTCH_HOUR}:xx, skipping midnight report scripts."
           fi
@@ -66,6 +67,7 @@ jobs:
             git add data/*.json
             git add missions_seen_last_30_days_grouped.md
             git add missions_grouped_by_category.md
+            git add missions_grouped_by_requirement.md
           else
             echo "Dutch time is ${DUTCH_HOUR}:xx, skipping data/*.json commit."
           fi
