@@ -32,6 +32,9 @@ jobs:
       - name: Run recent-seen overview
         run: python scripts/generate_recent_seen_overview.py
 
+      - name: Run category grouped report
+        run: python scripts/group_missions_by_category.py
+
       - name: Commit and push midnight-flow changes
         run: |
           git config user.name "github-actions[bot]"
@@ -39,6 +42,7 @@ jobs:
 
           git add data/*.json
           git add missions_seen_last_30_days_grouped.md
+          git add missions_grouped_by_category.md
 
           # Always persist reporting state to avoid duplicate Discord notifications.
           git add data/reported_missions.json
