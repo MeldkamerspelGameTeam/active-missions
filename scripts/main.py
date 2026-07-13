@@ -353,6 +353,14 @@ def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[d
     )
     active_other_count = max(active_count - active_seen_last_30_days - never_seen_active - old_seen_active, 0)
 
+    inactive_seen_last_30_days = sum(
+        1
+        for item in missions
+        if bool(item.get("inactive", False))
+        and (seen_dt := parse_seen_date(item.get("last_seen"))) is not None
+        and recent_cutoff <= seen_dt <= now_utc
+    )
+
     lines = [
         "# Active Missions Report",
         "",
@@ -400,6 +408,19 @@ def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[d
 
     lines.extend(
         [
+        "```",
+        "",
+        "### All Missions Overview",
+        "",
+        "```mermaid",
+        "pie showData",
+        "    title All Missions: Active & Inactive Seen Split",
+        f'    "Active — seen last 30 days" : {active_seen_last_30_days}',
+        f'    "Active — never seen" : {never_seen_active}',
+        f'    "Active — old seen 30+ days" : {old_seen_active}',
+        f'    "Inactive — seen last 30 days" : {inactive_seen_last_30_days}',
+        f'    "Inactive — never seen" : {never_seen_inactive}',
+        f'    "Inactive — old seen 30+ days" : {old_seen_inactive}',
         "```",
         "",
         "## Generated Files",
