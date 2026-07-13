@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 617
+Count: 615
 
 # Active never-seen missions
 
-Count: 392
+Count: 390
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -143,7 +143,6 @@ Count: 392
 | 942-1/a       | Schoolbus te water                              | 12320       | never     | False    |
 | 942-1/b       | Schoolbus te water                              | 12820       | never     | False    |
 | 942-1/ab      | Schoolbus te water                              | 13120       | never     | False    |
-| 961           | Toezicht Horeca                                 | 8745        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest            | 8540        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
 | 993           | Straat afzetten voor politie                    | 840         | never     | False    |
@@ -395,7 +394,6 @@ Count: 392
 | 1203/b        | Brand in ziekenhuis (Grip 2)                    | 20850       | never     | False    |
 | 1203/ab       | Brand in ziekenhuis (Grip 2)                    | 28562       | never     | False    |
 | 1203/bc       | Brand in ziekenhuis (Grip 2)                    | 21650       | never     | False    |
-| 1203/abc      | Brand in ziekenhuis (Grip 2)                    | 29562       | never     | False    |
 | 1206/b        | Brand in station (Grip 1)                       | 28400       | never     | False    |
 | 1206/ab       | Brand in station (Grip 1)                       | 38000       | never     | False    |
 | 1206/bc       | Brand in station (Grip 1)                       | 29200       | never     | False    |
