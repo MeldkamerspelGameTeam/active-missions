@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 613
+Count: 610
 
 # Active never-seen missions
 
-Count: 388
+Count: 385
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -48,7 +48,6 @@ Count: 388
 | 593           | Begeleiding demonstratie (klein)                | 9720        | never     | False    |
 | 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
-| 763/a         | Toezicht bij manifestatie                       | 5515        | never     | False    |
 | 787/ac        | Persoon bekneld in gierput                      | 6460        | never     | False    |
 | 787/bc        | Persoon bekneld in gierput                      | 6410        | never     | False    |
 | 787/abc       | Persoon bekneld in gierput                      | 7110        | never     | False    |
@@ -58,7 +57,6 @@ Count: 388
 | 841-0/a       | Aanrijding met zwaar letsel                     | 7140        | never     | False    |
 | 841-0/b       | Aanrijding met zwaar letsel                     | 7540        | never     | False    |
 | 841-0/ab      | Aanrijding met zwaar letsel                     | 7940        | never     | False    |
-| 853-0/a       | Vliegtuig neergestort                           | 22620       | never     | False    |
 | 853-1/a       | Vliegtuig neergestort                           | 24460       | never     | False    |
 | 868/b         | Duinbrand (Grip 1)                              | 21547       | never     | False    |
 | 881/b         | Duinbrand (Grip 3)                              | 45654       | never     | False    |
@@ -68,7 +66,6 @@ Count: 388
 | 885/bc        | Brand in vuurwerkopslag                         | 71025       | never     | False    |
 | 885/be        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
 | 885/bf        | Brand in vuurwerkopslag                         | 66025       | never     | False    |
-| 885/cd        | Brand in vuurwerkopslag                         | 54520       | never     | False    |
 | 885/de        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
 | 885/ef        | Brand in vuurwerkopslag                         | 50670       | never     | False    |
 | 885/abd       | Brand in vuurwerkopslag                         | 66337       | never     | False    |
