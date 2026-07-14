@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 614
+Count: 613
 
 # Active never-seen missions
 
-Count: 389
+Count: 388
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -115,7 +115,6 @@ Count: 389
 | 897-1/a       | Rellen na stadsderby                            | 18355       | never     | False    |
 | 919           | Begeleiding supporters                          | 14858       | never     | False    |
 | 929/ae        | Brand in gasverdeelstation                      | 27960       | never     | False    |
-| 929/bd        | Brand in gasverdeelstation                      | 37825       | never     | False    |
 | 929/cd        | Brand in gasverdeelstation                      | 32510       | never     | False    |
 | 929/ce        | Brand in gasverdeelstation                      | 32360       | never     | False    |
 | 929/abd       | Brand in gasverdeelstation                      | 38825       | never     | False    |
