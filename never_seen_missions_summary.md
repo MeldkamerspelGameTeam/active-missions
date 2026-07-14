@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 608
+Count: 607
 
 # Active never-seen missions
 
-Count: 383
+Count: 382
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -382,7 +382,6 @@ Count: 383
 | 1034/bcdefgh  | Brand in nucleaire installatie                  | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                  | 107387      | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                   | 15320       | never     | False    |
-| 1202/b        | Brand in ziekenhuis (Grip 1)                    | 13380       | never     | False    |
 | 1203/a        | Brand in ziekenhuis (Grip 2)                    | 27562       | never     | False    |
 | 1203/b        | Brand in ziekenhuis (Grip 2)                    | 20850       | never     | False    |
 | 1203/ab       | Brand in ziekenhuis (Grip 2)                    | 28562       | never     | False    |
