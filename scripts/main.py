@@ -186,18 +186,31 @@ def parse_seen_date(value: Any) -> datetime | None:
         return None
 
     text = value.strip()
-    try:
-        dt = datetime.strptime(text, "%Y-%m-%d")
-    except ValueError:
-        return None
-    return dt.replace(tzinfo=timezone.utc)
+    if len(text) >= 10:
+        text = text[:10]
+
+    for fmt in ("%Y-%m-%d", "%d-%m-%Y"):
+        try:
+            dt = datetime.strptime(text, fmt)
+            return dt.replace(tzinfo=timezone.utc)
+        except ValueError:
+            continue
+
+    return None
+
+
+def is_seen_within_days(seen_dt: datetime, now_utc: datetime, days: int) -> bool:
+    seen_date = seen_dt.date()
+    now_date = now_utc.date()
+    cutoff_date = now_date - timedelta(days=days)
+    return cutoff_date <= seen_date
 
 
 def filter_never_or_stale_missions(payload: Any, now_utc: datetime, days: int = 30) -> Any:
     if not isinstance(payload, list):
         return payload
 
-    cutoff = now_utc - timedelta(days=days)
+    cutoff_date = now_utc.date() - timedelta(days=days)
     filtered = []
     for item in payload:
         if not isinstance(item, dict):
@@ -209,7 +222,7 @@ def filter_never_or_stale_missions(payload: Any, now_utc: datetime, days: int = 
             continue
 
         seen_dt = parse_seen_date(last_seen)
-        if seen_dt is not None and seen_dt < cutoff:
+        if seen_dt is not None and seen_dt.date() < cutoff_date:
             filtered.append(item)
 
     return filtered
@@ -328,14 +341,12 @@ def summarize_inactive_grouped_by_date_markdown(missions: list[dict[str, Any]]) 
 def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[dict[str, Any]], old_seen: list[dict[str, Any]]) -> str:
     total = len(missions)
     now_utc = datetime.now(timezone.utc)
-    recent_cutoff = now_utc - timedelta(days=30)
-
     inactive_count = sum(1 for item in missions if bool(item.get("inactive", False)))
     active_count = total - inactive_count
     seen_last_30_days = sum(
         1
         for item in missions
-        if (seen_dt := parse_seen_date(item.get("last_seen"))) is not None and recent_cutoff <= seen_dt <= now_utc
+        if (seen_dt := parse_seen_date(item.get("last_seen"))) is not None and is_seen_within_days(seen_dt, now_utc, 30)
     )
 
     never_seen_inactive = sum(1 for item in never_seen if bool(item.get("inactive", False)))
@@ -349,7 +360,7 @@ def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[d
         for item in missions
         if not bool(item.get("inactive", False))
         and (seen_dt := parse_seen_date(item.get("last_seen"))) is not None
-        and recent_cutoff <= seen_dt <= now_utc
+        and is_seen_within_days(seen_dt, now_utc, 30)
     )
     active_other_count = max(active_count - active_seen_last_30_days - never_seen_active - old_seen_active, 0)
 
@@ -358,7 +369,7 @@ def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[d
         for item in missions
         if bool(item.get("inactive", False))
         and (seen_dt := parse_seen_date(item.get("last_seen"))) is not None
-        and recent_cutoff <= seen_dt <= now_utc
+        and is_seen_within_days(seen_dt, now_utc, 30)
     )
 
     lines = [
@@ -479,7 +490,7 @@ def split_never_and_old_missions(payload: Any, now_utc: datetime, days: int = 30
     if not isinstance(payload, list):
         return [], []
 
-    cutoff = now_utc - timedelta(days=days)
+    cutoff_date = now_utc.date() - timedelta(days=days)
     never_seen: list[dict[str, Any]] = []
     old_seen: list[dict[str, Any]] = []
 
@@ -493,7 +504,7 @@ def split_never_and_old_missions(payload: Any, now_utc: datetime, days: int = 30
             continue
 
         seen_dt = parse_seen_date(last_seen)
-        if seen_dt is not None and seen_dt < cutoff:
+        if seen_dt is not None and seen_dt.date() < cutoff_date:
             old_seen.append(item)
 
     return never_seen, old_seen
