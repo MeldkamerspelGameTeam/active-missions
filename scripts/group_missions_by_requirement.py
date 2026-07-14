@@ -38,22 +38,33 @@ def natural_id_key(value: str) -> tuple[Any, ...]:
     return tuple(parts)
 
 
-def build_table(missions: list[dict[str, Any]]) -> str:
-    headers = ["ID", "Name", "Avg Credits", "Last Seen"]
-    rows = [
-        [
-            str(mission.get("id", "")).replace("|", "\\|"),
-            str(mission.get("name", "")).replace("|", "\\|"),
-            str(mission.get("average_credits", "")).replace("|", "\\|"),
-            format_seen_for_display(mission.get("last_seen", "")).replace("|", "\\|"),
-        ]
-        for mission in missions
+def mission_row_values(mission: dict[str, Any]) -> list[str]:
+    return [
+        str(mission.get("id", "")).replace("|", "\\|"),
+        str(mission.get("name", "")).replace("|", "\\|"),
+        str(mission.get("average_credits", "")).replace("|", "\\|"),
+        format_seen_for_display(mission.get("last_seen", "")).replace("|", "\\|"),
     ]
 
+
+def compute_table_widths(missions: list[dict[str, Any]]) -> list[int]:
+    headers = ["ID", "Name", "Avg Credits", "Last Seen"]
     widths = [len(h) for h in headers]
-    for row in rows:
-        for idx, value in enumerate(row):
+    for mission in missions:
+        for idx, value in enumerate(mission_row_values(mission)):
             widths[idx] = max(widths[idx], len(value))
+    return widths
+
+
+def build_table(missions: list[dict[str, Any]], widths: list[int] | None = None) -> str:
+    headers = ["ID", "Name", "Avg Credits", "Last Seen"]
+    rows = [mission_row_values(mission) for mission in missions]
+
+    if widths is None:
+        widths = [len(h) for h in headers]
+        for row in rows:
+            for idx, value in enumerate(row):
+                widths[idx] = max(widths[idx], len(value))
 
     def render_row(values: list[str]) -> str:
         return "| " + " | ".join(values[i].ljust(widths[i]) for i in range(len(values))) + " |"
@@ -70,13 +81,13 @@ def build_table(missions: list[dict[str, Any]]) -> str:
     return "\n".join(lines)
 
 
-def append_non_empty_section(lines: list[str], title: str, missions: list[dict[str, Any]]) -> None:
+def append_non_empty_section(lines: list[str], title: str, missions: list[dict[str, Any]], widths: list[int]) -> None:
     if not missions:
         return
 
     lines.append(title)
     lines.append("")
-    lines.append(build_table(missions))
+    lines.append(build_table(missions, widths))
     lines.append("")
 
 
@@ -178,6 +189,11 @@ def generate_report(payload: Any, last_seen_map: dict[str, str], days: int = 30)
         else:
             no_requirements.append(enriched_item)
 
+    all_missions = [mission for missions in grouped.values() for mission in missions]
+    if no_requirements:
+        all_missions.extend(no_requirements)
+    global_widths = compute_table_widths(all_missions)
+
     lines: list[str] = [
         "# Missions Grouped By Requirement Key",
         "",
@@ -206,9 +222,9 @@ def generate_report(payload: Any, last_seen_map: dict[str, str], days: int = 30)
             lines.append(f"- Never seen: {len(never)}")
         lines.append("")
 
-        append_non_empty_section(lines, f"### Last Seen {days} Days", recent)
-        append_non_empty_section(lines, "### Old Seen", old)
-        append_non_empty_section(lines, "### Never Seen", never)
+        append_non_empty_section(lines, f"### Last Seen {days} Days", recent, global_widths)
+        append_non_empty_section(lines, "### Old Seen", old, global_widths)
+        append_non_empty_section(lines, "### Never Seen", never, global_widths)
         lines.append("")
 
     if no_requirements:
@@ -227,9 +243,9 @@ def generate_report(payload: Any, last_seen_map: dict[str, str], days: int = 30)
             lines.append(f"- Never seen: {len(never)}")
         lines.append("")
 
-        append_non_empty_section(lines, f"### Last Seen {days} Days", recent)
-        append_non_empty_section(lines, "### Old Seen", old)
-        append_non_empty_section(lines, "### Never Seen", never)
+        append_non_empty_section(lines, f"### Last Seen {days} Days", recent, global_widths)
+        append_non_empty_section(lines, "### Old Seen", old, global_widths)
+        append_non_empty_section(lines, "### Never Seen", never, global_widths)
         lines.append("")
 
     return "\n".join(lines)
