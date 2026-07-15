@@ -1,36 +1,37 @@
 # Missions Seen In Last 30 Days (Grouped by Last Seen Date)
 
-Total missions: 1342
-Date groups: 24
+Total missions: 1345
+Date groups: 25
 
 | Date       | Old Seen On | Days Left | Count |
 | ---------- | ----------- | --------: | ----: |
-| 2026-07-14 | 2026-08-13  |        30 |  1073 |
-| 2026-07-13 | 2026-08-12  |        29 |    92 |
-| 2026-07-12 | 2026-08-11  |        28 |    36 |
-| 2026-07-11 | 2026-08-10  |        27 |    33 |
-| 2026-07-10 | 2026-08-09  |        26 |    10 |
-| 2026-07-09 | 2026-08-08  |        25 |    16 |
-| 2026-07-08 | 2026-08-07  |        24 |    22 |
-| 2026-07-07 | 2026-08-06  |        23 |     5 |
-| 2026-07-06 | 2026-08-05  |        22 |     5 |
-| 2026-07-05 | 2026-08-04  |        21 |     3 |
-| 2026-07-04 | 2026-08-03  |        20 |     5 |
-| 2026-07-03 | 2026-08-02  |        19 |     6 |
-| 2026-07-02 | 2026-08-01  |        18 |     2 |
-| 2026-07-01 | 2026-07-31  |        17 |     2 |
-| 2026-06-30 | 2026-07-30  |        16 |     1 |
-| 2026-06-29 | 2026-07-29  |        15 |     4 |
-| 2026-06-28 | 2026-07-28  |        14 |     6 |
-| 2026-06-27 | 2026-07-27  |        13 |     3 |
-| 2026-06-26 | 2026-07-26  |        12 |     2 |
-| 2026-06-25 | 2026-07-25  |        11 |     1 |
-| 2026-06-24 | 2026-07-24  |        10 |     2 |
-| 2026-06-23 | 2026-07-23  |         9 |     2 |
-| 2026-06-22 | 2026-07-22  |         8 |    10 |
-| 2026-06-21 | 2026-07-21  |         7 |     1 |
+| 2026-07-15 | 2026-08-14  |        30 |   927 |
+| 2026-07-14 | 2026-08-13  |        29 |   214 |
+| 2026-07-13 | 2026-08-12  |        28 |    52 |
+| 2026-07-12 | 2026-08-11  |        27 |    27 |
+| 2026-07-11 | 2026-08-10  |        26 |    28 |
+| 2026-07-10 | 2026-08-09  |        25 |     8 |
+| 2026-07-09 | 2026-08-08  |        24 |    12 |
+| 2026-07-08 | 2026-08-07  |        23 |    22 |
+| 2026-07-07 | 2026-08-06  |        22 |     5 |
+| 2026-07-06 | 2026-08-05  |        21 |     2 |
+| 2026-07-05 | 2026-08-04  |        20 |     3 |
+| 2026-07-04 | 2026-08-03  |        19 |     4 |
+| 2026-07-03 | 2026-08-02  |        18 |     6 |
+| 2026-07-02 | 2026-08-01  |        17 |     2 |
+| 2026-07-01 | 2026-07-31  |        16 |     2 |
+| 2026-06-30 | 2026-07-30  |        15 |     1 |
+| 2026-06-29 | 2026-07-29  |        14 |     3 |
+| 2026-06-28 | 2026-07-28  |        13 |     6 |
+| 2026-06-27 | 2026-07-27  |        12 |     3 |
+| 2026-06-26 | 2026-07-26  |        11 |     2 |
+| 2026-06-25 | 2026-07-25  |        10 |     1 |
+| 2026-06-24 | 2026-07-24  |         9 |     2 |
+| 2026-06-23 | 2026-07-23  |         8 |     2 |
+| 2026-06-22 | 2026-07-22  |         7 |    10 |
+| 2026-06-21 | 2026-07-21  |         6 |     1 |
 
-## 2026-07-14 (Count: 1073)
+## 2026-07-15 (Count: 927)
 
 | ID       | Name                                                                             | Avg Credits | Inactive |
 | -------- | -------------------------------------------------------------------------------- | ----------: | -------- |
@@ -50,7 +51,6 @@ Date groups: 24
 | 13       | Brandende vrachtwagen                                                            | 1600        | False    |
 | 13-0     | Brandende vrachtwagen                                                            | 2500        | False    |
 | 14       | Heidebrand (Middel)                                                              | 6200        | False    |
-| 15       | Bosbrand (Klein)                                                                 | 1090        | False    |
 | 16       | Brand in woonwagen                                                               | 1520        | False    |
 | 17       | Brandende dixi                                                                   | 340         | False    |
 | 18       | Brandende struik                                                                 | 700         | False    |
@@ -62,7 +62,6 @@ Date groups: 24
 | 23       | Brand in cafetaria (Klein)                                                       | 840         | False    |
 | 24       | Brandend bushokje                                                                | 900         | False    |
 | 25       | Verkeersongeval met beknelling                                                   | 2440        | False    |
-| 25/a     | Verkeersongeval met beknelling                                                   | 3240        | False    |
 | 26       | Brand in supermarkt                                                              | 3550        | False    |
 | 28       | Brand in landbouwschuur                                                          | 1600        | False    |
 | 29       | Brand in werkplaats (Groot)                                                      | 4640        | False    |
@@ -73,9 +72,9 @@ Date groups: 24
 | 34       | Brand in supermarkt                                                              | 1580        | False    |
 | 35       | Brand in ziekenhuis (Middel)                                                     | 4090        | False    |
 | 36       | Brandende goederenwagon (Groot)                                                  | 5970        | False    |
-| 36/b     | Brandende goederenwagon (Groot)                                                  | 6770        | False    |
 | 37       | Brandende afvalbak bij tramhalte                                                 | 500         | False    |
 | 39       | Brandende afvalbak bij centraal station                                          | 500         | False    |
+| 40       | Brandende afvalbak bij ziekenhuis                                                | 500         | False    |
 | 42       | Brand in tankstation                                                             | 6510        | False    |
 | 42-0     | Brand in tankstation                                                             | 7360        | False    |
 | 44       | Liftopsluiting                                                                   | 500         | False    |
@@ -86,7 +85,6 @@ Date groups: 24
 | 49       | Beroerte                                                                         | None        | False    |
 | 50       | Koortsstuip                                                                      | None        | False    |
 | 51       | Gevallen persoon                                                                 | None        | False    |
-| 52       | Brand in garagebedrijf                                                           | 1800        | False    |
 | 53       | Brand in sporthal                                                                | 5240        | False    |
 | 54       | Brand in sporthal                                                                | 840         | False    |
 | 55       | Brand in sporthal                                                                | 1180        | False    |
@@ -140,10 +138,7 @@ Date groups: 24
 | 99       | Stankoverlast                                                                    | 550         | False    |
 | 100      | Ammoniakalarm in opslagloods                                                     | 7670        | False    |
 | 100/a    | Ammoniakalarm in opslagloods                                                     | 8370        | False    |
-| 100/ac   | Ammoniakalarm in opslagloods                                                     | 9170        | False    |
 | 100/b    | Ammoniakalarm in opslagloods                                                     | 8320        | False    |
-| 100/bc   | Ammoniakalarm in opslagloods                                                     | 9120        | False    |
-| 100/c    | Ammoniakalarm in opslagloods                                                     | 8470        | False    |
 | 101      | Koolmonoxide vrijgekomen                                                         | 1660        | False    |
 | 102      | Lekkende goederenwagon (Klein)                                                   | 1900        | False    |
 | 103      | Schoorsteenbrand                                                                 | 840         | False    |
@@ -151,8 +146,8 @@ Date groups: 24
 | 105      | Buitensluiting                                                                   | 140         | False    |
 | 106      | Schaap in sloot                                                                  | 140         | False    |
 | 107      | Persoon bekneld in machine                                                       | 540         | False    |
+| 108      | Ongeval met trein en personenauto                                                | 2270        | False    |
 | 108/a    | Ongeval met trein en personenauto                                                | 2470        | False    |
-| 109      | Ongeval met trein en persoon                                                     | 740         | False    |
 | 110      | Brand in vakantiewoning                                                          | 840         | False    |
 | 111      | Brand in vakantiewoning                                                          | 1940        | False    |
 | 112      | Overval winkel                                                                   | 400         | False    |
@@ -160,8 +155,10 @@ Date groups: 24
 | 114      | Brandend dak                                                                     | 1000        | False    |
 | 115      | Brandend dak                                                                     | 1400        | False    |
 | 118      | Hardloopevenement                                                                | 3700        | False    |
+| 119      | Begeleiding orkest                                                               | 2000        | False    |
 | 120      | Begeleiding wielrenners                                                          | 5610        | False    |
 | 121      | Test brandalarm school                                                           | 1000        | False    |
+| 122      | Overval winkel                                                                   | 2980        | False    |
 | 123      | Overval winkel                                                                   | 2980        | False    |
 | 124      | Achtervolging personenauto                                                       | 2810        | False    |
 | 124-0    | Achtervolging personenauto                                                       | 4610        | False    |
@@ -169,7 +166,6 @@ Date groups: 24
 | 124/a    | Achtervolging personenauto                                                       | 3010        | False    |
 | 126      | Brand in landbouwschuur                                                          | 600         | False    |
 | 127      | Brand in landbouwschuur                                                          | 3245        | False    |
-| 128      | Heidebrand (Klein)                                                               | 1090        | False    |
 | 129      | Heidebrand (Groot)                                                               | 10210       | False    |
 | 130      | Brand in cafetaria (Middel)                                                      | 1520        | False    |
 | 131      | Brand in cafetaria (Groot)                                                       | 3150        | False    |
@@ -187,10 +183,8 @@ Date groups: 24
 | 142      | Natuurbrand (Zeer Groot)                                                         | 12020       | False    |
 | 143      | Natuurbrand (Grip 1)                                                             | 21252       | False    |
 | 143/a    | Natuurbrand (Grip 1)                                                             | 30252       | False    |
-| 143/ab   | Natuurbrand (Grip 1)                                                             | 31252       | False    |
 | 144      | Natuurbrand (Grip 2)                                                             | 24642       | False    |
 | 144/a    | Natuurbrand (Grip 2)                                                             | 34490       | False    |
-| 144/ab   | Natuurbrand (Grip 2)                                                             | 35490       | False    |
 | 144/b    | Natuurbrand (Grip 2)                                                             | 25442       | False    |
 | 155      | Gaslekkage                                                                       | 890         | False    |
 | 156      | Gaslekkage                                                                       | 1100        | False    |
@@ -199,7 +193,6 @@ Date groups: 24
 | 159      | Brand in sporthal                                                                | 2790        | False    |
 | 180      | Bergen object uit water voor politie                                             | 2140        | False    |
 | 184      | Eend verstrikt in visdraad                                                       | 400         | False    |
-| 185      | Verlaten kinderfiets langs waterkant                                             | 1200        | False    |
 | 186      | Parkeergarage onder water                                                        | 2590        | False    |
 | 187      | Kelder onder water                                                               | 2440        | False    |
 | 188      | Gevaarlijk hangende tak                                                          | 840         | False    |
@@ -209,27 +202,22 @@ Date groups: 24
 | 192      | Parkeerterrein onder water                                                       | 1540        | False    |
 | 193      | Koe in sloot                                                                     | 140         | False    |
 | 194      | Koe in gierput                                                                   | 190         | False    |
+| 195      | Lekkende woonboot                                                                | 420         | False    |
 | 196      | Brand in woonwagen                                                               | 500         | False    |
 | 197      | Brandende vrachtwagen                                                            | 500         | False    |
 | 197/a    | Brandende vrachtwagen                                                            | 800         | False    |
 | 198      | Brand in woonkamer                                                               | 840         | False    |
 | 199      | Inbraak in woning                                                                | 800         | False    |
 | 200      | Drugslab aangetroffen                                                            | 800         | False    |
+| 200/a    | Drugslab aangetroffen                                                            | 1600        | False    |
+| 201      | Vechtpartij in café                                                              | 1810        | False    |
 | 202      | Steekincident                                                                    | 2480        | False    |
 | 204      | Verkeersongeval met gevaarlijke stoffen (middel)                                 | 5690        | False    |
 | 204/a    | Verkeersongeval met gevaarlijke stoffen (middel)                                 | 6490        | False    |
-| 205      | Persoon te water                                                                 | 850         | False    |
 | 206      | Persoon te water                                                                 | 1100        | False    |
-| 207/a    | Personenauto te water                                                            | 3880        | False    |
-| 209/a    | Aanvaring vrachtschip met vlet (Grip 3)                                          | 4912        | False    |
-| 210/a    | Aanvaring vrachtschip met kajuitboot (Grip 3)                                    | 5975        | False    |
-| 211/a    | Aanvaring 2 vrachtschepen (Grip 4)                                               | 19487       | False    |
-| 213      | Omgeslagen Zeilboot                                                              | 3150        | False    |
-| 214      | Bosbrand (Middel)                                                                | 1420        | False    |
+| 209      | Aanvaring vrachtschip met vlet (Grip 3)                                          | 3330        | False    |
 | 215      | Bosbrand (Groot)                                                                 | 8732        | False    |
 | 216      | Bosbrand (Grip 1)                                                                | 11512       | False    |
-| 216/a    | Bosbrand (Grip 1)                                                                | 15140       | False    |
-| 216/ab   | Bosbrand (Grip 1)                                                                | 16140       | False    |
 | 217      | Plofkraak                                                                        | 1980        | False    |
 | 218      | Plofkraak                                                                        | 3490        | False    |
 | 219      | Open dag, klein                                                                  | 2000        | False    |
@@ -243,7 +231,6 @@ Date groups: 24
 | 227      | Assistentie treinconducteur                                                      | 840         | False    |
 | 228      | Assistentie treinconducteur                                                      | 2310        | False    |
 | 229      | Brand in tankstation                                                             | 4820        | False    |
-| 229-0    | Brand in tankstation                                                             | 5720        | False    |
 | 229-1    | Brand in tankstation                                                             | 14910       | False    |
 | 230      | Onwelwording                                                                     | None        | False    |
 | 231      | Vernieling bushokje                                                              | 500         | False    |
@@ -256,7 +243,6 @@ Date groups: 24
 | 239      | Verstikking                                                                      | None        | False    |
 | 240      | Vergiftiging                                                                     | None        | False    |
 | 241      | Zwemmer vermist (Klein)                                                          | 1910        | False    |
-| 242      | Verlaten kleding langs waterkant                                                 | 900         | False    |
 | 243      | Verdachte situatie                                                               | 750         | False    |
 | 244      | Persoon van podium gevallen                                                      | None        | False    |
 | 245      | Ontruimen kraakpand                                                              | 7365        | False    |
@@ -267,9 +253,8 @@ Date groups: 24
 | 249-0    | Straatroof                                                                       | 1840        | False    |
 | 249-1    | Straatroof                                                                       | 3480        | False    |
 | 250      | Opnemen aangifte inbraak                                                         | 500         | False    |
+| 252/b    | Vrachtwagen te water                                                             | 4130        | False    |
 | 254      | Brandende goederenwagon (Klein)                                                  | 1490        | False    |
-| 255      | Brandende goederenwagon (Middel)                                                 | 2590        | False    |
-| 255/a    | Brandende goederenwagon (Middel)                                                 | 2690        | False    |
 | 256      | Geluidsoverlast                                                                  | 400         | False    |
 | 257      | Auto-inbraak                                                                     | 670         | False    |
 | 258      | Brand in flatwoning                                                              | 840         | False    |
@@ -277,23 +262,13 @@ Date groups: 24
 | 260      | Brandend speeltoestel                                                            | 220         | False    |
 | 261      | Persoon door glas gevallen                                                       | None        | False    |
 | 262      | Burenruzie                                                                       | 500         | False    |
-| 265      | Vliegtuig met hydraulisch probleem                                               | 2010        | False    |
-| 266      | Vliegtuig met rook in cabine                                                     | 2010        | False    |
-| 267      | Vliegtuig met brandgeur in cabine                                                | 2010        | False    |
-| 268      | Vliegtuig met probleem met landingsgestel                                        | 8570        | False    |
-| 269      | Vliegtuig met brandmelding in vrachtruim                                         | 7720        | False    |
 | 270      | Vliegtuig buiten start-/landingsbaan beland                                      | 3540        | False    |
-| 271      | Rookontwikkeling in vrachtruim vliegtuig                                         | 2010        | False    |
-| 272      | Klein vliegtuig met motorisch probleem                                           | 2140        | False    |
-| 273      | Klein vliegtuig neergestort                                                      | 2140        | False    |
-| 274      | Klein vliegtuig neergestort                                                      | 5770        | False    |
-| 276      | Brandend klein vliegtuig                                                         | 3570        | False    |
-| 277      | Pijn op de borst                                                                 | None        | False    |
-| 278      | Beroerte                                                                         | None        | False    |
 | 279      | Bedreiging                                                                       | 750         | False    |
 | 280      | Brand in garagebedrijf                                                           | 850         | False    |
 | 281      | Brand in garagebedrijf                                                           | 2700        | False    |
 | 282      | Brand in garagebedrijf                                                           | 6340        | False    |
+| 282-0    | Brand in garagebedrijf                                                           | 7190        | False    |
+| 283      | Val van paard                                                                    | None        | False    |
 | 284      | Gevaarlijk rijgedrag                                                             | 500         | False    |
 | 285      | Brand in supermarkt                                                              | 840         | False    |
 | 286      | Kind vast in boom                                                                | 340         | False    |
@@ -301,7 +276,6 @@ Date groups: 24
 | 288      | Brand in magazijn                                                                | 1750        | False    |
 | 289      | Brand in magazijn                                                                | 2150        | False    |
 | 290      | Brand in magazijn                                                                | 3000        | False    |
-| 291      | Brand in magazijn                                                                | 9080        | False    |
 | 291-0    | Brand in magazijn                                                                | 10780       | False    |
 | 292      | Ongeval met trein en vrachtwagen                                                 | 1575        | False    |
 | 293      | Ongeval met trein en vrachtwagen                                                 | 2450        | False    |
@@ -309,8 +283,10 @@ Date groups: 24
 | 295      | Overlast zwervers                                                                | 500         | False    |
 | 296      | Brand in museum                                                                  | 900         | False    |
 | 297      | Brand in museum                                                                  | 1500        | False    |
+| 298      | Brand in museum                                                                  | 2200        | False    |
 | 300      | Brandend plezierjacht                                                            | 1450        | False    |
 | 301      | Inbraakalarm                                                                     | 670         | False    |
+| 301/a    | Inbraakalarm                                                                     | 1170        | False    |
 | 302      | Brand in kantoorgebouw                                                           | 840         | False    |
 | 303      | Brand in kantoorgebouw                                                           | 2200        | False    |
 | 304      | Brand in kantoorgebouw                                                           | 4730        | False    |
@@ -322,39 +298,33 @@ Date groups: 24
 | 307-0    | Verkeersongeval met touringcar                                                   | 5200        | False    |
 | 307-0/a  | Verkeersongeval met touringcar                                                   | 6000        | False    |
 | 307-1    | Verkeersongeval met touringcar                                                   | 13470       | False    |
-| 307-1/a  | Verkeersongeval met touringcar                                                   | 14270       | False    |
 | 307-2    | Verkeersongeval met touringcar                                                   | 14270       | False    |
 | 307/a    | Verkeersongeval met touringcar                                                   | 8030        | False    |
 | 308      | Natuurbrand (Grip 3)                                                             | 35822       | False    |
 | 308/a    | Natuurbrand (Grip 3)                                                             | 48465       | False    |
 | 308/ab   | Natuurbrand (Grip 3)                                                             | 49465       | False    |
-| 308/b    | Natuurbrand (Grip 3)                                                             | 36622       | False    |
 | 309      | Natuurbrand (Grip 4)                                                             | 50642       | False    |
 | 309/a    | Natuurbrand (Grip 4)                                                             | 66990       | False    |
 | 309/ab   | Natuurbrand (Grip 4)                                                             | 67990       | False    |
 | 309/b    | Natuurbrand (Grip 4)                                                             | 51442       | False    |
 | 310      | Verkeersongeval met scooter en fietser                                           | 750         | False    |
 | 311      | Verkeersongeval met fietser en fietser                                           | 650         | False    |
-| 312      | Lekkende goederenwagon (Groot)                                                   | 5720        | False    |
-| 312/a    | Lekkende goederenwagon (Groot)                                                   | 6420        | False    |
-| 312/b    | Lekkende goederenwagon (Groot)                                                   | 6370        | False    |
-| 312/c    | Lekkende goederenwagon (Groot)                                                   | 6520        | False    |
-| 315      | Brand in passagierstrein                                                         | 3250        | False    |
+| 313      | Brand in passagierstrein                                                         | 1000        | False    |
 | 316      | Bedreiging met vuurwapen                                                         | 670         | False    |
 | 317      | Bedreiging met vuurwapen                                                         | 1810        | False    |
-| 318      | Brand op binnenvaartschip                                                        | 1450        | False    |
-| 319      | Brand op binnenvaartschip                                                        | 3100        | False    |
-| 320      | Brand op binnenvaartschip                                                        | 5150        | False    |
 | 320-0    | Brand op binnenvaartschip                                                        | 6850        | False    |
+| 321      | Brandende wegberm                                                                | 1250        | False    |
 | 322      | Brandende wegberm                                                                | 2350        | False    |
 | 323      | Verkeersongeval met motorfiets                                                   | 750         | False    |
 | 324      | Verkeersongeval met personenauto en motorfiets                                   | 900         | False    |
 | 325      | Verkeersongeval met fietser en motorfiets                                        | 1100        | False    |
 | 326      | Brand in landbouwschuur                                                          | 5635        | False    |
-| 326-0    | Brand in landbouwschuur                                                          | 6485        | False    |
 | 327      | Brand in landbouwschuur                                                          | 8760        | False    |
 | 327-0    | Brand in landbouwschuur                                                          | 11310       | False    |
+| 328      | Persoon onwel na mixen mest                                                      | 700         | False    |
 | 329      | Verwaarloosde hond in woning                                                     | 1000        | False    |
+| 331      | Inbraak in bedrijfspand                                                          | 1500        | False    |
+| 333      | Inbraak in bedrijfspand                                                          | 2000        | False    |
 | 334      | Brand in schoolgebouw                                                            | 850         | False    |
 | 335      | Brand in schoolgebouw                                                            | 1750        | False    |
 | 336      | Brand in schoolgebouw                                                            | 2850        | False    |
@@ -365,41 +335,31 @@ Date groups: 24
 | 341      | Nacontrole brand                                                                 | 500         | False    |
 | 342      | Nacontrole brand                                                                 | 500         | False    |
 | 343      | Nacontrole brand                                                                 | 500         | False    |
+| 344      | Vreemde lucht in kantoorgebouw                                                   | 1375        | False    |
 | 345      | Vreemde lucht in kantoorgebouw                                                   | 2850        | False    |
 | 348      | Zwemmer vermist (Middel)                                                         | 3500        | False    |
 | 349      | Zwemmer vermist (Grip 1)                                                         | 5350        | False    |
-| 349/a    | Zwemmer vermist (Grip 1)                                                         | 7437        | False    |
 | 350      | Insluiping in woning                                                             | 2350        | False    |
 | 351      | Inbraakalarm woning                                                              | 1500        | False    |
-| 351/a    | Inbraakalarm woning                                                              | 2300        | False    |
-| 352      | Brand in terminal                                                                | 1400        | False    |
-| 353      | Brand in terminal                                                                | 3300        | False    |
-| 354      | Brand in terminal                                                                | 6470        | False    |
-| 354-0    | Brand in terminal                                                                | 7320        | False    |
 | 355      | Heidebrand (Grip 1)                                                              | 26592       | False    |
 | 355/a    | Heidebrand (Grip 1)                                                              | 36927       | False    |
-| 355/ab   | Heidebrand (Grip 1)                                                              | 37927       | False    |
 | 356      | Heidebrand (Grip 2)                                                              | 31702       | False    |
 | 356/a    | Heidebrand (Grip 2)                                                              | 43315       | False    |
 | 356/ab   | Heidebrand (Grip 2)                                                              | 44315       | False    |
 | 357      | Natuurbrand (Grip 5)                                                             | 66132       | False    |
 | 357/a    | Natuurbrand (Grip 5)                                                             | 86352       | False    |
 | 357/ab   | Natuurbrand (Grip 5)                                                             | 87352       | False    |
-| 357/b    | Natuurbrand (Grip 5)                                                             | 66932       | False    |
 | 358      | Hoge bloeddruk                                                                   | None        | False    |
 | 359      | Lage bloeddruk                                                                   | None        | False    |
 | 360      | Brand in bovenwoning (Klein)                                                     | 840         | False    |
 | 361      | Brand in bovenwoning (Middel)                                                    | 1520        | False    |
 | 362      | Brand in flatwoning                                                              | 2350        | False    |
-| 363      | Brand op passagiersschip                                                         | 1450        | False    |
-| 365      | Brand op passagiersschip                                                         | 4800        | False    |
 | 366      | Personen op dak school                                                           | 550         | False    |
 | 367      | Gestolen scooter gevonden                                                        | 500         | False    |
 | 368      | Verkeersongeval met vrachtwagen en fietser                                       | 1000        | False    |
 | 369      | Verkeersongeval met vrachtwagen en fietser                                       | 1150        | False    |
 | 370      | Verkeersongeval met vrachtwagen en fietser                                       | 1200        | False    |
 | 370-0    | Verkeersongeval met vrachtwagen en fietser                                       | 2890        | False    |
-| 377      | Persoon te water                                                                 | 5200        | False    |
 | 378      | Vreemde lucht in winkelcentrum                                                   | 1950        | False    |
 | 379      | Vreemde lucht in winkelcentrum                                                   | 4000        | False    |
 | 380      | Epileptische aanval                                                              | None        | False    |
@@ -407,10 +367,11 @@ Date groups: 24
 | 382      | Suikertekort                                                                     | None        | False    |
 | 383      | Brand in parkeergarage                                                           | 900         | False    |
 | 384      | Brand in parkeergarage                                                           | 2150        | False    |
+| 385      | Brand in parkeergarage                                                           | 3650        | False    |
+| 386      | Brand in parkeergarage                                                           | 5240        | False    |
 | 386-0    | Brand in parkeergarage                                                           | 6940        | False    |
 | 387      | Bouwvakker van hoogte gevallen                                                   | 500         | False    |
 | 388      | Bouwvakker van hoogte gevallen (Spoed)                                           | 1680        | False    |
-| 389      | Bouwvakker bekneld onder bouwmateriaal                                           | 900         | False    |
 | 390      | Brand bij afvalverwerker (Klein)                                                 | 840         | False    |
 | 391      | Brand bij afvalverwerker (Middel)                                                | 1940        | False    |
 | 392      | Brand bij afvalverwerker (Groot)                                                 | 5600        | False    |
@@ -418,19 +379,15 @@ Date groups: 24
 | 394      | Brand bij afvalverwerker (Grip 1)                                                | 8710        | False    |
 | 394/a    | Brand bij afvalverwerker (Grip 1)                                                | 11637       | False    |
 | 394/ab   | Brand bij afvalverwerker (Grip 1)                                                | 12637       | False    |
-| 394/b    | Brand bij afvalverwerker (Grip 1)                                                | 9510        | False    |
 | 395      | Brand bij afvalverwerker (Grip 3)                                                | 11710       | False    |
 | 395/a    | Brand bij afvalverwerker (Grip 3)                                                | 15387       | False    |
 | 395/ab   | Brand bij afvalverwerker (Grip 3)                                                | 16387       | False    |
-| 395/b    | Brand bij afvalverwerker (Grip 3)                                                | 12510       | False    |
 | 396      | Lekkende LPG installatie                                                         | 2600        | False    |
 | 397      | Gaslekkage                                                                       | 1200        | False    |
-| 398      | Vreemde lucht in kantoorgebouw                                                   | 1750        | False    |
-| 399      | Inbraakalarm bedrijfspand                                                        | 1170        | False    |
+| 400      | Inbraakalarm bedrijfspand                                                        | 1170        | False    |
 | 401      | Overvalalarm supermarkt                                                          | 840         | False    |
 | 402      | Persoon van laadklep gevallen                                                    | None        | False    |
 | 403      | Persoon van laadklep gevallen                                                    | None        | False    |
-| 404      | Persoon van laadklep gevallen                                                    | None        | False    |
 | 405      | Motorrijder gevallen                                                             | 150         | False    |
 | 406      | Persoon van dak gevallen                                                         | None        | False    |
 | 407      | Nacontrole brand                                                                 | 500         | False    |
@@ -440,35 +397,32 @@ Date groups: 24
 | 411      | Brand in kerkgebouw                                                              | 2650        | False    |
 | 412      | Brand in kerkgebouw                                                              | 7020        | False    |
 | 412-0    | Brand in kerkgebouw                                                              | 7920        | False    |
-| 413      | Brand in kerkgebouw                                                              | 8380        | False    |
 | 413-0    | Brand in kerkgebouw                                                              | 10930       | False    |
 | 414      | Brand in transformatorhuisje                                                     | 800         | False    |
 | 415      | Brand in transformatorhuisje                                                     | 1800        | False    |
+| 416      | Brand in transformatorhuisje                                                     | 3980        | False    |
 | 417      | Verkeersongeval met lijnbus en voetganger                                        | 1000        | False    |
 | 418      | Verkeersongeval met lijnbus en voetganger                                        | 1150        | False    |
 | 419      | Verkeersongeval met lijnbus en fietser                                           | 1000        | False    |
 | 420      | Verkeersongeval met lijnbus en fietser                                           | 1200        | False    |
-| 420-0    | Verkeersongeval met lijnbus en fietser                                           | 2890        | False    |
 | 421      | Overvalalarm bankkantoor                                                         | 1810        | False    |
 | 422      | Overval bankkantoor                                                              | 2200        | False    |
-| 423      | Overval bankkantoor                                                              | 4100        | False    |
-| 424      | Overval bankkantoor                                                              | 4500        | False    |
 | 425      | Brand in bouwmarkt (Klein)                                                       | 840         | False    |
 | 426      | Brand in bouwmarkt (Middel)                                                      | 1350        | False    |
 | 427      | Brand in bouwmarkt (Groot)                                                       | 3550        | False    |
 | 428      | Brand in bouwmarkt (Grip 1)                                                      | 9150        | False    |
 | 428/a    | Brand in bouwmarkt (Grip 1)                                                      | 12187       | False    |
-| 428/ab   | Brand in bouwmarkt (Grip 1)                                                      | 13187       | False    |
 | 429      | Brand in bouwmarkt (Grip 2)                                                      | 14250       | False    |
 | 429/a    | Brand in bouwmarkt (Grip 2)                                                      | 18562       | False    |
-| 429/ab   | Brand in bouwmarkt (Grip 2)                                                      | 19562       | False    |
-| 430      | Persoon bekneld tussen containers                                                | None        | False    |
+| 429/b    | Brand in bouwmarkt (Grip 2)                                                      | 15050       | False    |
 | 431      | Persoon bekneld tussen containers                                                | 1920        | False    |
 | 432      | Persoon bekneld onder heftruck                                                   | 1050        | False    |
 | 433      | Lekkende tankwagen                                                               | 1200        | False    |
-| 435-0    | Lekkende tankwagen                                                               | 7510        | False    |
-| 437      | Persoon te water                                                                 | 1150        | False    |
-| 438      | Duiker vermist                                                                   | 850         | False    |
+| 434      | Lekkende tankwagen                                                               | 3800        | False    |
+| 436      | Persoon te water                                                                 | 900         | False    |
+| 440      | Brand in gevangenis                                                              | 950         | False    |
+| 441      | Brand in gevangenis                                                              | 1950        | False    |
+| 442      | Brand in gevangenis                                                              | 8040        | False    |
 | 443      | Brand in hotel                                                                   | 750         | False    |
 | 444      | Brand in hotel                                                                   | 1550        | False    |
 | 445      | Brand in hotel                                                                   | 2500        | False    |
@@ -477,16 +431,11 @@ Date groups: 24
 | 448      | Suikertekort                                                                     | None        | False    |
 | 449      | Val van skateboard                                                               | None        | False    |
 | 450      | Open botbreuk                                                                    | None        | False    |
-| 451      | Zwaan met gebroken poot                                                          | 400         | False    |
 | 452      | Vogel vast in schoorsteen                                                        | 350         | False    |
 | 453      | Vissen met zuurstoftekort                                                        | 300         | False    |
 | 454      | Kat op dak                                                                       | 320         | False    |
 | 455      | Ree vast in hek                                                                  | 300         | False    |
-| 457      | Brand in manege                                                                  | 1950        | False    |
-| 458      | Brand in manege                                                                  | 2980        | False    |
-| 458-0    | Brand in manege                                                                  | 3830        | False    |
-| 459      | Brandende vliegtuigtrekker                                                       | 1290        | False    |
-| 461      | Vliegtuig met motorisch probleem                                                 | 8570        | False    |
+| 456      | Brand in manege                                                                  | 800         | False    |
 | 462      | Drugsafval aangetroffen                                                          | 3590        | False    |
 | 463      | Verdachte vaten aangetroffen                                                     | 3590        | False    |
 | 464      | Stankoverlast                                                                    | 550         | False    |
@@ -497,15 +446,12 @@ Date groups: 24
 | 469      | Brand in verzorgingshuis                                                         | 7000        | False    |
 | 470      | Personen onwel door hitte                                                        | 700         | False    |
 | 471      | Personen onwel door hitte                                                        | 1100        | False    |
-| 472      | Personen onwel door hitte                                                        | 700         | False    |
 | 473      | Personen onwel door hitte                                                        | 1100        | False    |
-| 474      | Brand in kantoorgebouw                                                           | 6740        | False    |
 | 475      | Brand in kantoorgebouw                                                           | 10100       | False    |
 | 476      | Verkeersongeval scooter                                                          | None        | False    |
 | 477      | Verkeersongeval scooter                                                          | 300         | False    |
 | 478      | Liftopsluiting                                                                   | 500         | False    |
 | 480      | Watersporter vermist                                                             | 850         | False    |
-| 482      | Watersporter vermist                                                             | 3000        | False    |
 | 483      | Vat met gevaarlijke stoffen omgevallen                                           | 1150        | False    |
 | 484-0    | Vat met gevaarlijke stoffen omgevallen                                           | 4730        | False    |
 | 485-0    | Vat met gevaarlijke stoffen omgevallen                                           | 7510        | False    |
@@ -516,31 +462,27 @@ Date groups: 24
 | 490      | Wateroverlast                                                                    | 5700        | False    |
 | 491      | Wateroverlast                                                                    | 5700        | False    |
 | 492      | Ongeregeldheden voetbalsupporters horeca                                         | 6010        | False    |
+| 492-0    | Ongeregeldheden voetbalsupporters horeca                                         | 6510        | False    |
 | 492-1    | Ongeregeldheden voetbalsupporters horeca                                         | 6210        | False    |
-| 492-2    | Ongeregeldheden voetbalsupporters horeca                                         | 7310        | False    |
 | 493      | Ongeregeldheden voetbalsupporters horeca                                         | 4470        | False    |
-| 493-0    | Ongeregeldheden voetbalsupporters horeca                                         | 2720        | False    |
-| 496      | Personenauto te water                                                            | 900         | False    |
-| 497      | Personenauto te water                                                            | 4850        | False    |
+| 493-2    | Ongeregeldheden voetbalsupporters horeca                                         | 4720        | False    |
 | 498      | Verkeersongeval materieel                                                        | 550         | False    |
 | 499      | Verkeersongeval materieel                                                        | 450         | False    |
 | 500      | Kettingbotsing                                                                   | 2090        | False    |
 | 501      | Kettingbotsing                                                                   | 1750        | False    |
 | 502      | Kettingbotsing                                                                   | 6000        | False    |
 | 503      | Kettingbotsing                                                                   | 8900        | False    |
-| 504      | Brand in fabriekshal                                                             | 900         | False    |
 | 505      | Brand in fabriekshal                                                             | 1600        | False    |
 | 506      | Brand in fabriekshal                                                             | 2800        | False    |
 | 507      | Brand in fabriekshal                                                             | 2950        | False    |
-| 508-0    | Brand in fabriekshal                                                             | 8210        | False    |
 | 509-0    | Brand in fabriekshal                                                             | 11630       | False    |
 | 510      | Brand in schuurtje                                                               | 600         | False    |
 | 511      | Brand in schuurtje                                                               | 1850        | False    |
 | 512      | Brand in garagebox                                                               | 700         | False    |
 | 513      | Brand in garagebox                                                               | 1900        | False    |
-| 515/a    | Aanvaring vrachtschip met waterbus (Grip 3)                                      | 6600        | False    |
+| 516      | Aanvaring met rondvaartboot (Grip 3)                                             | 5590        | False    |
 | 516/a    | Aanvaring met rondvaartboot (Grip 3)                                             | 7737        | False    |
-| 517      | Aanvaring met luxe jachtschip (Grip 4)                                           | 5750        | False    |
+| 518/a    | Aanvaring vrachtschip met veerboot (Grip 4)                                      | 12250       | False    |
 | 519/a    | Aanvaring vrachtschip met passagiersschip (Grip 4)                               | 20162       | False    |
 | 520      | Gebroken arm                                                                     | None        | False    |
 | 521      | Gebroken arm                                                                     | None        | False    |
@@ -549,9 +491,9 @@ Date groups: 24
 | 524      | Schouder uit de kom                                                              | None        | False    |
 | 548      | Steekincident (groot)                                                            | 6000        | False    |
 | 549      | Steekincident (groot)                                                            | 6000        | False    |
-| 551      | Brand in theater                                                                 | 1600        | False    |
-| 552      | Brand in theater                                                                 | 2200        | False    |
+| 550      | Brand in theater                                                                 | 850         | False    |
 | 553      | Hennepkwekerij aangetroffen                                                      | 840         | False    |
+| 554      | Monteur in aanraking met hoogspanning                                            | 3800        | False    |
 | 555      | Persoon in aanraking met laagspanning                                            | None        | False    |
 | 557      | Brand in theater                                                                 | 10450       | False    |
 | 557-0    | Brand in theater                                                                 | 11300       | False    |
@@ -571,33 +513,30 @@ Date groups: 24
 | 575      | Assistentie handhaving                                                           | 500         | False    |
 | 576      | Zwemmer in nood                                                                  | 510         | False    |
 | 577      | Zwemmer in nood                                                                  | 1010        | False    |
-| 589      | Voorzorgslanding klein vliegtuig                                                 | 2310        | False    |
-| 590      | Noodlanding groot vliegtuig                                                      | 8970        | False    |
 | 591-0    | Uitslaande brand in veestal                                                      | 13325       | False    |
 | 592-0    | Brand op bedrijventerrein                                                        | 15090       | False    |
-| 593      | Begeleiding demonstratie (klein)                                                 | 9720        | False    |
 | 594      | Begeleiding demonstratie (groot)                                                 | 35910       | False    |
 | 595      | Ongeval bijtend middel (huishoudelijk)                                           | None        | False    |
 | 596      | Ongeval bijtend middel (huishoudelijk)                                           | None        | False    |
+| 597      | Brand in asielzoekerscentrum                                                     | 170         | False    |
 | 598      | Brand in asielzoekerscentrum (wasserette)                                        | 1360        | False    |
 | 599      | Tanken zonder betalen                                                            | 500         | False    |
 | 600      | Tanken zonder betalen                                                            | 670         | False    |
 | 601      | Bewusteloos persoon op een bankje                                                | 500         | False    |
 | 602      | Beveiliger aangevallen                                                           | 510         | False    |
-| 603      | Brand in silo                                                                    | 1020        | False    |
 | 604      | Brand in Silo                                                                    | 5455        | False    |
-| 604-0    | Brand in Silo                                                                    | 6305        | False    |
-| 605      | Brand in Silo                                                                    | 11760       | False    |
 | 605-0    | Brand in Silo                                                                    | 13460       | False    |
 | 606      | Onbevoegden op spoor                                                             | 670         | False    |
 | 607      | Onbevoegden op spoor                                                             | 670         | False    |
 | 608      | Persoon aangevallen door hond                                                    | 1000        | False    |
 | 609      | Assistentie huisarts                                                             | None        | False    |
 | 610      | Brand in nachtclub                                                               | 500         | False    |
+| 611      | Brand in nachtclub                                                               | 3350        | False    |
 | 612      | Brand in nachtclub                                                               | 11350       | False    |
 | 612-0    | Brand in nachtclub                                                               | 12200       | False    |
 | 613      | Doorzoeking risicopand                                                           | 4210        | False    |
 | 614      | Verward persoon op dak                                                           | 4390        | False    |
+| 615      | Sportblessure opgelopen                                                          | None        | False    |
 | 616      | Sportblessure opgelopen                                                          | None        | False    |
 | 617      | Zonnesteek                                                                       | 250         | False    |
 | 618      | Hitteslag                                                                        | 250         | False    |
@@ -608,16 +547,13 @@ Date groups: 24
 | 623      | Auto tankstation ingereden                                                       | 1930        | False    |
 | 624      | Onbeheerde bagage gevonden                                                       | 670         | False    |
 | 625      | Onbeheerde bagage gevonden                                                       | 1970        | False    |
-| 625/a    | Onbeheerde bagage gevonden                                                       | 2770        | False    |
 | 626      | Onbeheerde bagage gevonden                                                       | 670         | False    |
 | 627      | Kind vast in hek                                                                 | 1420        | False    |
 | 628      | Kind vast in klimtoestel                                                         | 1420        | False    |
-| 629      | Lek/zinken plezierjacht                                                          | 2320        | False    |
 | 631      | Brandende frituurpan                                                             | 500         | False    |
-| 632      | Brandende frietkraam                                                             | 3040        | False    |
 | 633      | Brandwonden door frituurolie                                                     | None        | False    |
+| 634      | Overval frietkraam                                                               | 2980        | False    |
 | 635      | Ladingdiefstal                                                                   | 670         | False    |
-| 636      | Personen aangetroffen in vrachtwagen                                             | 3330        | False    |
 | 638      | Baby van commode gevallen                                                        | None        | False    |
 | 639      | Baby uit wieg gevallen                                                           | None        | False    |
 | 642      | Brand in hangaar                                                                 | 10580       | False    |
@@ -631,18 +567,16 @@ Date groups: 24
 | 650      | Personen vallen voorbijgangers lastig                                            | 840         | False    |
 | 651      | Aanrijding heftruck                                                              | None        | False    |
 | 652      | Stellingkast op persoon gevallen                                                 | None        | False    |
-| 654      | Brand bij zendmast                                                               | 2030        | False    |
-| 656      | Koperdiefstal                                                                    | 2480        | False    |
+| 653      | Brand bij zendmast                                                               | 500         | False    |
+| 655      | Koperdiefstal                                                                    | 840         | False    |
 | 657      | Hoge koorts                                                                      | None        | False    |
 | 658      | Hand in keukenmixer                                                              | None        | False    |
-| 659      | Brand in hoogspanningsruimte                                                     | 1250        | False    |
 | 660      | Brand in hoogspanningsruimte                                                     | 2180        | False    |
-| 661      | Brand in hoogspanningsruimte                                                     | 10660       | False    |
+| 662      | Verkeerscontrole                                                                 | 2205        | False    |
 | 664      | Acute buikpijn door stomp                                                        | 500         | False    |
 | 665      | Acute buikpijn door val                                                          | None        | False    |
 | 666      | Ongeval met hete luchtballon                                                     | 2440        | False    |
 | 667      | Ongeval met hete luchtballon                                                     | 4420        | False    |
-| 667/a    | Ongeval met hete luchtballon                                                     | 5220        | False    |
 | 668      | Beroving met geweld                                                              | 500         | False    |
 | 672      | Vluchtende verdachte in voetgangersgebied                                        | 1445        | False    |
 | 673      | Ruzie tijdens uitgaansnacht                                                      | 2415        | False    |
@@ -654,7 +588,6 @@ Date groups: 24
 | 679      | Heling                                                                           | 500         | False    |
 | 680      | Heling                                                                           | 670         | False    |
 | 681      | Medische assistentie                                                             | None        | False    |
-| 682      | Gevangenisbewaarder aangevallen                                                  | 500         | False    |
 | 683      | Geweld tegen hulpverleners                                                       | 670         | False    |
 | 684      | Geweld tegen hulpverleners                                                       | 1510        | False    |
 | 685      | Geweld tegen hulpverleners                                                       | 3150        | False    |
@@ -662,14 +595,13 @@ Date groups: 24
 | 687      | Brand zonnepanelen                                                               | 2030        | False    |
 | 687-0    | Brand zonnepanelen                                                               | 12750       | False    |
 | 687-1    | Brand zonnepanelen                                                               | 19100       | False    |
+| 687-2    | Brand zonnepanelen                                                               | 26740       | False    |
 | 703      | Plotselinge verlammingsverschijnselen                                            | None        | False    |
 | 704      | Acute bewustzijnsdaling                                                          | None        | False    |
 | 705      | Brandstichting                                                                   | 500         | False    |
 | 706      | Brandstichting                                                                   | 1180        | False    |
 | 707      | ANPR hit: Rijden zonder rijbewijs                                                | 670         | False    |
-| 707-0    | ANPR hit: Rijden zonder rijbewijs                                                | 920         | False    |
 | 708      | ANPR hit: Gesignaleerd persoon                                                   | 840         | False    |
-| 708-0    | ANPR hit: Gesignaleerd persoon                                                   | 1090        | False    |
 | 709      | Brand in boerderij                                                               | 2650        | False    |
 | 710      | Brand in boerderij                                                               | 5945        | False    |
 | 711      | Brand in boerderij                                                               | 12540       | False    |
@@ -704,7 +636,6 @@ Date groups: 24
 | 762      | Lekkage gevaarlijke stoffen (Middel)                                             | 5940        | False    |
 | 762/a    | Lekkage gevaarlijke stoffen (Middel)                                             | 6590        | False    |
 | 763      | Toezicht bij manifestatie                                                        | 4715        | False    |
-| 763/a    | Toezicht bij manifestatie                                                        | 5515        | False    |
 | 764      | Opbreken manifestatie                                                            | 10365       | False    |
 | 765      | Onaangekondigde demonstratie                                                     | 6955        | False    |
 | 766      | Onrust in de wijk                                                                | 2885        | False    |
@@ -719,7 +650,6 @@ Date groups: 24
 | 773      | Vrachtwagen op file ingereden                                                    | 7710        | False    |
 | 773-0    | Vrachtwagen op file ingereden                                                    | 9010        | False    |
 | 774      | Ongeval hooivork                                                                 | None        | False    |
-| 775      | Persoon aangevallen door dier                                                    | 500         | False    |
 | 776      | Illegaal aftappen elektra                                                        | 500         | False    |
 | 777      | Illegaal aftappen elektra                                                        | 670         | False    |
 | 778      | Brand in houtzagerij                                                             | 840         | False    |
@@ -734,19 +664,8 @@ Date groups: 24
 | 785      | Voetganger op de snelweg                                                         | 1590        | False    |
 | 786      | Ongeval in septic tank                                                           | 2910        | False    |
 | 787      | Persoon bekneld in gierput                                                       | 4960        | False    |
-| 787/a    | Persoon bekneld in gierput                                                       | 5660        | False    |
-| 787/c    | Persoon bekneld in gierput                                                       | 5760        | False    |
-| 794      | Onwelwording (strand)                                                            | 830         | False    |
-| 796-0    | Zoekactie vermist persoon                                                        | 2090        | False    |
-| 796-1    | Zoekactie vermist persoon                                                        | 5740        | False    |
-| 797      | Zwemmer in problemen                                                             | 1230        | False    |
-| 798      | Kitesurfer in problemen                                                          | 2400        | False    |
-| 799      | Persoon op luchtbed in problemen                                                 | 830         | False    |
 | 800      | Groep zwemmers in problemen                                                      | 3320        | False    |
-| 802      | Surfer gewond                                                                    | 1230        | False    |
-| 803      | Persoon vermist rondom mui                                                       | 2570        | False    |
-| 805      | Kind vermist                                                                     | 900         | False    |
-| 807      | Persoon bedolven onder zand                                                      | 830         | False    |
+| 806      | Zwemmer vermist                                                                  | 1400        | False    |
 | 811      | Verkeerd medicijngebruik                                                         | None        | False    |
 | 812      | Persoon vast in roltrap                                                          | 1590        | False    |
 | 813      | ANPR hit: Mobiel banditisme                                                      | 670         | False    |
@@ -755,9 +674,6 @@ Date groups: 24
 | 814-0    | ANPR hit: Vervreemd voertuig                                                     | 1090        | False    |
 | 815      | Vrachtwagen vast in tunnel                                                       | 1590        | False    |
 | 816      | Vrachtwagen vast in tunnel                                                       | 3480        | False    |
-| 817      | Gevallen blokarter                                                               | 830         | False    |
-| 818      | Aanrijding blokarters                                                            | 3020        | False    |
-| 819      | Toezicht/Begeleiding Surfwedstrijd                                               | 7860        | False    |
 | 820      | Opblazen wedstrijdbal                                                            | 500         | False    |
 | 821      | Spelersbus geparkeerd bij parkeerverbod                                          | 500         | False    |
 | 822      | Behandeling na keepersduik                                                       | None        | False    |
@@ -766,14 +682,12 @@ Date groups: 24
 | 825      | Gestolen trofee                                                                  | 670         | False    |
 | 826      | Bevriezing door koelspray                                                        | None        | False    |
 | 827      | Keelpijn na juichen                                                              | None        | False    |
-| 828      | Verloren aanvoerdersarmband                                                      | 1500        | False    |
 | 829      | Brandende cornervlag                                                             | 670         | False    |
 | 831      | Verontreinigde ijscokar                                                          | 1350        | False    |
 | 832      | Illegaal kampvuur in park                                                        | 670         | False    |
 | 833      | Geen contact melder                                                              | 670         | False    |
 | 834      | Paniekknop geactiveerd                                                           | 840         | False    |
 | 835      | Gaslek bedrijventerrein                                                          | 1010        | False    |
-| 835-0    | Gaslek bedrijventerrein                                                          | 1860        | False    |
 | 836      | Gaslek bedrijventerrein                                                          | 3770        | False    |
 | 836-0    | Gaslek bedrijventerrein                                                          | 5470        | False    |
 | 837-0    | Gaslek bedrijventerrein                                                          | 11130       | False    |
@@ -781,29 +695,25 @@ Date groups: 24
 | 839      | Hevige paniekaanval                                                              | None        | False    |
 | 840      | Spookrijder                                                                      | 840         | False    |
 | 840-0    | Spookrijder                                                                      | 1090        | False    |
+| 841      | Aanrijding met zwaar letsel                                                      | 5340        | False    |
 | 841/a    | Aanrijding met zwaar letsel                                                      | 5740        | False    |
-| 841/b    | Aanrijding met zwaar letsel                                                      | 6140        | False    |
-| 842-0    | Voertuigbrand in tunnel                                                          | 3020        | False    |
-| 843-0    | Voertuigbrand in tunnel                                                          | 5660        | False    |
+| 842      | Voertuigbrand in tunnel                                                          | 2170        | False    |
 | 844      | Onwel geworden persoon vast in lift                                              | 500         | False    |
 | 845      | Persoon met mes gezien                                                           | 840         | False    |
 | 846      | Woningoverval                                                                    | 2980        | False    |
 | 846/a    | Woningoverval                                                                    | 3480        | False    |
+| 847      | Brand in stacaravan                                                              | 3630        | False    |
 | 848      | Gevallen groep wielrenners                                                       | 1520        | False    |
 | 850      | Ramkraak                                                                         | 2310        | False    |
 | 851      | Achtervolging gevaarlijke verdachte                                              | 6380        | False    |
 | 851-0    | Achtervolging gevaarlijke verdachte                                              | 7380        | False    |
 | 852      | Vliegtuig neergestort                                                            | 3380        | False    |
 | 853      | Vliegtuig neergestort                                                            | 6890        | False    |
-| 853-0/a  | Vliegtuig neergestort                                                            | 22620       | False    |
-| 853-1    | Vliegtuig neergestort                                                            | 23660       | False    |
-| 855      | Observatie                                                                       | 5790        | False    |
-| 866      | Duinbrand                                                                        | 1170        | False    |
-| 867      | Duinbrand (Middel)                                                               | 2690        | False    |
 | 868      | Duinbrand (Grip 1)                                                               | 20747       | False    |
-| 868/a    | Duinbrand (Grip 1)                                                               | 26683       | False    |
+| 868/b    | Duinbrand (Grip 1)                                                               | 21547       | False    |
 | 869      | Aanrijding hulpverleningsvoertuig                                                | 2100        | False    |
 | 869/a    | Aanrijding hulpverleningsvoertuig                                                | 2400        | False    |
+| 869/ab   | Aanrijding hulpverleningsvoertuig                                                | 3200        | False    |
 | 870      | Persoon bekneld in bouwkraan                                                     | 2430        | False    |
 | 871-0    | Brandende tankwagen                                                              | 1280        | False    |
 | 871-1    | Brandende tankwagen                                                              | 1940        | False    |
@@ -818,7 +728,6 @@ Date groups: 24
 | 877      | Nablussen                                                                        | 500         | False    |
 | 877-0    | Nablussen                                                                        | 840         | False    |
 | 877-1    | Nablussen                                                                        | 1350        | False    |
-| 878      | Afzetten straat voor brandweer                                                   | 500         | False    |
 | 878-0    | Afzetten straat voor brandweer                                                   | 670         | False    |
 | 878-1    | Afzetten straat voor brandweer                                                   | 840         | False    |
 | 879      | Persoon heeft rook ingeademd                                                     | None        | False    |
@@ -827,22 +736,12 @@ Date groups: 24
 | 880/ab   | Duinbrand (Grip 2)                                                               | 52855       | False    |
 | 881      | Duinbrand (Grip 3)                                                               | 44854       | False    |
 | 881/a    | Duinbrand (Grip 3)                                                               | 56817       | False    |
-| 881/ab   | Duinbrand (Grip 3)                                                               | 57817       | False    |
 | 882      | Duinbrand (Grip 4)                                                               | 51574       | False    |
 | 882/a    | Duinbrand (Grip 4)                                                               | 65217       | False    |
-| 882/ab   | Duinbrand (Grip 4)                                                               | 66217       | False    |
-| 882/b    | Duinbrand (Grip 4)                                                               | 52374       | False    |
 | 883      | Eenzijdige aanrijding                                                            | 1520        | False    |
 | 883/a    | Eenzijdige aanrijding                                                            | 1720        | False    |
 | 884      | Doorrijden rood kruis                                                            | 670         | False    |
-| 885      | Brand in vuurwerkopslag                                                          | 48670       | False    |
-| 885/a    | Brand in vuurwerkopslag                                                          | 49470       | False    |
-| 885/b    | Brand in vuurwerkopslag                                                          | 64525       | False    |
-| 885/bf   | Brand in vuurwerkopslag                                                          | 66025       | False    |
-| 885/c    | Brand in vuurwerkopslag                                                          | 53870       | False    |
-| 885/cd   | Brand in vuurwerkopslag                                                          | 54520       | False    |
 | 885/d    | Brand in vuurwerkopslag                                                          | 49320       | False    |
-| 885/e    | Brand in vuurwerkopslag                                                          | 49470       | False    |
 | 887      | 100 Ambulancestandplaats mijlpaal                                                | 15000       | False    |
 | 888      | 250 Ambulancestandplaats mijlpaal                                                | 20000       | False    |
 | 889      | 500 Ambulancestandplaats mijlpaal                                                | 30000       | False    |
@@ -851,54 +750,41 @@ Date groups: 24
 | 893      | 500 Brandweerkazerne mijlpaal                                                    | 30000       | False    |
 | 894      | 750 Brandweerkazerne mijlpaal                                                    | 38370       | False    |
 | 895      | 1000 Brandweerkazerne mijlpaal                                                   | 45000       | False    |
-| 896      | Windsurfer vermist                                                               | 5140        | False    |
-| 897      | Rellen na stadsderby                                                             | 15955       | False    |
-| 897-0    | Rellen na stadsderby                                                             | 16555       | False    |
 | 897-1    | Rellen na stadsderby                                                             | 17555       | False    |
-| 898      | Accu ontploft                                                                    | 1750        | False    |
+| 897-2    | Rellen na stadsderby                                                             | 18555       | False    |
 | 900      | Geen ID tonen op eerste vordering                                                | 500         | False    |
+| 901      | Trein ontspoord                                                                  | 4250        | False    |
 | 901-0    | Trein ontspoord                                                                  | 7410        | False    |
 | 901-1    | Trein ontspoord                                                                  | 13385       | False    |
-| 901-1/a  | Trein ontspoord                                                                  | 14185       | False    |
 | 901-2    | Trein ontspoord                                                                  | 14235       | False    |
 | 917      | Reanimatie                                                                       | 1840        | False    |
 | 918      | Kinderreanimatie                                                                 | 2180        | False    |
 | 929      | Brand in gasverdeelstation                                                       | 26510       | False    |
-| 929/ab   | Brand in gasverdeelstation                                                       | 37825       | False    |
-| 929/b    | Brand in gasverdeelstation                                                       | 36825       | False    |
-| 929/bd   | Brand in gasverdeelstation                                                       | 37825       | False    |
-| 929/e    | Brand in gasverdeelstation                                                       | 27160       | False    |
+| 929/a    | Brand in gasverdeelstation                                                       | 27310       | False    |
 | 930      | Kind slikt schoonmaakmiddel in                                                   | 500         | False    |
 | 931      | Binnenstap drugspand met vuurwapengevaarlijke verdachte                          | 7080        | False    |
-| 932      | Brand op veerpont                                                                | 3680        | False    |
-| 932-0    | Brand op veerpont                                                                | 10070       | False    |
-| 933      | Bouwsteiger ingestort                                                            | 4480        | False    |
-| 933-0    | Bouwsteiger ingestort                                                            | 6980        | False    |
+| 932-1    | Brand op veerpont                                                                | 17125       | False    |
 | 934      | Ontsnapping gevaarlijke gedetineerde                                             | 8820        | False    |
 | 939      | Schrootbrand op schip                                                            | 2280        | False    |
-| 939-0    | Schrootbrand op schip                                                            | 12995       | False    |
-| 939-1    | Schrootbrand op schip                                                            | 23560       | False    |
 | 940      | Kinderhoofd vast tussen spijlen traphekje                                        | 500         | False    |
 | 941      | Persoon opgesloten in voertuig                                                   | 500         | False    |
 | 943      | Bestuurder onwel                                                                 | 1350        | False    |
 | 944      | Overtreding gebiedsverbod                                                        | 670         | False    |
 | 945      | Gevel dreigt in te storten                                                       | 3110        | False    |
+| 945-0    | Gevel dreigt in te storten                                                       | 10205       | False    |
 | 947      | Overlast lachgas                                                                 | 670         | False    |
-| 948      | Brand op windmolenpark                                                           | 500         | False    |
-| 948-1    | Brand op windmolenpark                                                           | 11575       | False    |
 | 949      | Personen vast in achtbaan                                                        | 7600        | False    |
 | 950      | Achtervolging gestolen scooter                                                   | 2810        | False    |
 | 951      | Vechtpartij horecagebied                                                         | 2570        | False    |
 | 951/a    | Vechtpartij horecagebied                                                         | 3570        | False    |
 | 952      | Brand in stadion                                                                 | 1520        | False    |
+| 952-0    | Brand in stadion                                                                 | 7980        | False    |
+| 952-1    | Brand in stadion                                                                 | 25160       | False    |
 | 953      | Letsel tijdens klussen                                                           | None        | False    |
 | 954      | Verkeersruzie                                                                    | 1640        | False    |
 | 955      | Verkeersruzie loopt uit de hand                                                  | 3955        | False    |
 | 956      | Brand in station (Klein)                                                         | 500         | False    |
-| 957-0    | Persoon onwel in attractie                                                       | 1760        | False    |
-| 958      | Voetbalwedstrijd                                                                 | 11000       | False    |
 | 973      | Uit de handgelopen overwinningsfeest                                             | 7740        | False    |
-| 974-0    | Ontspoorde tram botst tegen gebouw                                               | 8690        | False    |
 | 975      | Persoon van steiger gevallen                                                     | 670         | False    |
 | 976      | Graffitispuiter betrapt                                                          | 670         | False    |
 | 976-0    | Graffitispuiters betrapt                                                         | 3150        | False    |
@@ -910,21 +796,18 @@ Date groups: 24
 | 983      | Zeiljacht in problemen                                                           | 3080        | False    |
 | 984      | Drugssmokkel op zee                                                              | 4980        | False    |
 | 985      | Olietanker in de problemen                                                       | 19360       | False    |
-| 986      | Surfer vermist                                                                   | 4080        | False    |
 | 987      | Schipbreukeling vermist                                                          | 5880        | False    |
 | 988      | Persoon onwel op schip                                                           | 1230        | False    |
 | 989      | Diefstal personenauto                                                            | 2640        | False    |
-| 990      | Oefening brandweerduikers                                                        | 3300        | False    |
 | 991      | Kind van speeltoestel gevallen                                                   | 670         | False    |
 | 992      | Gijzeling                                                                        | 9930        | False    |
-| 992/a    | Gijzeling                                                                        | 10730       | False    |
-| 994      | Helikopter crash                                                                 | 5760        | False    |
 | 995      | Opvang slachtoffers                                                              | 1350        | False    |
-| 995-1    | Opvang slachtoffers                                                              | 3170        | False    |
+| 995-0    | Opvang slachtoffers                                                              | 1690        | False    |
 | 996      | Overval waardetransport                                                          | 13580       | False    |
 | 1001     | Verdachte door politiehond gebeten                                               | None        | False    |
 | 1002     | Blokkade door boze menigte                                                       | 14530       | False    |
 | 1002/a   | Blokkade door boze menigte                                                       | 15330       | False    |
+| 1007     | Persoon bekneld tussen fietsspaken                                               | 740         | False    |
 | 1008     | Aanrijding snelweg, veroorzaker gevlucht                                         | 4520        | False    |
 | 1008/a   | Aanrijding snelweg, veroorzaker gevlucht                                         | 4920        | False    |
 | 1009     | Auto tegen pijlwagen gereden                                                     | 4500        | False    |
@@ -932,7 +815,6 @@ Date groups: 24
 | 1010     | Meningsverschil in bankkantoor                                                   | 500         | False    |
 | 1011     | Vechtpartij in bankkantoor                                                       | 1810        | False    |
 | 1012     | Persoon met gevaarlijke stoffen                                                  | 10660       | False    |
-| 1012/a   | Persoon met gevaarlijke stoffen                                                  | 11460       | False    |
 | 1016     | Aanvaring veerpont                                                               | 14730       | False    |
 | 1018     | Assistentie collega                                                              | 840         | False    |
 | 1019     | Brand in sauna                                                                   | 500         | False    |
@@ -947,34 +829,21 @@ Date groups: 24
 | 1026     | Brand in bioscoop                                                                | 500         | False    |
 | 1026-0   | Brand in bioscoop                                                                | 5620        | False    |
 | 1026-1   | Brand in bioscoop                                                                | 24370       | False    |
-| 1027     | Reanimatie drenkeling                                                            | 1950        | False    |
 | 1028     | Terroristische aanslag                                                           | 28860       | False    |
 | 1030     | Brand bij papierrecyclaar                                                        | 40160       | False    |
-| 1030/a   | Brand bij papierrecyclaar                                                        | 40960       | False    |
 | 1030/b   | Brand bij papierrecyclaar                                                        | 53887       | False    |
-| 1030/c   | Brand bij papierrecyclaar                                                        | 48360       | False    |
-| 1030/d   | Brand bij papierrecyclaar                                                        | 41760       | False    |
+| 1030/cd  | Brand bij papierrecyclaar                                                        | 49960       | False    |
 | 1031     | Festival                                                                         | 31020       | False    |
 | 1032     | Parkeergarage onder water                                                        | 6100        | False    |
 | 1033     | Ruzie op terras                                                                  | 840         | False    |
 | 1034     | Brand in nucleaire installatie                                                   | 69410       | False    |
-| 1034/ac  | Brand in nucleaire installatie                                                   | 76610       | False    |
-| 1034/c   | Brand in nucleaire installatie                                                   | 75810       | False    |
-| 1034/d   | Brand in nucleaire installatie                                                   | 70810       | False    |
-| 1034/e   | Brand in nucleaire installatie                                                   | 70710       | False    |
-| 1034/g   | Brand in nucleaire installatie                                                   | 71010       | False    |
-| 1034/gh  | Brand in nucleaire installatie                                                   | 71860       | False    |
-| 1034/h   | Brand in nucleaire installatie                                                   | 70260       | False    |
 | 1035     | Verward persoon dreigt van boord te springen                                     | 1230        | False    |
-| 1035/a   | Verward persoon dreigt van boord te springen                                     | 2030        | False    |
 | 1036     | Dronken persoon gooit met terrasmeubilair                                        | 1840        | False    |
 | 1042     | Scootmobiel door winkelruit                                                      | 670         | False    |
 | 1043     | Overval tankstation                                                              | 840         | False    |
 | 1044     | Overval tankstation met gijzeling                                                | 7400        | False    |
-| 1044/a   | Overval tankstation met gijzeling                                                | 8200        | False    |
 | 1045     | Brandende airco unit                                                             | 500         | False    |
 | 1046     | Verstekeling aan boord                                                           | 3030        | False    |
-| 1047     | Demonstranten vastgelijmd aan snelweg                                            | 13230       | False    |
 | 1052     | Brand overheidsgebouw                                                            | 500         | False    |
 | 1052-0   | Brand overheidsgebouw                                                            | 1690        | False    |
 | 1052-1   | Brand overheidsgebouw                                                            | 7940        | False    |
@@ -989,7 +858,6 @@ Date groups: 24
 | 1056     | Ontruimingsoefening                                                              | 13170       | False    |
 | 1057     | Autobrand op snelweg                                                             | 2550        | False    |
 | 1062-0   | School shooting                                                                  | 9130        | False    |
-| 1062-1   | School shooting                                                                  | 12570       | False    |
 | 1063     | Ontplofte gasfles                                                                | 1680        | False    |
 | 1064     | Veiligheidsbeugel kermisattractie schiet los                                     | 2150        | False    |
 | 1069     | Kijkers op de vluchtstrook                                                       | 1080        | False    |
@@ -1006,6 +874,7 @@ Date groups: 24
 | 1102     | Aanrijding drive-in Bioscoop                                                     | 670         | False    |
 | 1102/a   | Aanrijding drive-in Bioscoop                                                     | 1070        | False    |
 | 1103     | Interfacilitair Transport                                                        | None        | False    |
+| 1104/a   | Aanrijding trein & betonmixer                                                    | 14820       | False    |
 | 1106     | Klant steelt loterij tickets                                                     | 700         | False    |
 | 1107     | Diefstal bij auto-onderdelenwinkel                                               | 700         | False    |
 | 1108     | Advocaat betrapt op manipuleren van rechtzaak                                    | 900         | False    |
@@ -1016,7 +885,6 @@ Date groups: 24
 | 1116     | Auto zonder brandstof                                                            | 700         | False    |
 | 1117     | Verlaten voertuig langs de weg                                                   | 900         | False    |
 | 1118     | Lege band                                                                        | 700         | False    |
-| 1119     | Gestolen vrachtwagen botst in een casino                                         | 5450        | False    |
 | 1120     | LZV met pech op snelweg                                                          | 2640        | False    |
 | 1121     | Dronken bouwvakker rijdt cementwagen in de greppel                               | 1800        | False    |
 | 1122     | Bestuurder op telefoon botst op vrachtwagen                                      | 4400        | False    |
@@ -1029,7 +897,6 @@ Date groups: 24
 | 1128     | Passagierstrein botst op brandweerwagen in een spoorwegovergang                  | 4530        | False    |
 | 1129     | Achtervolging eindigt met botstende verdachte in supermarkt, waterleiding breekt | 4530        | False    |
 | 1133     | Ongeluk met Fatbike                                                              | None        | False    |
-| 1134     | Scootmobiel te water                                                             | 4240        | False    |
 | 1136     | Koolmonoxidevergiftiging in een school                                           | 6000        | False    |
 | 1137     | Man over boord                                                                   | 5780        | False    |
 | 1138     | Grap veroorzaakt hartaanval                                                      | 1180        | False    |
@@ -1039,7 +906,6 @@ Date groups: 24
 | 1145     | Brand in Bibliotheek                                                             | 7925        | False    |
 | 1146     | Assistentie luchthavenbeveiliging                                                | 600         | False    |
 | 1147     | Verdachte situatie                                                               | 1300        | False    |
-| 1148     | Grenscontrole                                                                    | 17370       | False    |
 | 1149     | Militair onder invloed achter het stuur                                          | 1140        | False    |
 | 1150     | Verdovende middelen aangetroffen in bagage                                       | 600         | False    |
 | 1151     | Verdacht vaartuig in de haven                                                    | 1170        | False    |
@@ -1052,24 +918,16 @@ Date groups: 24
 | 1158     | Brand in serverruimte (Groot)                                                    | 13265       | False    |
 | 1159     | Persoon valt uit raam                                                            | None        | False    |
 | 1160     | Brandende laadpaal                                                               | 2035        | False    |
-| 1161     | Verdachte situatie luchthaven                                                    | 970         | False    |
-| 1162     | Verdacht pakket luchthaven                                                       | 2840        | False    |
-| 1163     | Explosie luchthaven                                                              | 19810       | False    |
-| 1164     | Bom uit WOII gevonden                                                            | 4920        | False    |
-| 1165     | Verdacht pakket bij voordeur                                                     | 3980        | False    |
-| 1166     | Diepzeemijn aangetroffen                                                         | 4810        | False    |
-| 1167     | Vermoeden van opslag grote partij illegaal vuurwerk                              | 8380        | False    |
-| 1168     | Explosie in woonwijk                                                             | 19810       | False    |
 | 1170     | Fietser op de snelweg                                                            | 500         | False    |
 | 1170-0   | Fietser op de snelweg                                                            | 1420        | False    |
 | 1171     | Vermoedelijke illegale plantage – (Thermische luchtbeelden nodig)                | 7000        | False    |
 | 1172     | Illegale plantage (klein)                                                        | 5000        | False    |
 | 1173     | Vreemde lucht portiek                                                            | 1970        | False    |
 | 1174     | Kind vindt paracetamol                                                           | None        | False    |
+| 1178     | Brand in snackbar                                                                | 1860        | False    |
+| 1179     | Brand in snackbar (Zeer Groot)                                                   | 4850        | False    |
 | 1180     | Brand in snackbar (Grip 1)                                                       | 13200       | False    |
-| 1180/a   | Brand in snackbar (Grip 1)                                                       | 14000       | False    |
 | 1181     | Chloorgas ontsnapt                                                               | 9560        | False    |
-| 1182     | Bootje op drift                                                                  | 3250        | False    |
 | 1186     | Aanrijding meerdere vrachtwagens                                                 | 8350        | False    |
 | 1189     | Aanhanger losgeschoten                                                           | 3450        | False    |
 | 1190     | Vrachtwagen rijdt tegen losgeschoten aanhanger                                   | 7000        | False    |
@@ -1080,19 +938,16 @@ Date groups: 24
 | 1195     | Aanrijding met 2 fatbikers                                                       | 2020        | False    |
 | 1196     | Brand in meubelzaak                                                              | 12270       | False    |
 | 1199     | Brand partycentrum                                                               | 10640       | False    |
-| 1200     | Rellen tijdens voetbal wedstrijd                                                 | 19680       | False    |
 | 1201     | Drone neergeschoten                                                              | 670         | False    |
-| 1202     | Brand in ziekenhuis (Grip 1)                                                     | 12580       | False    |
+| 1202/abc | Brand in ziekenhuis (Grip 1)                                                     | 20225       | False    |
 | 1202/ac  | Brand in ziekenhuis (Grip 1)                                                     | 19225       | False    |
-| 1202/b   | Brand in ziekenhuis (Grip 1)                                                     | 13380       | False    |
-| 1202/bc  | Brand in ziekenhuis (Grip 1)                                                     | 14180       | False    |
-| 1203/abc | Brand in ziekenhuis (Grip 2)                                                     | 29562       | False    |
+| 1202/c   | Brand in ziekenhuis (Grip 1)                                                     | 13380       | False    |
+| 1203/a   | Brand in ziekenhuis (Grip 2)                                                     | 27562       | False    |
 | 1203/ac  | Brand in ziekenhuis (Grip 2)                                                     | 28562       | False    |
-| 1203/c   | Brand in ziekenhuis (Grip 2)                                                     | 20850       | False    |
 | 1204     | Brand in station (Middel)                                                        | 2540        | False    |
 | 1205     | Brand in station (Groot)                                                         | 15360       | False    |
-| 1207/abc | Brand in station (Grip 2)                                                        | 56950       | False    |
-| 1207/c   | Brand in station (Grip 2)                                                        | 42760       | False    |
+| 1206/ac  | Brand in station (Grip 1)                                                        | 38000       | False    |
+| 1206/c   | Brand in station (Grip 1)                                                        | 28400       | False    |
 | 1208     | Persoon bekneld in airco unit                                                    | 910         | False    |
 | 1209     | Vrachtwagen omgewaaid                                                            | 1760        | False    |
 | 1209/a   | Vrachtwagen omgewaaid                                                            | 2060        | False    |
@@ -1108,74 +963,261 @@ Date groups: 24
 | 1219     | Droger in brand                                                                  | 1010        | False    |
 | 1220     | Persoon geraakt door schroef van boot                                            | 1740        | False    |
 
-## 2026-07-13 (Count: 92)
+## 2026-07-14 (Count: 214)
+
+| ID       | Name                                                                             | Avg Credits | Inactive |
+| -------- | -------------------------------------------------------------------------------- | ----------: | -------- |
+| 15       | Bosbrand (Klein)                                                                 | 1090        | False    |
+| 25/a     | Verkeersongeval met beknelling                                                   | 3240        | False    |
+| 36/b     | Brandende goederenwagon (Groot)                                                  | 6770        | False    |
+| 52       | Brand in garagebedrijf                                                           | 1800        | False    |
+| 100/ac   | Ammoniakalarm in opslagloods                                                     | 9170        | False    |
+| 100/bc   | Ammoniakalarm in opslagloods                                                     | 9120        | False    |
+| 100/c    | Ammoniakalarm in opslagloods                                                     | 8470        | False    |
+| 109      | Ongeval met trein en persoon                                                     | 740         | False    |
+| 128      | Heidebrand (Klein)                                                               | 1090        | False    |
+| 143/ab   | Natuurbrand (Grip 1)                                                             | 31252       | False    |
+| 144/ab   | Natuurbrand (Grip 2)                                                             | 35490       | False    |
+| 185      | Verlaten kinderfiets langs waterkant                                             | 1200        | False    |
+| 205      | Persoon te water                                                                 | 850         | False    |
+| 207/a    | Personenauto te water                                                            | 3880        | False    |
+| 209/a    | Aanvaring vrachtschip met vlet (Grip 3)                                          | 4912        | False    |
+| 210/a    | Aanvaring vrachtschip met kajuitboot (Grip 3)                                    | 5975        | False    |
+| 211/a    | Aanvaring 2 vrachtschepen (Grip 4)                                               | 19487       | False    |
+| 213      | Omgeslagen Zeilboot                                                              | 3150        | False    |
+| 214      | Bosbrand (Middel)                                                                | 1420        | False    |
+| 216/a    | Bosbrand (Grip 1)                                                                | 15140       | False    |
+| 216/ab   | Bosbrand (Grip 1)                                                                | 16140       | False    |
+| 229-0    | Brand in tankstation                                                             | 5720        | False    |
+| 242      | Verlaten kleding langs waterkant                                                 | 900         | False    |
+| 255      | Brandende goederenwagon (Middel)                                                 | 2590        | False    |
+| 255/a    | Brandende goederenwagon (Middel)                                                 | 2690        | False    |
+| 265      | Vliegtuig met hydraulisch probleem                                               | 2010        | False    |
+| 266      | Vliegtuig met rook in cabine                                                     | 2010        | False    |
+| 267      | Vliegtuig met brandgeur in cabine                                                | 2010        | False    |
+| 268      | Vliegtuig met probleem met landingsgestel                                        | 8570        | False    |
+| 269      | Vliegtuig met brandmelding in vrachtruim                                         | 7720        | False    |
+| 271      | Rookontwikkeling in vrachtruim vliegtuig                                         | 2010        | False    |
+| 272      | Klein vliegtuig met motorisch probleem                                           | 2140        | False    |
+| 273      | Klein vliegtuig neergestort                                                      | 2140        | False    |
+| 274      | Klein vliegtuig neergestort                                                      | 5770        | False    |
+| 276      | Brandend klein vliegtuig                                                         | 3570        | False    |
+| 277      | Pijn op de borst                                                                 | None        | False    |
+| 278      | Beroerte                                                                         | None        | False    |
+| 291      | Brand in magazijn                                                                | 9080        | False    |
+| 307-1/a  | Verkeersongeval met touringcar                                                   | 14270       | False    |
+| 308/b    | Natuurbrand (Grip 3)                                                             | 36622       | False    |
+| 312      | Lekkende goederenwagon (Groot)                                                   | 5720        | False    |
+| 312/a    | Lekkende goederenwagon (Groot)                                                   | 6420        | False    |
+| 312/b    | Lekkende goederenwagon (Groot)                                                   | 6370        | False    |
+| 312/c    | Lekkende goederenwagon (Groot)                                                   | 6520        | False    |
+| 315      | Brand in passagierstrein                                                         | 3250        | False    |
+| 318      | Brand op binnenvaartschip                                                        | 1450        | False    |
+| 319      | Brand op binnenvaartschip                                                        | 3100        | False    |
+| 320      | Brand op binnenvaartschip                                                        | 5150        | False    |
+| 326-0    | Brand in landbouwschuur                                                          | 6485        | False    |
+| 349/a    | Zwemmer vermist (Grip 1)                                                         | 7437        | False    |
+| 351/a    | Inbraakalarm woning                                                              | 2300        | False    |
+| 352      | Brand in terminal                                                                | 1400        | False    |
+| 353      | Brand in terminal                                                                | 3300        | False    |
+| 354      | Brand in terminal                                                                | 6470        | False    |
+| 354-0    | Brand in terminal                                                                | 7320        | False    |
+| 355/ab   | Heidebrand (Grip 1)                                                              | 37927       | False    |
+| 357/b    | Natuurbrand (Grip 5)                                                             | 66932       | False    |
+| 363      | Brand op passagiersschip                                                         | 1450        | False    |
+| 365      | Brand op passagiersschip                                                         | 4800        | False    |
+| 377      | Persoon te water                                                                 | 5200        | False    |
+| 389      | Bouwvakker bekneld onder bouwmateriaal                                           | 900         | False    |
+| 394/b    | Brand bij afvalverwerker (Grip 1)                                                | 9510        | False    |
+| 395/b    | Brand bij afvalverwerker (Grip 3)                                                | 12510       | False    |
+| 398      | Vreemde lucht in kantoorgebouw                                                   | 1750        | False    |
+| 399      | Inbraakalarm bedrijfspand                                                        | 1170        | False    |
+| 404      | Persoon van laadklep gevallen                                                    | None        | False    |
+| 413      | Brand in kerkgebouw                                                              | 8380        | False    |
+| 420-0    | Verkeersongeval met lijnbus en fietser                                           | 2890        | False    |
+| 423      | Overval bankkantoor                                                              | 4100        | False    |
+| 424      | Overval bankkantoor                                                              | 4500        | False    |
+| 428/ab   | Brand in bouwmarkt (Grip 1)                                                      | 13187       | False    |
+| 429/ab   | Brand in bouwmarkt (Grip 2)                                                      | 19562       | False    |
+| 430      | Persoon bekneld tussen containers                                                | None        | False    |
+| 435-0    | Lekkende tankwagen                                                               | 7510        | False    |
+| 437      | Persoon te water                                                                 | 1150        | False    |
+| 438      | Duiker vermist                                                                   | 850         | False    |
+| 451      | Zwaan met gebroken poot                                                          | 400         | False    |
+| 457      | Brand in manege                                                                  | 1950        | False    |
+| 458      | Brand in manege                                                                  | 2980        | False    |
+| 458-0    | Brand in manege                                                                  | 3830        | False    |
+| 459      | Brandende vliegtuigtrekker                                                       | 1290        | False    |
+| 461      | Vliegtuig met motorisch probleem                                                 | 8570        | False    |
+| 472      | Personen onwel door hitte                                                        | 700         | False    |
+| 474      | Brand in kantoorgebouw                                                           | 6740        | False    |
+| 482      | Watersporter vermist                                                             | 3000        | False    |
+| 492-2    | Ongeregeldheden voetbalsupporters horeca                                         | 7310        | False    |
+| 493-0    | Ongeregeldheden voetbalsupporters horeca                                         | 2720        | False    |
+| 496      | Personenauto te water                                                            | 900         | False    |
+| 497      | Personenauto te water                                                            | 4850        | False    |
+| 504      | Brand in fabriekshal                                                             | 900         | False    |
+| 508-0    | Brand in fabriekshal                                                             | 8210        | False    |
+| 515/a    | Aanvaring vrachtschip met waterbus (Grip 3)                                      | 6600        | False    |
+| 517      | Aanvaring met luxe jachtschip (Grip 4)                                           | 5750        | False    |
+| 551      | Brand in theater                                                                 | 1600        | False    |
+| 552      | Brand in theater                                                                 | 2200        | False    |
+| 589      | Voorzorgslanding klein vliegtuig                                                 | 2310        | False    |
+| 590      | Noodlanding groot vliegtuig                                                      | 8970        | False    |
+| 593      | Begeleiding demonstratie (klein)                                                 | 9720        | False    |
+| 603      | Brand in silo                                                                    | 1020        | False    |
+| 604-0    | Brand in Silo                                                                    | 6305        | False    |
+| 605      | Brand in Silo                                                                    | 11760       | False    |
+| 625/a    | Onbeheerde bagage gevonden                                                       | 2770        | False    |
+| 629      | Lek/zinken plezierjacht                                                          | 2320        | False    |
+| 632      | Brandende frietkraam                                                             | 3040        | False    |
+| 636      | Personen aangetroffen in vrachtwagen                                             | 3330        | False    |
+| 654      | Brand bij zendmast                                                               | 2030        | False    |
+| 656      | Koperdiefstal                                                                    | 2480        | False    |
+| 659      | Brand in hoogspanningsruimte                                                     | 1250        | False    |
+| 661      | Brand in hoogspanningsruimte                                                     | 10660       | False    |
+| 667/a    | Ongeval met hete luchtballon                                                     | 5220        | False    |
+| 682      | Gevangenisbewaarder aangevallen                                                  | 500         | False    |
+| 707-0    | ANPR hit: Rijden zonder rijbewijs                                                | 920         | False    |
+| 708-0    | ANPR hit: Gesignaleerd persoon                                                   | 1090        | False    |
+| 763/a    | Toezicht bij manifestatie                                                        | 5515        | False    |
+| 775      | Persoon aangevallen door dier                                                    | 500         | False    |
+| 787/a    | Persoon bekneld in gierput                                                       | 5660        | False    |
+| 787/c    | Persoon bekneld in gierput                                                       | 5760        | False    |
+| 794      | Onwelwording (strand)                                                            | 830         | False    |
+| 796-0    | Zoekactie vermist persoon                                                        | 2090        | False    |
+| 796-1    | Zoekactie vermist persoon                                                        | 5740        | False    |
+| 797      | Zwemmer in problemen                                                             | 1230        | False    |
+| 798      | Kitesurfer in problemen                                                          | 2400        | False    |
+| 799      | Persoon op luchtbed in problemen                                                 | 830         | False    |
+| 802      | Surfer gewond                                                                    | 1230        | False    |
+| 803      | Persoon vermist rondom mui                                                       | 2570        | False    |
+| 805      | Kind vermist                                                                     | 900         | False    |
+| 807      | Persoon bedolven onder zand                                                      | 830         | False    |
+| 817      | Gevallen blokarter                                                               | 830         | False    |
+| 818      | Aanrijding blokarters                                                            | 3020        | False    |
+| 819      | Toezicht/Begeleiding Surfwedstrijd                                               | 7860        | False    |
+| 828      | Verloren aanvoerdersarmband                                                      | 1500        | False    |
+| 835-0    | Gaslek bedrijventerrein                                                          | 1860        | False    |
+| 841/b    | Aanrijding met zwaar letsel                                                      | 6140        | False    |
+| 842-0    | Voertuigbrand in tunnel                                                          | 3020        | False    |
+| 843-0    | Voertuigbrand in tunnel                                                          | 5660        | False    |
+| 853-0/a  | Vliegtuig neergestort                                                            | 22620       | False    |
+| 853-1    | Vliegtuig neergestort                                                            | 23660       | False    |
+| 855      | Observatie                                                                       | 5790        | False    |
+| 866      | Duinbrand                                                                        | 1170        | False    |
+| 867      | Duinbrand (Middel)                                                               | 2690        | False    |
+| 868/a    | Duinbrand (Grip 1)                                                               | 26683       | False    |
+| 878      | Afzetten straat voor brandweer                                                   | 500         | False    |
+| 881/ab   | Duinbrand (Grip 3)                                                               | 57817       | False    |
+| 882/ab   | Duinbrand (Grip 4)                                                               | 66217       | False    |
+| 882/b    | Duinbrand (Grip 4)                                                               | 52374       | False    |
+| 885      | Brand in vuurwerkopslag                                                          | 48670       | False    |
+| 885/a    | Brand in vuurwerkopslag                                                          | 49470       | False    |
+| 885/b    | Brand in vuurwerkopslag                                                          | 64525       | False    |
+| 885/bf   | Brand in vuurwerkopslag                                                          | 66025       | False    |
+| 885/c    | Brand in vuurwerkopslag                                                          | 53870       | False    |
+| 885/cd   | Brand in vuurwerkopslag                                                          | 54520       | False    |
+| 885/e    | Brand in vuurwerkopslag                                                          | 49470       | False    |
+| 896      | Windsurfer vermist                                                               | 5140        | False    |
+| 897      | Rellen na stadsderby                                                             | 15955       | False    |
+| 897-0    | Rellen na stadsderby                                                             | 16555       | False    |
+| 898      | Accu ontploft                                                                    | 1750        | False    |
+| 901-1/a  | Trein ontspoord                                                                  | 14185       | False    |
+| 929/ab   | Brand in gasverdeelstation                                                       | 37825       | False    |
+| 929/b    | Brand in gasverdeelstation                                                       | 36825       | False    |
+| 929/bd   | Brand in gasverdeelstation                                                       | 37825       | False    |
+| 929/e    | Brand in gasverdeelstation                                                       | 27160       | False    |
+| 932      | Brand op veerpont                                                                | 3680        | False    |
+| 932-0    | Brand op veerpont                                                                | 10070       | False    |
+| 933      | Bouwsteiger ingestort                                                            | 4480        | False    |
+| 933-0    | Bouwsteiger ingestort                                                            | 6980        | False    |
+| 939-0    | Schrootbrand op schip                                                            | 12995       | False    |
+| 939-1    | Schrootbrand op schip                                                            | 23560       | False    |
+| 948      | Brand op windmolenpark                                                           | 500         | False    |
+| 948-1    | Brand op windmolenpark                                                           | 11575       | False    |
+| 957-0    | Persoon onwel in attractie                                                       | 1760        | False    |
+| 958      | Voetbalwedstrijd                                                                 | 11000       | False    |
+| 974-0    | Ontspoorde tram botst tegen gebouw                                               | 8690        | False    |
+| 986      | Surfer vermist                                                                   | 4080        | False    |
+| 990      | Oefening brandweerduikers                                                        | 3300        | False    |
+| 992/a    | Gijzeling                                                                        | 10730       | False    |
+| 994      | Helikopter crash                                                                 | 5760        | False    |
+| 995-1    | Opvang slachtoffers                                                              | 3170        | False    |
+| 1012/a   | Persoon met gevaarlijke stoffen                                                  | 11460       | False    |
+| 1027     | Reanimatie drenkeling                                                            | 1950        | False    |
+| 1030/a   | Brand bij papierrecyclaar                                                        | 40960       | False    |
+| 1030/c   | Brand bij papierrecyclaar                                                        | 48360       | False    |
+| 1030/d   | Brand bij papierrecyclaar                                                        | 41760       | False    |
+| 1034/ac  | Brand in nucleaire installatie                                                   | 76610       | False    |
+| 1034/c   | Brand in nucleaire installatie                                                   | 75810       | False    |
+| 1034/d   | Brand in nucleaire installatie                                                   | 70810       | False    |
+| 1034/e   | Brand in nucleaire installatie                                                   | 70710       | False    |
+| 1034/g   | Brand in nucleaire installatie                                                   | 71010       | False    |
+| 1034/gh  | Brand in nucleaire installatie                                                   | 71860       | False    |
+| 1034/h   | Brand in nucleaire installatie                                                   | 70260       | False    |
+| 1035/a   | Verward persoon dreigt van boord te springen                                     | 2030        | False    |
+| 1044/a   | Overval tankstation met gijzeling                                                | 8200        | False    |
+| 1047     | Demonstranten vastgelijmd aan snelweg                                            | 13230       | False    |
+| 1062-1   | School shooting                                                                  | 12570       | False    |
+| 1119     | Gestolen vrachtwagen botst in een casino                                         | 5450        | False    |
+| 1134     | Scootmobiel te water                                                             | 4240        | False    |
+| 1148     | Grenscontrole                                                                    | 17370       | False    |
+| 1161     | Verdachte situatie luchthaven                                                    | 970         | False    |
+| 1162     | Verdacht pakket luchthaven                                                       | 2840        | False    |
+| 1163     | Explosie luchthaven                                                              | 19810       | False    |
+| 1164     | Bom uit WOII gevonden                                                            | 4920        | False    |
+| 1165     | Verdacht pakket bij voordeur                                                     | 3980        | False    |
+| 1166     | Diepzeemijn aangetroffen                                                         | 4810        | False    |
+| 1167     | Vermoeden van opslag grote partij illegaal vuurwerk                              | 8380        | False    |
+| 1168     | Explosie in woonwijk                                                             | 19810       | False    |
+| 1180/a   | Brand in snackbar (Grip 1)                                                       | 14000       | False    |
+| 1182     | Bootje op drift                                                                  | 3250        | False    |
+| 1200     | Rellen tijdens voetbal wedstrijd                                                 | 19680       | False    |
+| 1202     | Brand in ziekenhuis (Grip 1)                                                     | 12580       | False    |
+| 1202/b   | Brand in ziekenhuis (Grip 1)                                                     | 13380       | False    |
+| 1202/bc  | Brand in ziekenhuis (Grip 1)                                                     | 14180       | False    |
+| 1203/abc | Brand in ziekenhuis (Grip 2)                                                     | 29562       | False    |
+| 1203/c   | Brand in ziekenhuis (Grip 2)                                                     | 20850       | False    |
+| 1207/abc | Brand in station (Grip 2)                                                        | 56950       | False    |
+| 1207/c   | Brand in station (Grip 2)                                                        | 42760       | False    |
+
+## 2026-07-13 (Count: 52)
 
 | ID       | Name                                                                             | Avg Credits | Inactive |
 | -------- | -------------------------------------------------------------------------------- | ----------: | -------- |
 | 36/a     | Brandende goederenwagon (Groot)                                                  | 7770        | False    |
-| 40       | Brandende afvalbak bij ziekenhuis                                                | 500         | False    |
-| 122      | Overval winkel                                                                   | 2980        | False    |
 | 143/b    | Natuurbrand (Grip 1)                                                             | 22052       | False    |
-| 195      | Lekkende woonboot                                                                | 420         | False    |
-| 200/a    | Drugslab aangetroffen                                                            | 1600        | False    |
-| 201      | Vechtpartij in café                                                              | 1810        | False    |
 | 210      | Aanvaring vrachtschip met kajuitboot (Grip 3)                                    | 4180        | False    |
 | 211      | Aanvaring 2 vrachtschepen (Grip 4)                                               | 14990       | False    |
 | 243/a    | Verdachte situatie                                                               | 1550        | False    |
 | 248/a    | Persoon vermist                                                                  | 6240        | False    |
 | 264      | Brandende personenauto in parkeergarage                                          | 650         | False    |
-| 282-0    | Brand in garagebedrijf                                                           | 7190        | False    |
-| 283      | Val van paard                                                                    | None        | False    |
-| 298      | Brand in museum                                                                  | 2200        | False    |
 | 299      | Brandend plezierjacht                                                            | 900         | False    |
-| 301/a    | Inbraakalarm                                                                     | 1170        | False    |
-| 313      | Brand in passagierstrein                                                         | 1000        | False    |
 | 314      | Brand in passagierstrein                                                         | 2100        | False    |
-| 321      | Brandende wegberm                                                                | 1250        | False    |
-| 328      | Persoon onwel na mixen mest                                                      | 700         | False    |
 | 330      | Vechtpartij in café                                                              | 2250        | False    |
 | 332      | Inbraak in bedrijfspand                                                          | 1500        | False    |
-| 344      | Vreemde lucht in kantoorgebouw                                                   | 1375        | False    |
 | 356/b    | Heidebrand (Grip 2)                                                              | 32502       | False    |
-| 386      | Brand in parkeergarage                                                           | 5240        | False    |
-| 416      | Brand in transformatorhuisje                                                     | 3980        | False    |
-| 434      | Lekkende tankwagen                                                               | 3800        | False    |
-| 436      | Persoon te water                                                                 | 900         | False    |
-| 440      | Brand in gevangenis                                                              | 950         | False    |
-| 441      | Brand in gevangenis                                                              | 1950        | False    |
-| 442      | Brand in gevangenis                                                              | 8040        | False    |
-| 456      | Brand in manege                                                                  | 800         | False    |
 | 460      | Brandende vliegtuigtrekker                                                       | 1840        | False    |
 | 481      | Watersporter vermist                                                             | 1750        | False    |
 | 514/a    | Aanvaring vrachtschip met watertaxi (Grip 3)                                     | 4425        | False    |
-| 550      | Brand in theater                                                                 | 850         | False    |
-| 554      | Monteur in aanraking met hoogspanning                                            | 3800        | False    |
 | 564      | Voetganger onder tram                                                            | 2040        | False    |
 | 565      | Fietser onder tram                                                               | 2140        | False    |
 | 568/a    | Verward persoon (Hoge dreiging)                                                  | 2000        | False    |
 | 571      | Voedselvergiftiging                                                              | None        | False    |
-| 597      | Brand in asielzoekerscentrum                                                     | 170         | False    |
-| 611      | Brand in nachtclub                                                               | 3350        | False    |
-| 615      | Sportblessure opgelopen                                                          | None        | False    |
 | 630      | Lek/zinken plezierjacht                                                          | 3160        | False    |
-| 634      | Overval frietkraam                                                               | 2980        | False    |
 | 637      | Personen aangetroffen in vrachtwagen                                             | 6380        | False    |
 | 640      | Brand in hangaar                                                                 | 910         | False    |
 | 641      | Brand in hangaar                                                                 | 1930        | False    |
-| 655      | Koperdiefstal                                                                    | 840         | False    |
 | 655/a    | Koperdiefstal                                                                    | 1340        | False    |
 | 671-0    | Toezicht Horeca                                                                  | 8745        | False    |
 | 787/b    | Persoon bekneld in gierput                                                       | 5610        | False    |
 | 800/a    | Groep zwemmers in problemen                                                      | 4120        | False    |
-| 806      | Zwemmer vermist                                                                  | 1400        | False    |
 | 808      | Persoon van paard gevallen                                                       | 1330        | False    |
 | 809      | Bootje op drift                                                                  | 1730        | False    |
 | 810      | Gewonden op strand/ in de duinen                                                 | 3020        | False    |
 | 830      | Beveiligen zwemwedstrijd                                                         | 4410        | False    |
-| 841      | Aanrijding met zwaar letsel                                                      | 5340        | False    |
-| 842      | Voertuigbrand in tunnel                                                          | 2170        | False    |
 | 843      | Voertuigbrand in tunnel                                                          | 4760        | False    |
-| 847      | Brand in stacaravan                                                              | 3630        | False    |
 | 849      | Gevallen groep mountainbikers                                                    | 3020        | False    |
 | 853-0    | Vliegtuig neergestort                                                            | 21820       | False    |
 | 854      | Ongeval waterscooter                                                             | 1730        | False    |
@@ -1187,29 +1229,20 @@ Date groups: 24
 | 899      | Aanrijding bus en tram                                                           | 9030        | False    |
 | 901-2/a  | Trein ontspoord                                                                  | 15035       | False    |
 | 929/d    | Brand in gasverdeelstation                                                       | 27310       | False    |
-| 932-1    | Brand op veerpont                                                                | 17125       | False    |
-| 945-0    | Gevel dreigt in te storten                                                       | 10205       | False    |
 | 948-0    | Brand op windmolenpark                                                           | 2100        | False    |
 | 957      | Persoon onwel in attractie                                                       | 670         | False    |
 | 961      | Toezicht Horeca                                                                  | 8745        | False    |
-| 1007     | Persoon bekneld tussen fietsspaken                                               | 740         | False    |
 | 1034/bch | Brand in nucleaire installatie                                                   | 99512       | False    |
 | 1062     | School shooting                                                                  | 1970        | False    |
 | 1104     | Aanrijding trein & betonmixer                                                    | 14520       | False    |
-| 1104/a   | Aanrijding trein & betonmixer                                                    | 14820       | False    |
 | 1169     | Mogelijk explosief gevonden bij magneetvissen                                    | 1645        | False    |
-| 1179     | Brand in snackbar (Zeer Groot)                                                   | 4850        | False    |
 | 1202/a   | Brand in ziekenhuis (Grip 1)                                                     | 18225       | False    |
-| 1202/c   | Brand in ziekenhuis (Grip 1)                                                     | 13380       | False    |
 | 1206     | Brand in station (Grip 1)                                                        | 27600       | False    |
-| 1206/ac  | Brand in station (Grip 1)                                                        | 38000       | False    |
-| 1206/c   | Brand in station (Grip 1)                                                        | 28400       | False    |
 
-## 2026-07-12 (Count: 36)
+## 2026-07-12 (Count: 27)
 
 | ID       | Name                                                                             | Avg Credits | Inactive |
 | -------- | -------------------------------------------------------------------------------- | ----------: | -------- |
-| 108      | Ongeval met trein en personenauto                                                | 2270        | False    |
 | 117-0    | Voetbalwedstrijd, risicowedstrijd                                                | 20910       | False    |
 | 181/b    | Verkeersongeval met beknelling                                                   | 2490        | False    |
 | 208/a    | Personenauto te water                                                            | 4550        | False    |
@@ -1217,50 +1250,39 @@ Date groups: 24
 | 252      | Vrachtwagen te water                                                             | 3830        | False    |
 | 263      | Brandende personenauto in parkeergarage                                          | 300         | False    |
 | 275      | Brandend klein vliegtuig                                                         | 1560        | False    |
-| 333      | Inbraak in bedrijfspand                                                          | 2000        | False    |
 | 376      | Persoon te water                                                                 | 3000        | False    |
 | 439      | Duiker vermist                                                                   | 1100        | False    |
-| 493-2    | Ongeregeldheden voetbalsupporters horeca                                         | 4720        | False    |
 | 495      | Personenauto in sloot                                                            | 1400        | False    |
 | 508      | Brand in fabriekshal                                                             | 7360        | False    |
 | 514      | Aanvaring vrachtschip met watertaxi (Grip 3)                                     | 2940        | False    |
 | 517/a    | Aanvaring met luxe jachtschip (Grip 4)                                           | 7937        | False    |
 | 614/a    | Verward persoon op dak                                                           | 5190        | False    |
-| 653      | Brand bij zendmast                                                               | 500         | False    |
 | 671      | Toezicht Horeca                                                                  | 7245        | False    |
 | 721/a    | Spontane opstand                                                                 | 10180       | False    |
 | 841/ab   | Aanrijding met zwaar letsel                                                      | 6540        | False    |
-| 869/ab   | Aanrijding hulpverleningsvoertuig                                                | 3200        | False    |
-| 901      | Trein ontspoord                                                                  | 4250        | False    |
 | 901-0/a  | Trein ontspoord                                                                  | 8210        | False    |
 | 919-0    | Begeleiding supporters                                                           | 15608       | False    |
-| 929/a    | Brand in gasverdeelstation                                                       | 27310       | False    |
 | 929/abc  | Brand in gasverdeelstation                                                       | 44325       | False    |
 | 946      | Personen geraakt door weggevlogen parasol                                        | 3190        | False    |
-| 952-1    | Brand in stadion                                                                 | 25160       | False    |
 | 960      | Begeleiding demonstratie (klein)                                                 | 11220       | False    |
 | 974-1    | Ontspoorde tram botst tegen gebouw                                               | 14330       | False    |
 | 1022     | Omgevallen hijskraan                                                             | 3110        | False    |
 | 1029     | Oefening Arrestatieteam                                                          | 15690       | False    |
 | 1135     | Persoon onwel in hijskraan                                                       | 4620        | False    |
-| 1178     | Brand in snackbar                                                                | 1860        | False    |
 | 1207/b   | Brand in station (Grip 2)                                                        | 42760       | False    |
 
-## 2026-07-11 (Count: 33)
+## 2026-07-11 (Count: 28)
 
 | ID       | Name                                                                             | Avg Credits | Inactive |
 | -------- | -------------------------------------------------------------------------------- | ----------: | -------- |
 | 182/a    | Personenauto in sloot                                                            | 2290        | False    |
-| 209      | Aanvaring vrachtschip met vlet (Grip 3)                                          | 3330        | False    |
 | 216/b    | Bosbrand (Grip 1)                                                                | 12312       | False    |
 | 251      | Vrachtwagen te water                                                             | 2660        | False    |
 | 251/a    | Vrachtwagen te water                                                             | 2960        | False    |
 | 355/b    | Heidebrand (Grip 1)                                                              | 27392       | False    |
 | 364      | Brand op passagiersschip                                                         | 3250        | False    |
 | 377/a    | Persoon te water                                                                 | 6000        | False    |
-| 385      | Brand in parkeergarage                                                           | 3650        | False    |
 | 493-1    | Ongeregeldheden voetbalsupporters horeca                                         | 3720        | False    |
-| 518/a    | Aanvaring vrachtschip met veerboot (Grip 4)                                      | 12250       | False    |
 | 519      | Aanvaring vrachtschip met passagiersschip (Grip 4)                               | 15530       | False    |
 | 556      | Brand in theater                                                                 | 3200        | False    |
 | 591      | Uitslaande brand in veestal                                                      | 10775       | False    |
@@ -1271,11 +1293,9 @@ Date groups: 24
 | 804      | Grote zoekactie vermist persoon                                                  | 5650        | False    |
 | 868/ab   | Duinbrand (Grip 1)                                                               | 27683       | False    |
 | 885/cf   | Brand in vuurwerkopslag                                                          | 55070       | False    |
-| 897-2    | Rellen na stadsderby                                                             | 18555       | False    |
 | 901/a    | Trein ontspoord                                                                  | 5050        | False    |
 | 929/c    | Brand in gasverdeelstation                                                       | 31710       | False    |
 | 977      | Begeleiding demonstratie (groot)                                                 | 43135       | False    |
-| 995-0    | Opvang slachtoffers                                                              | 1690        | False    |
 | 1016/a   | Aanvaring veerpont                                                               | 15530       | False    |
 | 1034/a   | Brand in nucleaire installatie                                                   | 70210       | False    |
 | 1034/ade | Brand in nucleaire installatie                                                   | 72910       | False    |
@@ -1284,33 +1304,27 @@ Date groups: 24
 | 1104/ab  | Aanrijding trein & betonmixer                                                    | 15620       | False    |
 | 1207/a   | Brand in station (Grip 2)                                                        | 54950       | False    |
 
-## 2026-07-10 (Count: 10)
+## 2026-07-10 (Count: 8)
 
 | ID       | Name                                                                             | Avg Credits | Inactive |
 | -------- | -------------------------------------------------------------------------------- | ----------: | -------- |
 | 82/a     | Vrachtwagen gekanteld                                                            | 2970        | False    |
-| 331      | Inbraak in bedrijfspand                                                          | 1500        | False    |
 | 416-0    | Brand in transformatorhuisje                                                     | 5230        | False    |
 | 795      | Allergische reactie (strand)                                                     | 830         | False    |
-| 952-0    | Brand in stadion                                                                 | 7980        | False    |
 | 952-3    | Brand in stadion                                                                 | 43140       | False    |
 | 1028/a   | Terroristische aanslag                                                           | 29660       | False    |
 | 1034/b   | Brand in nucleaire installatie                                                   | 90450       | False    |
 | 1034/f   | Brand in nucleaire installatie                                                   | 70610       | False    |
 | 1207     | Brand in station (Grip 2)                                                        | 41960       | False    |
 
-## 2026-07-09 (Count: 16)
+## 2026-07-09 (Count: 12)
 
 | ID       | Name                                                                             | Avg Credits | Inactive |
 | -------- | -------------------------------------------------------------------------------- | ----------: | -------- |
 | 100/ab   | Ammoniakalarm in opslagloods                                                     | 9020        | False    |
 | 100/abc  | Ammoniakalarm in opslagloods                                                     | 9820        | False    |
-| 119      | Begeleiding orkest                                                               | 2000        | False    |
 | 307-2/a  | Verkeersongeval met touringcar                                                   | 15070       | False    |
-| 400      | Inbraakalarm bedrijfspand                                                        | 1170        | False    |
-| 429/b    | Brand in bouwmarkt (Grip 2)                                                      | 15050       | False    |
 | 515      | Aanvaring vrachtschip met waterbus (Grip 3)                                      | 4680        | False    |
-| 662      | Verkeerscontrole                                                                 | 2205        | False    |
 | 663      | Verkeerscontrole                                                                 | 6690        | False    |
 | 669      | Toezicht Park                                                                    | 2110        | False    |
 | 804-1    | Grote zoekactie vermist persoon                                                  | 9550        | False    |
@@ -1357,15 +1371,12 @@ Date groups: 24
 | 869/b    | Aanrijding hulpverleningsvoertuig                                                | 2900        | False    |
 | 1030/ad  | Brand bij papierrecyclaar                                                        | 42560       | False    |
 
-## 2026-07-06 (Count: 5)
+## 2026-07-06 (Count: 2)
 
 | ID       | Name                                                                             | Avg Credits | Inactive |
 | -------- | -------------------------------------------------------------------------------- | ----------: | -------- |
-| 492-0    | Ongeregeldheden voetbalsupporters horeca                                         | 6510        | False    |
 | 801      | Groep kitesurfers in problemen                                                   | 3990        | False    |
 | 853/a    | Vliegtuig neergestort                                                            | 7690        | False    |
-| 1030/cd  | Brand bij papierrecyclaar                                                        | 49960       | False    |
-| 1202/abc | Brand in ziekenhuis (Grip 1)                                                     | 20225       | False    |
 
 ## 2026-07-05 (Count: 3)
 
@@ -1375,12 +1386,11 @@ Date groups: 24
 | 942/a    | Schoolbus te water                                                               | 4950        | False    |
 | 942/b    | Schoolbus te water                                                               | 5450        | False    |
 
-## 2026-07-04 (Count: 5)
+## 2026-07-04 (Count: 4)
 
 | ID       | Name                                                                             | Avg Credits | Inactive |
 | -------- | -------------------------------------------------------------------------------- | ----------: | -------- |
 | 234      | Vliegtuig neergestort                                                            | 15120       | False    |
-| 516      | Aanvaring met rondvaartboot (Grip 3)                                             | 5590        | False    |
 | 885/abc  | Brand in vuurwerkopslag                                                          | 72025       | False    |
 | 929/de   | Brand in gasverdeelstation                                                       | 27960       | False    |
 | 1034/bh  | Brand in nucleaire installatie                                                   | 91512       | False    |
@@ -1416,11 +1426,10 @@ Date groups: 24
 | -------- | -------------------------------------------------------------------------------- | ----------: | -------- |
 | 897-2/a  | Rellen na stadsderby                                                             | 19355       | False    |
 
-## 2026-06-29 (Count: 4)
+## 2026-06-29 (Count: 3)
 
 | ID       | Name                                                                             | Avg Credits | Inactive |
 | -------- | -------------------------------------------------------------------------------- | ----------: | -------- |
-| 252/b    | Vrachtwagen te water                                                             | 4130        | False    |
 | 952-2    | Brand in stadion                                                                 | 37440       | False    |
 | 1030/bc  | Brand bij papierrecyclaar                                                        | 64137       | False    |
 | 1206/abc | Brand in station (Grip 1)                                                        | 39000       | False    |
