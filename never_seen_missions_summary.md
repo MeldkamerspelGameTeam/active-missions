@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 607
+Count: 606
 
 # Active never-seen missions
 
-Count: 382
+Count: 381
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -57,7 +57,6 @@ Count: 382
 | 841-0/b       | Aanrijding met zwaar letsel                     | 7540        | never     | False    |
 | 841-0/ab      | Aanrijding met zwaar letsel                     | 7940        | never     | False    |
 | 853-1/a       | Vliegtuig neergestort                           | 24460       | never     | False    |
-| 868/b         | Duinbrand (Grip 1)                              | 21547       | never     | False    |
 | 881/b         | Duinbrand (Grip 3)                              | 45654       | never     | False    |
 | 885/ab        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
 | 885/ad        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
