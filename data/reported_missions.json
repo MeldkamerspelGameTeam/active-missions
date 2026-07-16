@@ -393,7 +393,7 @@
   "312/a": "newly_active",
   "312/ab": "newly_discovered",
   "312/abc": "newly_active",
-  "312/ac": "newly_discovered",
+  "312/ac": "newly_active",
   "312/b": "newly_active",
   "312/bc": "newly_discovered",
   "312/c": "newly_active",
