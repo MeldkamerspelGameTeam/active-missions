@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 601
+Count: 599
 
 # Active never-seen missions
 
-Count: 376
+Count: 374
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -44,7 +44,6 @@ Count: 376
 | 492/a         | Ongeregeldheden voetbalsupporters horeca        | 6810        | never     | False    |
 | 497/a         | Personenauto te water                           | 5650        | never     | False    |
 | 592           | Brand op bedrijventerrein                       | 12540       | never     | False    |
-| 663/a         | Verkeerscontrole                                | 7490        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
 | 787/ac        | Persoon bekneld in gierput                      | 6460        | never     | False    |
 | 787/abc       | Persoon bekneld in gierput                      | 7110        | never     | False    |
@@ -55,7 +54,6 @@ Count: 376
 | 841-0/b       | Aanrijding met zwaar letsel                     | 7540        | never     | False    |
 | 841-0/ab      | Aanrijding met zwaar letsel                     | 7940        | never     | False    |
 | 853-1/a       | Vliegtuig neergestort                           | 24460       | never     | False    |
-| 881/b         | Duinbrand (Grip 3)                              | 45654       | never     | False    |
 | 885/ab        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
 | 885/ad        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
 | 885/af        | Brand in vuurwerkopslag                         | 50670       | never     | False    |
