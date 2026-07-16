@@ -3,6 +3,30 @@
 Inactive missions: 245
 Date window groups: 24
 
+## Start: 2024-07-17T09:00:00Z | End: 2024-07-19T23:59:59Z | Count: 15
+
+# Missions
+
+Count: 15
+
+| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
+| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
+| 963    | Grote alcoholcontrole bij race-evenement                           | 12390       | never      | True     |
+| 964    | Racewagen brand                                                    | 500         | never      | True     |
+| 965    | Crash op Circuit                                                   | 2090        | never      | True     |
+| 966    | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | never      | True     |
+| 967    | Persoon van tribune gevallen                                       | None        | never      | True     |
+| 968    | Uit de handgelopen overwinningsfeest                               | 7740        | never      | True     |
+| 969    | Illegale raceauto op snelweg                                       | 4330        | never      | True     |
+| 970    | Racistisch gezang van fans op de tribune                           | 1010        | never      | True     |
+| 971    | Protest voor racecircuit                                           | 2530        | never      | True     |
+| 971-0  | Protest voor racecircuit                                           | 5230        | never      | True     |
+| 972    | Racewinnaar viel van het podium                                    | None        | never      | True     |
+| 1048   | Geluidsoverlast door Racefans                                      | 500         | never      | True     |
+| 1049   | Racefans houden straatrace                                         | 2640        | never      | True     |
+| 1050   | Vergiftiging door uitlaatgassen                                    | None        | never      | True     |
+| 1051   | Valse kaartjes race in verkoop                                     | 1010        | never      | True     |
+
 ## Start: 2024-07-26T09:00:00Z | End: 2024-08-11T23:59:59Z | Count: 7
 
 # Missions
@@ -40,30 +64,6 @@ Count: 2
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
 | 1096   | Waterredding vereist bij zeilevenement                             | 1230        | never      | True     |
 | 1097   | Boze toeschouwer bij sportzwembad                                  | 670         | never      | True     |
-
-## Start: 2025-08-29T09:00:00Z | End: 2025-08-31T23:59:59Z | Count: 15
-
-# Missions
-
-Count: 15
-
-| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 963    | Grote alcoholcontrole bij race-evenement                           | 12390       | never      | True     |
-| 964    | Racewagen brand                                                    | 500         | never      | True     |
-| 965    | Crash op Circuit                                                   | 2090        | never      | True     |
-| 966    | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | never      | True     |
-| 967    | Persoon van tribune gevallen                                       | None        | never      | True     |
-| 968    | Uit de handgelopen overwinningsfeest                               | 7740        | never      | True     |
-| 969    | Illegale raceauto op snelweg                                       | 4330        | never      | True     |
-| 970    | Racistisch gezang van fans op de tribune                           | 1010        | never      | True     |
-| 971    | Protest voor racecircuit                                           | 2530        | never      | True     |
-| 971-0  | Protest voor racecircuit                                           | 5230        | never      | True     |
-| 972    | Racewinnaar viel van het podium                                    | None        | never      | True     |
-| 1048   | Geluidsoverlast door Racefans                                      | 500         | never      | True     |
-| 1049   | Racefans houden straatrace                                         | 2640        | never      | True     |
-| 1050   | Vergiftiging door uitlaatgassen                                    | None        | never      | True     |
-| 1051   | Valse kaartjes race in verkoop                                     | 1010        | never      | True     |
 
 ## Start: 2025-09-19T09:00:00Z | End: 2025-11-28T23:59:59+01:00 | Count: 10
 
