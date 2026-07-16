@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 599
+Count: 598
 
 # Active never-seen missions
 
-Count: 374
+Count: 373
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -99,7 +99,6 @@ Count: 374
 | 885/acdef     | Brand in vuurwerkopslag                         | 57320       | never     | False    |
 | 885/bcdef     | Brand in vuurwerkopslag                         | 74337       | never     | False    |
 | 885/abcdef    | Brand in vuurwerkopslag                         | 75337       | never     | False    |
-| 897/a         | Rellen na stadsderby                            | 16755       | never     | False    |
 | 897-0/a       | Rellen na stadsderby                            | 17355       | never     | False    |
 | 897-1/a       | Rellen na stadsderby                            | 18355       | never     | False    |
 | 919           | Begeleiding supporters                          | 14858       | never     | False    |
