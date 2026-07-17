@@ -1,6 +1,6 @@
 # Never seen missions
 
-Count: 598
+Count: 583
 
 # Active never-seen missions
 
@@ -384,7 +384,7 @@ Count: 373
 
 # Inactive never-seen missions
 
-Count: 225
+Count: 210
 
 | ID     | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | --------- | -------- |
@@ -542,17 +542,6 @@ Count: 225
 | 927    | Koeien dief op de vlucht                                           | 2180        | never     | True     |
 | 928    | Dief aangevallen door een koe                                      | 500         | never     | True     |
 | 938    | Paaseieren zoeken onder water                                      | 1670        | never     | True     |
-| 963    | Grote alcoholcontrole bij race-evenement                           | 12390       | never     | True     |
-| 964    | Racewagen brand                                                    | 500         | never     | True     |
-| 965    | Crash op Circuit                                                   | 2090        | never     | True     |
-| 966    | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | never     | True     |
-| 967    | Persoon van tribune gevallen                                       | None        | never     | True     |
-| 968    | Uit de handgelopen overwinningsfeest                               | 7740        | never     | True     |
-| 969    | Illegale raceauto op snelweg                                       | 4330        | never     | True     |
-| 970    | Racistisch gezang van fans op de tribune                           | 1010        | never     | True     |
-| 971    | Protest voor racecircuit                                           | 2530        | never     | True     |
-| 971-0  | Protest voor racecircuit                                           | 5230        | never     | True     |
-| 972    | Racewinnaar viel van het podium                                    | None        | never     | True     |
 | 997    | Kerstdecoratie in brand                                            | 670         | never     | True     |
 | 998    | De slee van de kerstman blokkeert de weg                           | 670         | never     | True     |
 | 999    | Kerstboom gestolen                                                 | 840         | never     | True     |
@@ -564,10 +553,6 @@ Count: 225
 | 1013   | Ongeluk bij bakken valentijn diner                                 | 670         | never     | True     |
 | 1014   | Brandend Valentijnsboeket                                          | 670         | never     | True     |
 | 1015   | Kaars omgevallen bij diner                                         | 500         | never     | True     |
-| 1048   | Geluidsoverlast door Racefans                                      | 500         | never     | True     |
-| 1049   | Racefans houden straatrace                                         | 2640        | never     | True     |
-| 1050   | Vergiftiging door uitlaatgassen                                    | None        | never     | True     |
-| 1051   | Valse kaartjes race in verkoop                                     | 1010        | never     | True     |
 | 1058   | Halloween decoratie in brand                                       | 500         | never     | True     |
 | 1059   | Winkeloverval door geesten                                         | 840         | never     | True     |
 | 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | never     | True     |
