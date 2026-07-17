@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 586
+Count: 584
 
 # Active never-seen missions
 
-Count: 376
+Count: 374
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -29,7 +29,6 @@ Count: 376
 | 312/bc        | Lekkende goederenwagon (Groot)                  | 7170        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 347           | Brand bij afvalverwerker                        | 17500       | never     | False    |
-| 428/b         | Brand in bouwmarkt (Grip 1)                     | 9950        | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                     | 11050       | never     | False    |
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                     | 14562       | never     | False    |
 | 428-0/b       | Brand in bouwmarkt (Grip 1)                     | 11850       | never     | False    |
@@ -131,7 +130,6 @@ Count: 376
 | 942-1/b       | Schoolbus te water                              | 12820       | never     | False    |
 | 942-1/ab      | Schoolbus te water                              | 13120       | never     | False    |
 | 963           | Grote alcoholcontrole bij race-evenement        | 12390       | never     | False    |
-| 968           | Uit de handgelopen overwinningsfeest            | 7740        | never     | False    |
 | 971           | Protest voor racecircuit                        | 2530        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest            | 8540        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
