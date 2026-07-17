@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 596
+Count: 595
 
 # Active never-seen missions
 
-Count: 386
+Count: 385
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -140,7 +140,6 @@ Count: 386
 | 970           | Racistisch gezang van fans op de tribune        | 1010        | never     | False    |
 | 971           | Protest voor racecircuit                        | 2530        | never     | False    |
 | 971-0         | Protest voor racecircuit                        | 5230        | never     | False    |
-| 972           | Racewinnaar viel van het podium                 | None        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest            | 8540        | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
 | 993           | Straat afzetten voor politie                    | 840         | never     | False    |
