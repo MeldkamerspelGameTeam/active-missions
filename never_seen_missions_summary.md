@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 584
+Count: 582
 
 # Active never-seen missions
 
-Count: 374
+Count: 372
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -14,7 +14,6 @@ Count: 374
 | 41            | Brand in kantoorpand                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                  | 12030       | never     | False    |
 | 59            | Brand in opslagloods                            | 13710       | never     | False    |
-| 116           | Voetbalwedstrijd                                | 8700        | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd               | 17910       | never     | False    |
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
 | 181           | Verkeersongeval met beknelling                  | 2090        | never     | False    |
@@ -57,7 +56,6 @@ Count: 374
 | 885/ad        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
 | 885/af        | Brand in vuurwerkopslag                         | 50670       | never     | False    |
 | 885/bc        | Brand in vuurwerkopslag                         | 71025       | never     | False    |
-| 885/be        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
 | 885/de        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
 | 885/ef        | Brand in vuurwerkopslag                         | 50670       | never     | False    |
 | 885/abd       | Brand in vuurwerkopslag                         | 66337       | never     | False    |
