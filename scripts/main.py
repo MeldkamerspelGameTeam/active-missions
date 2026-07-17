@@ -780,7 +780,10 @@ def report_inactive_state_transitions(ids_payload: list[dict[str, Any]]) -> None
         else:
             became_active.append(mission)
 
-    save_inactive_state(current_state)
+    # Keep the last known state for missions that are temporarily missing from the scrape.
+    merged_state = dict(previous_state)
+    merged_state.update(current_state)
+    save_inactive_state(merged_state)
 
     if became_inactive:
         send_batch_discord_webhook(became_inactive, "⏸️ Missions became inactive (date window)", 16098851)
