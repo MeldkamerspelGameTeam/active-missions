@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 587
+Count: 586
 
 # Active never-seen missions
 
-Count: 377
+Count: 376
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -131,7 +131,6 @@ Count: 377
 | 942-1/b       | Schoolbus te water                              | 12820       | never     | False    |
 | 942-1/ab      | Schoolbus te water                              | 13120       | never     | False    |
 | 963           | Grote alcoholcontrole bij race-evenement        | 12390       | never     | False    |
-| 964           | Racewagen brand                                 | 500         | never     | False    |
 | 968           | Uit de handgelopen overwinningsfeest            | 7740        | never     | False    |
 | 971           | Protest voor racecircuit                        | 2530        | never     | False    |
 | 973/a         | Uit de handgelopen overwinningsfeest            | 8540        | never     | False    |
