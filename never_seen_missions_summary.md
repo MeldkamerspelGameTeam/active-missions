@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 595
+Count: 591
 
 # Active never-seen missions
 
-Count: 385
+Count: 381
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -132,9 +132,7 @@ Count: 385
 | 942-1/ab      | Schoolbus te water                              | 13120       | never     | False    |
 | 963           | Grote alcoholcontrole bij race-evenement        | 12390       | never     | False    |
 | 964           | Racewagen brand                                 | 500         | never     | False    |
-| 965           | Crash op Circuit                                | 2090        | never     | False    |
 | 966           | Aanhouding persoon zonder geldig toegangsbewijs | 775         | never     | False    |
-| 967           | Persoon van tribune gevallen                    | None        | never     | False    |
 | 968           | Uit de handgelopen overwinningsfeest            | 7740        | never     | False    |
 | 969           | Illegale raceauto op snelweg                    | 4330        | never     | False    |
 | 970           | Racistisch gezang van fans op de tribune        | 1010        | never     | False    |
@@ -383,8 +381,6 @@ Count: 385
 | 1034/acdefgh  | Brand in nucleaire installatie                  | 82960       | never     | False    |
 | 1034/bcdefgh  | Brand in nucleaire installatie                  | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                  | 107387      | never     | False    |
-| 1048          | Geluidsoverlast door Racefans                   | 500         | never     | False    |
-| 1051          | Valse kaartjes race in verkoop                  | 1010        | never     | False    |
 | 1104/b        | Aanrijding trein & betonmixer                   | 15320       | never     | False    |
 | 1203/b        | Brand in ziekenhuis (Grip 2)                    | 20850       | never     | False    |
 | 1203/ab       | Brand in ziekenhuis (Grip 2)                    | 28562       | never     | False    |
