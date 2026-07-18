@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 579
+Count: 578
 
 # Active never-seen missions
 
-Count: 369
+Count: 368
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -45,7 +45,6 @@ Count: 369
 | 670/a         | Toezicht Winkelcentrum                          | 3010        | never     | False    |
 | 787/ac        | Persoon bekneld in gierput                      | 6460        | never     | False    |
 | 787/abc       | Persoon bekneld in gierput                      | 7110        | never     | False    |
-| 796           | Zoekactie vermist persoon                       | 1840        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                     | 6740        | never     | False    |
 | 841-0/a       | Aanrijding met zwaar letsel                     | 7140        | never     | False    |
 | 841-0/b       | Aanrijding met zwaar letsel                     | 7540        | never     | False    |
