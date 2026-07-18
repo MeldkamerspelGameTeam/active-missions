@@ -59,7 +59,7 @@ pie showData
 - data/inzetten_ids.json
 - never_seen_missions_summary.md (active and inactive sections)
 - old_seen_missions_summary.md
-- inactive_missions_grouped_by_date.md
+- event_missions.md
 - missions_seen_last_30_days_grouped.md (generated only between 23:00 and 23:59 Dutch time)
 - missions_grouped_by_category.md (generated only between 23:00 and 23:59 Dutch time)
 - missions_grouped_by_requirement.md (generated only between 23:00 and 23:59 Dutch time)

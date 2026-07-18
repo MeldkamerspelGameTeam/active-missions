@@ -294,11 +294,14 @@ def summarize_never_seen_markdown(title: str, missions: list[dict[str, Any]]) ->
     return "\n".join(lines)
 
 
-def summarize_inactive_grouped_by_date_markdown(missions: list[dict[str, Any]]) -> str:
-    inactive = [item for item in missions if bool(item.get("inactive", False))]
+def summarize_event_missions_markdown(missions: list[dict[str, Any]]) -> str:
+    event_missions = [
+        item for item in missions
+        if item.get("date_start") is not None or item.get("date_end") is not None
+    ]
 
     groups: dict[tuple[str, str], list[dict[str, Any]]] = {}
-    for item in inactive:
+    for item in event_missions:
         start = str(item.get("date_start") or "none")
         end = str(item.get("date_end") or "none")
         key = (start, end)
@@ -320,10 +323,14 @@ def summarize_inactive_grouped_by_date_markdown(missions: list[dict[str, Any]]) 
         for idx, value in enumerate(row):
             global_widths[idx] = max(global_widths[idx], len(value))
 
+    active_count = sum(1 for item in event_missions if not bool(item.get("inactive", False)))
+    inactive_count = sum(1 for item in event_missions if bool(item.get("inactive", False)))
+
     lines = [
-        "# Inactive missions grouped by date window",
+        "# Event missions grouped by date window",
         "",
-        f"Inactive missions: {len(inactive)}",
+        f"Event missions: {len(event_missions)}",
+        f"Active: {active_count} | Inactive: {inactive_count}",
         f"Date window groups: {len(sorted_keys)}",
         "",
     ]
@@ -441,7 +448,7 @@ def summarize_readme_markdown(missions: list[dict[str, Any]], never_seen: list[d
         "- data/inzetten_ids.json",
         "- never_seen_missions_summary.md (active and inactive sections)",
         "- old_seen_missions_summary.md",
-        "- inactive_missions_grouped_by_date.md",
+        "- event_missions.md",
         "- missions_seen_last_30_days_grouped.md (generated only between 23:00 and 23:59 Dutch time)",
         "- missions_grouped_by_category.md (generated only between 23:00 and 23:59 Dutch time)",
         "- missions_grouped_by_requirement.md (generated only between 23:00 and 23:59 Dutch time)",
@@ -878,10 +885,10 @@ def main() -> None:
         save_text(old_seen_output, old_seen_md)
         print(f"Saved old-seen summary -> {old_seen_output}")
 
-        inactive_grouped_output = root_dir / "inactive_missions_grouped_by_date.md"
-        inactive_grouped_md = summarize_inactive_grouped_by_date_markdown(ids_payload)
-        save_text(inactive_grouped_output, inactive_grouped_md)
-        print(f"Saved inactive grouped report -> {inactive_grouped_output}")
+        event_missions_output = root_dir / "event_missions.md"
+        event_missions_md = summarize_event_missions_markdown(ids_payload)
+        save_text(event_missions_output, event_missions_md)
+        print(f"Saved event missions report -> {event_missions_output}")
 
         readme_output = root_dir / "README.md"
         readme_md = summarize_readme_markdown(ids_payload, never_seen, old_seen)
