@@ -445,7 +445,7 @@ Count: 14
 | 828    | Verloren aanvoerdersarmband                                        | 1500        | 2026-07-18 | False    |
 | 829    | Brandende cornervlag                                               | 670         | 2026-07-18 | False    |
 | 1083   | Brand in stadion                                                   | 9000        | 2026-07-18 | False    |
-| 1084   | Supporters met vuurwerk op tribune                                 | 1200        | 2026-07-18 | False    |
+| 1084   | Supporters met vuurwerk op tribune                                 | 1200        | 2026-07-19 | False    |
 | 1085   | Voetballer uitgegleden in douche                                   | None        | 2026-07-18 | False    |
 | 1086   | Paniek op de tribune                                               | 1200        | 2026-07-18 | False    |
 
