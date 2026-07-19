@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 578
+Count: 577
 
 # Active never-seen missions
 
-Count: 368
+Count: 367
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -115,7 +115,6 @@ Count: 368
 | 929/acde      | Brand in gasverdeelstation                      | 33960       | never     | False    |
 | 929/bcde      | Brand in gasverdeelstation                      | 45137       | never     | False    |
 | 929/abcde     | Brand in gasverdeelstation                      | 46137       | never     | False    |
-| 942           | Schoolbus te water                              | 4650        | never     | False    |
 | 942/ab        | Schoolbus te water                              | 5750        | never     | False    |
 | 942-0         | Schoolbus te water                              | 8520        | never     | False    |
 | 942-0/a       | Schoolbus te water                              | 8820        | never     | False    |
