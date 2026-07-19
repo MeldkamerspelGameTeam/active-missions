@@ -1,7 +1,7 @@
 # Event missions grouped by date window
 
 Event missions: 276
-Active: 46 | Inactive: 230
+Active: 29 | Inactive: 247
 Date window groups: 27
 
 ## Start: 2024-07-26T09:00:00Z | End: 2024-08-11T23:59:59Z | Count: 7
@@ -434,20 +434,20 @@ Count: 14
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 820    | Opblazen wedstrijdbal                                              | 500         | 2026-07-19 | False    |
-| 821    | Spelersbus geparkeerd bij parkeerverbod                            | 500         | 2026-07-19 | False    |
-| 822    | Behandeling na keepersduik                                         | None        | 2026-07-19 | False    |
-| 823    | Blessure na raken lat                                              | None        | 2026-07-19 | False    |
-| 824    | Doel omgevallen                                                    | 500         | 2026-07-19 | False    |
-| 825    | Gestolen trofee                                                    | 670         | 2026-07-19 | False    |
-| 826    | Bevriezing door koelspray                                          | None        | 2026-07-19 | False    |
-| 827    | Keelpijn na juichen                                                | None        | 2026-07-19 | False    |
-| 828    | Verloren aanvoerdersarmband                                        | 1500        | 2026-07-19 | False    |
-| 829    | Brandende cornervlag                                               | 670         | 2026-07-19 | False    |
-| 1083   | Brand in stadion                                                   | 9000        | 2026-07-19 | False    |
-| 1084   | Supporters met vuurwerk op tribune                                 | 1200        | 2026-07-19 | False    |
-| 1085   | Voetballer uitgegleden in douche                                   | None        | 2026-07-19 | False    |
-| 1086   | Paniek op de tribune                                               | 1200        | 2026-07-19 | False    |
+| 820    | Opblazen wedstrijdbal                                              | 500         | 2026-07-19 | True     |
+| 821    | Spelersbus geparkeerd bij parkeerverbod                            | 500         | 2026-07-19 | True     |
+| 822    | Behandeling na keepersduik                                         | None        | 2026-07-19 | True     |
+| 823    | Blessure na raken lat                                              | None        | 2026-07-19 | True     |
+| 824    | Doel omgevallen                                                    | 500         | 2026-07-19 | True     |
+| 825    | Gestolen trofee                                                    | 670         | 2026-07-19 | True     |
+| 826    | Bevriezing door koelspray                                          | None        | 2026-07-19 | True     |
+| 827    | Keelpijn na juichen                                                | None        | 2026-07-19 | True     |
+| 828    | Verloren aanvoerdersarmband                                        | 1500        | 2026-07-19 | True     |
+| 829    | Brandende cornervlag                                               | 670         | 2026-07-19 | True     |
+| 1083   | Brand in stadion                                                   | 9000        | 2026-07-19 | True     |
+| 1084   | Supporters met vuurwerk op tribune                                 | 1200        | 2026-07-19 | True     |
+| 1085   | Voetballer uitgegleden in douche                                   | None        | 2026-07-19 | True     |
+| 1086   | Paniek op de tribune                                               | 1200        | 2026-07-19 | True     |
 
 ## Start: 2026-06-15T10:00:00+02:00 | End: 2026-07-19T22:00:00Z | Count: 3
 
@@ -457,9 +457,9 @@ Count: 3
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 1215   | Speler vermist                                                     | 1670        | 2026-07-19 | False    |
-| 1216   | Doorgedraaide coach                                                | 670         | 2026-07-19 | False    |
-| 1217   | Ticketvervalsing                                                   | 500         | 2026-07-19 | False    |
+| 1215   | Speler vermist                                                     | 1670        | 2026-07-19 | True     |
+| 1216   | Doorgedraaide coach                                                | 670         | 2026-07-19 | True     |
+| 1217   | Ticketvervalsing                                                   | 500         | 2026-07-19 | True     |
 
 ## Start: 2026-06-19T09:00:00Z | End: 2026-06-21T23:59:59+02:00 | Count: 6
 
