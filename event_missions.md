@@ -511,7 +511,7 @@ Count: 15
 | 964    | Racewagen brand                                                    | 500         | 2026-07-19 | False    |
 | 965    | Crash op Circuit                                                   | 2090        | 2026-07-19 | False    |
 | 966    | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | 2026-07-19 | False    |
-| 967    | Persoon van tribune gevallen                                       | None        | 2026-07-18 | False    |
+| 967    | Persoon van tribune gevallen                                       | None        | 2026-07-19 | False    |
 | 968    | Uit de handgelopen overwinningsfeest                               | 7740        | 2026-07-19 | False    |
 | 969    | Illegale raceauto op snelweg                                       | 4330        | 2026-07-19 | False    |
 | 970    | Racistisch gezang van fans op de tribune                           | 1010        | 2026-07-19 | False    |

@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 573
+Count: 572
 
 # Active never-seen missions
 
-Count: 363
+Count: 362
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -16,7 +16,6 @@ Count: 363
 | 59            | Brand in opslagloods                            | 13710       | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd               | 17910       | never     | False    |
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
-| 181           | Verkeersongeval met beknelling                  | 2090        | never     | False    |
 | 181/a         | Verkeersongeval met beknelling                  | 2890        | never     | False    |
 | 181/ab        | Verkeersongeval met beknelling                  | 3290        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
