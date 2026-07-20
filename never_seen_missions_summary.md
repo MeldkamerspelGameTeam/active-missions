@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 572
+Count: 573
 
 # Active never-seen missions
 
-Count: 362
+Count: 363
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -370,6 +370,7 @@ Count: 362
 | 1206/ab       | Brand in station (Grip 1)                       | 38000       | never     | False    |
 | 1206/bc       | Brand in station (Grip 1)                       | 29200       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                       | 55950       | never     | False    |
+| 1221          | Ongeval met elektrische step                    | 500         | never     | False    |
 
 # Inactive never-seen missions
 

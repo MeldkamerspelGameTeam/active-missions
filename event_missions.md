@@ -437,17 +437,17 @@ Count: 14
 | 820    | Opblazen wedstrijdbal                                              | 500         | 2026-07-20 | True     |
 | 821    | Spelersbus geparkeerd bij parkeerverbod                            | 500         | 2026-07-20 | True     |
 | 822    | Behandeling na keepersduik                                         | None        | 2026-07-20 | True     |
-| 823    | Blessure na raken lat                                              | None        | 2026-07-19 | True     |
+| 823    | Blessure na raken lat                                              | None        | 2026-07-20 | True     |
 | 824    | Doel omgevallen                                                    | 500         | 2026-07-20 | True     |
 | 825    | Gestolen trofee                                                    | 670         | 2026-07-20 | True     |
 | 826    | Bevriezing door koelspray                                          | None        | 2026-07-19 | True     |
-| 827    | Keelpijn na juichen                                                | None        | 2026-07-19 | True     |
-| 828    | Verloren aanvoerdersarmband                                        | 1500        | 2026-07-19 | True     |
+| 827    | Keelpijn na juichen                                                | None        | 2026-07-20 | True     |
+| 828    | Verloren aanvoerdersarmband                                        | 1500        | 2026-07-20 | True     |
 | 829    | Brandende cornervlag                                               | 670         | 2026-07-20 | True     |
 | 1083   | Brand in stadion                                                   | 9000        | 2026-07-20 | True     |
-| 1084   | Supporters met vuurwerk op tribune                                 | 1200        | 2026-07-19 | True     |
-| 1085   | Voetballer uitgegleden in douche                                   | None        | 2026-07-19 | True     |
-| 1086   | Paniek op de tribune                                               | 1200        | 2026-07-19 | True     |
+| 1084   | Supporters met vuurwerk op tribune                                 | 1200        | 2026-07-20 | True     |
+| 1085   | Voetballer uitgegleden in douche                                   | None        | 2026-07-20 | True     |
+| 1086   | Paniek op de tribune                                               | 1200        | 2026-07-20 | True     |
 
 ## Start: 2026-06-15T10:00:00+02:00 | End: 2026-07-19T22:00:00Z | Count: 3
 
@@ -457,7 +457,7 @@ Count: 3
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 1215   | Speler vermist                                                     | 1670        | 2026-07-19 | True     |
+| 1215   | Speler vermist                                                     | 1670        | 2026-07-20 | True     |
 | 1216   | Doorgedraaide coach                                                | 670         | 2026-07-20 | True     |
 | 1217   | Ticketvervalsing                                                   | 500         | 2026-07-20 | True     |
 
@@ -489,11 +489,11 @@ Count: 14
 | 619    | Hittekramp                                                         | 250         | 2026-07-20 | False    |
 | 620    | Uitgedroogde persoon                                               | 250         | 2026-07-20 | False    |
 | 621    | Barbecuebrand                                                      | 500         | 2026-07-20 | False    |
-| 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-07-19 | False    |
+| 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-07-20 | False    |
 | 831    | Verontreinigde ijscokar                                            | 1350        | 2026-07-20 | False    |
 | 832    | Illegaal kampvuur in park                                          | 670         | 2026-07-20 | False    |
 | 1098   | Brand op zomerkamp                                                 | 3180        | 2026-07-20 | False    |
-| 1099   | Storing in attractie pretpark                                      | 1420        | 2026-07-19 | False    |
+| 1099   | Storing in attractie pretpark                                      | 1420        | 2026-07-20 | False    |
 | 1100   | Gevecht op markt                                                   | 670         | 2026-07-20 | False    |
 | 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-07-19 | False    |
 | 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-07-20 | False    |
@@ -509,7 +509,7 @@ Count: 15
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
 | 963    | Grote alcoholcontrole bij race-evenement                           | 12390       | 2026-07-18 | True     |
 | 964    | Racewagen brand                                                    | 500         | 2026-07-20 | True     |
-| 965    | Crash op Circuit                                                   | 2090        | 2026-07-19 | True     |
+| 965    | Crash op Circuit                                                   | 2090        | 2026-07-20 | True     |
 | 966    | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | 2026-07-19 | True     |
 | 967    | Persoon van tribune gevallen                                       | None        | 2026-07-19 | True     |
 | 968    | Uit de handgelopen overwinningsfeest                               | 7740        | 2026-07-20 | True     |
