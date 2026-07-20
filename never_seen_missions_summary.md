@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 572
+Count: 571
 
 # Active never-seen missions
 
-Count: 362
+Count: 361
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -51,7 +51,6 @@ Count: 362
 | 853-1/a       | Vliegtuig neergestort                           | 24460       | never     | False    |
 | 885/ab        | Brand in vuurwerkopslag                         | 65525       | never     | False    |
 | 885/ad        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
-| 885/af        | Brand in vuurwerkopslag                         | 50670       | never     | False    |
 | 885/bc        | Brand in vuurwerkopslag                         | 71025       | never     | False    |
 | 885/de        | Brand in vuurwerkopslag                         | 50120       | never     | False    |
 | 885/ef        | Brand in vuurwerkopslag                         | 50670       | never     | False    |
