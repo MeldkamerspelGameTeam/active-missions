@@ -1,8 +1,11 @@
 # Event missions grouped by date window
 
 Event missions: 276
+
 Active: 14 | Inactive: 262
+
 Date window groups: 27
+
 
 ## Start: 2024-07-26T09:00:00Z | End: 2024-08-11T23:59:59Z | Count: 7
 
