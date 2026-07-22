@@ -329,9 +329,9 @@ def summarize_event_missions_markdown(missions: list[dict[str, Any]]) -> str:
     lines = [
         "# Event missions grouped by date window",
         "",
-        f"Event missions: {len(event_missions)}",
-        f"Active: {active_count} | Inactive: {inactive_count}",
-        f"Date window groups: {len(sorted_keys)}",
+        f"Event missions: {len(event_missions)}\n",
+        f"Active: {active_count} | Inactive: {inactive_count}\n",
+        f"Date window groups: {len(sorted_keys)}\n",
         "",
     ]
 
