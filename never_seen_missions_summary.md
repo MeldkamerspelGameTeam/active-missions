@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1165
+Count: 1160
 
 # Active never-seen missions
 
-Count: 955
+Count: 950
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -56,7 +56,6 @@ Count: 955
 | 606/a         | Onbevoegde op spoor                                             | 1870        | never     | False    |
 | 607/a         | Onbevoegden op spoor                                            | 1870        | never     | False    |
 | 670/a         | Toezicht Winkelcentrum                                          | 3010        | never     | False    |
-| 787/ac        | Persoon bekneld in gierput                                      | 6460        | never     | False    |
 | 787/abc       | Persoon bekneld in gierput                                      | 7110        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                                     | 6740        | never     | False    |
 | 841-0/a       | Aanrijding met zwaar letsel                                     | 7140        | never     | False    |
@@ -285,7 +284,6 @@ Count: 955
 | 1030/bcd      | Brand bij papierrecyclaar                                       | 66137       | never     | False    |
 | 1030/abcd     | Brand bij papierrecyclaar                                       | 67137       | never     | False    |
 | 1034/ab       | Brand in nucleaire installatie                                  | 91450       | never     | False    |
-| 1034/ae       | Brand in nucleaire installatie                                  | 71510       | never     | False    |
 | 1034/ah       | Brand in nucleaire installatie                                  | 71060       | never     | False    |
 | 1034/bc       | Brand in nucleaire installatie                                  | 98450       | never     | False    |
 | 1034/bf       | Brand in nucleaire installatie                                  | 91950       | never     | False    |
@@ -546,7 +544,6 @@ Count: 955
 | 1203/bc       | Brand in ziekenhuis (Grip 2)                                    | 21650       | never     | False    |
 | 1206/b        | Brand in station (Grip 1)                                       | 28400       | never     | False    |
 | 1206/ab       | Brand in station (Grip 1)                                       | 38000       | never     | False    |
-| 1206/bc       | Brand in station (Grip 1)                                       | 29200       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                                       | 55950       | never     | False    |
 | 1222          | Boom op spoor                                                   | 1530        | never     | False    |
 | 1223          | Dier op spoor                                                   | 1530        | never     | False    |
@@ -591,7 +588,6 @@ Count: 955
 | 1228/bf       | Trein ontspoord na botsing met goederentrein                    | 28940       | never     | False    |
 | 1228/bg       | Trein ontspoord na botsing met goederentrein                    | 28540       | never     | False    |
 | 1228/bh       | Trein ontspoord na botsing met goederentrein                    | 38390       | never     | False    |
-| 1228/cd       | Trein ontspoord na botsing met goederentrein                    | 38612       | never     | False    |
 | 1228/ce       | Trein ontspoord na botsing met goederentrein                    | 38862       | never     | False    |
 | 1228/cf       | Trein ontspoord na botsing met goederentrein                    | 38862       | never     | False    |
 | 1228/cg       | Trein ontspoord na botsing met goederentrein                    | 38362       | never     | False    |
@@ -952,7 +948,6 @@ Count: 955
 | 1229/acdefg   | Dieseltrein met gevaarlijke stoffen ontspoord                   | 53590       | never     | False    |
 | 1229/bcdefg   | Dieseltrein met gevaarlijke stoffen ontspoord                   | 69675       | never     | False    |
 | 1229/abcdefg  | Dieseltrein met gevaarlijke stoffen ontspoord                   | 70675       | never     | False    |
-| 1230          | Brand in tram (Klein)                                           | 500         | never     | False    |
 | 1230/a        | Brand in tram (Klein)                                           | 1100        | never     | False    |
 | 1231/a        | Brand in tram (Middel)                                          | 3180        | never     | False    |
 | 1232/a        | Brand in tram (Groot)                                           | 13190       | never     | False    |
