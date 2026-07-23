@@ -1,16 +1,15 @@
 # Never seen missions
 
-Count: 1172
+Count: 1169
 
 # Active never-seen missions
 
-Count: 962
+Count: 959
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
 | 27            | Persoon aangereden                                              | 700         | never     | False    |
 | 36/ab         | Brandende goederenwagon (Groot)                                 | 8570        | never     | False    |
-| 38            | Brandende afvalbak bij station                                  | 500         | never     | False    |
 | 41            | Brand in kantoorpand                                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                                  | 12030       | never     | False    |
 | 59            | Brand in opslagloods                                            | 13710       | never     | False    |
@@ -958,9 +957,7 @@ Count: 962
 | 1229/abcdefg  | Dieseltrein met gevaarlijke stoffen ontspoord                   | 70675       | never     | False    |
 | 1230          | Brand in tram (Klein)                                           | 500         | never     | False    |
 | 1230/a        | Brand in tram (Klein)                                           | 1100        | never     | False    |
-| 1231          | Brand in tram (Middel)                                          | 1980        | never     | False    |
 | 1231/a        | Brand in tram (Middel)                                          | 3180        | never     | False    |
-| 1232          | Brand in tram (Groot)                                           | 9240        | never     | False    |
 | 1232/a        | Brand in tram (Groot)                                           | 13190       | never     | False    |
 | 1233          | Brand in tram (Grip 1)                                          | 17730       | never     | False    |
 | 1233/a        | Brand in tram (Grip 1)                                          | 25850       | never     | False    |
