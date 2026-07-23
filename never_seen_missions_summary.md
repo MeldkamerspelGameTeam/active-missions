@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1169
+Count: 1165
 
 # Active never-seen missions
 
-Count: 959
+Count: 955
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -271,7 +271,6 @@ Count: 959
 | 974/bc        | Ontspoorde tram botst tegen gebouw                              | 29225       | never     | False    |
 | 974/bd        | Ontspoorde tram botst tegen gebouw                              | 36100       | never     | False    |
 | 974/cd        | Ontspoorde tram botst tegen gebouw                              | 26930       | never     | False    |
-| 974/abc       | Ontspoorde tram botst tegen gebouw                              | 30225       | never     | False    |
 | 974/abd       | Ontspoorde tram botst tegen gebouw                              | 37100       | never     | False    |
 | 974/acd       | Ontspoorde tram botst tegen gebouw                              | 27730       | never     | False    |
 | 974/bcd       | Ontspoorde tram botst tegen gebouw                              | 37350       | never     | False    |
@@ -513,7 +512,6 @@ Count: 959
 | 1034/bcdefgh  | Brand in nucleaire installatie                                  | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                                  | 107387      | never     | False    |
 | 1104/c        | Aanrijding trein & betonmixer                                   | 15380       | never     | False    |
-| 1104/d        | Aanrijding trein & betonmixer                                   | 14980       | never     | False    |
 | 1104/e        | Aanrijding trein & betonmixer                                   | 21080       | never     | False    |
 | 1104/ac       | Aanrijding trein & betonmixer                                   | 16180       | never     | False    |
 | 1104/ad       | Aanrijding trein & betonmixer                                   | 15780       | never     | False    |
@@ -859,7 +857,6 @@ Count: 959
 | 1229/abc      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 45925       | never     | False    |
 | 1229/abd      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 45550       | never     | False    |
 | 1229/abe      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 45675       | never     | False    |
-| 1229/abf      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 50550       | never     | False    |
 | 1229/abg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 56675       | never     | False    |
 | 1229/acd      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 35490       | never     | False    |
 | 1229/ace      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 35590       | never     | False    |
@@ -961,7 +958,6 @@ Count: 959
 | 1232/a        | Brand in tram (Groot)                                           | 13190       | never     | False    |
 | 1233          | Brand in tram (Grip 1)                                          | 17730       | never     | False    |
 | 1233/a        | Brand in tram (Grip 1)                                          | 25850       | never     | False    |
-| 1233/b        | Brand in tram (Grip 1)                                          | 18530       | never     | False    |
 | 1233/c        | Brand in tram (Grip 1)                                          | 22880       | never     | False    |
 | 1233/ab       | Brand in tram (Grip 1)                                          | 26850       | never     | False    |
 | 1233/ac       | Brand in tram (Grip 1)                                          | 32287       | never     | False    |
