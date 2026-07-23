@@ -1,14 +1,13 @@
 # Old seen missions (older than 30 days)
 
-Count: 10
+Count: 9
 
 # Active old-seen missions
 
-Count: 4
+Count: 3
 
 | ID      | Name                        | Avg Credits | Last Seen  | Inactive |
 | ------- | --------------------------- | ----------: | ---------- | -------- |
-| 145     | Natuurbrand                 | 70194       | 2026-06-22 | False    |
 | 892     | 1000 Politiebureau mijlpaal | 50000       | 2026-06-21 | False    |
 | 1030/ab | Brand bij papierrecyclaar   | 54887       | 2026-06-22 | False    |
 | 1207/bc | Brand in station (Grip 2)   | 43560       | 2026-06-22 | False    |

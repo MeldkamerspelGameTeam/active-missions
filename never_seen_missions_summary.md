@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1160
+Count: 1158
 
 # Active never-seen missions
 
-Count: 950
+Count: 948
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -827,7 +827,6 @@ Count: 950
 | 1229/c        | Dieseltrein met gevaarlijke stoffen ontspoord                   | 32990       | never     | False    |
 | 1229/d        | Dieseltrein met gevaarlijke stoffen ontspoord                   | 32690       | never     | False    |
 | 1229/e        | Dieseltrein met gevaarlijke stoffen ontspoord                   | 32790       | never     | False    |
-| 1229/f        | Dieseltrein met gevaarlijke stoffen ontspoord                   | 36690       | never     | False    |
 | 1229/g        | Dieseltrein met gevaarlijke stoffen ontspoord                   | 41590       | never     | False    |
 | 1229/ab       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 43425       | never     | False    |
 | 1229/ac       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 33790       | never     | False    |
@@ -951,7 +950,6 @@ Count: 950
 | 1230/a        | Brand in tram (Klein)                                           | 1100        | never     | False    |
 | 1231/a        | Brand in tram (Middel)                                          | 3180        | never     | False    |
 | 1232/a        | Brand in tram (Groot)                                           | 13190       | never     | False    |
-| 1233          | Brand in tram (Grip 1)                                          | 17730       | never     | False    |
 | 1233/a        | Brand in tram (Grip 1)                                          | 25850       | never     | False    |
 | 1233/c        | Brand in tram (Grip 1)                                          | 22880       | never     | False    |
 | 1233/ab       | Brand in tram (Grip 1)                                          | 26850       | never     | False    |
