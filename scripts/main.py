@@ -617,10 +617,10 @@ def report_new_old_seen_missions(old_seen: list[dict[str, Any]], ids_payload: li
     new_old_seen_missions = []
     back_active_missions = []
 
-    # Find newly reported old-seen missions
+    # Find newly reported old-seen missions and missions transitioning from any state to old_seen
     for mission in old_seen:
         mission_id = str(mission.get("id", ""))
-        if mission_id and mission_id not in reported:
+        if mission_id and (mission_id not in reported or reported[mission_id] != "old_seen"):
             new_old_seen_missions.append(mission)
             reported[mission_id] = "old_seen"
 
