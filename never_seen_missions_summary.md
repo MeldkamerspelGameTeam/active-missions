@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1157
+Count: 1154
 
 # Active never-seen missions
 
-Count: 947
+Count: 944
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -29,12 +29,10 @@ Count: 947
 | 292/a         | Ongeval met trein en vrachtwagen (THV Klein)                    | 2190        | never     | False    |
 | 292/b         | Ongeval met trein en vrachtwagen (THV Klein)                    | 5790        | never     | False    |
 | 292/ab        | Ongeval met trein en vrachtwagen (THV Klein)                    | 6390        | never     | False    |
-| 293/a         | Ongeval met trein en vrachtwagen (THV Middel)                   | 3030        | never     | False    |
 | 293/b         | Ongeval met trein en vrachtwagen (THV Middel)                   | 7230        | never     | False    |
 | 293/ab        | Ongeval met trein en vrachtwagen (THV Middel)                   | 7830        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                                  | 7070        | never     | False    |
 | 312/bc        | Lekkende goederenwagon (Groot)                                  | 7170        | never     | False    |
-| 313/a         | Brand in passagierstrein (Klein)                                | 1270        | never     | False    |
 | 314/a         | Brand in passagierstrein (Middel)                               | 5260        | never     | False    |
 | 315/a         | Brand in passagierstrein (Groot)                                | 12620       | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen                    | 65350       | never     | False    |
@@ -820,7 +818,6 @@ Count: 947
 | 1228/acdefgh  | Trein ontspoord na botsing met goederentrein                    | 60925       | never     | False    |
 | 1228/bcdefgh  | Trein ontspoord na botsing met goederentrein                    | 60925       | never     | False    |
 | 1228/abcdefgh | Trein ontspoord na botsing met goederentrein                    | 61925       | never     | False    |
-| 1229          | Dieseltrein met gevaarlijke stoffen ontspoord                   | 30990       | never     | False    |
 | 1229/a        | Dieseltrein met gevaarlijke stoffen ontspoord                   | 31790       | never     | False    |
 | 1229/b        | Dieseltrein met gevaarlijke stoffen ontspoord                   | 42425       | never     | False    |
 | 1229/c        | Dieseltrein met gevaarlijke stoffen ontspoord                   | 32990       | never     | False    |
