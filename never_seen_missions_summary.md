@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1153
+Count: 1152
 
 # Active never-seen missions
 
-Count: 943
+Count: 942
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -53,7 +53,6 @@ Count: 943
 | 592           | Brand op bedrijventerrein                                       | 12540       | never     | False    |
 | 606/a         | Onbevoegde op spoor                                             | 1870        | never     | False    |
 | 607/a         | Onbevoegden op spoor                                            | 1870        | never     | False    |
-| 670/a         | Toezicht Winkelcentrum                                          | 3010        | never     | False    |
 | 787/abc       | Persoon bekneld in gierput                                      | 7110        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                                     | 6740        | never     | False    |
 | 841-0/a       | Aanrijding met zwaar letsel                                     | 7140        | never     | False    |
