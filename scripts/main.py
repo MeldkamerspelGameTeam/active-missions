@@ -637,7 +637,13 @@ def report_new_old_seen_missions(old_seen: list[dict[str, Any]], ids_payload: li
 
     # Send one batch message per notification type.
     if new_old_seen_missions:
-        send_batch_discord_webhook(new_old_seen_missions, "🚨 Missions not seen for 30+ days!", 16711680)
+        active_old_seen = [m for m in new_old_seen_missions if not bool(m.get("inactive", False))]
+        inactive_old_seen = [m for m in new_old_seen_missions if bool(m.get("inactive", False))]
+        
+        if active_old_seen:
+            send_batch_discord_webhook(active_old_seen, "🚨 Active missions not seen for 30+ days!", 16711680)
+        if inactive_old_seen:
+            send_batch_discord_webhook(inactive_old_seen, "🚨 Inactive missions not seen for 30+ days!", 16711680)
 
     if back_active_missions:
         send_batch_discord_webhook(back_active_missions, "✅ Missions back to activity!", 65280)
