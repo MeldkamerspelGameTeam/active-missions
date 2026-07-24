@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1147
+Count: 1146
 
 # Active never-seen missions
 
-Count: 937
+Count: 936
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -530,7 +530,6 @@ Count: 937
 | 1104/acde     | Aanrijding trein & betonmixer                                   | 23480       | never     | False    |
 | 1104/bcde     | Aanrijding trein & betonmixer                                   | 32037       | never     | False    |
 | 1104/abcde    | Aanrijding trein & betonmixer                                   | 33037       | never     | False    |
-| 1128/a        | Passagierstrein botst op brandweerwagen in een spoorwegovergang | 11970       | never     | False    |
 | 1128/b        | Passagierstrein botst op brandweerwagen in een spoorwegovergang | 16970       | never     | False    |
 | 1128/ab       | Passagierstrein botst op brandweerwagen in een spoorwegovergang | 17970       | never     | False    |
 | 1203/b        | Brand in ziekenhuis (Grip 2)                                    | 20850       | never     | False    |
