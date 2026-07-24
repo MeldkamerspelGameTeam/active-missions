@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1152
+Count: 1148
 
 # Active never-seen missions
 
-Count: 942
+Count: 938
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -548,7 +548,6 @@ Count: 942
 | 1227          | Brand in passagierstrein (Grip 1)                               | 21170       | never     | False    |
 | 1227/a        | Brand in passagierstrein (Grip 1)                               | 21970       | never     | False    |
 | 1227/b        | Brand in passagierstrein (Grip 1)                               | 30150       | never     | False    |
-| 1227/c        | Brand in passagierstrein (Grip 1)                               | 22070       | never     | False    |
 | 1227/d        | Brand in passagierstrein (Grip 1)                               | 27820       | never     | False    |
 | 1227/ab       | Brand in passagierstrein (Grip 1)                               | 31150       | never     | False    |
 | 1227/ac       | Brand in passagierstrein (Grip 1)                               | 22870       | never     | False    |
@@ -918,7 +917,6 @@ Count: 942
 | 1229/abcef    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 55300       | never     | False    |
 | 1229/abceg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 61425       | never     | False    |
 | 1229/abcfg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 66300       | never     | False    |
-| 1229/abdef    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 54925       | never     | False    |
 | 1229/abdeg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 61050       | never     | False    |
 | 1229/abdfg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 65925       | never     | False    |
 | 1229/abefg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 66050       | never     | False    |
@@ -944,9 +942,7 @@ Count: 942
 | 1230/a        | Brand in tram (Klein)                                           | 1100        | never     | False    |
 | 1231/a        | Brand in tram (Middel)                                          | 3180        | never     | False    |
 | 1232/a        | Brand in tram (Groot)                                           | 13190       | never     | False    |
-| 1233/a        | Brand in tram (Grip 1)                                          | 25850       | never     | False    |
 | 1233/c        | Brand in tram (Grip 1)                                          | 22880       | never     | False    |
-| 1233/ab       | Brand in tram (Grip 1)                                          | 26850       | never     | False    |
 | 1233/ac       | Brand in tram (Grip 1)                                          | 32287       | never     | False    |
 | 1233/bc       | Brand in tram (Grip 1)                                          | 23680       | never     | False    |
 | 1233/abc      | Brand in tram (Grip 1)                                          | 33287       | never     | False    |
