@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1138
+Count: 1137
 
 # Active never-seen missions
 
-Count: 928
+Count: 927
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -231,7 +231,6 @@ Count: 928
 | 901/abcdefg   | Trein ontspoord                                                 | 55087       | never     | False    |
 | 919           | Begeleiding supporters                                          | 14858       | never     | False    |
 | 929/ae        | Brand in gasverdeelstation                                      | 27960       | never     | False    |
-| 929/cd        | Brand in gasverdeelstation                                      | 32510       | never     | False    |
 | 929/abd       | Brand in gasverdeelstation                                      | 38825       | never     | False    |
 | 929/abe       | Brand in gasverdeelstation                                      | 38637       | never     | False    |
 | 929/acd       | Brand in gasverdeelstation                                      | 33310       | never     | False    |
