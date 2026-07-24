@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1146
+Count: 1143
 
 # Active never-seen missions
 
-Count: 936
+Count: 933
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -162,7 +162,6 @@ Count: 936
 | 901/cef       | Trein ontspoord                                                 | 37337       | never     | False    |
 | 901/ceg       | Trein ontspoord                                                 | 48587       | never     | False    |
 | 901/cfg       | Trein ontspoord                                                 | 49587       | never     | False    |
-| 901/def       | Trein ontspoord                                                 | 28720       | never     | False    |
 | 901/deg       | Trein ontspoord                                                 | 37720       | never     | False    |
 | 901/dfg       | Trein ontspoord                                                 | 38520       | never     | False    |
 | 901/efg       | Trein ontspoord                                                 | 37720       | never     | False    |
@@ -524,7 +523,6 @@ Count: 936
 | 1104/bce      | Aanrijding trein & betonmixer                                   | 31287       | never     | False    |
 | 1104/bde      | Aanrijding trein & betonmixer                                   | 30787       | never     | False    |
 | 1104/cde      | Aanrijding trein & betonmixer                                   | 22680       | never     | False    |
-| 1104/abcd     | Aanrijding trein & betonmixer                                   | 24662       | never     | False    |
 | 1104/abce     | Aanrijding trein & betonmixer                                   | 32287       | never     | False    |
 | 1104/abde     | Aanrijding trein & betonmixer                                   | 31787       | never     | False    |
 | 1104/acde     | Aanrijding trein & betonmixer                                   | 23480       | never     | False    |
@@ -909,7 +907,6 @@ Count: 936
 | 1229/cdfg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 50990       | never     | False    |
 | 1229/cefg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 51090       | never     | False    |
 | 1229/defg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 50790       | never     | False    |
-| 1229/abcde    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 50300       | never     | False    |
 | 1229/abcdf    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 55175       | never     | False    |
 | 1229/abcdg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 61300       | never     | False    |
 | 1229/abcef    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 55300       | never     | False    |
