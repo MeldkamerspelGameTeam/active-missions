@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1136
+Count: 1133
 
 # Active never-seen missions
 
-Count: 926
+Count: 923
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -32,7 +32,6 @@ Count: 926
 | 293/b         | Ongeval met trein en vrachtwagen (THV Middel)                   | 7230        | never     | False    |
 | 293/ab        | Ongeval met trein en vrachtwagen (THV Middel)                   | 7830        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                                  | 7070        | never     | False    |
-| 312/bc        | Lekkende goederenwagon (Groot)                                  | 7170        | never     | False    |
 | 314/a         | Brand in passagierstrein (Middel)                               | 5260        | never     | False    |
 | 315/a         | Brand in passagierstrein (Groot)                                | 12620       | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen                    | 65350       | never     | False    |
@@ -543,7 +542,6 @@ Count: 926
 | 1227/b        | Brand in passagierstrein (Grip 1)                               | 30150       | never     | False    |
 | 1227/d        | Brand in passagierstrein (Grip 1)                               | 27820       | never     | False    |
 | 1227/ab       | Brand in passagierstrein (Grip 1)                               | 31150       | never     | False    |
-| 1227/ac       | Brand in passagierstrein (Grip 1)                               | 22870       | never     | False    |
 | 1227/ad       | Brand in passagierstrein (Grip 1)                               | 28620       | never     | False    |
 | 1227/bc       | Brand in passagierstrein (Grip 1)                               | 31275       | never     | False    |
 | 1227/bd       | Brand in passagierstrein (Grip 1)                               | 38462       | never     | False    |
@@ -868,7 +866,6 @@ Count: 926
 | 1229/deg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 45090       | never     | False    |
 | 1229/dfg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 48990       | never     | False    |
 | 1229/efg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 49090       | never     | False    |
-| 1229/abcd     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 48050       | never     | False    |
 | 1229/abce     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 48175       | never     | False    |
 | 1229/abcf     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 53050       | never     | False    |
 | 1229/abcg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 59175       | never     | False    |
