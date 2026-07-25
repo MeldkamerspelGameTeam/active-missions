@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1132
+Count: 1131
 
 # Active never-seen missions
 
-Count: 922
+Count: 921
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -26,7 +26,6 @@ Count: 922
 | 208           | Personenauto te water                                           | 4350        | never     | False    |
 | 252/a         | Vrachtwagen te water                                            | 4630        | never     | False    |
 | 252/ab        | Vrachtwagen te water                                            | 4930        | never     | False    |
-| 292/a         | Ongeval met trein en vrachtwagen (THV Klein)                    | 2190        | never     | False    |
 | 292/b         | Ongeval met trein en vrachtwagen (THV Klein)                    | 5790        | never     | False    |
 | 292/ab        | Ongeval met trein en vrachtwagen (THV Klein)                    | 6390        | never     | False    |
 | 293/b         | Ongeval met trein en vrachtwagen (THV Middel)                   | 7230        | never     | False    |
