@@ -1,17 +1,19 @@
 # Old seen missions (older than 30 days)
 
-Count: 10
+Count: 12
 
 # Active old-seen missions
 
-Count: 4
+Count: 6
 
-| ID      | Name                        | Avg Credits | Last Seen  | Inactive |
-| ------- | --------------------------- | ----------: | ---------- | -------- |
-| 892     | 1000 Politiebureau mijlpaal | 50000       | 2026-06-21 | False    |
-| 929/ac  | Brand in gasverdeelstation  | 32510       | 2026-06-23 | False    |
-| 1030/ab | Brand bij papierrecyclaar   | 54887       | 2026-06-22 | False    |
-| 1207/bc | Brand in station (Grip 2)   | 43560       | 2026-06-22 | False    |
+| ID      | Name                           | Avg Credits | Last Seen  | Inactive |
+| ------- | ------------------------------ | ----------: | ---------- | -------- |
+| 885/ce  | Brand in vuurwerkopslag        | 54670       | 2026-06-24 | False    |
+| 892     | 1000 Politiebureau mijlpaal    | 50000       | 2026-06-21 | False    |
+| 929/ac  | Brand in gasverdeelstation     | 32510       | 2026-06-23 | False    |
+| 1030/ab | Brand bij papierrecyclaar      | 54887       | 2026-06-22 | False    |
+| 1034/be | Brand in nucleaire installatie | 92075       | 2026-06-24 | False    |
+| 1207/bc | Brand in station (Grip 2)      | 43560       | 2026-06-22 | False    |
 
 # Inactive old-seen missions
 
