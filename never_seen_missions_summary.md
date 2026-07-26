@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1106
+Count: 1105
 
 # Active never-seen missions
 
-Count: 896
+Count: 895
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -902,7 +902,6 @@ Count: 896
 | 1229/acdefg   | Dieseltrein met gevaarlijke stoffen ontspoord                   | 53590       | never     | False    |
 | 1229/bcdefg   | Dieseltrein met gevaarlijke stoffen ontspoord                   | 69675       | never     | False    |
 | 1229/abcdefg  | Dieseltrein met gevaarlijke stoffen ontspoord                   | 70675       | never     | False    |
-| 1233/ac       | Brand in tram (Grip 1)                                          | 32287       | never     | False    |
 | 1233/bc       | Brand in tram (Grip 1)                                          | 23680       | never     | False    |
 
 # Inactive never-seen missions
