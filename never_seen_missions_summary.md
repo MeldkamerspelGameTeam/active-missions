@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1115
+Count: 1113
 
 # Active never-seen missions
 
-Count: 905
+Count: 903
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -528,7 +528,6 @@ Count: 905
 | 1206/ab       | Brand in station (Grip 1)                                       | 38000       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                                       | 55950       | never     | False    |
 | 1223          | Dier op spoor                                                   | 1530        | never     | False    |
-| 1224          | Stilgevallen trein                                              | 4280        | never     | False    |
 | 1226          | Brand in spoorwissel                                            | 2600        | never     | False    |
 | 1227/a        | Brand in passagierstrein (Grip 1)                               | 21970       | never     | False    |
 | 1227/b        | Brand in passagierstrein (Grip 1)                               | 30150       | never     | False    |
@@ -910,7 +909,6 @@ Count: 905
 | 1229/abcdefg  | Dieseltrein met gevaarlijke stoffen ontspoord                   | 70675       | never     | False    |
 | 1230/a        | Brand in tram (Klein)                                           | 1100        | never     | False    |
 | 1232/a        | Brand in tram (Groot)                                           | 13190       | never     | False    |
-| 1233/c        | Brand in tram (Grip 1)                                          | 22880       | never     | False    |
 | 1233/ac       | Brand in tram (Grip 1)                                          | 32287       | never     | False    |
 | 1233/bc       | Brand in tram (Grip 1)                                          | 23680       | never     | False    |
 
