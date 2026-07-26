@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1110
+Count: 1109
 
 # Active never-seen missions
 
-Count: 900
+Count: 899
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -16,7 +16,6 @@ Count: 900
 | 86/a          | Aanrijding door trein                                           | 4790        | never     | False    |
 | 108/b         | Ongeval met trein en personenauto                               | 7060        | never     | False    |
 | 108/ab        | Ongeval met trein en personenauto                               | 7460        | never     | False    |
-| 109/a         | Ongeval met trein en persoon                                    | 4790        | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd                               | 17910       | never     | False    |
 | 125           | Vermist persoon                                                 | 3500        | never     | False    |
 | 181/a         | Verkeersongeval met beknelling                                  | 2890        | never     | False    |
