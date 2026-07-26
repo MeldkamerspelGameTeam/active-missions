@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1111
+Count: 1110
 
 # Active never-seen missions
 
-Count: 901
+Count: 900
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -103,7 +103,6 @@ Count: 901
 | 899/ab        | Aanrijding bus en tram                                          | 15770       | never     | False    |
 | 901/b         | Trein ontspoord                                                 | 24920       | never     | False    |
 | 901/c         | Trein ontspoord                                                 | 33837       | never     | False    |
-| 901/d         | Trein ontspoord                                                 | 25920       | never     | False    |
 | 901/e         | Trein ontspoord                                                 | 25120       | never     | False    |
 | 901/g         | Trein ontspoord                                                 | 34920       | never     | False    |
 | 901/ab        | Trein ontspoord                                                 | 25720       | never     | False    |
