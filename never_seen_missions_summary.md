@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1118
+Count: 1117
 
 # Active never-seen missions
 
-Count: 908
+Count: 907
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -915,7 +915,6 @@ Count: 908
 | 1233/c        | Brand in tram (Grip 1)                                          | 22880       | never     | False    |
 | 1233/ac       | Brand in tram (Grip 1)                                          | 32287       | never     | False    |
 | 1233/bc       | Brand in tram (Grip 1)                                          | 23680       | never     | False    |
-| 1233/abc      | Brand in tram (Grip 1)                                          | 33287       | never     | False    |
 
 # Inactive never-seen missions
 
