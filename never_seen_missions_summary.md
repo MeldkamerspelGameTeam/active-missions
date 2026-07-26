@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1107
+Count: 1106
 
 # Active never-seen missions
 
-Count: 897
+Count: 896
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -30,7 +30,6 @@ Count: 897
 | 293/b         | Ongeval met trein en vrachtwagen (THV Middel)                   | 7230        | never     | False    |
 | 293/ab        | Ongeval met trein en vrachtwagen (THV Middel)                   | 7830        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                                  | 7070        | never     | False    |
-| 314/a         | Brand in passagierstrein (Middel)                               | 5260        | never     | False    |
 | 315/a         | Brand in passagierstrein (Groot)                                | 12620       | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen                    | 65350       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                                     | 11050       | never     | False    |
