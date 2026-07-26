@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1122
+Count: 1119
 
 # Active never-seen missions
 
-Count: 912
+Count: 909
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -529,10 +529,8 @@ Count: 912
 | 1206/b        | Brand in station (Grip 1)                                       | 28400       | never     | False    |
 | 1206/ab       | Brand in station (Grip 1)                                       | 38000       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                                       | 55950       | never     | False    |
-| 1222          | Boom op spoor                                                   | 1530        | never     | False    |
 | 1223          | Dier op spoor                                                   | 1530        | never     | False    |
 | 1224          | Stilgevallen trein                                              | 4280        | never     | False    |
-| 1225          | Brand in bovenleiding                                           | 4300        | never     | False    |
 | 1226          | Brand in spoorwissel                                            | 2600        | never     | False    |
 | 1227/a        | Brand in passagierstrein (Grip 1)                               | 21970       | never     | False    |
 | 1227/b        | Brand in passagierstrein (Grip 1)                               | 30150       | never     | False    |
@@ -889,7 +887,6 @@ Count: 912
 | 1229/cdfg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 50990       | never     | False    |
 | 1229/cefg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 51090       | never     | False    |
 | 1229/defg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 50790       | never     | False    |
-| 1229/abcdf    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 55175       | never     | False    |
 | 1229/abcdg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 61300       | never     | False    |
 | 1229/abceg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 61425       | never     | False    |
 | 1229/abcfg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 66300       | never     | False    |
