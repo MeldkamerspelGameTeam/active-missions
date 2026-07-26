@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1109
+Count: 1107
 
 # Active never-seen missions
 
-Count: 899
+Count: 897
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -55,7 +55,6 @@ Count: 899
 | 841-0/a       | Aanrijding met zwaar letsel                                     | 7140        | never     | False    |
 | 841-0/b       | Aanrijding met zwaar letsel                                     | 7540        | never     | False    |
 | 841-0/ab      | Aanrijding met zwaar letsel                                     | 7940        | never     | False    |
-| 853-1/a       | Vliegtuig neergestort                                           | 24460       | never     | False    |
 | 885/ab        | Brand in vuurwerkopslag                                         | 65525       | never     | False    |
 | 885/ad        | Brand in vuurwerkopslag                                         | 50120       | never     | False    |
 | 885/bc        | Brand in vuurwerkopslag                                         | 71025       | never     | False    |
@@ -526,7 +525,6 @@ Count: 899
 | 1206/ab       | Brand in station (Grip 1)                                       | 38000       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                                       | 55950       | never     | False    |
 | 1223          | Dier op spoor                                                   | 1530        | never     | False    |
-| 1226          | Brand in spoorwissel                                            | 2600        | never     | False    |
 | 1227/a        | Brand in passagierstrein (Grip 1)                               | 21970       | never     | False    |
 | 1227/b        | Brand in passagierstrein (Grip 1)                               | 30150       | never     | False    |
 | 1227/d        | Brand in passagierstrein (Grip 1)                               | 27820       | never     | False    |
