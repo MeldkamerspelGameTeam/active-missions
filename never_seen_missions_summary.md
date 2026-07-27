@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1105
+Count: 1104
 
 # Active never-seen missions
 
-Count: 895
+Count: 894
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -13,7 +13,6 @@ Count: 895
 | 41            | Brand in kantoorpand                                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                                  | 12030       | never     | False    |
 | 59            | Brand in opslagloods                                            | 13710       | never     | False    |
-| 86/a          | Aanrijding door trein                                           | 4790        | never     | False    |
 | 108/b         | Ongeval met trein en personenauto                               | 7060        | never     | False    |
 | 108/ab        | Ongeval met trein en personenauto                               | 7460        | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd                               | 17910       | never     | False    |
