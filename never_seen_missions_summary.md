@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1096
+Count: 1095
 
 # Active never-seen missions
 
-Count: 886
+Count: 885
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -18,7 +18,6 @@ Count: 886
 | 117           | Voetbalwedstrijd, risicowedstrijd                               | 17910       | never     | False    |
 | 125           | Vermist persoon                                                 | 3500        | never     | False    |
 | 181/a         | Verkeersongeval met beknelling                                  | 2890        | never     | False    |
-| 181/ab        | Verkeersongeval met beknelling                                  | 3290        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein)                 | 2240        | never     | False    |
 | 207           | Personenauto te water                                           | 3680        | never     | False    |
 | 208           | Personenauto te water                                           | 4350        | never     | False    |
