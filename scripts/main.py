@@ -855,6 +855,8 @@ def report_newly_discovered_missions(never_seen: list[dict[str, Any]], ids_paylo
 def main() -> None:
     payloads: dict[str, Any] = {}
 
+    failed_sources: list[str] = []
+
     for name, url in SOURCES.items():
         try:
             text = fetch_text(url)
@@ -868,8 +870,14 @@ def main() -> None:
             print(f"Saved {url} -> {output_path}")
         except urllib.error.URLError as err:
             print(f"Failed to fetch {url}: {err}")
+            failed_sources.append(name)
         except OSError as err:
             print(f"Failed to write {name}.json: {err}")
+            failed_sources.append(name)
+
+    if failed_sources:
+        print(f"Skipping state checks due to failed downloads: {', '.join(failed_sources)}")
+        return
 
     if "inzetten" in payloads:
         now_utc = datetime.now(timezone.utc)
