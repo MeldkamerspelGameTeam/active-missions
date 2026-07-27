@@ -491,7 +491,7 @@ Count: 14
 | 618    | Hitteslag                                                          | 250         | 2026-07-27 | False    |
 | 619    | Hittekramp                                                         | 250         | 2026-07-27 | False    |
 | 620    | Uitgedroogde persoon                                               | 250         | 2026-07-27 | False    |
-| 621    | Barbecuebrand                                                      | 500         | 2026-07-27 | False    |
+| 621    | Barbecuebrand                                                      | 500         | 2026-07-28 | False    |
 | 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-07-27 | False    |
 | 831    | Verontreinigde ijscokar                                            | 1350        | 2026-07-27 | False    |
 | 832    | Illegaal kampvuur in park                                          | 670         | 2026-07-27 | False    |
