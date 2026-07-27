@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1092
+Count: 1091
 
 # Active never-seen missions
 
-Count: 882
+Count: 881
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -517,7 +517,6 @@ Count: 882
 | 1227/b        | Brand in passagierstrein (Grip 1)                               | 30150       | never     | False    |
 | 1227/d        | Brand in passagierstrein (Grip 1)                               | 27820       | never     | False    |
 | 1227/ad       | Brand in passagierstrein (Grip 1)                               | 28620       | never     | False    |
-| 1227/bc       | Brand in passagierstrein (Grip 1)                               | 31275       | never     | False    |
 | 1227/bd       | Brand in passagierstrein (Grip 1)                               | 38462       | never     | False    |
 | 1227/cd       | Brand in passagierstrein (Grip 1)                               | 28720       | never     | False    |
 | 1227/abd      | Brand in passagierstrein (Grip 1)                               | 39462       | never     | False    |
