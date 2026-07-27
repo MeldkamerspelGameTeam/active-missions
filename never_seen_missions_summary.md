@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1102
+Count: 1101
 
 # Active never-seen missions
 
-Count: 892
+Count: 891
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -46,7 +46,6 @@ Count: 892
 | 497/a         | Personenauto te water                                           | 5650        | never     | False    |
 | 565/a         | Fietser onder tram                                              | 4290        | never     | False    |
 | 592           | Brand op bedrijventerrein                                       | 12540       | never     | False    |
-| 607/a         | Onbevoegden op spoor                                            | 1870        | never     | False    |
 | 787/abc       | Persoon bekneld in gierput                                      | 7110        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                                     | 6740        | never     | False    |
 | 841-0/a       | Aanrijding met zwaar letsel                                     | 7140        | never     | False    |
