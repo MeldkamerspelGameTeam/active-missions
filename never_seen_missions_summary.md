@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1101
+Count: 1099
 
 # Active never-seen missions
 
-Count: 891
+Count: 889
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -243,7 +243,6 @@ Count: 891
 | 942-1/ab      | Schoolbus te water                                              | 13120       | never     | False    |
 | 974/a         | Ontspoorde tram botst tegen gebouw                              | 20230       | never     | False    |
 | 974/b         | Ontspoorde tram botst tegen gebouw                              | 27975       | never     | False    |
-| 974/d         | Ontspoorde tram botst tegen gebouw                              | 25930       | never     | False    |
 | 974/ab        | Ontspoorde tram botst tegen gebouw                              | 28975       | never     | False    |
 | 974/ac        | Ontspoorde tram botst tegen gebouw                              | 21230       | never     | False    |
 | 974/ad        | Ontspoorde tram botst tegen gebouw                              | 26730       | never     | False    |
@@ -519,7 +518,6 @@ Count: 891
 | 1206/b        | Brand in station (Grip 1)                                       | 28400       | never     | False    |
 | 1206/ab       | Brand in station (Grip 1)                                       | 38000       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                                       | 55950       | never     | False    |
-| 1223          | Dier op spoor                                                   | 1530        | never     | False    |
 | 1227/a        | Brand in passagierstrein (Grip 1)                               | 21970       | never     | False    |
 | 1227/b        | Brand in passagierstrein (Grip 1)                               | 30150       | never     | False    |
 | 1227/d        | Brand in passagierstrein (Grip 1)                               | 27820       | never     | False    |
