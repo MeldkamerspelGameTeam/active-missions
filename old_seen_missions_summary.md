@@ -1,14 +1,13 @@
 # Old seen missions (older than 30 days)
 
-Count: 16
+Count: 15
 
 # Active old-seen missions
 
-Count: 10
+Count: 9
 
 | ID      | Name                           | Avg Credits | Last Seen  | Inactive |
 | ------- | ------------------------------ | ----------: | ---------- | -------- |
-| 274/a   | Klein vliegtuig neergestort    | 6570        | 2026-06-25 | False    |
 | 885/ce  | Brand in vuurwerkopslag        | 54670       | 2026-06-24 | False    |
 | 885/df  | Brand in vuurwerkopslag        | 50520       | 2026-06-27 | False    |
 | 892     | 1000 Politiebureau mijlpaal    | 50000       | 2026-06-21 | False    |
