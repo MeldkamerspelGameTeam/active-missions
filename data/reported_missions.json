@@ -2557,6 +2557,6 @@
   "1233/abc": "newly_active",
   "1233/ac": "newly_active",
   "1233/b": "newly_active",
-  "1233/bc": "newly_discovered",
+  "1233/bc": "newly_active",
   "1233/c": "newly_active"
 }
