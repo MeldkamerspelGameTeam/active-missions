@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1085
+Count: 1083
 
 # Active never-seen missions
 
-Count: 875
+Count: 873
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -14,7 +14,6 @@ Count: 875
 | 43            | Kettingbotsing                                                  | 12030       | never     | False    |
 | 59            | Brand in opslagloods                                            | 13710       | never     | False    |
 | 108/b         | Ongeval met trein en personenauto                               | 7060        | never     | False    |
-| 108/ab        | Ongeval met trein en personenauto                               | 7460        | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd                               | 17910       | never     | False    |
 | 125           | Vermist persoon                                                 | 3500        | never     | False    |
 | 181/a         | Verkeersongeval met beknelling                                  | 2890        | never     | False    |
@@ -240,7 +239,6 @@ Count: 875
 | 974/ab        | Ontspoorde tram botst tegen gebouw                              | 28975       | never     | False    |
 | 974/ac        | Ontspoorde tram botst tegen gebouw                              | 21230       | never     | False    |
 | 974/ad        | Ontspoorde tram botst tegen gebouw                              | 26730       | never     | False    |
-| 974/bc        | Ontspoorde tram botst tegen gebouw                              | 29225       | never     | False    |
 | 974/bd        | Ontspoorde tram botst tegen gebouw                              | 36100       | never     | False    |
 | 974/cd        | Ontspoorde tram botst tegen gebouw                              | 26930       | never     | False    |
 | 974/abd       | Ontspoorde tram botst tegen gebouw                              | 37100       | never     | False    |
