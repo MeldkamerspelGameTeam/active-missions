@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1074
+Count: 1073
 
 # Active never-seen missions
 
-Count: 864
+Count: 863
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -52,7 +52,6 @@ Count: 864
 | 885/ef        | Brand in vuurwerkopslag                                         | 50670       | never     | False    |
 | 885/abd       | Brand in vuurwerkopslag                                         | 66337       | never     | False    |
 | 885/abe       | Brand in vuurwerkopslag                                         | 66525       | never     | False    |
-| 885/abf       | Brand in vuurwerkopslag                                         | 67025       | never     | False    |
 | 885/acd       | Brand in vuurwerkopslag                                         | 55320       | never     | False    |
 | 885/ace       | Brand in vuurwerkopslag                                         | 55470       | never     | False    |
 | 885/acf       | Brand in vuurwerkopslag                                         | 55870       | never     | False    |
