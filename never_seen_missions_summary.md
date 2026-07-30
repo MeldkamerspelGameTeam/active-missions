@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1076
+Count: 1074
 
 # Active never-seen missions
 
-Count: 866
+Count: 864
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -13,7 +13,6 @@ Count: 866
 | 41            | Brand in kantoorpand                                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                                  | 12030       | never     | False    |
 | 59            | Brand in opslagloods                                            | 13710       | never     | False    |
-| 108/b         | Ongeval met trein en personenauto                               | 7060        | never     | False    |
 | 117           | Voetbalwedstrijd, risicowedstrijd                               | 17910       | never     | False    |
 | 125           | Vermist persoon                                                 | 3500        | never     | False    |
 | 181/a         | Verkeersongeval met beknelling                                  | 2890        | never     | False    |
@@ -587,7 +586,6 @@ Count: 866
 | 1228/bfh      | Trein ontspoord na botsing met goederentrein                    | 40390       | never     | False    |
 | 1228/bgh      | Trein ontspoord na botsing met goederentrein                    | 39990       | never     | False    |
 | 1228/cde      | Trein ontspoord na botsing met goederentrein                    | 41112       | never     | False    |
-| 1228/cdf      | Trein ontspoord na botsing met goederentrein                    | 41112       | never     | False    |
 | 1228/cdg      | Trein ontspoord na botsing met goederentrein                    | 40612       | never     | False    |
 | 1228/cdh      | Trein ontspoord na botsing met goederentrein                    | 52925       | never     | False    |
 | 1228/cef      | Trein ontspoord na botsing met goederentrein                    | 41362       | never     | False    |
