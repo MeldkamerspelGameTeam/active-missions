@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1067
+Count: 1065
 
 # Active never-seen missions
 
-Count: 857
+Count: 855
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -17,7 +17,6 @@ Count: 857
 | 125           | Vermist persoon                                                 | 3500        | never     | False    |
 | 181/a         | Verkeersongeval met beknelling                                  | 2890        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein)                 | 2240        | never     | False    |
-| 207           | Personenauto te water                                           | 3680        | never     | False    |
 | 208           | Personenauto te water                                           | 4350        | never     | False    |
 | 252/ab        | Vrachtwagen te water                                            | 4930        | never     | False    |
 | 292/b         | Ongeval met trein en vrachtwagen (THV Klein)                    | 5790        | never     | False    |
@@ -785,7 +784,6 @@ Count: 857
 | 1229/dg       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 43290       | never     | False    |
 | 1229/ef       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 38490       | never     | False    |
 | 1229/eg       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 43390       | never     | False    |
-| 1229/fg       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 47290       | never     | False    |
 | 1229/abc      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 45925       | never     | False    |
 | 1229/abd      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 45550       | never     | False    |
 | 1229/abg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 56675       | never     | False    |
