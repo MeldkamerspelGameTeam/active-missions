@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 18
+Count: 19
 
 # Active old-seen missions
 
-Count: 12
+Count: 13
 
 | ID      | Name                           | Avg Credits | Last Seen  | Inactive |
 | ------- | ------------------------------ | ----------: | ---------- | -------- |
@@ -12,6 +12,7 @@ Count: 12
 | 885/ce  | Brand in vuurwerkopslag        | 54670       | 2026-06-24 | False    |
 | 885/df  | Brand in vuurwerkopslag        | 50520       | 2026-06-27 | False    |
 | 892     | 1000 Politiebureau mijlpaal    | 50000       | 2026-06-21 | False    |
+| 897-2/a | Rellen na stadsderby           | 19355       | 2026-06-30 | False    |
 | 929/ac  | Brand in gasverdeelstation     | 32510       | 2026-06-23 | False    |
 | 929/ad  | Brand in gasverdeelstation     | 28110       | 2026-06-26 | False    |
 | 1030/ab | Brand bij papierrecyclaar      | 54887       | 2026-06-22 | False    |
