@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1065
+Count: 1060
 
 # Active never-seen missions
 
-Count: 855
+Count: 850
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -251,7 +251,6 @@ Count: 855
 | 1034/ab       | Brand in nucleaire installatie                                  | 91450       | never     | False    |
 | 1034/ah       | Brand in nucleaire installatie                                  | 71060       | never     | False    |
 | 1034/bc       | Brand in nucleaire installatie                                  | 98450       | never     | False    |
-| 1034/bf       | Brand in nucleaire installatie                                  | 91950       | never     | False    |
 | 1034/cd       | Brand in nucleaire installatie                                  | 77210       | never     | False    |
 | 1034/df       | Brand in nucleaire installatie                                  | 72010       | never     | False    |
 | 1034/dg       | Brand in nucleaire installatie                                  | 72410       | never     | False    |
@@ -477,7 +476,6 @@ Count: 855
 | 1104/ad       | Aanrijding trein & betonmixer                                   | 15780       | never     | False    |
 | 1104/ae       | Aanrijding trein & betonmixer                                   | 21880       | never     | False    |
 | 1104/bc       | Aanrijding trein & betonmixer                                   | 22912       | never     | False    |
-| 1104/bd       | Aanrijding trein & betonmixer                                   | 22412       | never     | False    |
 | 1104/be       | Aanrijding trein & betonmixer                                   | 30037       | never     | False    |
 | 1104/ce       | Aanrijding trein & betonmixer                                   | 22080       | never     | False    |
 | 1104/de       | Aanrijding trein & betonmixer                                   | 21680       | never     | False    |
@@ -707,7 +705,6 @@ Count: 855
 | 1228/bcdef    | Trein ontspoord na botsing met goederentrein                    | 44612       | never     | False    |
 | 1228/bcdeg    | Trein ontspoord na botsing met goederentrein                    | 44112       | never     | False    |
 | 1228/bcdeh    | Trein ontspoord na botsing met goederentrein                    | 56425       | never     | False    |
-| 1228/bcdfg    | Trein ontspoord na botsing met goederentrein                    | 44112       | never     | False    |
 | 1228/bcdfh    | Trein ontspoord na botsing met goederentrein                    | 56425       | never     | False    |
 | 1228/bcdgh    | Trein ontspoord na botsing met goederentrein                    | 55925       | never     | False    |
 | 1228/bcefg    | Trein ontspoord na botsing met goederentrein                    | 44362       | never     | False    |
@@ -785,7 +782,6 @@ Count: 855
 | 1229/ef       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 38490       | never     | False    |
 | 1229/eg       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 43390       | never     | False    |
 | 1229/abc      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 45925       | never     | False    |
-| 1229/abd      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 45550       | never     | False    |
 | 1229/abg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 56675       | never     | False    |
 | 1229/acd      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 35490       | never     | False    |
 | 1229/acf      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 39490       | never     | False    |
@@ -831,7 +827,6 @@ Count: 855
 | 1229/bcef     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 54300       | never     | False    |
 | 1229/bceg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 60425       | never     | False    |
 | 1229/bcfg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 65300       | never     | False    |
-| 1229/bdef     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 53925       | never     | False    |
 | 1229/bdeg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 60050       | never     | False    |
 | 1229/bdfg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 64925       | never     | False    |
 | 1229/befg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 65050       | never     | False    |
