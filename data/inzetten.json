@@ -3949,7 +3949,8 @@
     "base_mission_id": 86,
     "additive_overlays": "",
     "mission_categories": [
-      "police"
+      "police",
+      "railway_fire"
     ]
   },
   {
@@ -4004,7 +4005,8 @@
     "base_mission_id": 86,
     "additive_overlays": "a",
     "mission_categories": [
-      "police"
+      "police",
+      "railway_fire"
     ]
   },
   {
@@ -5409,7 +5411,8 @@
     "base_mission_id": 108,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -5462,7 +5465,8 @@
     "base_mission_id": 108,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -5515,7 +5519,8 @@
     "base_mission_id": 108,
     "additive_overlays": "b",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -5572,7 +5577,8 @@
     "base_mission_id": 108,
     "additive_overlays": "ab",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -5625,7 +5631,8 @@
     "additive_overlays": "",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -5681,7 +5688,8 @@
     "additive_overlays": "a",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -15587,7 +15595,8 @@
     "additive_overlays": "",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -15643,7 +15652,8 @@
     "additive_overlays": "a",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -15701,7 +15711,8 @@
     "additive_overlays": "b",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -15763,7 +15774,8 @@
     "additive_overlays": "ab",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -15813,7 +15825,8 @@
     "additive_overlays": "",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -15867,7 +15880,8 @@
     "additive_overlays": "a",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -15923,7 +15937,8 @@
     "additive_overlays": "b",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -15983,7 +15998,8 @@
     "additive_overlays": "ab",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -18465,7 +18481,8 @@
     "base_mission_id": 313,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -18509,7 +18526,8 @@
     "base_mission_id": 313,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -18566,7 +18584,8 @@
     "base_mission_id": 314,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -18626,7 +18645,8 @@
     "base_mission_id": 314,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -18686,7 +18706,8 @@
     "base_mission_id": 315,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -18752,7 +18773,8 @@
     "base_mission_id": 315,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -34772,7 +34794,8 @@
     "base_mission_id": 565,
     "additive_overlays": "",
     "mission_categories": [
-      "ambulance"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -34824,7 +34847,8 @@
     "base_mission_id": 565,
     "additive_overlays": "a",
     "mission_categories": [
-      "ambulance"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -36968,7 +36992,8 @@
     "base_mission_id": 606,
     "additive_overlays": "",
     "mission_categories": [
-      "police"
+      "police",
+      "railway_fire"
     ]
   },
   {
@@ -37005,7 +37030,8 @@
     "base_mission_id": 606,
     "additive_overlays": "a",
     "mission_categories": [
-      "police"
+      "police",
+      "railway_fire"
     ]
   },
   {
@@ -37040,7 +37066,8 @@
     "base_mission_id": 607,
     "additive_overlays": "",
     "mission_categories": [
-      "police"
+      "police",
+      "railway_fire"
     ]
   },
   {
@@ -37077,7 +37104,8 @@
     "base_mission_id": 607,
     "additive_overlays": "a",
     "mission_categories": [
-      "police"
+      "police",
+      "railway_fire"
     ]
   },
   {
@@ -61176,7 +61204,8 @@
     "base_mission_id": 899,
     "additive_overlays": "",
     "mission_categories": [
-      "ambulance"
+      "ambulance",
+      "railway_fire"
     ]
   },
   {
@@ -61236,7 +61265,8 @@
     "base_mission_id": 899,
     "additive_overlays": "a",
     "mission_categories": [
-      "ambulance"
+      "ambulance",
+      "railway_fire"
     ]
   },
   {
@@ -61296,7 +61326,8 @@
     "base_mission_id": 899,
     "additive_overlays": "b",
     "mission_categories": [
-      "ambulance"
+      "ambulance",
+      "railway_fire"
     ]
   },
   {
@@ -61360,7 +61391,8 @@
     "base_mission_id": 899,
     "additive_overlays": "ab",
     "mission_categories": [
-      "ambulance"
+      "ambulance",
+      "railway_fire"
     ]
   },
   {
@@ -61466,7 +61498,8 @@
     "base_mission_id": 901,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -61543,7 +61576,8 @@
     "base_mission_id": 901,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -61620,7 +61654,8 @@
     "base_mission_id": 901,
     "additive_overlays": "b",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -61699,7 +61734,8 @@
     "base_mission_id": 901,
     "additive_overlays": "c",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -61777,7 +61813,8 @@
     "base_mission_id": 901,
     "additive_overlays": "d",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -61855,7 +61892,8 @@
     "base_mission_id": 901,
     "additive_overlays": "e",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -61937,7 +61975,8 @@
     "base_mission_id": 901,
     "additive_overlays": "f",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -62020,7 +62059,8 @@
     "base_mission_id": 901,
     "additive_overlays": "g",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -62099,7 +62139,8 @@
     "base_mission_id": 901,
     "additive_overlays": "ab",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -62180,7 +62221,8 @@
     "base_mission_id": 901,
     "additive_overlays": "ac",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -62260,7 +62302,8 @@
     "base_mission_id": 901,
     "additive_overlays": "ad",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -62340,7 +62383,8 @@
     "base_mission_id": 901,
     "additive_overlays": "ae",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -62424,7 +62468,8 @@
     "base_mission_id": 901,
     "additive_overlays": "af",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -62509,7 +62554,8 @@
     "base_mission_id": 901,
     "additive_overlays": "ag",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -62590,7 +62636,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bc",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -62670,7 +62717,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -62750,7 +62798,8 @@
     "base_mission_id": 901,
     "additive_overlays": "be",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -62834,7 +62883,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -62919,7 +62969,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -63001,7 +63052,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -63083,7 +63135,8 @@
     "base_mission_id": 901,
     "additive_overlays": "ce",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -63169,7 +63222,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -63256,7 +63310,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -63337,7 +63392,8 @@
     "base_mission_id": 901,
     "additive_overlays": "de",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -63422,7 +63478,8 @@
     "base_mission_id": 901,
     "additive_overlays": "df",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -63508,7 +63565,8 @@
     "base_mission_id": 901,
     "additive_overlays": "dg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -63590,7 +63648,8 @@
     "base_mission_id": 901,
     "additive_overlays": "ef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -63676,7 +63735,8 @@
     "base_mission_id": 901,
     "additive_overlays": "eg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -63766,7 +63826,8 @@
     "base_mission_id": 901,
     "additive_overlays": "fg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -63849,7 +63910,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abc",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -63931,7 +63993,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -64013,7 +64076,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abe",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -64099,7 +64163,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -64186,7 +64251,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -64270,7 +64336,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -64354,7 +64421,8 @@
     "base_mission_id": 901,
     "additive_overlays": "ace",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -64442,7 +64510,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -64531,7 +64600,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -64614,7 +64684,8 @@
     "base_mission_id": 901,
     "additive_overlays": "ade",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -64701,7 +64772,8 @@
     "base_mission_id": 901,
     "additive_overlays": "adf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -64789,7 +64861,8 @@
     "base_mission_id": 901,
     "additive_overlays": "adg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -64873,7 +64946,8 @@
     "base_mission_id": 901,
     "additive_overlays": "aef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -64961,7 +65035,8 @@
     "base_mission_id": 901,
     "additive_overlays": "aeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -65053,7 +65128,8 @@
     "base_mission_id": 901,
     "additive_overlays": "afg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -65137,7 +65213,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -65221,7 +65298,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bce",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -65309,7 +65387,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -65398,7 +65477,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -65481,7 +65561,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -65568,7 +65649,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -65656,7 +65738,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -65740,7 +65823,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -65828,7 +65912,8 @@
     "base_mission_id": 901,
     "additive_overlays": "beg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -65920,7 +66005,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -66005,7 +66091,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -66094,7 +66181,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -66184,7 +66272,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -66270,7 +66359,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -66360,7 +66450,8 @@
     "base_mission_id": 901,
     "additive_overlays": "ceg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -66454,7 +66545,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -66539,7 +66631,8 @@
     "base_mission_id": 901,
     "additive_overlays": "def",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -66628,7 +66721,8 @@
     "base_mission_id": 901,
     "additive_overlays": "deg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -66721,7 +66815,8 @@
     "base_mission_id": 901,
     "additive_overlays": "dfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -66811,7 +66906,8 @@
     "base_mission_id": 901,
     "additive_overlays": "efg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -66897,7 +66993,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -66983,7 +67080,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abce",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -67073,7 +67171,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -67164,7 +67263,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -67249,7 +67349,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -67338,7 +67439,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -67428,7 +67530,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -67514,7 +67617,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -67604,7 +67708,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -67698,7 +67803,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -67785,7 +67891,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -67876,7 +67983,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -67968,7 +68076,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -68056,7 +68165,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -68148,7 +68258,8 @@
     "base_mission_id": 901,
     "additive_overlays": "aceg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -68244,7 +68355,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -68331,7 +68443,8 @@
     "base_mission_id": 901,
     "additive_overlays": "adef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -68422,7 +68535,8 @@
     "base_mission_id": 901,
     "additive_overlays": "adeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -68517,7 +68631,8 @@
     "base_mission_id": 901,
     "additive_overlays": "adfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -68609,7 +68724,8 @@
     "base_mission_id": 901,
     "additive_overlays": "aefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -68696,7 +68812,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -68787,7 +68904,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -68879,7 +68997,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -68967,7 +69086,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -69059,7 +69179,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bceg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -69155,7 +69276,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -69242,7 +69364,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -69333,7 +69456,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -69428,7 +69552,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -69520,7 +69645,8 @@
     "base_mission_id": 901,
     "additive_overlays": "befg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -69609,7 +69735,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -69702,7 +69829,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -69799,7 +69927,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -69893,7 +70022,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -69986,7 +70116,8 @@
     "base_mission_id": 901,
     "additive_overlays": "defg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -70075,7 +70206,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -70168,7 +70300,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -70262,7 +70395,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -70352,7 +70486,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -70446,7 +70581,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abceg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -70544,7 +70680,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -70633,7 +70770,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -70726,7 +70864,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -70823,7 +70962,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -70917,7 +71057,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -71008,7 +71149,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -71103,7 +71245,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -71202,7 +71345,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -71298,7 +71442,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -71393,7 +71538,8 @@
     "base_mission_id": 901,
     "additive_overlays": "adefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -71484,7 +71630,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -71579,7 +71726,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -71678,7 +71826,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -71774,7 +71923,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -71869,7 +72019,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -71966,7 +72117,8 @@
     "base_mission_id": 901,
     "additive_overlays": "cdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -72059,7 +72211,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -72156,7 +72309,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -72257,7 +72411,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -72355,7 +72510,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -72452,7 +72608,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -72551,7 +72708,8 @@
     "base_mission_id": 901,
     "additive_overlays": "acdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -72650,7 +72808,8 @@
     "base_mission_id": 901,
     "additive_overlays": "bcdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -72751,7 +72910,8 @@
     "base_mission_id": 901,
     "additive_overlays": "abcdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -80489,7 +80649,8 @@
     "additive_overlays": "",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -80552,7 +80713,8 @@
     "additive_overlays": "a",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -80617,7 +80779,8 @@
     "additive_overlays": "b",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -80681,7 +80844,8 @@
     "additive_overlays": "c",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -80748,7 +80912,8 @@
     "additive_overlays": "d",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -80815,7 +80980,8 @@
     "additive_overlays": "ab",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -80881,7 +81047,8 @@
     "additive_overlays": "ac",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -80950,7 +81117,8 @@
     "additive_overlays": "ad",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -81018,7 +81186,8 @@
     "additive_overlays": "bc",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -81089,7 +81258,8 @@
     "additive_overlays": "bd",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -81159,7 +81329,8 @@
     "additive_overlays": "cd",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -81229,7 +81400,8 @@
     "additive_overlays": "abc",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -81302,7 +81474,8 @@
     "additive_overlays": "abd",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -81374,7 +81547,8 @@
     "additive_overlays": "acd",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -81448,7 +81622,8 @@
     "additive_overlays": "bcd",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -81524,7 +81699,8 @@
     "additive_overlays": "abcd",
     "mission_categories": [
       "fire",
-      "urban"
+      "urban",
+      "railway_fire"
     ]
   },
   {
@@ -111621,7 +111797,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -111695,7 +111872,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -111771,7 +111949,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "b",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -111847,7 +112026,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "c",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -111923,7 +112103,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "d",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112002,7 +112183,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "e",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112080,7 +112262,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "ab",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112158,7 +112341,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "ac",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112236,7 +112420,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "ad",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112317,7 +112502,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "ae",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112397,7 +112583,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "bc",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112477,7 +112664,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "bd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112560,7 +112748,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "be",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112640,7 +112829,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "cd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112723,7 +112913,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "ce",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112806,7 +112997,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "de",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112888,7 +113080,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "abc",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -112970,7 +113163,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "abd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -113055,7 +113249,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "abe",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -113137,7 +113332,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "acd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -113222,7 +113418,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "ace",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -113307,7 +113504,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "ade",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -113391,7 +113589,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "bcd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -113478,7 +113677,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "bce",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -113565,7 +113765,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "bde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -113652,7 +113853,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "cde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -113738,7 +113940,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "abcd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -113827,7 +114030,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "abce",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -113916,7 +114120,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "abde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -114005,7 +114210,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "acde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -114096,7 +114302,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "bcde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -114189,7 +114396,8 @@
     "base_mission_id": 1104,
     "additive_overlays": "abcde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -115123,7 +115331,8 @@
     "additive_overlays": "",
     "mission_categories": [
       "tow_trucks",
-      "tow_trucks_only"
+      "tow_trucks_only",
+      "railway_fire"
     ]
   },
   {
@@ -115187,7 +115396,8 @@
     "additive_overlays": "a",
     "mission_categories": [
       "tow_trucks",
-      "tow_trucks_only"
+      "tow_trucks_only",
+      "railway_fire"
     ]
   },
   {
@@ -115254,7 +115464,8 @@
     "additive_overlays": "b",
     "mission_categories": [
       "tow_trucks",
-      "tow_trucks_only"
+      "tow_trucks_only",
+      "railway_fire"
     ]
   },
   {
@@ -115325,7 +115536,8 @@
     "additive_overlays": "ab",
     "mission_categories": [
       "tow_trucks",
-      "tow_trucks_only"
+      "tow_trucks_only",
+      "railway_fire"
     ]
   },
   {
@@ -122108,7 +122320,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -122176,7 +122389,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -122246,7 +122460,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "b",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -122315,7 +122530,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "c",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -122388,7 +122604,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "d",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -122460,7 +122677,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "ab",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -122531,7 +122749,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "ac",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -122606,7 +122825,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "ad",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -122679,7 +122899,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "bc",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -122756,7 +122977,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "bd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -122832,7 +123054,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "cd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -122907,7 +123130,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "abc",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -122986,7 +123210,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "abd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -123064,7 +123289,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "acd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -123144,7 +123370,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "bcd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -123226,7 +123453,8 @@
     "base_mission_id": 1227,
     "additive_overlays": "abcd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -123301,7 +123529,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -123378,7 +123607,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -123455,7 +123685,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "b",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -123534,7 +123765,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "c",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -123612,7 +123844,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "d",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -123690,7 +123923,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "e",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -123769,7 +124003,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "f",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -123846,7 +124081,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "g",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -123929,7 +124165,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "h",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124008,7 +124245,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ab",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124089,7 +124327,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ac",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124169,7 +124408,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ad",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124249,7 +124489,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ae",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124330,7 +124571,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "af",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124409,7 +124651,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ag",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124494,7 +124737,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ah",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124575,7 +124819,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bc",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124655,7 +124900,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124735,7 +124981,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "be",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124816,7 +125063,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124895,7 +125143,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -124980,7 +125229,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -125062,7 +125312,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -125144,7 +125395,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ce",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -125227,7 +125479,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -125308,7 +125561,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -125395,7 +125649,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ch",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -125476,7 +125731,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "de",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -125558,7 +125814,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "df",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -125638,7 +125895,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "dg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -125724,7 +125982,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "dh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -125806,7 +126065,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -125886,7 +126146,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "eg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -125972,7 +126233,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "eh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -126052,7 +126314,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "fg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -126139,7 +126402,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "fh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -126224,7 +126488,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "gh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -126307,7 +126572,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abc",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -126389,7 +126655,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -126471,7 +126738,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abe",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -126554,7 +126822,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -126635,7 +126904,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -126722,7 +126992,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -126806,7 +127077,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -126890,7 +127162,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ace",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -126975,7 +127248,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -127058,7 +127332,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -127147,7 +127422,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ach",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -127230,7 +127506,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ade",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -127314,7 +127591,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -127396,7 +127674,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -127484,7 +127763,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -127568,7 +127848,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "aef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -127650,7 +127931,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "aeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -127738,7 +128020,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "aeh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -127820,7 +128103,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "afg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -127909,7 +128193,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "afh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -127996,7 +128281,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "agh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -128080,7 +128366,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -128164,7 +128451,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bce",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -128249,7 +128537,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -128332,7 +128621,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -128421,7 +128711,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bch",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -128504,7 +128795,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -128588,7 +128880,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -128670,7 +128963,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -128758,7 +129052,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -128842,7 +129137,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -128924,7 +129220,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "beg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -129012,7 +129309,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "beh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -129094,7 +129392,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -129183,7 +129482,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -129270,7 +129570,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -129355,7 +129656,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -129441,7 +129743,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -129525,7 +129828,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -129615,7 +129919,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -129701,7 +130006,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -129785,7 +130091,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ceg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -129875,7 +130182,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "ceh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -129959,7 +130267,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -130050,7 +130359,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -130139,7 +130449,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -130224,7 +130535,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "def",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -130307,7 +130619,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "deg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -130396,7 +130709,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "deh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -130479,7 +130793,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "dfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -130569,7 +130884,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "dfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -130657,7 +130973,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "dgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -130740,7 +131057,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "efg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -130830,7 +131148,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "efh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -130918,7 +131237,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "egh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -131006,7 +131326,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "fgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -131092,7 +131413,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -131178,7 +131500,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abce",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -131265,7 +131588,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -131350,7 +131674,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -131441,7 +131766,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abch",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -131526,7 +131852,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -131612,7 +131939,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -131696,7 +132024,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -131786,7 +132115,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -131872,7 +132202,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -131956,7 +132287,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -132046,7 +132378,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abeh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -132130,7 +132463,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -132221,7 +132555,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -132310,7 +132645,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -132397,7 +132733,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -132485,7 +132822,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -132571,7 +132909,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -132663,7 +133002,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -132751,7 +133091,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -132837,7 +133178,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "aceg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -132929,7 +133271,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "aceh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -133015,7 +133358,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -133108,7 +133452,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -133199,7 +133544,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -133286,7 +133632,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -133371,7 +133718,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -133462,7 +133810,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adeh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -133547,7 +133896,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -133639,7 +133989,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -133729,7 +134080,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -133814,7 +134166,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "aefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -133906,7 +134259,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "aefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -133996,7 +134350,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "aegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -134086,7 +134441,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "afgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -134173,7 +134529,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -134261,7 +134618,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -134347,7 +134705,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -134439,7 +134798,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -134527,7 +134887,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -134613,7 +134974,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bceg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -134705,7 +135067,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bceh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -134791,7 +135154,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -134884,7 +135248,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -134975,7 +135340,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -135062,7 +135428,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -135147,7 +135514,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -135238,7 +135606,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdeh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -135323,7 +135692,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -135415,7 +135785,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -135505,7 +135876,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -135590,7 +135962,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "befg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -135682,7 +136055,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "befh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -135772,7 +136146,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "begh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -135862,7 +136237,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -135951,7 +136327,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -136038,7 +136415,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -136131,7 +136509,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdeh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -136218,7 +136597,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -136312,7 +136692,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -136404,7 +136785,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -136491,7 +136873,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -136585,7 +136968,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -136677,7 +137061,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -136769,7 +137154,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -136855,7 +137241,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "defg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -136948,7 +137335,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "defh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -137039,7 +137427,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "degh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -137130,7 +137519,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "dfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -137221,7 +137611,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "efgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -137310,7 +137701,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -137400,7 +137792,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -137488,7 +137881,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -137582,7 +137976,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -137672,7 +138067,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -137760,7 +138156,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abceg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -137854,7 +138251,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abceh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -137942,7 +138340,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -138037,7 +138436,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -138130,7 +138530,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -138219,7 +138620,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -138306,7 +138708,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -138399,7 +138802,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdeh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -138486,7 +138890,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -138580,7 +138985,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -138672,7 +139078,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -138759,7 +139166,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -138853,7 +139261,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -138945,7 +139354,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -139037,7 +139447,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -139128,7 +139539,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -139217,7 +139629,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -139312,7 +139725,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdeh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -139401,7 +139815,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -139497,7 +139912,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -139591,7 +140007,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -139680,7 +140097,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -139776,7 +140194,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -139870,7 +140289,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -139964,7 +140384,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -140052,7 +140473,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -140147,7 +140569,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -140240,7 +140663,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -140333,7 +140757,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -140426,7 +140851,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "aefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -140517,7 +140943,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -140606,7 +141033,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -140701,7 +141129,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdeh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -140790,7 +141219,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -140886,7 +141316,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -140980,7 +141411,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -141069,7 +141501,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -141165,7 +141598,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -141259,7 +141693,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -141353,7 +141788,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -141441,7 +141877,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -141536,7 +141973,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -141629,7 +142067,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -141722,7 +142161,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -141815,7 +142255,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "befgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -141905,7 +142346,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -142002,7 +142444,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -142097,7 +142540,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -142192,7 +142636,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -142287,7 +142732,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -142381,7 +142827,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "defgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -142474,7 +142921,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -142565,7 +143013,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -142662,7 +143111,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdeh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -142753,7 +143203,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -142851,7 +143302,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdfh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -142947,7 +143399,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -143038,7 +143491,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -143136,7 +143590,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -143232,7 +143687,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -143328,7 +143784,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -143418,7 +143875,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -143515,7 +143973,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -143610,7 +144069,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -143705,7 +144165,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -143800,7 +144261,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -143892,7 +144354,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -143991,7 +144454,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -144088,7 +144552,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -144185,7 +144650,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -144282,7 +144748,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -144378,7 +144845,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "adefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -144470,7 +144938,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -144569,7 +145038,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -144666,7 +145136,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -144763,7 +145234,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -144860,7 +145332,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -144956,7 +145429,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bdefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -145054,7 +145528,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "cdefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -145148,7 +145623,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -145249,7 +145725,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdefh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -145348,7 +145825,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdegh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -145447,7 +145925,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdfgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -145546,7 +146025,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -145644,7 +146124,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abdefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -145744,7 +146225,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "acdefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -145844,7 +146326,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "bcdefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -145946,7 +146429,8 @@
     "base_mission_id": 1228,
     "additive_overlays": "abcdefgh",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146005,7 +146489,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146066,7 +146551,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146129,7 +146615,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "b",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146192,7 +146679,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "c",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146253,7 +146741,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "d",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146317,7 +146806,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "e",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146379,7 +146869,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "f",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146444,7 +146935,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "g",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146509,7 +147001,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "ab",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146574,7 +147067,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "ac",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146637,7 +147131,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "ad",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146703,7 +147198,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "ae",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146767,7 +147263,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "af",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146834,7 +147331,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "ag",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146901,7 +147399,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bc",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -146966,7 +147465,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147034,7 +147534,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "be",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147100,7 +147601,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147169,7 +147671,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147233,7 +147736,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147300,7 +147804,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "ce",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147366,7 +147871,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147435,7 +147941,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147501,7 +148008,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "de",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147565,7 +148073,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "df",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147632,7 +148141,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "dg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147697,7 +148207,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "ef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147767,7 +148278,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "eg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147835,7 +148347,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "fg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147904,7 +148417,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abc",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -147971,7 +148485,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148041,7 +148556,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abe",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148109,7 +148625,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148180,7 +148697,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148246,7 +148764,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148315,7 +148834,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "ace",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148383,7 +148903,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148454,7 +148975,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148522,7 +149044,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "ade",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148588,7 +149111,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "adf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148657,7 +149181,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "adg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148724,7 +149249,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "aef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148796,7 +149322,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "aeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148866,7 +149393,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "afg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -148934,7 +149462,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149005,7 +149534,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bce",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149075,7 +149605,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149148,7 +149679,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149218,7 +149750,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149286,7 +149819,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149357,7 +149891,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149426,7 +149961,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149500,7 +150036,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "beg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149572,7 +150109,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149640,7 +150178,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149707,7 +150246,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149777,7 +150317,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149845,7 +150386,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149918,7 +150460,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "ceg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -149990,7 +150533,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150057,7 +150601,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "def",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150129,7 +150674,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "deg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150199,7 +150745,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "dfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150270,7 +150817,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "efg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150340,7 +150888,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcd",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150413,7 +150962,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abce",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150485,7 +151035,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150560,7 +151111,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150632,7 +151184,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150702,7 +151255,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150775,7 +151329,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150846,7 +151401,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150922,7 +151478,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -150996,7 +151553,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151066,7 +151624,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151135,7 +151694,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151207,7 +151767,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151277,7 +151838,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151352,7 +151914,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "aceg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151426,7 +151989,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151495,7 +152059,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "adef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151569,7 +152134,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "adeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151641,7 +152207,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "adfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151714,7 +152281,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "aefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151786,7 +152354,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151857,7 +152426,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -151931,7 +152501,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152003,7 +152574,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152080,7 +152652,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bceg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152156,7 +152729,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152227,7 +152801,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152303,7 +152878,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152377,7 +152953,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152452,7 +153029,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "befg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152521,7 +153099,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152595,7 +153174,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152668,7 +153248,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152742,7 +153323,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152815,7 +153397,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "defg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152889,7 +153472,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcde",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -152962,7 +153546,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcdf",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153038,7 +153623,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcdg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153112,7 +153698,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153191,7 +153778,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abceg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153269,7 +153857,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153342,7 +153931,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153420,7 +154010,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153496,7 +154087,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153573,7 +154165,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153644,7 +154237,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153720,7 +154314,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153795,7 +154390,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153871,7 +154467,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -153946,7 +154543,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "adefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154019,7 +154617,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154097,7 +154696,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154174,7 +154774,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154252,7 +154853,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154329,7 +154931,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154404,7 +155007,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "cdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154479,7 +155083,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcdef",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154559,7 +155164,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcdeg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154638,7 +155244,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcdfg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154718,7 +155325,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154797,7 +155405,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154874,7 +155483,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "acdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -154953,7 +155563,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "bcdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155034,7 +155645,8 @@
     "base_mission_id": 1229,
     "additive_overlays": "abcdefg",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155069,7 +155681,8 @@
     "base_mission_id": 1230,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155106,7 +155719,8 @@
     "base_mission_id": 1230,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155155,7 +155769,8 @@
     "base_mission_id": 1231,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155206,7 +155821,8 @@
     "base_mission_id": 1231,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155258,7 +155874,8 @@
     "base_mission_id": 1232,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155314,7 +155931,8 @@
     "base_mission_id": 1232,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155372,7 +155990,8 @@
     "base_mission_id": 1233,
     "additive_overlays": "",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155434,7 +156053,8 @@
     "base_mission_id": 1233,
     "additive_overlays": "a",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155494,7 +156114,8 @@
     "base_mission_id": 1233,
     "additive_overlays": "b",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155556,7 +156177,8 @@
     "base_mission_id": 1233,
     "additive_overlays": "c",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155620,7 +156242,8 @@
     "base_mission_id": 1233,
     "additive_overlays": "ab",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155686,7 +156309,8 @@
     "base_mission_id": 1233,
     "additive_overlays": "ac",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155750,7 +156374,8 @@
     "base_mission_id": 1233,
     "additive_overlays": "bc",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   },
   {
@@ -155818,7 +156443,8 @@
     "base_mission_id": 1233,
     "additive_overlays": "abc",
     "mission_categories": [
-      "fire"
+      "fire",
+      "railway_fire"
     ]
   }
 ]
