@@ -500,7 +500,7 @@ Count: 14
 | 1100   | Gevecht op markt                                                   | 670         | 2026-08-01 | False    |
 | 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-01 | False    |
 | 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-01 | False    |
-| 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-01 | False    |
+| 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-02 | False    |
 
 ## Start: 2026-07-17T09:00:00Z | End: 2026-07-19T23:59:59Z | Count: 15
 
