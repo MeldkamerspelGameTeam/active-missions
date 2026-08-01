@@ -498,7 +498,7 @@ Count: 14
 | 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-01 | False    |
 | 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-01 | False    |
 | 1100   | Gevecht op markt                                                   | 670         | 2026-08-01 | False    |
-| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-07-31 | False    |
+| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-01 | False    |
 | 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-01 | False    |
 | 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-01 | False    |
 
