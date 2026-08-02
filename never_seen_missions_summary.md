@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1047
+Count: 1046
 
 # Active never-seen missions
 
-Count: 837
+Count: 836
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -230,7 +230,6 @@ Count: 837
 | 974/ac        | Ontspoorde tram botst tegen gebouw                              | 21230       | never     | False    |
 | 974/ad        | Ontspoorde tram botst tegen gebouw                              | 26730       | never     | False    |
 | 974/bd        | Ontspoorde tram botst tegen gebouw                              | 36100       | never     | False    |
-| 974/cd        | Ontspoorde tram botst tegen gebouw                              | 26930       | never     | False    |
 | 974/abd       | Ontspoorde tram botst tegen gebouw                              | 37100       | never     | False    |
 | 974/acd       | Ontspoorde tram botst tegen gebouw                              | 27730       | never     | False    |
 | 974/bcd       | Ontspoorde tram botst tegen gebouw                              | 37350       | never     | False    |
