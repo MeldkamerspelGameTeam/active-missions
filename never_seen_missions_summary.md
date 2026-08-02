@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1049
+Count: 1048
 
 # Active never-seen missions
 
-Count: 839
+Count: 838
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -21,7 +21,6 @@ Count: 839
 | 252/ab        | Vrachtwagen te water                                            | 4930        | never     | False    |
 | 292/b         | Ongeval met trein en vrachtwagen (THV Klein)                    | 5790        | never     | False    |
 | 292/ab        | Ongeval met trein en vrachtwagen (THV Klein)                    | 6390        | never     | False    |
-| 293/b         | Ongeval met trein en vrachtwagen (THV Middel)                   | 7230        | never     | False    |
 | 293/ab        | Ongeval met trein en vrachtwagen (THV Middel)                   | 7830        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                                  | 7070        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen                    | 65350       | never     | False    |
