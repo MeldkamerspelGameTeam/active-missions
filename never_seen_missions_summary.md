@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1052
+Count: 1049
 
 # Active never-seen missions
 
-Count: 842
+Count: 839
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -24,7 +24,6 @@ Count: 842
 | 293/b         | Ongeval met trein en vrachtwagen (THV Middel)                   | 7230        | never     | False    |
 | 293/ab        | Ongeval met trein en vrachtwagen (THV Middel)                   | 7830        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                                  | 7070        | never     | False    |
-| 315/a         | Brand in passagierstrein (Groot)                                | 12620       | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen                    | 65350       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                                     | 11050       | never     | False    |
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                                     | 14562       | never     | False    |
@@ -141,7 +140,6 @@ Count: 842
 | 901/cef       | Trein ontspoord                                                 | 37337       | never     | False    |
 | 901/ceg       | Trein ontspoord                                                 | 48587       | never     | False    |
 | 901/cfg       | Trein ontspoord                                                 | 49587       | never     | False    |
-| 901/deg       | Trein ontspoord                                                 | 37720       | never     | False    |
 | 901/dfg       | Trein ontspoord                                                 | 38520       | never     | False    |
 | 901/efg       | Trein ontspoord                                                 | 37720       | never     | False    |
 | 901/abcd      | Trein ontspoord                                                 | 38087       | never     | False    |
@@ -496,7 +494,6 @@ Count: 842
 | 1206/ab       | Brand in station (Grip 1)                                       | 38000       | never     | False    |
 | 1207/ab       | Brand in station (Grip 2)                                       | 55950       | never     | False    |
 | 1227/a        | Brand in passagierstrein (Grip 1)                               | 21970       | never     | False    |
-| 1227/d        | Brand in passagierstrein (Grip 1)                               | 27820       | never     | False    |
 | 1227/ad       | Brand in passagierstrein (Grip 1)                               | 28620       | never     | False    |
 | 1227/bd       | Brand in passagierstrein (Grip 1)                               | 38462       | never     | False    |
 | 1227/cd       | Brand in passagierstrein (Grip 1)                               | 28720       | never     | False    |
