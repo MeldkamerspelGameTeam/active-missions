@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 22
+Count: 23
 
 # Active old-seen missions
 
-Count: 16
+Count: 17
 
 | ID      | Name                                     | Avg Credits | Last Seen  | Inactive |
 | ------- | ---------------------------------------- | ----------: | ---------- | -------- |
@@ -22,6 +22,7 @@ Count: 16
 | 1030/bc | Brand bij papierrecyclaar                | 64137       | 2026-06-29 | False    |
 | 1034/bd | Brand in nucleaire installatie           | 92200       | 2026-06-26 | False    |
 | 1034/be | Brand in nucleaire installatie           | 92075       | 2026-06-24 | False    |
+| 1034/ce | Brand in nucleaire installatie           | 77110       | 2026-07-03 | False    |
 | 1034/de | Brand in nucleaire installatie           | 72110       | 2026-06-28 | False    |
 | 1207/bc | Brand in station (Grip 2)                | 43560       | 2026-06-22 | False    |
 
