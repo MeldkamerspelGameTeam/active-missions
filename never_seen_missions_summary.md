@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1033
+Count: 1029
 
 # Active never-seen missions
 
-Count: 823
+Count: 819
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -221,8 +221,6 @@ Count: 823
 | 942-1/b       | Schoolbus te water                                              | 12820       | never     | False    |
 | 942-1/ab      | Schoolbus te water                                              | 13120       | never     | False    |
 | 974/b         | Ontspoorde tram botst tegen gebouw                              | 27975       | never     | False    |
-| 974/ab        | Ontspoorde tram botst tegen gebouw                              | 28975       | never     | False    |
-| 974/ac        | Ontspoorde tram botst tegen gebouw                              | 21230       | never     | False    |
 | 974/ad        | Ontspoorde tram botst tegen gebouw                              | 26730       | never     | False    |
 | 974/bd        | Ontspoorde tram botst tegen gebouw                              | 36100       | never     | False    |
 | 974/abd       | Ontspoorde tram botst tegen gebouw                              | 37100       | never     | False    |
@@ -695,7 +693,6 @@ Count: 823
 | 1228/bcefh    | Trein ontspoord na botsing met goederentrein                    | 56675       | never     | False    |
 | 1228/bcegh    | Trein ontspoord na botsing met goederentrein                    | 56175       | never     | False    |
 | 1228/bcfgh    | Trein ontspoord na botsing met goederentrein                    | 56175       | never     | False    |
-| 1228/bdefg    | Trein ontspoord na botsing met goederentrein                    | 34340       | never     | False    |
 | 1228/bdefh    | Trein ontspoord na botsing met goederentrein                    | 44190       | never     | False    |
 | 1228/bdegh    | Trein ontspoord na botsing met goederentrein                    | 43790       | never     | False    |
 | 1228/bdfgh    | Trein ontspoord na botsing met goederentrein                    | 43790       | never     | False    |
@@ -726,7 +723,6 @@ Count: 823
 | 1228/acdfgh   | Trein ontspoord na botsing met goederentrein                    | 58425       | never     | False    |
 | 1228/acefgh   | Trein ontspoord na botsing met goederentrein                    | 58675       | never     | False    |
 | 1228/adefgh   | Trein ontspoord na botsing met goederentrein                    | 45790       | never     | False    |
-| 1228/bcdefg   | Trein ontspoord na botsing met goederentrein                    | 46612       | never     | False    |
 | 1228/bcdefh   | Trein ontspoord na botsing met goederentrein                    | 58925       | never     | False    |
 | 1228/bcdegh   | Trein ontspoord na botsing met goederentrein                    | 58425       | never     | False    |
 | 1228/bcdfgh   | Trein ontspoord na botsing met goederentrein                    | 58425       | never     | False    |
