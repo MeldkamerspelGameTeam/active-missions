@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1022
+Count: 1021
 
 # Active never-seen missions
 
-Count: 812
+Count: 811
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -17,7 +17,6 @@ Count: 812
 | 125           | Vermist persoon                                                 | 3500        | never     | False    |
 | 181/a         | Verkeersongeval met beknelling                                  | 2890        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein)                 | 2240        | never     | False    |
-| 208           | Personenauto te water                                           | 4350        | never     | False    |
 | 252/ab        | Vrachtwagen te water                                            | 4930        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                                  | 7070        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen                    | 65350       | never     | False    |
