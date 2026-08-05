@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1026
+Count: 1025
 
 # Active never-seen missions
 
-Count: 816
+Count: 815
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -19,7 +19,6 @@ Count: 816
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein)                 | 2240        | never     | False    |
 | 208           | Personenauto te water                                           | 4350        | never     | False    |
 | 252/ab        | Vrachtwagen te water                                            | 4930        | never     | False    |
-| 293/ab        | Ongeval met trein en vrachtwagen (THV Middel)                   | 7830        | never     | False    |
 | 312/ab        | Lekkende goederenwagon (Groot)                                  | 7070        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen                    | 65350       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                                     | 11050       | never     | False    |
