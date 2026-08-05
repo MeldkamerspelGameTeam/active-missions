@@ -1413,7 +1413,7 @@
   "929/abcd": "newly_discovered",
   "929/abcde": "newly_discovered",
   "929/abce": "newly_discovered",
-  "929/abd": "newly_discovered",
+  "929/abd": "newly_active",
   "929/abde": "newly_discovered",
   "929/abe": "newly_discovered",
   "929/ac": "old_seen",
