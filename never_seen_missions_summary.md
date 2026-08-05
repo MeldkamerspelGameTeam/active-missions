@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1025
+Count: 1023
 
 # Active never-seen missions
 
-Count: 815
+Count: 813
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -462,7 +462,6 @@ Count: 815
 | 1104/be       | Aanrijding trein & betonmixer                                   | 30037       | never     | False    |
 | 1104/ce       | Aanrijding trein & betonmixer                                   | 22080       | never     | False    |
 | 1104/abe      | Aanrijding trein & betonmixer                                   | 31037       | never     | False    |
-| 1104/acd      | Aanrijding trein & betonmixer                                   | 16780       | never     | False    |
 | 1104/ace      | Aanrijding trein & betonmixer                                   | 22880       | never     | False    |
 | 1104/ade      | Aanrijding trein & betonmixer                                   | 22480       | never     | False    |
 | 1104/bce      | Aanrijding trein & betonmixer                                   | 31287       | never     | False    |
@@ -782,7 +781,6 @@ Count: 815
 | 1229/abdg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 58800       | never     | False    |
 | 1229/abeg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 58925       | never     | False    |
 | 1229/abfg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 63800       | never     | False    |
-| 1229/acdf     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 41190       | never     | False    |
 | 1229/acdg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 46090       | never     | False    |
 | 1229/acef     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 41290       | never     | False    |
 | 1229/aceg     | Dieseltrein met gevaarlijke stoffen ontspoord                   | 46190       | never     | False    |
