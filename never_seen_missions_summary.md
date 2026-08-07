@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1008
+Count: 1006
 
 # Active never-seen missions
 
-Count: 798
+Count: 796
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -13,7 +13,6 @@ Count: 798
 | 41            | Brand in kantoorpand                                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                                  | 12030       | never     | False    |
 | 59            | Brand in opslagloods                                            | 13710       | never     | False    |
-| 117           | Voetbalwedstrijd, risicowedstrijd                               | 17910       | never     | False    |
 | 125           | Vermist persoon                                                 | 3500        | never     | False    |
 | 181/a         | Verkeersongeval met beknelling                                  | 2890        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein)                 | 2240        | never     | False    |
@@ -261,7 +260,6 @@ Count: 798
 | 1034/bcf      | Brand in nucleaire installatie                                  | 99950       | never     | False    |
 | 1034/bcg      | Brand in nucleaire installatie                                  | 100450      | never     | False    |
 | 1034/bde      | Brand in nucleaire installatie                                  | 93825       | never     | False    |
-| 1034/bdf      | Brand in nucleaire installatie                                  | 93700       | never     | False    |
 | 1034/bdg      | Brand in nucleaire installatie                                  | 94200       | never     | False    |
 | 1034/bdh      | Brand in nucleaire installatie                                  | 93262       | never     | False    |
 | 1034/bef      | Brand in nucleaire installatie                                  | 93575       | never     | False    |
