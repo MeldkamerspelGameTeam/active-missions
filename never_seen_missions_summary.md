@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1011
+Count: 1010
 
 # Active never-seen missions
 
-Count: 801
+Count: 800
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -480,7 +480,6 @@ Count: 801
 | 1227/acd      | Brand in passagierstrein (Grip 1)                               | 29520       | never     | False    |
 | 1227/bcd      | Brand in passagierstrein (Grip 1)                               | 39587       | never     | False    |
 | 1227/abcd     | Brand in passagierstrein (Grip 1)                               | 40587       | never     | False    |
-| 1228          | Trein ontspoord na botsing met goederentrein                    | 26140       | never     | False    |
 | 1228/a        | Trein ontspoord na botsing met goederentrein                    | 26940       | never     | False    |
 | 1228/b        | Trein ontspoord na botsing met goederentrein                    | 26940       | never     | False    |
 | 1228/e        | Trein ontspoord na botsing met goederentrein                    | 28140       | never     | False    |
