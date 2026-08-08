@@ -1,15 +1,16 @@
 # Old seen missions (older than 30 days)
 
-Count: 21
+Count: 36
 
 # Active old-seen missions
 
-Count: 15
+Count: 16
 
 | ID      | Name                                     | Avg Credits | Last Seen  | Inactive |
 | ------- | ---------------------------------------- | ----------: | ---------- | -------- |
 | 312/abc | Lekkende goederenwagon (Groot)           | 7870        | 2026-06-28 | False    |
 | 492-2/a | Ongeregeldheden voetbalsupporters horeca | 8110        | 2026-07-02 | False    |
+| 880/b   | Duinbrand (Grip 2)                       | 41684       | 2026-07-08 | False    |
 | 885/ce  | Brand in vuurwerkopslag                  | 54670       | 2026-06-24 | False    |
 | 885/abc | Brand in vuurwerkopslag                  | 72025       | 2026-07-04 | False    |
 | 892     | 1000 Politiebureau mijlpaal              | 50000       | 2026-06-21 | False    |
@@ -26,13 +27,27 @@ Count: 15
 
 # Inactive old-seen missions
 
-Count: 6
+Count: 20
 
 | ID     | Name                                       | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------ | ----------: | ---------- | -------- |
+| 578    | Paasei dief                                | 500         | 2026-07-08 | True     |
+| 580    | Ingestort konijnenhol                      | 2440        | 2026-07-08 | True     |
+| 581    | Aangevallen Paashaas                       | 500         | 2026-07-08 | True     |
+| 583    | Lekkende chocoladevrachtwagen              | 5000        | 2026-07-08 | True     |
+| 586    | Gekantelde paaseivrachtwagen               | 1420        | 2026-07-08 | True     |
+| 587    | Prioriteit: paasei-jacht                   | 1350        | 2026-07-08 | True     |
+| 588    | Paashaas in een kraan                      | 1690        | 2026-07-08 | True     |
+| 935    | Gesmolten chocolade haas                   | 500         | 2026-07-08 | True     |
+| 936    | Bliksem treft konijnenhol                  | 2600        | 2026-07-08 | True     |
+| 937    | Chocolade haas opgesloten in auto          | 250         | 2026-07-08 | True     |
 | 1037   | Barbecuebrand                              | 500         | 2026-06-22 | True     |
 | 1038   | Slaapkamerbrand door kaars                 | 500         | 2026-06-22 | True     |
 | 1039   | Vader vermist                              | 840         | 2026-06-22 | True     |
 | 1039-0 | Vader vermist                              | 3480        | 2026-06-22 | True     |
 | 1040   | Ongeval tijdens maken Vaderdag cadeau      | None        | 2026-06-22 | True     |
 | 1041   | Kind gewond tijdens maken Vaderdag ontbijt | None        | 2026-06-22 | True     |
+| 1141   | Brand in chocolade-eierenfabriek           | 13755       | 2026-07-08 | True     |
+| 1142   | Onaangekondigde paashaasstaking            | 7500        | 2026-07-08 | True     |
+| 1197   | Vrachtwagen met eierpunch gekanteld        | 1760        | 2026-07-08 | True     |
+| 1198   | Paaseieren vermist                         | 1670        | 2026-07-08 | True     |
