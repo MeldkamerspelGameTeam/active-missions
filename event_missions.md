@@ -491,15 +491,15 @@ Count: 14
 | 618    | Hitteslag                                                          | 250         | 2026-08-09 | False    |
 | 619    | Hittekramp                                                         | 250         | 2026-08-09 | False    |
 | 620    | Uitgedroogde persoon                                               | 250         | 2026-08-09 | False    |
-| 621    | Barbecuebrand                                                      | 500         | 2026-08-09 | False    |
+| 621    | Barbecuebrand                                                      | 500         | 2026-08-10 | False    |
 | 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-08-08 | False    |
 | 831    | Verontreinigde ijscokar                                            | 1350        | 2026-08-09 | False    |
-| 832    | Illegaal kampvuur in park                                          | 670         | 2026-08-09 | False    |
-| 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-09 | False    |
-| 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-08 | False    |
+| 832    | Illegaal kampvuur in park                                          | 670         | 2026-08-10 | False    |
+| 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-10 | False    |
+| 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-10 | False    |
 | 1100   | Gevecht op markt                                                   | 670         | 2026-08-09 | False    |
 | 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-09 | False    |
-| 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-09 | False    |
+| 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-10 | False    |
 | 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-09 | False    |
 
 ## Start: 2026-07-17T09:00:00Z | End: 2026-07-19T23:59:59Z | Count: 15
