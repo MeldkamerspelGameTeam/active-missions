@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 996
+Count: 995
 
 # Active never-seen missions
 
-Count: 786
+Count: 785
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -17,7 +17,6 @@ Count: 786
 | 181/a         | Verkeersongeval met beknelling                                  | 2890        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein)                 | 2240        | never     | False    |
 | 252/ab        | Vrachtwagen te water                                            | 4930        | never     | False    |
-| 312/ab        | Lekkende goederenwagon (Groot)                                  | 7070        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen                    | 65350       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                                     | 11050       | never     | False    |
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                                     | 14562       | never     | False    |
