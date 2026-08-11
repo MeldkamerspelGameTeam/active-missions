@@ -1,16 +1,17 @@
 # Old seen missions (older than 30 days)
 
-Count: 36
+Count: 38
 
 # Active old-seen missions
 
-Count: 16
+Count: 18
 
 | ID       | Name                                     | Avg Credits | Last Seen  | Inactive |
 | -------- | ---------------------------------------- | ----------: | ---------- | -------- |
 | 312/abc  | Lekkende goederenwagon (Groot)           | 7870        | 2026-06-28 | False    |
 | 492-2/a  | Ongeregeldheden voetbalsupporters horeca | 8110        | 2026-07-02 | False    |
 | 885/ce   | Brand in vuurwerkopslag                  | 54670       | 2026-06-24 | False    |
+| 885/cf   | Brand in vuurwerkopslag                  | 55070       | 2026-07-11 | False    |
 | 885/abc  | Brand in vuurwerkopslag                  | 72025       | 2026-07-04 | False    |
 | 885/acef | Brand in vuurwerkopslag                  | 56670       | 2026-07-09 | False    |
 | 892      | 1000 Politiebureau mijlpaal              | 50000       | 2026-06-21 | False    |
@@ -24,6 +25,7 @@ Count: 16
 | 1034/ce  | Brand in nucleaire installatie           | 77110       | 2026-07-03 | False    |
 | 1034/de  | Brand in nucleaire installatie           | 72110       | 2026-06-28 | False    |
 | 1034/fg  | Brand in nucleaire installatie           | 72210       | 2026-07-09 | False    |
+| 1034/ade | Brand in nucleaire installatie           | 72910       | 2026-07-11 | False    |
 
 # Inactive old-seen missions
 
