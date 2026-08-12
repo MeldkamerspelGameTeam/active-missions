@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 38
+Count: 40
 
 # Active old-seen missions
 
-Count: 18
+Count: 20
 
 | ID       | Name                                     | Avg Credits | Last Seen  | Inactive |
 | -------- | ---------------------------------------- | ----------: | ---------- | -------- |
@@ -18,6 +18,7 @@ Count: 18
 | 897-2/a  | Rellen na stadsderby                     | 19355       | 2026-06-30 | False    |
 | 929/ac   | Brand in gasverdeelstation               | 32510       | 2026-06-23 | False    |
 | 929/de   | Brand in gasverdeelstation               | 27960       | 2026-07-04 | False    |
+| 929/abc  | Brand in gasverdeelstation               | 44325       | 2026-07-12 | False    |
 | 1030/ac  | Brand bij papierrecyclaar                | 49160       | 2026-07-02 | False    |
 | 1030/bc  | Brand bij papierrecyclaar                | 64137       | 2026-06-29 | False    |
 | 1034/bd  | Brand in nucleaire installatie           | 92200       | 2026-06-26 | False    |
@@ -26,6 +27,7 @@ Count: 18
 | 1034/de  | Brand in nucleaire installatie           | 72110       | 2026-06-28 | False    |
 | 1034/fg  | Brand in nucleaire installatie           | 72210       | 2026-07-09 | False    |
 | 1034/ade | Brand in nucleaire installatie           | 72910       | 2026-07-11 | False    |
+| 1207/b   | Brand in station (Grip 2)                | 42760       | 2026-07-12 | False    |
 
 # Inactive old-seen missions
 
