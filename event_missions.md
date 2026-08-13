@@ -489,7 +489,7 @@ Count: 14
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
 | 617    | Zonnesteek                                                         | 250         | 2026-08-13 | False    |
 | 618    | Hitteslag                                                          | 250         | 2026-08-13 | False    |
-| 619    | Hittekramp                                                         | 250         | 2026-08-13 | False    |
+| 619    | Hittekramp                                                         | 250         | 2026-08-14 | False    |
 | 620    | Uitgedroogde persoon                                               | 250         | 2026-08-13 | False    |
 | 621    | Barbecuebrand                                                      | 500         | 2026-08-13 | False    |
 | 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-08-12 | False    |
