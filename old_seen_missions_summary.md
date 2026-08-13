@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 41
+Count: 40
 
 # Active old-seen missions
 
-Count: 21
+Count: 20
 
 | ID       | Name                                     | Avg Credits | Last Seen  | Inactive |
 | -------- | ---------------------------------------- | ----------: | ---------- | -------- |
@@ -20,7 +20,6 @@ Count: 21
 | 929/de   | Brand in gasverdeelstation               | 27960       | 2026-07-04 | False    |
 | 929/abc  | Brand in gasverdeelstation               | 44325       | 2026-07-12 | False    |
 | 1030/ac  | Brand bij papierrecyclaar                | 49160       | 2026-07-02 | False    |
-| 1030/bc  | Brand bij papierrecyclaar                | 64137       | 2026-06-29 | False    |
 | 1034/bd  | Brand in nucleaire installatie           | 92200       | 2026-06-26 | False    |
 | 1034/be  | Brand in nucleaire installatie           | 92075       | 2026-06-24 | False    |
 | 1034/ce  | Brand in nucleaire installatie           | 77110       | 2026-07-03 | False    |

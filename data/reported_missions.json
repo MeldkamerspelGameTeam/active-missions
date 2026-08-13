@@ -1610,7 +1610,7 @@
   "1030/acd": "newly_active",
   "1030/ad": "newly_active",
   "1030/b": "newly_active",
-  "1030/bc": "old_seen",
+  "1030/bc": "back_active",
   "1030/bcd": "newly_discovered",
   "1030/bd": "newly_active",
   "1030/c": "newly_active",
