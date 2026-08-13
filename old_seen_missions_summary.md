@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 40
+Count: 41
 
 # Active old-seen missions
 
-Count: 20
+Count: 21
 
 | ID       | Name                                     | Avg Credits | Last Seen  | Inactive |
 | -------- | ---------------------------------------- | ----------: | ---------- | -------- |
@@ -27,6 +27,7 @@ Count: 20
 | 1034/de  | Brand in nucleaire installatie           | 72110       | 2026-06-28 | False    |
 | 1034/fg  | Brand in nucleaire installatie           | 72210       | 2026-07-09 | False    |
 | 1034/ade | Brand in nucleaire installatie           | 72910       | 2026-07-11 | False    |
+| 1034/bch | Brand in nucleaire installatie           | 99512       | 2026-07-13 | False    |
 | 1207/b   | Brand in station (Grip 2)                | 42760       | 2026-07-12 | False    |
 
 # Inactive old-seen missions
