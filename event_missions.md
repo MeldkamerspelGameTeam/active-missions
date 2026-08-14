@@ -490,7 +490,7 @@ Count: 14
 | 617    | Zonnesteek                                                         | 250         | 2026-08-14 | False    |
 | 618    | Hitteslag                                                          | 250         | 2026-08-14 | False    |
 | 619    | Hittekramp                                                         | 250         | 2026-08-14 | False    |
-| 620    | Uitgedroogde persoon                                               | 250         | 2026-08-13 | False    |
+| 620    | Uitgedroogde persoon                                               | 250         | 2026-08-14 | False    |
 | 621    | Barbecuebrand                                                      | 500         | 2026-08-14 | False    |
 | 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-08-12 | False    |
 | 831    | Verontreinigde ijscokar                                            | 1350        | 2026-08-14 | False    |
@@ -498,9 +498,9 @@ Count: 14
 | 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-14 | False    |
 | 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-14 | False    |
 | 1100   | Gevecht op markt                                                   | 670         | 2026-08-14 | False    |
-| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-13 | False    |
-| 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-13 | False    |
-| 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-13 | False    |
+| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-14 | False    |
+| 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-14 | False    |
+| 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-14 | False    |
 
 ## Start: 2026-07-17T09:00:00Z | End: 2026-07-19T23:59:59Z | Count: 15
 

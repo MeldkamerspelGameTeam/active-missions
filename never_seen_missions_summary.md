@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 980
+Count: 979
 
 # Active never-seen missions
 
-Count: 770
+Count: 769
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -708,7 +708,6 @@ Count: 770
 | 1229/ae       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 33590       | never     | False    |
 | 1229/ag       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 42390       | never     | False    |
 | 1229/bc       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 44925       | never     | False    |
-| 1229/bd       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 44550       | never     | False    |
 | 1229/bg       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 55675       | never     | False    |
 | 1229/cd       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 34690       | never     | False    |
 | 1229/ce       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 34790       | never     | False    |
