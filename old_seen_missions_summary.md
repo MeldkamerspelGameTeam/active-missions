@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 43
+Count: 42
 
 # Active old-seen missions
 
-Count: 23
+Count: 22
 
 | ID       | Name                                     | Avg Credits | Last Seen  | Inactive |
 | -------- | ---------------------------------------- | ----------: | ---------- | -------- |
@@ -13,7 +13,6 @@ Count: 23
 | 763/a    | Toezicht bij manifestatie                | 5515        | 2026-07-14 | False    |
 | 885/cd   | Brand in vuurwerkopslag                  | 54520       | 2026-07-14 | False    |
 | 885/ce   | Brand in vuurwerkopslag                  | 54670       | 2026-06-24 | False    |
-| 885/cf   | Brand in vuurwerkopslag                  | 55070       | 2026-07-11 | False    |
 | 885/abc  | Brand in vuurwerkopslag                  | 72025       | 2026-07-04 | False    |
 | 885/acef | Brand in vuurwerkopslag                  | 56670       | 2026-07-09 | False    |
 | 892      | 1000 Politiebureau mijlpaal              | 50000       | 2026-06-21 | False    |
