@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 976
+Count: 972
 
 # Active never-seen missions
 
-Count: 766
+Count: 762
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -170,9 +170,7 @@ Count: 766
 | 901/acdfg     | Trein ontspoord                                                 | 52837       | never     | False    |
 | 901/acefg     | Trein ontspoord                                                 | 51837       | never     | False    |
 | 901/adefg     | Trein ontspoord                                                 | 40320       | never     | False    |
-| 901/bcdeg     | Trein ontspoord                                                 | 51837       | never     | False    |
 | 901/bcdfg     | Trein ontspoord                                                 | 52837       | never     | False    |
-| 901/bdefg     | Trein ontspoord                                                 | 40320       | never     | False    |
 | 901/cdefg     | Trein ontspoord                                                 | 53087       | never     | False    |
 | 901/abcdeg    | Trein ontspoord                                                 | 52837       | never     | False    |
 | 901/abcdfg    | Trein ontspoord                                                 | 53837       | never     | False    |
@@ -471,7 +469,6 @@ Count: 766
 | 1228/ag       | Trein ontspoord na botsing met goederentrein                    | 28540       | never     | False    |
 | 1228/ah       | Trein ontspoord na botsing met goederentrein                    | 38390       | never     | False    |
 | 1228/bc       | Trein ontspoord na botsing met goederentrein                    | 37362       | never     | False    |
-| 1228/bd       | Trein ontspoord na botsing met goederentrein                    | 28740       | never     | False    |
 | 1228/be       | Trein ontspoord na botsing met goederentrein                    | 28940       | never     | False    |
 | 1228/bg       | Trein ontspoord na botsing met goederentrein                    | 28540       | never     | False    |
 | 1228/bh       | Trein ontspoord na botsing met goederentrein                    | 38390       | never     | False    |
@@ -699,7 +696,6 @@ Count: 766
 | 1228/abcdefgh | Trein ontspoord na botsing met goederentrein                    | 61925       | never     | False    |
 | 1229/c        | Dieseltrein met gevaarlijke stoffen ontspoord                   | 32990       | never     | False    |
 | 1229/d        | Dieseltrein met gevaarlijke stoffen ontspoord                   | 32690       | never     | False    |
-| 1229/e        | Dieseltrein met gevaarlijke stoffen ontspoord                   | 32790       | never     | False    |
 | 1229/ac       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 33790       | never     | False    |
 | 1229/ad       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 33490       | never     | False    |
 | 1229/ae       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 33590       | never     | False    |
