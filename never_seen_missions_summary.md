@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 978
+Count: 977
 
 # Active never-seen missions
 
-Count: 768
+Count: 767
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -14,7 +14,6 @@ Count: 768
 | 43            | Kettingbotsing                                                  | 12030       | never     | False    |
 | 59            | Brand in opslagloods                                            | 13710       | never     | False    |
 | 125           | Vermist persoon                                                 | 3500        | never     | False    |
-| 181/a         | Verkeersongeval met beknelling                                  | 2890        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein)                 | 2240        | never     | False    |
 | 252/ab        | Vrachtwagen te water                                            | 4930        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen                    | 65350       | never     | False    |
