@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 968
+Count: 964
 
 # Active never-seen missions
 
-Count: 758
+Count: 754
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -255,7 +255,6 @@ Count: 758
 | 1034/cfg      | Brand in nucleaire installatie                                  | 78610       | never     | False    |
 | 1034/cfh      | Brand in nucleaire installatie                                  | 77860       | never     | False    |
 | 1034/cgh      | Brand in nucleaire installatie                                  | 78260       | never     | False    |
-| 1034/def      | Brand in nucleaire installatie                                  | 73310       | never     | False    |
 | 1034/deg      | Brand in nucleaire installatie                                  | 73710       | never     | False    |
 | 1034/deh      | Brand in nucleaire installatie                                  | 72960       | never     | False    |
 | 1034/dfg      | Brand in nucleaire installatie                                  | 73610       | never     | False    |
@@ -702,7 +701,6 @@ Count: 758
 | 1229/ce       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 34790       | never     | False    |
 | 1229/cf       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 38690       | never     | False    |
 | 1229/cg       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 43590       | never     | False    |
-| 1229/df       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 38390       | never     | False    |
 | 1229/dg       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 43290       | never     | False    |
 | 1229/ef       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 38490       | never     | False    |
 | 1229/eg       | Dieseltrein met gevaarlijke stoffen ontspoord                   | 43390       | never     | False    |
@@ -714,7 +712,6 @@ Count: 758
 | 1229/adg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 44090       | never     | False    |
 | 1229/aeg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 44190       | never     | False    |
 | 1229/afg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 48090       | never     | False    |
-| 1229/bcg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 58175       | never     | False    |
 | 1229/bdg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 57800       | never     | False    |
 | 1229/beg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 57925       | never     | False    |
 | 1229/bfg      | Dieseltrein met gevaarlijke stoffen ontspoord                   | 62800       | never     | False    |
@@ -756,7 +753,6 @@ Count: 758
 | 1229/acdfg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 51790       | never     | False    |
 | 1229/acefg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 51890       | never     | False    |
 | 1229/bcdeg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 62550       | never     | False    |
-| 1229/bcdfg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 67425       | never     | False    |
 | 1229/bcefg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 67550       | never     | False    |
 | 1229/bdefg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 67175       | never     | False    |
 | 1229/cdefg    | Dieseltrein met gevaarlijke stoffen ontspoord                   | 52790       | never     | False    |
