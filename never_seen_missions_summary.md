@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 969
+Count: 968
 
 # Active never-seen missions
 
-Count: 759
+Count: 758
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -448,7 +448,6 @@ Count: 759
 | 1203/ab       | Brand in ziekenhuis (Grip 2)                                    | 28562       | never     | False    |
 | 1203/bc       | Brand in ziekenhuis (Grip 2)                                    | 21650       | never     | False    |
 | 1206/b        | Brand in station (Grip 1)                                       | 28400       | never     | False    |
-| 1207/ab       | Brand in station (Grip 2)                                       | 55950       | never     | False    |
 | 1227/ad       | Brand in passagierstrein (Grip 1)                               | 28620       | never     | False    |
 | 1227/bd       | Brand in passagierstrein (Grip 1)                               | 38462       | never     | False    |
 | 1227/abd      | Brand in passagierstrein (Grip 1)                               | 39462       | never     | False    |
