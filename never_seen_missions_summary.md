@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 971
+Count: 970
 
 # Active never-seen missions
 
-Count: 761
+Count: 760
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -28,7 +28,6 @@ Count: 761
 | 435           | Lekkende tankwagen                                              | 6660        | never     | False    |
 | 484           | Vat met gevaarlijke stoffen omgevallen                          | 3880        | never     | False    |
 | 485           | Vat met gevaarlijke stoffen omgevallen                          | 6660        | never     | False    |
-| 492/a         | Ongeregeldheden voetbalsupporters horeca                        | 6810        | never     | False    |
 | 497/a         | Personenauto te water                                           | 5650        | never     | False    |
 | 592           | Brand op bedrijventerrein                                       | 12540       | never     | False    |
 | 787/abc       | Persoon bekneld in gierput                                      | 7110        | never     | False    |
