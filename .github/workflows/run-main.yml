@@ -48,6 +48,7 @@ jobs:
           fi
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD }}
+          DISCORD_WEBHOOK_URL_2: ${{ secrets.DISCORD_WEBHOOK_URL_2 }}
 
       - name: Run midnight reports (Dutch 00:00 hour only)
         run: |

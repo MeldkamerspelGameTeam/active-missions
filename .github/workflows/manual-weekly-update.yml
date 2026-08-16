@@ -23,6 +23,7 @@ jobs:
         run: python scripts/send_weekly_discord_summary.py
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD }}
+          DISCORD_WEBHOOK_URL_2: ${{ secrets.DISCORD_WEBHOOK_URL_2 }}
 
       - name: Commit weekly status marker
         run: |

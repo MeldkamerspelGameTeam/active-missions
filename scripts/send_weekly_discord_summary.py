@@ -145,12 +145,7 @@ def build_weekly_payload(missions: list[dict[str, Any]], now_utc: datetime, days
     }
 
 
-def send_discord(payload: dict[str, Any]) -> bool:
-    webhook_url = os.environ.get("DISCORD_WEBHOOK_URL")
-    if not webhook_url:
-        print("DISCORD_WEBHOOK_URL is not configured; skipping weekly summary.")
-        return False
-
+def send_discord(payload: dict[str, Any], webhook_url: str) -> bool:
     try:
         data = json.dumps(payload).encode("utf-8")
         req = urllib.request.Request(
@@ -189,9 +184,35 @@ def main() -> None:
         print("data/inzetten_ids.json is missing or invalid; cannot build weekly summary.")
         return
 
+    webhook_urls = [
+        url
+        for url in (os.environ.get("DISCORD_WEBHOOK_URL"), os.environ.get("DISCORD_WEBHOOK_URL_2"))
+        if url
+    ]
+    if not webhook_urls:
+        print("No Discord webhook URLs configured; skipping weekly summary.")
+        return
+
     payload = build_weekly_payload(missions, now_utc, days=30)
-    if send_discord(payload):
-        # Only save the weekly marker to separate file
+    second_webhook_url = os.environ.get("DISCORD_WEBHOOK_URL_2")
+
+    results = []
+    for url in webhook_urls:
+        if url == second_webhook_url:
+            payload_for_url = dict(payload)
+            payload_for_url["embeds"] = payload["embeds"] + [
+                {
+                    "description": "[More information](https://discordapp.com/channels/502098937855868949/502102833877745676/1533178428096778452)",
+                    "color": 3447003,
+                }
+            ]
+        else:
+            payload_for_url = payload
+        results.append(send_discord(payload_for_url, url))
+
+    # Require at least one successful send before marking the week as reported.
+    sent = any(results)
+    if sent:
         save_weekly_status({marker: "weekly_summary"})
         print(f"Sent weekly summary and stored marker {marker}.")
     else:
