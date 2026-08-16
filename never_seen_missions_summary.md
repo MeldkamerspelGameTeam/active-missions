@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 963
+Count: 962
 
 # Active never-seen missions
 
-Count: 753
+Count: 752
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -94,7 +94,6 @@ Count: 753
 | 901/cg        | Trein ontspoord                                                 | 47337       | never     | False    |
 | 901/de        | Trein ontspoord                                                 | 26920       | never     | False    |
 | 901/dg        | Trein ontspoord                                                 | 36720       | never     | False    |
-| 901/eg        | Trein ontspoord                                                 | 35920       | never     | False    |
 | 901/fg        | Trein ontspoord                                                 | 36720       | never     | False    |
 | 901/abd       | Trein ontspoord                                                 | 27520       | never     | False    |
 | 901/abe       | Trein ontspoord                                                 | 26720       | never     | False    |
