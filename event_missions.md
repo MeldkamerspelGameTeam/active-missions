@@ -488,9 +488,9 @@ Count: 14
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
 | 617    | Zonnesteek                                                         | 250         | 2026-08-17 | False    |
-| 618    | Hitteslag                                                          | 250         | 2026-08-16 | False    |
+| 618    | Hitteslag                                                          | 250         | 2026-08-17 | False    |
 | 619    | Hittekramp                                                         | 250         | 2026-08-17 | False    |
-| 620    | Uitgedroogde persoon                                               | 250         | 2026-08-16 | False    |
+| 620    | Uitgedroogde persoon                                               | 250         | 2026-08-17 | False    |
 | 621    | Barbecuebrand                                                      | 500         | 2026-08-17 | False    |
 | 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-08-17 | False    |
 | 831    | Verontreinigde ijscokar                                            | 1350        | 2026-08-17 | False    |
@@ -498,7 +498,7 @@ Count: 14
 | 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-17 | False    |
 | 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-17 | False    |
 | 1100   | Gevecht op markt                                                   | 670         | 2026-08-17 | False    |
-| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-16 | False    |
+| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-17 | False    |
 | 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-17 | False    |
 | 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-17 | False    |
 
