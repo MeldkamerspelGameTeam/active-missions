@@ -1,41 +1,42 @@
 # Old seen missions (older than 30 days)
 
-Count: 44
+Count: 46
 
 # Active old-seen missions
 
-Count: 24
+Count: 25
 
-| ID       | Name                                     | Avg Credits | Last Seen  | Inactive |
-| -------- | ---------------------------------------- | ----------: | ---------- | -------- |
-| 312/abc  | Lekkende goederenwagon (Groot)           | 7870        | 2026-06-28 | False    |
-| 492-2/a  | Ongeregeldheden voetbalsupporters horeca | 8110        | 2026-07-02 | False    |
-| 591      | Uitslaande brand in veestal              | 10775       | 2026-07-16 | False    |
-| 663/a    | Verkeerscontrole                         | 7490        | 2026-07-16 | False    |
-| 763/a    | Toezicht bij manifestatie                | 5515        | 2026-07-14 | False    |
-| 885/cd   | Brand in vuurwerkopslag                  | 54520       | 2026-07-14 | False    |
-| 885/ce   | Brand in vuurwerkopslag                  | 54670       | 2026-06-24 | False    |
-| 885/abc  | Brand in vuurwerkopslag                  | 72025       | 2026-07-04 | False    |
-| 885/acef | Brand in vuurwerkopslag                  | 56670       | 2026-07-09 | False    |
-| 885/cdef | Brand in vuurwerkopslag                  | 56520       | 2026-07-16 | False    |
-| 892      | 1000 Politiebureau mijlpaal              | 50000       | 2026-06-21 | False    |
-| 897-2/a  | Rellen na stadsderby                     | 19355       | 2026-06-30 | False    |
-| 929/ac   | Brand in gasverdeelstation               | 32510       | 2026-06-23 | False    |
-| 929/de   | Brand in gasverdeelstation               | 27960       | 2026-07-04 | False    |
-| 929/abc  | Brand in gasverdeelstation               | 44325       | 2026-07-12 | False    |
-| 1030/ac  | Brand bij papierrecyclaar                | 49160       | 2026-07-02 | False    |
-| 1034/ac  | Brand in nucleaire installatie           | 76610       | 2026-07-14 | False    |
-| 1034/bd  | Brand in nucleaire installatie           | 92200       | 2026-06-26 | False    |
-| 1034/be  | Brand in nucleaire installatie           | 92075       | 2026-06-24 | False    |
-| 1034/de  | Brand in nucleaire installatie           | 72110       | 2026-06-28 | False    |
-| 1034/fg  | Brand in nucleaire installatie           | 72210       | 2026-07-09 | False    |
-| 1034/ade | Brand in nucleaire installatie           | 72910       | 2026-07-11 | False    |
-| 1034/bch | Brand in nucleaire installatie           | 99512       | 2026-07-13 | False    |
-| 1207/b   | Brand in station (Grip 2)                | 42760       | 2026-07-12 | False    |
+| ID       | Name                                        | Avg Credits | Last Seen  | Inactive |
+| -------- | ------------------------------------------- | ----------: | ---------- | -------- |
+| 312/abc  | Lekkende goederenwagon (Groot)              | 7870        | 2026-06-28 | False    |
+| 492-2/a  | Ongeregeldheden voetbalsupporters horeca    | 8110        | 2026-07-02 | False    |
+| 515      | Aanvaring vrachtschip met waterbus (Grip 3) | 4680        | 2026-07-18 | False    |
+| 591      | Uitslaande brand in veestal                 | 10775       | 2026-07-16 | False    |
+| 663/a    | Verkeerscontrole                            | 7490        | 2026-07-16 | False    |
+| 763/a    | Toezicht bij manifestatie                   | 5515        | 2026-07-14 | False    |
+| 885/cd   | Brand in vuurwerkopslag                     | 54520       | 2026-07-14 | False    |
+| 885/ce   | Brand in vuurwerkopslag                     | 54670       | 2026-06-24 | False    |
+| 885/abc  | Brand in vuurwerkopslag                     | 72025       | 2026-07-04 | False    |
+| 885/acef | Brand in vuurwerkopslag                     | 56670       | 2026-07-09 | False    |
+| 885/cdef | Brand in vuurwerkopslag                     | 56520       | 2026-07-16 | False    |
+| 892      | 1000 Politiebureau mijlpaal                 | 50000       | 2026-06-21 | False    |
+| 897-2/a  | Rellen na stadsderby                        | 19355       | 2026-06-30 | False    |
+| 929/ac   | Brand in gasverdeelstation                  | 32510       | 2026-06-23 | False    |
+| 929/de   | Brand in gasverdeelstation                  | 27960       | 2026-07-04 | False    |
+| 929/abc  | Brand in gasverdeelstation                  | 44325       | 2026-07-12 | False    |
+| 1030/ac  | Brand bij papierrecyclaar                   | 49160       | 2026-07-02 | False    |
+| 1034/ac  | Brand in nucleaire installatie              | 76610       | 2026-07-14 | False    |
+| 1034/bd  | Brand in nucleaire installatie              | 92200       | 2026-06-26 | False    |
+| 1034/be  | Brand in nucleaire installatie              | 92075       | 2026-06-24 | False    |
+| 1034/de  | Brand in nucleaire installatie              | 72110       | 2026-06-28 | False    |
+| 1034/fg  | Brand in nucleaire installatie              | 72210       | 2026-07-09 | False    |
+| 1034/ade | Brand in nucleaire installatie              | 72910       | 2026-07-11 | False    |
+| 1034/bch | Brand in nucleaire installatie              | 99512       | 2026-07-13 | False    |
+| 1207/b   | Brand in station (Grip 2)                   | 42760       | 2026-07-12 | False    |
 
 # Inactive old-seen missions
 
-Count: 20
+Count: 21
 
 | ID     | Name                                       | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------ | ----------: | ---------- | -------- |
@@ -49,6 +50,7 @@ Count: 20
 | 935    | Gesmolten chocolade haas                   | 500         | 2026-07-08 | True     |
 | 936    | Bliksem treft konijnenhol                  | 2600        | 2026-07-08 | True     |
 | 937    | Chocolade haas opgesloten in auto          | 250         | 2026-07-08 | True     |
+| 963    | Grote alcoholcontrole bij race-evenement   | 12390       | 2026-07-18 | True     |
 | 1037   | Barbecuebrand                              | 500         | 2026-06-22 | True     |
 | 1038   | Slaapkamerbrand door kaars                 | 500         | 2026-06-22 | True     |
 | 1039   | Vader vermist                              | 840         | 2026-06-22 | True     |
