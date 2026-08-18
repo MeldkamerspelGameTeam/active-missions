@@ -1251,7 +1251,7 @@
   "901/ab": "newly_active",
   "901/abc": "newly_active",
   "901/abcd": "newly_discovered",
-  "901/abcde": "newly_discovered",
+  "901/abcde": "newly_active",
   "901/abcdef": "newly_active",
   "901/abcdefg": "newly_discovered",
   "901/abcdeg": "newly_discovered",
