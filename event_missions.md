@@ -1,10 +1,10 @@
 # Event missions grouped by date window
 
-Event missions: 276
+Event missions: 261
 
-Active: 14 | Inactive: 262
+Active: 14 | Inactive: 247
 
-Date window groups: 27
+Date window groups: 26
 
 
 ## Start: 2024-07-26T09:00:00Z | End: 2024-08-11T23:59:59Z | Count: 7
@@ -487,41 +487,17 @@ Count: 14
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 617    | Zonnesteek                                                         | 250         | 2026-08-18 | False    |
-| 618    | Hitteslag                                                          | 250         | 2026-08-18 | False    |
-| 619    | Hittekramp                                                         | 250         | 2026-08-18 | False    |
-| 620    | Uitgedroogde persoon                                               | 250         | 2026-08-18 | False    |
-| 621    | Barbecuebrand                                                      | 500         | 2026-08-18 | False    |
+| 617    | Zonnesteek                                                         | 250         | 2026-08-19 | False    |
+| 618    | Hitteslag                                                          | 250         | 2026-08-19 | False    |
+| 619    | Hittekramp                                                         | 250         | 2026-08-19 | False    |
+| 620    | Uitgedroogde persoon                                               | 250         | 2026-08-19 | False    |
+| 621    | Barbecuebrand                                                      | 500         | 2026-08-19 | False    |
 | 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-08-18 | False    |
-| 831    | Verontreinigde ijscokar                                            | 1350        | 2026-08-18 | False    |
-| 832    | Illegaal kampvuur in park                                          | 670         | 2026-08-18 | False    |
-| 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-18 | False    |
-| 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-18 | False    |
-| 1100   | Gevecht op markt                                                   | 670         | 2026-08-18 | False    |
-| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-18 | False    |
-| 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-18 | False    |
-| 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-18 | False    |
-
-## Start: 2026-07-17T09:00:00Z | End: 2026-07-19T23:59:59Z | Count: 15
-
-# Missions
-
-Count: 15
-
-| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 963    | Grote alcoholcontrole bij race-evenement                           | 12390       | 2026-07-18 | True     |
-| 964    | Racewagen brand                                                    | 500         | 2026-07-20 | True     |
-| 965    | Crash op Circuit                                                   | 2090        | 2026-07-20 | True     |
-| 966    | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | 2026-07-19 | True     |
-| 967    | Persoon van tribune gevallen                                       | None        | 2026-07-19 | True     |
-| 968    | Uit de handgelopen overwinningsfeest                               | 7740        | 2026-07-20 | True     |
-| 969    | Illegale raceauto op snelweg                                       | 4330        | 2026-07-20 | True     |
-| 970    | Racistisch gezang van fans op de tribune                           | 1010        | 2026-07-19 | True     |
-| 971    | Protest voor racecircuit                                           | 2530        | 2026-07-20 | True     |
-| 971-0  | Protest voor racecircuit                                           | 5230        | 2026-07-19 | True     |
-| 972    | Racewinnaar viel van het podium                                    | None        | 2026-07-19 | True     |
-| 1048   | Geluidsoverlast door Racefans                                      | 500         | 2026-07-20 | True     |
-| 1049   | Racefans houden straatrace                                         | 2640        | 2026-07-20 | True     |
-| 1050   | Vergiftiging door uitlaatgassen                                    | None        | 2026-07-20 | True     |
-| 1051   | Valse kaartjes race in verkoop                                     | 1010        | 2026-07-20 | True     |
+| 831    | Verontreinigde ijscokar                                            | 1350        | 2026-08-19 | False    |
+| 832    | Illegaal kampvuur in park                                          | 670         | 2026-08-19 | False    |
+| 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-19 | False    |
+| 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-19 | False    |
+| 1100   | Gevecht op markt                                                   | 670         | 2026-08-19 | False    |
+| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-19 | False    |
+| 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-19 | False    |
+| 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-19 | False    |
