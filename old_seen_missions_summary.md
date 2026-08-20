@@ -1,6 +1,6 @@
 # Old seen missions (older than 30 days)
 
-Count: 46
+Count: 62
 
 # Active old-seen missions
 
@@ -36,7 +36,7 @@ Count: 25
 
 # Inactive old-seen missions
 
-Count: 21
+Count: 37
 
 | ID     | Name                                       | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------ | ----------: | ---------- | -------- |
@@ -47,7 +47,16 @@ Count: 21
 | 586    | Gekantelde paaseivrachtwagen               | 1420        | 2026-07-08 | True     |
 | 587    | Prioriteit: paasei-jacht                   | 1350        | 2026-07-08 | True     |
 | 588    | Paashaas in een kraan                      | 1690        | 2026-07-08 | True     |
+| 820    | Opblazen wedstrijdbal                      | 500         | 2026-07-20 | True     |
+| 821    | Spelersbus geparkeerd bij parkeerverbod    | 500         | 2026-07-20 | True     |
+| 822    | Behandeling na keepersduik                 | None        | 2026-07-20 | True     |
+| 823    | Blessure na raken lat                      | None        | 2026-07-20 | True     |
+| 824    | Doel omgevallen                            | 500         | 2026-07-20 | True     |
+| 825    | Gestolen trofee                            | 670         | 2026-07-20 | True     |
 | 826    | Bevriezing door koelspray                  | None        | 2026-07-19 | True     |
+| 827    | Keelpijn na juichen                        | None        | 2026-07-20 | True     |
+| 828    | Verloren aanvoerdersarmband                | 1500        | 2026-07-20 | True     |
+| 829    | Brandende cornervlag                       | 670         | 2026-07-20 | True     |
 | 935    | Gesmolten chocolade haas                   | 500         | 2026-07-08 | True     |
 | 936    | Bliksem treft konijnenhol                  | 2600        | 2026-07-08 | True     |
 | 937    | Chocolade haas opgesloten in auto          | 250         | 2026-07-08 | True     |
@@ -57,7 +66,14 @@ Count: 21
 | 1039-0 | Vader vermist                              | 3480        | 2026-06-22 | True     |
 | 1040   | Ongeval tijdens maken Vaderdag cadeau      | None        | 2026-06-22 | True     |
 | 1041   | Kind gewond tijdens maken Vaderdag ontbijt | None        | 2026-06-22 | True     |
+| 1083   | Brand in stadion                           | 9000        | 2026-07-20 | True     |
+| 1084   | Supporters met vuurwerk op tribune         | 1200        | 2026-07-20 | True     |
+| 1085   | Voetballer uitgegleden in douche           | None        | 2026-07-20 | True     |
+| 1086   | Paniek op de tribune                       | 1200        | 2026-07-20 | True     |
 | 1141   | Brand in chocolade-eierenfabriek           | 13755       | 2026-07-08 | True     |
 | 1142   | Onaangekondigde paashaasstaking            | 7500        | 2026-07-08 | True     |
 | 1197   | Vrachtwagen met eierpunch gekanteld        | 1760        | 2026-07-08 | True     |
 | 1198   | Paaseieren vermist                         | 1670        | 2026-07-08 | True     |
+| 1215   | Speler vermist                             | 1670        | 2026-07-20 | True     |
+| 1216   | Doorgedraaide coach                        | 670         | 2026-07-20 | True     |
+| 1217   | Ticketvervalsing                           | 500         | 2026-07-20 | True     |
