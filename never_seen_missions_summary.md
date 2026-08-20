@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 952
+Count: 951
 
 # Active never-seen missions
 
-Count: 742
+Count: 741
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -35,7 +35,6 @@ Count: 742
 | 841-0/a       | Aanrijding met zwaar letsel                                     | 7140        | never     | False    |
 | 841-0/b       | Aanrijding met zwaar letsel                                     | 7540        | never     | False    |
 | 841-0/ab      | Aanrijding met zwaar letsel                                     | 7940        | never     | False    |
-| 885/ab        | Brand in vuurwerkopslag                                         | 65525       | never     | False    |
 | 885/ef        | Brand in vuurwerkopslag                                         | 50670       | never     | False    |
 | 885/abd       | Brand in vuurwerkopslag                                         | 66337       | never     | False    |
 | 885/abe       | Brand in vuurwerkopslag                                         | 66525       | never     | False    |
