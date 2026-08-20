@@ -1,17 +1,16 @@
 # Old seen missions (older than 30 days)
 
-Count: 62
+Count: 61
 
 # Active old-seen missions
 
-Count: 25
+Count: 24
 
 | ID       | Name                                     | Avg Credits | Last Seen  | Inactive |
 | -------- | ---------------------------------------- | ----------: | ---------- | -------- |
 | 312/abc  | Lekkende goederenwagon (Groot)           | 7870        | 2026-06-28 | False    |
 | 492-2/a  | Ongeregeldheden voetbalsupporters horeca | 8110        | 2026-07-02 | False    |
 | 591      | Uitslaande brand in veestal              | 10775       | 2026-07-16 | False    |
-| 663/a    | Verkeerscontrole                         | 7490        | 2026-07-16 | False    |
 | 763/a    | Toezicht bij manifestatie                | 5515        | 2026-07-14 | False    |
 | 885/cd   | Brand in vuurwerkopslag                  | 54520       | 2026-07-14 | False    |
 | 885/ce   | Brand in vuurwerkopslag                  | 54670       | 2026-06-24 | False    |
