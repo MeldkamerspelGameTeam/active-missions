@@ -479,7 +479,7 @@ Count: 6
 | 1040   | Ongeval tijdens maken Vaderdag cadeau                              | None        | 2026-06-22 | True     |
 | 1041   | Kind gewond tijdens maken Vaderdag ontbijt                         | None        | 2026-06-22 | True     |
 
-## Start: 2026-06-26T09:00:00Z | End: 2026-08-21T09:00:00Z | Count: 14
+## Start: 2026-06-26T09:00:00Z | End: 2026-08-28T23:59:59+02:00 | Count: 14
 
 # Missions
 
