@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 954
+Count: 953
 
 # Active never-seen missions
 
-Count: 744
+Count: 743
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -199,7 +199,6 @@ Count: 744
 | 974/abd       | Ontspoorde tram botst tegen gebouw                              | 37100       | never     | False    |
 | 974/acd       | Ontspoorde tram botst tegen gebouw                              | 27730       | never     | False    |
 | 974/bcd       | Ontspoorde tram botst tegen gebouw                              | 37350       | never     | False    |
-| 974/abcd      | Ontspoorde tram botst tegen gebouw                              | 38350       | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                                | 45080       | never     | False    |
 | 993           | Straat afzetten voor politie                                    | 840         | never     | False    |
 | 1017          | Redding overboord geslagen slachtoffers                         | 1230        | never     | False    |
