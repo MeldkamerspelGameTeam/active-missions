@@ -492,7 +492,7 @@ Count: 14
 | 619    | Hittekramp                                                         | 250         | 2026-08-21 | False    |
 | 620    | Uitgedroogde persoon                                               | 250         | 2026-08-21 | False    |
 | 621    | Barbecuebrand                                                      | 500         | 2026-08-21 | False    |
-| 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-08-20 | False    |
+| 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-08-21 | False    |
 | 831    | Verontreinigde ijscokar                                            | 1350        | 2026-08-21 | False    |
 | 832    | Illegaal kampvuur in park                                          | 670         | 2026-08-21 | False    |
 | 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-21 | False    |
