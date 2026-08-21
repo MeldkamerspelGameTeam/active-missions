@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 69
+Count: 68
 
 # Active old-seen missions
 
-Count: 32
+Count: 31
 
 | ID       | Name                                            | Avg Credits | Last Seen  | Inactive |
 | -------- | ----------------------------------------------- | ----------: | ---------- | -------- |
@@ -27,7 +27,6 @@ Count: 32
 | 966      | Aanhouding persoon zonder geldig toegangsbewijs | 775         | 2026-07-19 | False    |
 | 967      | Persoon van tribune gevallen                    | None        | 2026-07-19 | False    |
 | 968      | Uit de handgelopen overwinningsfeest            | 7740        | 2026-07-20 | False    |
-| 969      | Illegale raceauto op snelweg                    | 4330        | 2026-07-20 | False    |
 | 971      | Protest voor racecircuit                        | 2530        | 2026-07-20 | False    |
 | 971-0    | Protest voor racecircuit                        | 5230        | 2026-07-19 | False    |
 | 1030/ac  | Brand bij papierrecyclaar                       | 49160       | 2026-07-02 | False    |
