@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 77
+Count: 73
 
 # Active old-seen missions
 
-Count: 40
+Count: 36
 
 | ID       | Name                                            | Avg Credits | Last Seen  | Inactive |
 | -------- | ----------------------------------------------- | ----------: | ---------- | -------- |
@@ -26,7 +26,6 @@ Count: 40
 | 929/bde  | Brand in gasverdeelstation                      | 38637       | 2026-07-21 | False    |
 | 963      | Grote alcoholcontrole bij race-evenement        | 12390       | 2026-07-18 | False    |
 | 964      | Racewagen brand                                 | 500         | 2026-07-20 | False    |
-| 965      | Crash op Circuit                                | 2090        | 2026-07-20 | False    |
 | 966      | Aanhouding persoon zonder geldig toegangsbewijs | 775         | 2026-07-19 | False    |
 | 967      | Persoon van tribune gevallen                    | None        | 2026-07-19 | False    |
 | 968      | Uit de handgelopen overwinningsfeest            | 7740        | 2026-07-20 | False    |
@@ -43,9 +42,6 @@ Count: 40
 | 1034/fg  | Brand in nucleaire installatie                  | 72210       | 2026-07-09 | False    |
 | 1034/ade | Brand in nucleaire installatie                  | 72910       | 2026-07-11 | False    |
 | 1034/bch | Brand in nucleaire installatie                  | 99512       | 2026-07-13 | False    |
-| 1048     | Geluidsoverlast door Racefans                   | 500         | 2026-07-20 | False    |
-| 1050     | Vergiftiging door uitlaatgassen                 | None        | 2026-07-20 | False    |
-| 1051     | Valse kaartjes race in verkoop                  | 1010        | 2026-07-20 | False    |
 | 1104/b   | Aanrijding trein & betonmixer                   | 21662       | 2026-07-19 | False    |
 | 1207/b   | Brand in station (Grip 2)                       | 42760       | 2026-07-12 | False    |
 
