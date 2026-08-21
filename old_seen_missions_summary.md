@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 68
+Count: 66
 
 # Active old-seen missions
 
-Count: 31
+Count: 29
 
 | ID       | Name                                            | Avg Credits | Last Seen  | Inactive |
 | -------- | ----------------------------------------------- | ----------: | ---------- | -------- |
@@ -25,8 +25,6 @@ Count: 31
 | 929/abc  | Brand in gasverdeelstation                      | 44325       | 2026-07-12 | False    |
 | 929/bde  | Brand in gasverdeelstation                      | 38637       | 2026-07-21 | False    |
 | 966      | Aanhouding persoon zonder geldig toegangsbewijs | 775         | 2026-07-19 | False    |
-| 967      | Persoon van tribune gevallen                    | None        | 2026-07-19 | False    |
-| 968      | Uit de handgelopen overwinningsfeest            | 7740        | 2026-07-20 | False    |
 | 971      | Protest voor racecircuit                        | 2530        | 2026-07-20 | False    |
 | 971-0    | Protest voor racecircuit                        | 5230        | 2026-07-19 | False    |
 | 1030/ac  | Brand bij papierrecyclaar                       | 49160       | 2026-07-02 | False    |
