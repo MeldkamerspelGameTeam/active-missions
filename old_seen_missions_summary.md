@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 71
+Count: 70
 
 # Active old-seen missions
 
-Count: 34
+Count: 33
 
 | ID       | Name                                            | Avg Credits | Last Seen  | Inactive |
 | -------- | ----------------------------------------------- | ----------: | ---------- | -------- |
@@ -31,7 +31,6 @@ Count: 34
 | 969      | Illegale raceauto op snelweg                    | 4330        | 2026-07-20 | False    |
 | 971      | Protest voor racecircuit                        | 2530        | 2026-07-20 | False    |
 | 971-0    | Protest voor racecircuit                        | 5230        | 2026-07-19 | False    |
-| 972      | Racewinnaar viel van het podium                 | None        | 2026-07-19 | False    |
 | 1030/ac  | Brand bij papierrecyclaar                       | 49160       | 2026-07-02 | False    |
 | 1034/ac  | Brand in nucleaire installatie                  | 76610       | 2026-07-14 | False    |
 | 1034/be  | Brand in nucleaire installatie                  | 92075       | 2026-06-24 | False    |

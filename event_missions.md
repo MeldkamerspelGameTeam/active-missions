@@ -520,7 +520,7 @@ Count: 15
 | 970    | Racistisch gezang van fans op de tribune                           | 1010        | 2026-08-21 | False    |
 | 971    | Protest voor racecircuit                                           | 2530        | 2026-07-20 | False    |
 | 971-0  | Protest voor racecircuit                                           | 5230        | 2026-07-19 | False    |
-| 972    | Racewinnaar viel van het podium                                    | None        | 2026-07-19 | False    |
+| 972    | Racewinnaar viel van het podium                                    | None        | 2026-08-21 | False    |
 | 1048   | Geluidsoverlast door Racefans                                      | 500         | 2026-08-21 | False    |
 | 1049   | Racefans houden straatrace                                         | 2640        | 2026-08-21 | False    |
 | 1050   | Vergiftiging door uitlaatgassen                                    | None        | 2026-08-21 | False    |
