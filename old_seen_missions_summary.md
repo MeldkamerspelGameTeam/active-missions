@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 70
+Count: 69
 
 # Active old-seen missions
 
-Count: 33
+Count: 32
 
 | ID       | Name                                            | Avg Credits | Last Seen  | Inactive |
 | -------- | ----------------------------------------------- | ----------: | ---------- | -------- |
@@ -24,7 +24,6 @@ Count: 33
 | 929/de   | Brand in gasverdeelstation                      | 27960       | 2026-07-04 | False    |
 | 929/abc  | Brand in gasverdeelstation                      | 44325       | 2026-07-12 | False    |
 | 929/bde  | Brand in gasverdeelstation                      | 38637       | 2026-07-21 | False    |
-| 963      | Grote alcoholcontrole bij race-evenement        | 12390       | 2026-07-18 | False    |
 | 966      | Aanhouding persoon zonder geldig toegangsbewijs | 775         | 2026-07-19 | False    |
 | 967      | Persoon van tribune gevallen                    | None        | 2026-07-19 | False    |
 | 968      | Uit de handgelopen overwinningsfeest            | 7740        | 2026-07-20 | False    |

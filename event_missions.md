@@ -510,7 +510,7 @@ Count: 15
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 963    | Grote alcoholcontrole bij race-evenement                           | 12390       | 2026-07-18 | False    |
+| 963    | Grote alcoholcontrole bij race-evenement                           | 12390       | 2026-08-21 | False    |
 | 964    | Racewagen brand                                                    | 500         | 2026-08-21 | False    |
 | 965    | Crash op Circuit                                                   | 2090        | 2026-08-21 | False    |
 | 966    | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | 2026-07-19 | False    |
