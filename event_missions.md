@@ -1,10 +1,10 @@
 # Event missions grouped by date window
 
-Event missions: 261
+Event missions: 276
 
-Active: 14 | Inactive: 247
+Active: 29 | Inactive: 247
 
-Date window groups: 26
+Date window groups: 27
 
 
 ## Start: 2024-07-26T09:00:00Z | End: 2024-08-11T23:59:59Z | Count: 7
@@ -493,11 +493,35 @@ Count: 14
 | 620    | Uitgedroogde persoon                                               | 250         | 2026-08-21 | False    |
 | 621    | Barbecuebrand                                                      | 500         | 2026-08-21 | False    |
 | 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-08-20 | False    |
-| 831    | Verontreinigde ijscokar                                            | 1350        | 2026-08-20 | False    |
+| 831    | Verontreinigde ijscokar                                            | 1350        | 2026-08-21 | False    |
 | 832    | Illegaal kampvuur in park                                          | 670         | 2026-08-21 | False    |
-| 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-20 | False    |
-| 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-20 | False    |
+| 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-21 | False    |
+| 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-21 | False    |
 | 1100   | Gevecht op markt                                                   | 670         | 2026-08-21 | False    |
-| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-20 | False    |
+| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-21 | False    |
 | 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-21 | False    |
 | 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-21 | False    |
+
+## Start: 2026-08-21T09:00:00Z | End: 2026-08-23T23:59:59Z | Count: 15
+
+# Missions
+
+Count: 15
+
+| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
+| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
+| 963    | Grote alcoholcontrole bij race-evenement                           | 12390       | 2026-07-18 | False    |
+| 964    | Racewagen brand                                                    | 500         | 2026-07-20 | False    |
+| 965    | Crash op Circuit                                                   | 2090        | 2026-07-20 | False    |
+| 966    | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | 2026-07-19 | False    |
+| 967    | Persoon van tribune gevallen                                       | None        | 2026-07-19 | False    |
+| 968    | Uit de handgelopen overwinningsfeest                               | 7740        | 2026-07-20 | False    |
+| 969    | Illegale raceauto op snelweg                                       | 4330        | 2026-07-20 | False    |
+| 970    | Racistisch gezang van fans op de tribune                           | 1010        | 2026-07-19 | False    |
+| 971    | Protest voor racecircuit                                           | 2530        | 2026-07-20 | False    |
+| 971-0  | Protest voor racecircuit                                           | 5230        | 2026-07-19 | False    |
+| 972    | Racewinnaar viel van het podium                                    | None        | 2026-07-19 | False    |
+| 1048   | Geluidsoverlast door Racefans                                      | 500         | 2026-07-20 | False    |
+| 1049   | Racefans houden straatrace                                         | 2640        | 2026-08-21 | False    |
+| 1050   | Vergiftiging door uitlaatgassen                                    | None        | 2026-07-20 | False    |
+| 1051   | Valse kaartjes race in verkoop                                     | 1010        | 2026-07-20 | False    |
