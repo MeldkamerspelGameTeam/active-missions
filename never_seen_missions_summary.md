@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 951
+Count: 947
 
 # Active never-seen missions
 
-Count: 741
+Count: 737
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -192,7 +192,6 @@ Count: 741
 | 942-1/b       | Schoolbus te water                                              | 12820       | never     | False    |
 | 942-1/ab      | Schoolbus te water                                              | 13120       | never     | False    |
 | 974/b         | Ontspoorde tram botst tegen gebouw                              | 27975       | never     | False    |
-| 974/ad        | Ontspoorde tram botst tegen gebouw                              | 26730       | never     | False    |
 | 974/bd        | Ontspoorde tram botst tegen gebouw                              | 36100       | never     | False    |
 | 974/abd       | Ontspoorde tram botst tegen gebouw                              | 37100       | never     | False    |
 | 974/acd       | Ontspoorde tram botst tegen gebouw                              | 27730       | never     | False    |
@@ -426,7 +425,6 @@ Count: 741
 | 1104/ace      | Aanrijding trein & betonmixer                                   | 22880       | never     | False    |
 | 1104/ade      | Aanrijding trein & betonmixer                                   | 22480       | never     | False    |
 | 1104/bce      | Aanrijding trein & betonmixer                                   | 31287       | never     | False    |
-| 1104/bde      | Aanrijding trein & betonmixer                                   | 30787       | never     | False    |
 | 1104/cde      | Aanrijding trein & betonmixer                                   | 22680       | never     | False    |
 | 1104/abce     | Aanrijding trein & betonmixer                                   | 32287       | never     | False    |
 | 1104/abde     | Aanrijding trein & betonmixer                                   | 31787       | never     | False    |
@@ -747,8 +745,6 @@ Count: 741
 | 1229/abcdfg   | Dieseltrein met gevaarlijke stoffen ontspoord                   | 68425       | never     | False    |
 | 1229/abcefg   | Dieseltrein met gevaarlijke stoffen ontspoord                   | 68550       | never     | False    |
 | 1229/abdefg   | Dieseltrein met gevaarlijke stoffen ontspoord                   | 68175       | never     | False    |
-| 1229/acdefg   | Dieseltrein met gevaarlijke stoffen ontspoord                   | 53590       | never     | False    |
-| 1229/bcdefg   | Dieseltrein met gevaarlijke stoffen ontspoord                   | 69675       | never     | False    |
 
 # Inactive never-seen missions
 
