@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 61
+Count: 63
 
 # Active old-seen missions
 
-Count: 24
+Count: 26
 
 | ID       | Name                                     | Avg Credits | Last Seen  | Inactive |
 | -------- | ---------------------------------------- | ----------: | ---------- | -------- |
@@ -20,8 +20,10 @@ Count: 24
 | 892      | 1000 Politiebureau mijlpaal              | 50000       | 2026-06-21 | False    |
 | 897-2/a  | Rellen na stadsderby                     | 19355       | 2026-06-30 | False    |
 | 929/ac   | Brand in gasverdeelstation               | 32510       | 2026-06-23 | False    |
+| 929/bc   | Brand in gasverdeelstation               | 43325       | 2026-07-21 | False    |
 | 929/de   | Brand in gasverdeelstation               | 27960       | 2026-07-04 | False    |
 | 929/abc  | Brand in gasverdeelstation               | 44325       | 2026-07-12 | False    |
+| 929/bde  | Brand in gasverdeelstation               | 38637       | 2026-07-21 | False    |
 | 1030/ac  | Brand bij papierrecyclaar                | 49160       | 2026-07-02 | False    |
 | 1034/ac  | Brand in nucleaire installatie           | 76610       | 2026-07-14 | False    |
 | 1034/be  | Brand in nucleaire installatie           | 92075       | 2026-06-24 | False    |
