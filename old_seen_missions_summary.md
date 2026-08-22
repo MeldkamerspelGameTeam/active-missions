@@ -1,45 +1,44 @@
 # Old seen missions (older than 30 days)
 
-Count: 69
+Count: 68
 
 # Active old-seen missions
 
-Count: 32
+Count: 31
 
-| ID       | Name                                            | Avg Credits | Last Seen  | Inactive |
-| -------- | ----------------------------------------------- | ----------: | ---------- | -------- |
-| 312/abc  | Lekkende goederenwagon (Groot)                  | 7870        | 2026-06-28 | False    |
-| 347      | Brand bij afvalverwerker                        | 17500       | 2026-07-22 | False    |
-| 492-2/a  | Ongeregeldheden voetbalsupporters horeca        | 8110        | 2026-07-02 | False    |
-| 591      | Uitslaande brand in veestal                     | 10775       | 2026-07-16 | False    |
-| 763/a    | Toezicht bij manifestatie                       | 5515        | 2026-07-14 | False    |
-| 885/cd   | Brand in vuurwerkopslag                         | 54520       | 2026-07-14 | False    |
-| 885/ce   | Brand in vuurwerkopslag                         | 54670       | 2026-06-24 | False    |
-| 885/abc  | Brand in vuurwerkopslag                         | 72025       | 2026-07-04 | False    |
-| 885/acef | Brand in vuurwerkopslag                         | 56670       | 2026-07-09 | False    |
-| 885/cdef | Brand in vuurwerkopslag                         | 56520       | 2026-07-16 | False    |
-| 892      | 1000 Politiebureau mijlpaal                     | 50000       | 2026-06-21 | False    |
-| 897-2/a  | Rellen na stadsderby                            | 19355       | 2026-06-30 | False    |
-| 901/a    | Trein ontspoord                                 | 24920       | 2026-07-22 | False    |
-| 929/ac   | Brand in gasverdeelstation                      | 32510       | 2026-06-23 | False    |
-| 929/bc   | Brand in gasverdeelstation                      | 43325       | 2026-07-21 | False    |
-| 929/de   | Brand in gasverdeelstation                      | 27960       | 2026-07-04 | False    |
-| 929/abc  | Brand in gasverdeelstation                      | 44325       | 2026-07-12 | False    |
-| 929/bde  | Brand in gasverdeelstation                      | 38637       | 2026-07-21 | False    |
-| 966      | Aanhouding persoon zonder geldig toegangsbewijs | 775         | 2026-07-19 | False    |
-| 971      | Protest voor racecircuit                        | 2530        | 2026-07-20 | False    |
-| 1030/ac  | Brand bij papierrecyclaar                       | 49160       | 2026-07-02 | False    |
-| 1034/ac  | Brand in nucleaire installatie                  | 76610       | 2026-07-14 | False    |
-| 1034/be  | Brand in nucleaire installatie                  | 92075       | 2026-06-24 | False    |
-| 1034/cf  | Brand in nucleaire installatie                  | 77010       | 2026-07-22 | False    |
-| 1034/ch  | Brand in nucleaire installatie                  | 76660       | 2026-07-19 | False    |
-| 1034/de  | Brand in nucleaire installatie                  | 72110       | 2026-06-28 | False    |
-| 1034/fg  | Brand in nucleaire installatie                  | 72210       | 2026-07-09 | False    |
-| 1034/ade | Brand in nucleaire installatie                  | 72910       | 2026-07-11 | False    |
-| 1034/bch | Brand in nucleaire installatie                  | 99512       | 2026-07-13 | False    |
-| 1104/a   | Aanrijding trein & betonmixer                   | 15180       | 2026-07-22 | False    |
-| 1104/b   | Aanrijding trein & betonmixer                   | 21662       | 2026-07-19 | False    |
-| 1207/b   | Brand in station (Grip 2)                       | 42760       | 2026-07-12 | False    |
+| ID       | Name                                     | Avg Credits | Last Seen  | Inactive |
+| -------- | ---------------------------------------- | ----------: | ---------- | -------- |
+| 312/abc  | Lekkende goederenwagon (Groot)           | 7870        | 2026-06-28 | False    |
+| 347      | Brand bij afvalverwerker                 | 17500       | 2026-07-22 | False    |
+| 492-2/a  | Ongeregeldheden voetbalsupporters horeca | 8110        | 2026-07-02 | False    |
+| 591      | Uitslaande brand in veestal              | 10775       | 2026-07-16 | False    |
+| 763/a    | Toezicht bij manifestatie                | 5515        | 2026-07-14 | False    |
+| 885/cd   | Brand in vuurwerkopslag                  | 54520       | 2026-07-14 | False    |
+| 885/ce   | Brand in vuurwerkopslag                  | 54670       | 2026-06-24 | False    |
+| 885/abc  | Brand in vuurwerkopslag                  | 72025       | 2026-07-04 | False    |
+| 885/acef | Brand in vuurwerkopslag                  | 56670       | 2026-07-09 | False    |
+| 885/cdef | Brand in vuurwerkopslag                  | 56520       | 2026-07-16 | False    |
+| 892      | 1000 Politiebureau mijlpaal              | 50000       | 2026-06-21 | False    |
+| 897-2/a  | Rellen na stadsderby                     | 19355       | 2026-06-30 | False    |
+| 901/a    | Trein ontspoord                          | 24920       | 2026-07-22 | False    |
+| 929/ac   | Brand in gasverdeelstation               | 32510       | 2026-06-23 | False    |
+| 929/bc   | Brand in gasverdeelstation               | 43325       | 2026-07-21 | False    |
+| 929/de   | Brand in gasverdeelstation               | 27960       | 2026-07-04 | False    |
+| 929/abc  | Brand in gasverdeelstation               | 44325       | 2026-07-12 | False    |
+| 929/bde  | Brand in gasverdeelstation               | 38637       | 2026-07-21 | False    |
+| 971      | Protest voor racecircuit                 | 2530        | 2026-07-20 | False    |
+| 1030/ac  | Brand bij papierrecyclaar                | 49160       | 2026-07-02 | False    |
+| 1034/ac  | Brand in nucleaire installatie           | 76610       | 2026-07-14 | False    |
+| 1034/be  | Brand in nucleaire installatie           | 92075       | 2026-06-24 | False    |
+| 1034/cf  | Brand in nucleaire installatie           | 77010       | 2026-07-22 | False    |
+| 1034/ch  | Brand in nucleaire installatie           | 76660       | 2026-07-19 | False    |
+| 1034/de  | Brand in nucleaire installatie           | 72110       | 2026-06-28 | False    |
+| 1034/fg  | Brand in nucleaire installatie           | 72210       | 2026-07-09 | False    |
+| 1034/ade | Brand in nucleaire installatie           | 72910       | 2026-07-11 | False    |
+| 1034/bch | Brand in nucleaire installatie           | 99512       | 2026-07-13 | False    |
+| 1104/a   | Aanrijding trein & betonmixer            | 15180       | 2026-07-22 | False    |
+| 1104/b   | Aanrijding trein & betonmixer            | 21662       | 2026-07-19 | False    |
+| 1207/b   | Brand in station (Grip 2)                | 42760       | 2026-07-12 | False    |
 
 # Inactive old-seen missions
 
