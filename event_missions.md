@@ -492,7 +492,7 @@ Count: 14
 | 619    | Hittekramp                                                         | 250         | 2026-08-23 | False    |
 | 620    | Uitgedroogde persoon                                               | 250         | 2026-08-23 | False    |
 | 621    | Barbecuebrand                                                      | 500         | 2026-08-23 | False    |
-| 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-08-22 | False    |
+| 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-08-23 | False    |
 | 831    | Verontreinigde ijscokar                                            | 1350        | 2026-08-23 | False    |
 | 832    | Illegaal kampvuur in park                                          | 670         | 2026-08-23 | False    |
 | 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-23 | False    |
@@ -515,7 +515,7 @@ Count: 15
 | 965    | Crash op Circuit                                                   | 2090        | 2026-08-23 | False    |
 | 966    | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | 2026-08-23 | False    |
 | 967    | Persoon van tribune gevallen                                       | None        | 2026-08-23 | False    |
-| 968    | Uit de handgelopen overwinningsfeest                               | 7740        | 2026-08-22 | False    |
+| 968    | Uit de handgelopen overwinningsfeest                               | 7740        | 2026-08-23 | False    |
 | 969    | Illegale raceauto op snelweg                                       | 4330        | 2026-08-23 | False    |
 | 970    | Racistisch gezang van fans op de tribune                           | 1010        | 2026-08-23 | False    |
 | 971    | Protest voor racecircuit                                           | 2530        | 2026-08-23 | False    |
