@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 939
+Count: 938
 
 # Active never-seen missions
 
-Count: 729
+Count: 728
 
 | ID            | Name                                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | --------------------------------------------------------------- | ----------: | --------- | -------- |
@@ -413,7 +413,6 @@ Count: 729
 | 1034/acdefgh  | Brand in nucleaire installatie                                  | 82960       | never     | False    |
 | 1034/bcdefgh  | Brand in nucleaire installatie                                  | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                                  | 107387      | never     | False    |
-| 1104/c        | Aanrijding trein & betonmixer                                   | 15380       | never     | False    |
 | 1104/ac       | Aanrijding trein & betonmixer                                   | 16180       | never     | False    |
 | 1104/ae       | Aanrijding trein & betonmixer                                   | 21880       | never     | False    |
 | 1104/bc       | Aanrijding trein & betonmixer                                   | 22912       | never     | False    |
