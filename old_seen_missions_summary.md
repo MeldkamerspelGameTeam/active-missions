@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 67
+Count: 69
 
 # Active old-seen missions
 
-Count: 30
+Count: 32
 
 | ID       | Name                                     | Avg Credits | Last Seen  | Inactive |
 | -------- | ---------------------------------------- | ----------: | ---------- | -------- |
@@ -20,6 +20,7 @@ Count: 30
 | 885/cdef | Brand in vuurwerkopslag                  | 56520       | 2026-07-16 | False    |
 | 892      | 1000 Politiebureau mijlpaal              | 50000       | 2026-06-21 | False    |
 | 897-2/a  | Rellen na stadsderby                     | 19355       | 2026-06-30 | False    |
+| 901      | Trein ontspoord                          | 24120       | 2026-07-23 | False    |
 | 901/a    | Trein ontspoord                          | 24920       | 2026-07-22 | False    |
 | 929/ac   | Brand in gasverdeelstation               | 32510       | 2026-06-23 | False    |
 | 929/bc   | Brand in gasverdeelstation               | 43325       | 2026-07-21 | False    |
@@ -37,6 +38,7 @@ Count: 30
 | 1034/bch | Brand in nucleaire installatie           | 99512       | 2026-07-13 | False    |
 | 1104/a   | Aanrijding trein & betonmixer            | 15180       | 2026-07-22 | False    |
 | 1104/b   | Aanrijding trein & betonmixer            | 21662       | 2026-07-19 | False    |
+| 1206/bc  | Brand in station (Grip 1)                | 29200       | 2026-07-23 | False    |
 | 1207/b   | Brand in station (Grip 2)                | 42760       | 2026-07-12 | False    |
 
 # Inactive old-seen missions
