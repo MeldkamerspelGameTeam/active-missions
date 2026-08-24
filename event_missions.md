@@ -496,8 +496,8 @@ Count: 14
 | 831    | Verontreinigde ijscokar                                            | 1350        | 2026-08-24 | False    |
 | 832    | Illegaal kampvuur in park                                          | 670         | 2026-08-24 | False    |
 | 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-24 | False    |
-| 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-23 | False    |
-| 1100   | Gevecht op markt                                                   | 670         | 2026-08-24 | False    |
+| 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-24 | False    |
+| 1100   | Gevecht op markt                                                   | 670         | 2026-08-25 | False    |
 | 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-24 | False    |
 | 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-24 | False    |
 | 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-24 | False    |
@@ -513,12 +513,12 @@ Count: 15
 | 963    | Grote alcoholcontrole bij race-evenement                           | 12390       | 2026-08-23 | True     |
 | 964    | Racewagen brand                                                    | 500         | 2026-08-24 | True     |
 | 965    | Crash op Circuit                                                   | 2090        | 2026-08-23 | True     |
-| 966    | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | 2026-08-23 | True     |
+| 966    | Aanhouding persoon zonder geldig toegangsbewijs                    | 775         | 2026-08-24 | True     |
 | 967    | Persoon van tribune gevallen                                       | None        | 2026-08-23 | True     |
 | 968    | Uit de handgelopen overwinningsfeest                               | 7740        | 2026-08-24 | True     |
 | 969    | Illegale raceauto op snelweg                                       | 4330        | 2026-08-23 | True     |
 | 970    | Racistisch gezang van fans op de tribune                           | 1010        | 2026-08-23 | True     |
-| 971    | Protest voor racecircuit                                           | 2530        | 2026-08-23 | True     |
+| 971    | Protest voor racecircuit                                           | 2530        | 2026-08-24 | True     |
 | 971-0  | Protest voor racecircuit                                           | 5230        | 2026-08-22 | True     |
 | 972    | Racewinnaar viel van het podium                                    | None        | 2026-08-23 | True     |
 | 1048   | Geluidsoverlast door Racefans                                      | 500         | 2026-08-24 | True     |
