@@ -1,14 +1,13 @@
 # Never seen missions
 
-Count: 937
+Count: 936
 
 # Active never-seen missions
 
-Count: 727
+Count: 726
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
-| 13/b          | Brandende vrachtwagen (Middel)                  | 3170        | never     | False    |
 | 13/ab         | Brandende vrachtwagen (Middel)                  | 3770        | never     | False    |
 | 27            | Persoon aangereden                              | 700         | never     | False    |
 | 36/ab         | Brandende goederenwagon (Groot)                 | 8570        | never     | False    |
