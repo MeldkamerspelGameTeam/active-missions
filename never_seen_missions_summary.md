@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 932
+Count: 931
 
 # Active never-seen missions
 
-Count: 722
+Count: 721
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -197,7 +197,6 @@ Count: 722
 | 1030/abc      | Brand bij papierrecyclaar                       | 65137       | never     | False    |
 | 1030/abd      | Brand bij papierrecyclaar                       | 56887       | never     | False    |
 | 1030/abcd     | Brand bij papierrecyclaar                       | 67137       | never     | False    |
-| 1034/df       | Brand in nucleaire installatie                  | 72010       | never     | False    |
 | 1034/dg       | Brand in nucleaire installatie                  | 72410       | never     | False    |
 | 1034/eh       | Brand in nucleaire installatie                  | 71560       | never     | False    |
 | 1034/abc      | Brand in nucleaire installatie                  | 99450       | never     | False    |
