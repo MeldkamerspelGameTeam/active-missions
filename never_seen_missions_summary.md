@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 929
+Count: 928
 
 # Active never-seen missions
 
-Count: 719
+Count: 718
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -187,7 +187,6 @@ Count: 719
 | 942-1/a       | Schoolbus te water                              | 12320       | never     | False    |
 | 942-1/b       | Schoolbus te water                              | 12820       | never     | False    |
 | 942-1/ab      | Schoolbus te water                              | 13120       | never     | False    |
-| 974/b         | Ontspoorde tram botst tegen gebouw              | 27975       | never     | False    |
 | 974/bd        | Ontspoorde tram botst tegen gebouw              | 36100       | never     | False    |
 | 974/abd       | Ontspoorde tram botst tegen gebouw              | 37100       | never     | False    |
 | 974/acd       | Ontspoorde tram botst tegen gebouw              | 27730       | never     | False    |
