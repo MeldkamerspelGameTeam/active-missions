@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 83
+Count: 86
 
 # Active old-seen missions
 
-Count: 46
+Count: 49
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -20,6 +20,7 @@ Count: 46
 | 885/ae      | Brand in vuurwerkopslag                       | 50270       | 2026-07-24 | False    |
 | 885/af      | Brand in vuurwerkopslag                       | 50670       | 2026-07-24 | False    |
 | 885/ce      | Brand in vuurwerkopslag                       | 54670       | 2026-06-24 | False    |
+| 885/de      | Brand in vuurwerkopslag                       | 50120       | 2026-07-26 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
 | 885/acef    | Brand in vuurwerkopslag                       | 56670       | 2026-07-09 | False    |
 | 885/cdef    | Brand in vuurwerkopslag                       | 56520       | 2026-07-16 | False    |
@@ -27,6 +28,7 @@ Count: 46
 | 897-2/a     | Rellen na stadsderby                          | 19355       | 2026-06-30 | False    |
 | 901         | Trein ontspoord                               | 24120       | 2026-07-23 | False    |
 | 901/a       | Trein ontspoord                               | 24920       | 2026-07-22 | False    |
+| 901/d       | Trein ontspoord                               | 25920       | 2026-07-26 | False    |
 | 929/ac      | Brand in gasverdeelstation                    | 32510       | 2026-06-23 | False    |
 | 929/bc      | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
 | 929/ce      | Brand in gasverdeelstation                    | 32360       | 2026-07-25 | False    |
@@ -41,6 +43,7 @@ Count: 46
 | 1034/ch     | Brand in nucleaire installatie                | 76660       | 2026-07-19 | False    |
 | 1034/de     | Brand in nucleaire installatie                | 72110       | 2026-06-28 | False    |
 | 1034/fg     | Brand in nucleaire installatie                | 72210       | 2026-07-09 | False    |
+| 1034/gh     | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
 | 1034/ade    | Brand in nucleaire installatie                | 72910       | 2026-07-11 | False    |
 | 1034/bch    | Brand in nucleaire installatie                | 99512       | 2026-07-13 | False    |
 | 1034/cef    | Brand in nucleaire installatie                | 78310       | 2026-07-25 | False    |
