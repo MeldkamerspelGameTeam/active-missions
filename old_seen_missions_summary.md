@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 84
+Count: 83
 
 # Active old-seen missions
 
-Count: 47
+Count: 46
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -17,7 +17,6 @@ Count: 47
 | 591         | Uitslaande brand in veestal                   | 10775       | 2026-07-16 | False    |
 | 837         | Gaslek bedrijventerrein                       | 8580        | 2026-07-24 | False    |
 | 885/ae      | Brand in vuurwerkopslag                       | 50270       | 2026-07-24 | False    |
-| 885/af      | Brand in vuurwerkopslag                       | 50670       | 2026-07-24 | False    |
 | 885/ce      | Brand in vuurwerkopslag                       | 54670       | 2026-06-24 | False    |
 | 885/de      | Brand in vuurwerkopslag                       | 50120       | 2026-07-26 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
