@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 933
+Count: 932
 
 # Active never-seen missions
 
-Count: 723
+Count: 722
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -74,7 +74,6 @@ Count: 723
 | 885/acdef     | Brand in vuurwerkopslag                         | 57320       | never     | False    |
 | 885/bcdef     | Brand in vuurwerkopslag                         | 74337       | never     | False    |
 | 885/abcdef    | Brand in vuurwerkopslag                         | 75337       | never     | False    |
-| 899/ab        | Aanrijding bus en tram                          | 15770       | never     | False    |
 | 901/c         | Trein ontspoord                                 | 33837       | never     | False    |
 | 901/e         | Trein ontspoord                                 | 25120       | never     | False    |
 | 901/g         | Trein ontspoord                                 | 34920       | never     | False    |
