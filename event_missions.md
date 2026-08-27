@@ -488,7 +488,7 @@ Count: 14
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
 | 617    | Zonnesteek                                                         | 250         | 2026-08-26 | False    |
-| 618    | Hitteslag                                                          | 250         | 2026-08-26 | False    |
+| 618    | Hitteslag                                                          | 250         | 2026-08-27 | False    |
 | 619    | Hittekramp                                                         | 250         | 2026-08-26 | False    |
 | 620    | Uitgedroogde persoon                                               | 250         | 2026-08-26 | False    |
 | 621    | Barbecuebrand                                                      | 500         | 2026-08-27 | False    |
