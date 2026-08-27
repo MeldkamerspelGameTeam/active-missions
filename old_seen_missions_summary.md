@@ -1,14 +1,15 @@
 # Old seen missions (older than 30 days)
 
-Count: 83
+Count: 84
 
 # Active old-seen missions
 
-Count: 46
+Count: 47
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
 | 251         | Vrachtwagen te water                          | 2660        | 2026-07-25 | False    |
+| 312/bc      | Lekkende goederenwagon (Groot)                | 7170        | 2026-07-27 | False    |
 | 312/abc     | Lekkende goederenwagon (Groot)                | 7870        | 2026-06-28 | False    |
 | 347         | Brand bij afvalverwerker                      | 17500       | 2026-07-22 | False    |
 | 492-0/a     | Ongeregeldheden voetbalsupporters horeca      | 7310        | 2026-07-25 | False    |
@@ -17,6 +18,7 @@ Count: 46
 | 591         | Uitslaande brand in veestal                   | 10775       | 2026-07-16 | False    |
 | 837         | Gaslek bedrijventerrein                       | 8580        | 2026-07-24 | False    |
 | 885/ae      | Brand in vuurwerkopslag                       | 50270       | 2026-07-24 | False    |
+| 885/bd      | Brand in vuurwerkopslag                       | 65337       | 2026-07-27 | False    |
 | 885/ce      | Brand in vuurwerkopslag                       | 54670       | 2026-06-24 | False    |
 | 885/de      | Brand in vuurwerkopslag                       | 50120       | 2026-07-26 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
@@ -35,7 +37,6 @@ Count: 46
 | 929/bde     | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
 | 942/ab      | Schoolbus te water                            | 5750        | 2026-07-25 | False    |
 | 1030/ac     | Brand bij papierrecyclaar                     | 49160       | 2026-07-02 | False    |
-| 1034/ac     | Brand in nucleaire installatie                | 76610       | 2026-07-14 | False    |
 | 1034/be     | Brand in nucleaire installatie                | 92075       | 2026-06-24 | False    |
 | 1034/cf     | Brand in nucleaire installatie                | 77010       | 2026-07-22 | False    |
 | 1034/ch     | Brand in nucleaire installatie                | 76660       | 2026-07-19 | False    |
