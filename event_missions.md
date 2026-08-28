@@ -2,7 +2,7 @@
 
 Event missions: 276
 
-Active: 14 | Inactive: 262
+Active: 0 | Inactive: 276
 
 Date window groups: 27
 
@@ -487,20 +487,20 @@ Count: 14
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 617    | Zonnesteek                                                         | 250         | 2026-08-28 | False    |
-| 618    | Hitteslag                                                          | 250         | 2026-08-28 | False    |
-| 619    | Hittekramp                                                         | 250         | 2026-08-28 | False    |
-| 620    | Uitgedroogde persoon                                               | 250         | 2026-08-28 | False    |
-| 621    | Barbecuebrand                                                      | 500         | 2026-08-28 | False    |
-| 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-08-26 | False    |
-| 831    | Verontreinigde ijscokar                                            | 1350        | 2026-08-28 | False    |
-| 832    | Illegaal kampvuur in park                                          | 670         | 2026-08-28 | False    |
-| 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-28 | False    |
-| 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-28 | False    |
-| 1100   | Gevecht op markt                                                   | 670         | 2026-08-28 | False    |
-| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-28 | False    |
-| 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-28 | False    |
-| 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-28 | False    |
+| 617    | Zonnesteek                                                         | 250         | 2026-08-28 | True     |
+| 618    | Hitteslag                                                          | 250         | 2026-08-28 | True     |
+| 619    | Hittekramp                                                         | 250         | 2026-08-28 | True     |
+| 620    | Uitgedroogde persoon                                               | 250         | 2026-08-28 | True     |
+| 621    | Barbecuebrand                                                      | 500         | 2026-08-28 | True     |
+| 830    | Beveiligen zwemwedstrijd                                           | 4410        | 2026-08-26 | True     |
+| 831    | Verontreinigde ijscokar                                            | 1350        | 2026-08-28 | True     |
+| 832    | Illegaal kampvuur in park                                          | 670         | 2026-08-28 | True     |
+| 1098   | Brand op zomerkamp                                                 | 3180        | 2026-08-28 | True     |
+| 1099   | Storing in attractie pretpark                                      | 1420        | 2026-08-28 | True     |
+| 1100   | Gevecht op markt                                                   | 670         | 2026-08-28 | True     |
+| 1101   | Glijbaan ongeluk in Zwembad                                        | 250         | 2026-08-28 | True     |
+| 1102   | Aanrijding drive-in Bioscoop                                       | 670         | 2026-08-28 | True     |
+| 1102/a | Aanrijding drive-in Bioscoop                                       | 1070        | 2026-08-28 | True     |
 
 ## Start: 2026-08-21T09:00:00Z | End: 2026-08-23T23:59:59Z | Count: 15
 
