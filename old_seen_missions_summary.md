@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 89
+Count: 88
 
 # Active old-seen missions
 
-Count: 52
+Count: 51
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -15,7 +15,6 @@ Count: 52
 | 347         | Brand bij afvalverwerker                      | 17500       | 2026-07-22 | False    |
 | 492-0/a     | Ongeregeldheden voetbalsupporters horeca      | 7310        | 2026-07-25 | False    |
 | 492-2       | Ongeregeldheden voetbalsupporters horeca      | 7310        | 2026-07-29 | False    |
-| 492-2/a     | Ongeregeldheden voetbalsupporters horeca      | 8110        | 2026-07-02 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 518         | Aanvaring vrachtschip met veerboot (Grip 4)   | 9200        | 2026-07-24 | False    |
 | 591         | Uitslaande brand in veestal                   | 10775       | 2026-07-16 | False    |
