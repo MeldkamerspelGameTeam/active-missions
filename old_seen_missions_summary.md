@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 86
+Count: 89
 
 # Active old-seen missions
 
-Count: 49
+Count: 52
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -14,6 +14,7 @@ Count: 49
 | 312/abc     | Lekkende goederenwagon (Groot)                | 7870        | 2026-06-28 | False    |
 | 347         | Brand bij afvalverwerker                      | 17500       | 2026-07-22 | False    |
 | 492-0/a     | Ongeregeldheden voetbalsupporters horeca      | 7310        | 2026-07-25 | False    |
+| 492-2       | Ongeregeldheden voetbalsupporters horeca      | 7310        | 2026-07-29 | False    |
 | 492-2/a     | Ongeregeldheden voetbalsupporters horeca      | 8110        | 2026-07-02 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 518         | Aanvaring vrachtschip met veerboot (Grip 4)   | 9200        | 2026-07-24 | False    |
@@ -54,8 +55,10 @@ Count: 49
 | 1104/abc    | Aanrijding trein & betonmixer                 | 23912       | 2026-07-25 | False    |
 | 1206/bc     | Brand in station (Grip 1)                     | 29200       | 2026-07-23 | False    |
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
+| 1228/abd    | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
 | 1228/abcdfg | Trein ontspoord na botsing met goederentrein  | 45112       | 2026-07-24 | False    |
 | 1229/de     | Dieseltrein met gevaarlijke stoffen ontspoord | 34490       | 2026-07-25 | False    |
+| 1229/abe    | Dieseltrein met gevaarlijke stoffen ontspoord | 45675       | 2026-07-29 | False    |
 | 1229/cdf    | Dieseltrein met gevaarlijke stoffen ontspoord | 40390       | 2026-07-25 | False    |
 
 # Inactive old-seen missions
