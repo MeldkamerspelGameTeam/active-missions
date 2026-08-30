@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 87
+Count: 92
 
 # Active old-seen missions
 
-Count: 50
+Count: 55
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -23,6 +23,7 @@ Count: 50
 | 885/ce      | Brand in vuurwerkopslag                       | 54670       | 2026-06-24 | False    |
 | 885/de      | Brand in vuurwerkopslag                       | 50120       | 2026-07-26 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
+| 885/abf     | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
 | 885/acef    | Brand in vuurwerkopslag                       | 56670       | 2026-07-09 | False    |
 | 885/cdef    | Brand in vuurwerkopslag                       | 56520       | 2026-07-16 | False    |
 | 892         | 1000 Politiebureau mijlpaal                   | 50000       | 2026-06-21 | False    |
@@ -30,6 +31,7 @@ Count: 50
 | 901         | Trein ontspoord                               | 24120       | 2026-07-23 | False    |
 | 901/a       | Trein ontspoord                               | 24920       | 2026-07-22 | False    |
 | 901/d       | Trein ontspoord                               | 25920       | 2026-07-26 | False    |
+| 901/acef    | Trein ontspoord                               | 38337       | 2026-07-30 | False    |
 | 929/ac      | Brand in gasverdeelstation                    | 32510       | 2026-06-23 | False    |
 | 929/bc      | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
 | 929/ce      | Brand in gasverdeelstation                    | 32360       | 2026-07-25 | False    |
@@ -48,15 +50,18 @@ Count: 50
 | 1034/bch    | Brand in nucleaire installatie                | 99512       | 2026-07-13 | False    |
 | 1034/cef    | Brand in nucleaire installatie                | 78310       | 2026-07-25 | False    |
 | 1034/dfh    | Brand in nucleaire installatie                | 72860       | 2026-07-25 | False    |
+| 1034/aceh   | Brand in nucleaire installatie                | 78760       | 2026-07-30 | False    |
 | 1104/a      | Aanrijding trein & betonmixer                 | 15180       | 2026-07-22 | False    |
 | 1104/b      | Aanrijding trein & betonmixer                 | 21662       | 2026-07-19 | False    |
 | 1104/abc    | Aanrijding trein & betonmixer                 | 23912       | 2026-07-25 | False    |
 | 1206/bc     | Brand in station (Grip 1)                     | 29200       | 2026-07-23 | False    |
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
 | 1228/abd    | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
+| 1228/cdf    | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
 | 1228/abcdfg | Trein ontspoord na botsing met goederentrein  | 45112       | 2026-07-24 | False    |
 | 1229/de     | Dieseltrein met gevaarlijke stoffen ontspoord | 34490       | 2026-07-25 | False    |
 | 1229/abe    | Dieseltrein met gevaarlijke stoffen ontspoord | 45675       | 2026-07-29 | False    |
+| 1229/bdf    | Dieseltrein met gevaarlijke stoffen ontspoord | 51675       | 2026-07-30 | False    |
 | 1229/cdf    | Dieseltrein met gevaarlijke stoffen ontspoord | 40390       | 2026-07-25 | False    |
 
 # Inactive old-seen missions
