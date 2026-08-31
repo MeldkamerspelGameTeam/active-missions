@@ -1468,7 +1468,7 @@
   "942-1/ab": "newly_discovered",
   "942-1/b": "newly_discovered",
   "942/a": "newly_active",
-  "942/ab": "old_seen",
+  "942/ab": "back_active",
   "942/b": "back_active",
   "943": "newly_active",
   "944": "newly_active",
