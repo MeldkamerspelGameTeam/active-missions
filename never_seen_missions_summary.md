@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 915
+Count: 913
 
 # Active never-seen missions
 
-Count: 705
+Count: 703
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -139,7 +139,6 @@ Count: 705
 | 901/bdef      | Trein ontspoord                                 | 29520       | never     | False    |
 | 901/bdfg      | Trein ontspoord                                 | 39320       | never     | False    |
 | 901/befg      | Trein ontspoord                                 | 38520       | never     | False    |
-| 901/cdef      | Trein ontspoord                                 | 39587       | never     | False    |
 | 901/cdeg      | Trein ontspoord                                 | 50837       | never     | False    |
 | 901/cdfg      | Trein ontspoord                                 | 51837       | never     | False    |
 | 901/cefg      | Trein ontspoord                                 | 50837       | never     | False    |
@@ -405,7 +404,6 @@ Count: 705
 | 1034/bcdefgh  | Brand in nucleaire installatie                  | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                  | 107387      | never     | False    |
 | 1104/ac       | Aanrijding trein & betonmixer                   | 16180       | never     | False    |
-| 1104/ae       | Aanrijding trein & betonmixer                   | 21880       | never     | False    |
 | 1104/bc       | Aanrijding trein & betonmixer                   | 22912       | never     | False    |
 | 1104/be       | Aanrijding trein & betonmixer                   | 30037       | never     | False    |
 | 1104/ce       | Aanrijding trein & betonmixer                   | 22080       | never     | False    |
