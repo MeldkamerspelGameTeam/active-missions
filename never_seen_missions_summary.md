@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 915
+Count: 917
 
 # Active never-seen missions
 
-Count: 705
+Count: 707
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -713,6 +713,8 @@ Count: 705
 | 1229/cdefg    | Dieseltrein met gevaarlijke stoffen ontspoord   | 52790       | never     | False    |
 | 1229/abcdfg   | Dieseltrein met gevaarlijke stoffen ontspoord   | 68425       | never     | False    |
 | 1229/abcefg   | Dieseltrein met gevaarlijke stoffen ontspoord   | 68550       | never     | False    |
+| 1236          | Persoon opgesloten in sauna                     | 1080        | never     | False    |
+| 1237          | Personen opgesloten in sauna                    | 2610        | never     | False    |
 
 # Inactive never-seen missions
 
