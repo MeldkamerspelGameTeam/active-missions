@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 912
+Count: 911
 
 # Active never-seen missions
 
-Count: 702
+Count: 701
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -15,7 +15,6 @@ Count: 702
 | 59            | Brand in opslagloods                            | 13710       | never     | False    |
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
-| 252/ab        | Vrachtwagen te water                            | 4930        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                     | 11050       | never     | False    |
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                     | 14562       | never     | False    |
