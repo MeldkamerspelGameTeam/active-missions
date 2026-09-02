@@ -1,14 +1,13 @@
 # Never seen missions
 
-Count: 907
+Count: 906
 
 # Active never-seen missions
 
-Count: 697
+Count: 696
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
-| 13/ab         | Brandende vrachtwagen (Middel)                  | 3770        | never     | False    |
 | 27            | Persoon aangereden                              | 700         | never     | False    |
 | 41            | Brand in kantoorpand                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                  | 12030       | never     | False    |
