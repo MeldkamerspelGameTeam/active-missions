@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 97
+Count: 102
 
 # Active old-seen missions
 
-Count: 60
+Count: 65
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -33,11 +33,13 @@ Count: 60
 | 901/acef    | Trein ontspoord                               | 38337       | 2026-07-30 | False    |
 | 929/ac      | Brand in gasverdeelstation                    | 32510       | 2026-06-23 | False    |
 | 929/bc      | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
+| 929/be      | Brand in gasverdeelstation                    | 37637       | 2026-08-03 | False    |
 | 929/ce      | Brand in gasverdeelstation                    | 32360       | 2026-07-25 | False    |
 | 929/de      | Brand in gasverdeelstation                    | 27960       | 2026-07-04 | False    |
 | 929/abc     | Brand in gasverdeelstation                    | 44325       | 2026-07-12 | False    |
 | 929/bde     | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
 | 961/a       | Toezicht Horeca                               | 9545        | 2026-07-31 | False    |
+| 1030/ab     | Brand bij papierrecyclaar                     | 54887       | 2026-08-03 | False    |
 | 1030/ac     | Brand bij papierrecyclaar                     | 49160       | 2026-07-02 | False    |
 | 1034/be     | Brand in nucleaire installatie                | 92075       | 2026-06-24 | False    |
 | 1034/bf     | Brand in nucleaire installatie                | 91950       | 2026-07-31 | False    |
@@ -48,6 +50,7 @@ Count: 60
 | 1034/gh     | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
 | 1034/ade    | Brand in nucleaire installatie                | 72910       | 2026-07-11 | False    |
 | 1034/bch    | Brand in nucleaire installatie                | 99512       | 2026-07-13 | False    |
+| 1034/beh    | Brand in nucleaire installatie                | 93137       | 2026-08-03 | False    |
 | 1034/cef    | Brand in nucleaire installatie                | 78310       | 2026-07-25 | False    |
 | 1034/dfh    | Brand in nucleaire installatie                | 72860       | 2026-07-25 | False    |
 | 1034/aceh   | Brand in nucleaire installatie                | 78760       | 2026-07-30 | False    |
@@ -66,8 +69,10 @@ Count: 60
 | 1229/ace    | Dieseltrein met gevaarlijke stoffen ontspoord | 35590       | 2026-07-31 | False    |
 | 1229/bde    | Dieseltrein met gevaarlijke stoffen ontspoord | 46800       | 2026-08-02 | False    |
 | 1229/bdf    | Dieseltrein met gevaarlijke stoffen ontspoord | 51675       | 2026-07-30 | False    |
+| 1229/cde    | Dieseltrein met gevaarlijke stoffen ontspoord | 36490       | 2026-08-03 | False    |
 | 1229/cdf    | Dieseltrein met gevaarlijke stoffen ontspoord | 40390       | 2026-07-25 | False    |
 | 1229/def    | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
+| 1229/acde   | Dieseltrein met gevaarlijke stoffen ontspoord | 37290       | 2026-08-03 | False    |
 
 # Inactive old-seen missions
 
