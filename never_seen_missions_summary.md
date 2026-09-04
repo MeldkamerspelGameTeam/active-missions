@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 901
+Count: 900
 
 # Active never-seen missions
 
-Count: 691
+Count: 690
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -192,7 +192,6 @@ Count: 691
 | 1034/abc      | Brand in nucleaire installatie                  | 99450       | never     | False    |
 | 1034/abd      | Brand in nucleaire installatie                  | 93200       | never     | False    |
 | 1034/abe      | Brand in nucleaire installatie                  | 93075       | never     | False    |
-| 1034/abf      | Brand in nucleaire installatie                  | 92950       | never     | False    |
 | 1034/abg      | Brand in nucleaire installatie                  | 93450       | never     | False    |
 | 1034/abh      | Brand in nucleaire installatie                  | 92512       | never     | False    |
 | 1034/acd      | Brand in nucleaire installatie                  | 78010       | never     | False    |
