@@ -1,17 +1,16 @@
 # Old seen missions (older than 30 days)
 
-Count: 106
+Count: 105
 
 # Active old-seen missions
 
-Count: 69
+Count: 68
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
 | 234         | Vliegtuig neergestort                         | 15120       | 2026-08-04 | False    |
 | 251         | Vrachtwagen te water                          | 2660        | 2026-07-25 | False    |
 | 252/a       | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
-| 312/abc     | Lekkende goederenwagon (Groot)                | 7870        | 2026-06-28 | False    |
 | 347         | Brand bij afvalverwerker                      | 17500       | 2026-07-22 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 518         | Aanvaring vrachtschip met veerboot (Grip 4)   | 9200        | 2026-07-24 | False    |
