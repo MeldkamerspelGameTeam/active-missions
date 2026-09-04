@@ -1,13 +1,14 @@
 # Old seen missions (older than 30 days)
 
-Count: 101
+Count: 106
 
 # Active old-seen missions
 
-Count: 64
+Count: 69
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
+| 234         | Vliegtuig neergestort                         | 15120       | 2026-08-04 | False    |
 | 251         | Vrachtwagen te water                          | 2660        | 2026-07-25 | False    |
 | 252/a       | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 312/abc     | Lekkende goederenwagon (Groot)                | 7870        | 2026-06-28 | False    |
@@ -17,7 +18,6 @@ Count: 64
 | 591         | Uitslaande brand in veestal                   | 10775       | 2026-07-16 | False    |
 | 837         | Gaslek bedrijventerrein                       | 8580        | 2026-07-24 | False    |
 | 885/ae      | Brand in vuurwerkopslag                       | 50270       | 2026-07-24 | False    |
-| 885/bd      | Brand in vuurwerkopslag                       | 65337       | 2026-07-27 | False    |
 | 885/ce      | Brand in vuurwerkopslag                       | 54670       | 2026-06-24 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
 | 885/abf     | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
@@ -29,7 +29,9 @@ Count: 64
 | 901/a       | Trein ontspoord                               | 24920       | 2026-07-22 | False    |
 | 901/d       | Trein ontspoord                               | 25920       | 2026-07-26 | False    |
 | 901/ef      | Trein ontspoord                               | 26920       | 2026-07-31 | False    |
+| 901/ade     | Trein ontspoord                               | 27720       | 2026-08-04 | False    |
 | 901/acef    | Trein ontspoord                               | 38337       | 2026-07-30 | False    |
+| 929/ab      | Brand in gasverdeelstation                    | 37825       | 2026-08-04 | False    |
 | 929/ac      | Brand in gasverdeelstation                    | 32510       | 2026-06-23 | False    |
 | 929/bc      | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
 | 929/be      | Brand in gasverdeelstation                    | 37637       | 2026-08-03 | False    |
@@ -46,6 +48,7 @@ Count: 64
 | 1034/ch     | Brand in nucleaire installatie                | 76660       | 2026-07-19 | False    |
 | 1034/de     | Brand in nucleaire installatie                | 72110       | 2026-06-28 | False    |
 | 1034/fg     | Brand in nucleaire installatie                | 72210       | 2026-07-09 | False    |
+| 1034/fh     | Brand in nucleaire installatie                | 71460       | 2026-08-04 | False    |
 | 1034/gh     | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
 | 1034/ade    | Brand in nucleaire installatie                | 72910       | 2026-07-11 | False    |
 | 1034/bch    | Brand in nucleaire installatie                | 99512       | 2026-07-13 | False    |
@@ -61,7 +64,9 @@ Count: 64
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
 | 1228/abd    | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
 | 1228/cdf    | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
+| 1228/bdefg  | Trein ontspoord na botsing met goederentrein  | 34340       | 2026-08-04 | False    |
 | 1228/abcdfg | Trein ontspoord na botsing met goederentrein  | 45112       | 2026-07-24 | False    |
+| 1228/bcdefg | Trein ontspoord na botsing met goederentrein  | 46612       | 2026-08-04 | False    |
 | 1229/ab     | Dieseltrein met gevaarlijke stoffen ontspoord | 43425       | 2026-08-01 | False    |
 | 1229/de     | Dieseltrein met gevaarlijke stoffen ontspoord | 34490       | 2026-07-25 | False    |
 | 1229/abe    | Dieseltrein met gevaarlijke stoffen ontspoord | 45675       | 2026-07-29 | False    |
