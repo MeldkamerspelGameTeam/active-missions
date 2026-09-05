@@ -1,13 +1,14 @@
 # Old seen missions (older than 30 days)
 
-Count: 105
+Count: 111
 
 # Active old-seen missions
 
-Count: 68
+Count: 74
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
+| 208         | Personenauto te water                         | 4350        | 2026-08-05 | False    |
 | 234         | Vliegtuig neergestort                         | 15120       | 2026-08-04 | False    |
 | 251         | Vrachtwagen te water                          | 2660        | 2026-07-25 | False    |
 | 252/a       | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
@@ -32,17 +33,20 @@ Count: 68
 | 901/acef    | Trein ontspoord                               | 38337       | 2026-07-30 | False    |
 | 929/ab      | Brand in gasverdeelstation                    | 37825       | 2026-08-04 | False    |
 | 929/ac      | Brand in gasverdeelstation                    | 32510       | 2026-06-23 | False    |
+| 929/ad      | Brand in gasverdeelstation                    | 28110       | 2026-08-05 | False    |
 | 929/bc      | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
 | 929/be      | Brand in gasverdeelstation                    | 37637       | 2026-08-03 | False    |
 | 929/ce      | Brand in gasverdeelstation                    | 32360       | 2026-07-25 | False    |
 | 929/de      | Brand in gasverdeelstation                    | 27960       | 2026-07-04 | False    |
 | 929/abc     | Brand in gasverdeelstation                    | 44325       | 2026-07-12 | False    |
+| 929/abd     | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
 | 929/bde     | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
 | 961/a       | Toezicht Horeca                               | 9545        | 2026-07-31 | False    |
 | 1030/ab     | Brand bij papierrecyclaar                     | 54887       | 2026-08-03 | False    |
 | 1030/ac     | Brand bij papierrecyclaar                     | 49160       | 2026-07-02 | False    |
 | 1034/be     | Brand in nucleaire installatie                | 92075       | 2026-06-24 | False    |
 | 1034/bf     | Brand in nucleaire installatie                | 91950       | 2026-07-31 | False    |
+| 1034/bg     | Brand in nucleaire installatie                | 92450       | 2026-08-05 | False    |
 | 1034/cf     | Brand in nucleaire installatie                | 77010       | 2026-07-22 | False    |
 | 1034/ch     | Brand in nucleaire installatie                | 76660       | 2026-07-19 | False    |
 | 1034/de     | Brand in nucleaire installatie                | 72110       | 2026-06-28 | False    |
@@ -61,6 +65,7 @@ Count: 68
 | 1202/ab     | Brand in ziekenhuis (Grip 1)                  | 19225       | 2026-08-01 | False    |
 | 1206/bc     | Brand in station (Grip 1)                     | 29200       | 2026-07-23 | False    |
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
+| 1227/a      | Brand in passagierstrein (Grip 1)             | 21970       | 2026-08-05 | False    |
 | 1228/abd    | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
 | 1228/cdf    | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
 | 1228/bdefg  | Trein ontspoord na botsing met goederentrein  | 34340       | 2026-08-04 | False    |
@@ -76,6 +81,7 @@ Count: 68
 | 1229/cdf    | Dieseltrein met gevaarlijke stoffen ontspoord | 40390       | 2026-07-25 | False    |
 | 1229/def    | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
 | 1229/acde   | Dieseltrein met gevaarlijke stoffen ontspoord | 37290       | 2026-08-03 | False    |
+| 1229/acdf   | Dieseltrein met gevaarlijke stoffen ontspoord | 41190       | 2026-08-05 | False    |
 
 # Inactive old-seen missions
 
