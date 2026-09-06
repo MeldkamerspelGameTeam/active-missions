@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 893
+Count: 891
 
 # Active never-seen missions
 
-Count: 683
+Count: 681
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -608,7 +608,6 @@ Count: 683
 | 1228/cdefg    | Trein ontspoord na botsing met goederentrein    | 45612       | never     | False    |
 | 1228/cdefh    | Trein ontspoord na botsing met goederentrein    | 57925       | never     | False    |
 | 1228/cdegh    | Trein ontspoord na botsing met goederentrein    | 57425       | never     | False    |
-| 1228/cdfgh    | Trein ontspoord na botsing met goederentrein    | 57425       | never     | False    |
 | 1228/cefgh    | Trein ontspoord na botsing met goederentrein    | 57675       | never     | False    |
 | 1228/defgh    | Trein ontspoord na botsing met goederentrein    | 44990       | never     | False    |
 | 1228/abcdef   | Trein ontspoord na botsing met goederentrein    | 45612       | never     | False    |
@@ -668,7 +667,6 @@ Count: 683
 | 1229/bfg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 62800       | never     | False    |
 | 1229/cdg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 45290       | never     | False    |
 | 1229/cfg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 49290       | never     | False    |
-| 1229/deg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 45090       | never     | False    |
 | 1229/dfg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 48990       | never     | False    |
 | 1229/efg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 49090       | never     | False    |
 | 1229/abcg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 59175       | never     | False    |
