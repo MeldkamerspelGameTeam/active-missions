@@ -790,10 +790,10 @@
   },
   {
     "id": "16",
-    "name": "Brand in woonwagen",
+    "name": "Brand in woonwagen (Middel)",
     "place": "",
     "place_array": [],
-    "average_credits": 1520,
+    "average_credits": 2110,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -803,29 +803,21 @@
     "requirements": {
       "platform_trucks": 1,
       "battalion_chief_vehicles": 1,
+      "water_tankers": 1,
       "firetrucks": 2,
       "police_cars": 1
     },
     "chances": {
       "platform_trucks": 80,
-      "patient_transport": 50
+      "water_tankers": 20
     },
     "additional": {
-      "possible_patient": 1,
-      "filter_id": "firehouse_missions",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Interne Geneeskunde"
-      ],
-      "patient_specializations": "Interne Geneeskunde"
+      "filter_id": "firehouse_missions"
     },
     "prerequisites": {
       "main_building": 0,
-      "rescue_stations": 1,
       "police_stations": 1,
-      "fire_stations": 6
+      "fire_stations": 7
     },
     "overlay_index": null,
     "base_mission_id": 16,
@@ -10168,7 +10160,7 @@
   },
   {
     "id": "196",
-    "name": "Brand in woonwagen",
+    "name": "Brand in woonwagen (Klein)",
     "place": "",
     "place_array": [],
     "average_credits": 500,
@@ -10183,6 +10175,9 @@
     },
     "chances": {},
     "additional": {
+      "expansion_missions_ids": [
+        16
+      ],
       "filter_id": "firehouse_missions"
     },
     "prerequisites": {
