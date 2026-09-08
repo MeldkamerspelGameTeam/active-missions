@@ -1371,7 +1371,7 @@
   "901/dfg": "newly_active",
   "901/dg": "newly_discovered",
   "901/e": "newly_discovered",
-  "901/ef": "old_seen",
+  "901/ef": "back_active",
   "901/efg": "newly_active",
   "901/eg": "newly_active",
   "901/f": "newly_active",
