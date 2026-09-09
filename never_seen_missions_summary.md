@@ -1,6 +1,6 @@
 # Never seen missions
 
-Count: 881
+Count: 879
 
 # Active never-seen missions
 
@@ -682,7 +682,7 @@ Count: 671
 
 # Inactive never-seen missions
 
-Count: 210
+Count: 208
 
 | ID     | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | --------- | -------- |
@@ -798,7 +798,6 @@ Count: 210
 | 791    | Brandende taart in oven                                            | 600         | never     | True     |
 | 792    | Keukenbrand                                                        | 1400        | never     | True     |
 | 793    | Chocoladediefstal                                                  | 1200        | never     | True     |
-| 856    | Persoon uitgegleden over natte bladeren                            | None        | never     | True     |
 | 857    | Verkeersongeval door gevallen bladeren                             | 2600        | never     | True     |
 | 858    | Persoon gevallen in een hoop bladeren                              | None        | never     | True     |
 | 859    | Op hol geslagen bladblazer                                         | 500         | never     | True     |
@@ -807,7 +806,6 @@ Count: 210
 | 862    | Ongeluk op mistige weg                                             | 1580        | never     | True     |
 | 863    | Ongeluk met overstekend hert                                       | 1750        | never     | True     |
 | 864    | Brandende hoop bladeren                                            | 670         | never     | True     |
-| 865    | Bladeren op spoor                                                  | 1080        | never     | True     |
 | 886    | Massa-beroerte tijdens het eten van fondue (klein)                 | 3720        | never     | True     |
 | 886-0  | Massa-beroerte tijdens het eten van fondue (groot)                 | 6480        | never     | True     |
 | 886-1  | Massa-beroerte tijdens het eten van fondue (enorm)                 | 16050       | never     | True     |

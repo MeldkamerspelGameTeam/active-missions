@@ -11,15 +11,15 @@ This README is auto-updated by scripts/main.py and the GitHub workflow.
 | Total missions | 2558 |
 | Active missions | 2282 |
 | Inactive missions | 276 |
-| Missions seen in last 30 days | 1548 |
+| Missions seen in last 30 days | 1550 |
 
 ### Never-Seen Breakdown
 
 | Metric | Value |
 | --- | ---: |
-| Never seen missions (total) | 881 |
+| Never seen missions (total) | 879 |
 | Never seen active missions | 671 |
-| Never seen inactive missions | 210 |
+| Never seen inactive missions | 208 |
 
 ### Old-Seen Breakdown (30+ days)
 
@@ -47,8 +47,8 @@ pie showData
     "Active — seen last 30 days" : 1519
     "Active — never seen" : 671
     "Active — old seen 30+ days" : 92
-    "Inactive — seen last 30 days" : 29
-    "Inactive — never seen" : 210
+    "Inactive — seen last 30 days" : 31
+    "Inactive — never seen" : 208
     "Inactive — old seen 30+ days" : 37
 ```
 
