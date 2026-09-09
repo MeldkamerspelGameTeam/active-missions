@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 884
+Count: 881
 
 # Active never-seen missions
 
-Count: 674
+Count: 671
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -98,7 +98,6 @@ Count: 674
 | 901/bcd       | Trein ontspoord                                 | 37087       | never     | False    |
 | 901/bce       | Trein ontspoord                                 | 36087       | never     | False    |
 | 901/bcf       | Trein ontspoord                                 | 37087       | never     | False    |
-| 901/bcg       | Trein ontspoord                                 | 48337       | never     | False    |
 | 901/bde       | Trein ontspoord                                 | 27720       | never     | False    |
 | 901/bdf       | Trein ontspoord                                 | 28520       | never     | False    |
 | 901/bdg       | Trein ontspoord                                 | 37520       | never     | False    |
@@ -182,7 +181,6 @@ Count: 674
 | 1030/abc      | Brand bij papierrecyclaar                       | 65137       | never     | False    |
 | 1030/abd      | Brand bij papierrecyclaar                       | 56887       | never     | False    |
 | 1030/abcd     | Brand bij papierrecyclaar                       | 67137       | never     | False    |
-| 1034/dg       | Brand in nucleaire installatie                  | 72410       | never     | False    |
 | 1034/eh       | Brand in nucleaire installatie                  | 71560       | never     | False    |
 | 1034/abc      | Brand in nucleaire installatie                  | 99450       | never     | False    |
 | 1034/abd      | Brand in nucleaire installatie                  | 93200       | never     | False    |
@@ -628,7 +626,6 @@ Count: 674
 | 1228/adefgh   | Trein ontspoord na botsing met goederentrein    | 45790       | never     | False    |
 | 1228/bcdefh   | Trein ontspoord na botsing met goederentrein    | 58925       | never     | False    |
 | 1228/bcdegh   | Trein ontspoord na botsing met goederentrein    | 58425       | never     | False    |
-| 1228/bcdfgh   | Trein ontspoord na botsing met goederentrein    | 58425       | never     | False    |
 | 1228/bcefgh   | Trein ontspoord na botsing met goederentrein    | 58675       | never     | False    |
 | 1228/bdefgh   | Trein ontspoord na botsing met goederentrein    | 45790       | never     | False    |
 | 1228/cdefgh   | Trein ontspoord na botsing met goederentrein    | 59925       | never     | False    |
