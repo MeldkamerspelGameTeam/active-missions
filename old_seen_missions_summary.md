@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 127
+Count: 126
 
 # Active old-seen missions
 
-Count: 90
+Count: 89
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -15,7 +15,6 @@ Count: 90
 | 347         | Brand bij afvalverwerker                      | 17500       | 2026-07-22 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 591         | Uitslaande brand in veestal                   | 10775       | 2026-07-16 | False    |
-| 671         | Toezicht Horeca                               | 7245        | 2026-08-10 | False    |
 | 837         | Gaslek bedrijventerrein                       | 8580        | 2026-07-24 | False    |
 | 885/ae      | Brand in vuurwerkopslag                       | 50270       | 2026-07-24 | False    |
 | 885/ce      | Brand in vuurwerkopslag                       | 54670       | 2026-06-24 | False    |
