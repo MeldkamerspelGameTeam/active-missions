@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 877
+Count: 876
 
 # Active never-seen missions
 
-Count: 669
+Count: 668
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -27,7 +27,6 @@ Count: 669
 | 484           | Vat met gevaarlijke stoffen omgevallen          | 3880        | never     | False    |
 | 485           | Vat met gevaarlijke stoffen omgevallen          | 6660        | never     | False    |
 | 497/a         | Personenauto te water                           | 5650        | never     | False    |
-| 592           | Brand op bedrijventerrein                       | 12540       | never     | False    |
 | 787/abc       | Persoon bekneld in gierput                      | 7110        | never     | False    |
 | 841-0         | Aanrijding met zwaar letsel                     | 6740        | never     | False    |
 | 841-0/a       | Aanrijding met zwaar letsel                     | 7140        | never     | False    |
