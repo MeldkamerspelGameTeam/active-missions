@@ -1,16 +1,17 @@
 # Old seen missions (older than 30 days)
 
-Count: 126
+Count: 132
 
 # Active old-seen missions
 
-Count: 89
+Count: 95
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
 | 181/ab      | Verkeersongeval met beknelling                | 3290        | 2026-08-07 | False    |
 | 208         | Personenauto te water                         | 4350        | 2026-08-05 | False    |
 | 234         | Vliegtuig neergestort                         | 15120       | 2026-08-04 | False    |
+| 252         | Vrachtwagen te water                          | 3830        | 2026-08-11 | False    |
 | 252/a       | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 347         | Brand bij afvalverwerker                      | 17500       | 2026-07-22 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
@@ -45,11 +46,14 @@ Count: 89
 | 929/abd     | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
 | 929/bde     | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
 | 942/b       | Schoolbus te water                            | 5450        | 2026-08-09 | False    |
+| 974/a       | Ontspoorde tram botst tegen gebouw            | 20230       | 2026-08-11 | False    |
 | 1030/ab     | Brand bij papierrecyclaar                     | 54887       | 2026-08-03 | False    |
 | 1030/ac     | Brand bij papierrecyclaar                     | 49160       | 2026-07-02 | False    |
 | 1030/ad     | Brand bij papierrecyclaar                     | 42560       | 2026-08-10 | False    |
 | 1030/acd    | Brand bij papierrecyclaar                     | 50760       | 2026-08-09 | False    |
+| 1034/ab     | Brand in nucleaire installatie                | 91450       | 2026-08-11 | False    |
 | 1034/ad     | Brand in nucleaire installatie                | 71610       | 2026-08-07 | False    |
+| 1034/af     | Brand in nucleaire installatie                | 71410       | 2026-08-11 | False    |
 | 1034/ah     | Brand in nucleaire installatie                | 71060       | 2026-08-06 | False    |
 | 1034/bf     | Brand in nucleaire installatie                | 91950       | 2026-07-31 | False    |
 | 1034/bg     | Brand in nucleaire installatie                | 92450       | 2026-08-05 | False    |
@@ -75,12 +79,14 @@ Count: 89
 | 1206/bc     | Brand in station (Grip 1)                     | 29200       | 2026-07-23 | False    |
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
 | 1227/a      | Brand in passagierstrein (Grip 1)             | 21970       | 2026-08-05 | False    |
+| 1228/d      | Trein ontspoord na botsing met goederentrein  | 27940       | 2026-08-11 | False    |
 | 1228/ac     | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
 | 1228/abd    | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
 | 1228/bdg    | Trein ontspoord na botsing met goederentrein  | 30340       | 2026-08-06 | False    |
 | 1228/cdf    | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
 | 1228/befg   | Trein ontspoord na botsing met goederentrein  | 32540       | 2026-08-06 | False    |
 | 1228/cdfg   | Trein ontspoord na botsing met goederentrein  | 43112       | 2026-08-09 | False    |
+| 1228/dfgh   | Trein ontspoord na botsing met goederentrein  | 42990       | 2026-08-11 | False    |
 | 1228/abcdg  | Trein ontspoord na botsing met goederentrein  | 42612       | 2026-08-06 | False    |
 | 1228/bdefg  | Trein ontspoord na botsing met goederentrein  | 34340       | 2026-08-04 | False    |
 | 1228/abcdfg | Trein ontspoord na botsing met goederentrein  | 45112       | 2026-07-24 | False    |
