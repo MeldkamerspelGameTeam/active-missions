@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 132
+Count: 131
 
 # Active old-seen missions
 
-Count: 95
+Count: 94
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -32,7 +32,6 @@ Count: 95
 | 901/abc     | Trein ontspoord                               | 35837       | 2026-08-06 | False    |
 | 901/ade     | Trein ontspoord                               | 27720       | 2026-08-04 | False    |
 | 901/cdf     | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
-| 901/acef    | Trein ontspoord                               | 38337       | 2026-07-30 | False    |
 | 901/bcde    | Trein ontspoord                               | 38337       | 2026-08-06 | False    |
 | 901/bdeg    | Trein ontspoord                               | 38520       | 2026-08-09 | False    |
 | 929/ab      | Brand in gasverdeelstation                    | 37825       | 2026-08-04 | False    |
