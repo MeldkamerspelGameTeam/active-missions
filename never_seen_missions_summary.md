@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 875
+Count: 873
 
 # Active never-seen missions
 
-Count: 667
+Count: 665
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -170,7 +170,6 @@ Count: 667
 | 942-1/a       | Schoolbus te water                              | 12320       | never     | False    |
 | 942-1/b       | Schoolbus te water                              | 12820       | never     | False    |
 | 942-1/ab      | Schoolbus te water                              | 13120       | never     | False    |
-| 974/bd        | Ontspoorde tram botst tegen gebouw              | 36100       | never     | False    |
 | 974/abd       | Ontspoorde tram botst tegen gebouw              | 37100       | never     | False    |
 | 974/acd       | Ontspoorde tram botst tegen gebouw              | 27730       | never     | False    |
 | 980           | Uit de hand gelopen manifestatie                | 45080       | never     | False    |
@@ -660,7 +659,6 @@ Count: 667
 | 1229/dfg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 48990       | never     | False    |
 | 1229/efg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 49090       | never     | False    |
 | 1229/abcg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 59175       | never     | False    |
-| 1229/abfg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 63800       | never     | False    |
 | 1229/adeg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 45890       | never     | False    |
 | 1229/adfg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 49790       | never     | False    |
 | 1229/aefg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 49890       | never     | False    |
