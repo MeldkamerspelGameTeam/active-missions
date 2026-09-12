@@ -1362,7 +1362,7 @@
   "901/cf": "newly_active",
   "901/cfg": "newly_discovered",
   "901/cg": "newly_discovered",
-  "901/d": "old_seen",
+  "901/d": "back_active",
   "901/de": "newly_active",
   "901/def": "newly_active",
   "901/defg": "newly_active",
