@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 135
+Count: 132
 
 # Active old-seen missions
 
-Count: 98
+Count: 95
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -39,7 +39,6 @@ Count: 98
 | 929/ac      | Brand in gasverdeelstation                    | 32510       | 2026-06-23 | False    |
 | 929/ad      | Brand in gasverdeelstation                    | 28110       | 2026-08-05 | False    |
 | 929/bc      | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
-| 929/be      | Brand in gasverdeelstation                    | 37637       | 2026-08-03 | False    |
 | 929/ce      | Brand in gasverdeelstation                    | 32360       | 2026-07-25 | False    |
 | 929/abc     | Brand in gasverdeelstation                    | 44325       | 2026-07-12 | False    |
 | 929/abd     | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
@@ -54,9 +53,7 @@ Count: 98
 | 1034/ad     | Brand in nucleaire installatie                | 71610       | 2026-08-07 | False    |
 | 1034/af     | Brand in nucleaire installatie                | 71410       | 2026-08-11 | False    |
 | 1034/ah     | Brand in nucleaire installatie                | 71060       | 2026-08-06 | False    |
-| 1034/bf     | Brand in nucleaire installatie                | 91950       | 2026-07-31 | False    |
 | 1034/bg     | Brand in nucleaire installatie                | 92450       | 2026-08-05 | False    |
-| 1034/cf     | Brand in nucleaire installatie                | 77010       | 2026-07-22 | False    |
 | 1034/ch     | Brand in nucleaire installatie                | 76660       | 2026-07-19 | False    |
 | 1034/de     | Brand in nucleaire installatie                | 72110       | 2026-06-28 | False    |
 | 1034/dh     | Brand in nucleaire installatie                | 71660       | 2026-08-07 | False    |
