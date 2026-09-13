@@ -1862,7 +1862,7 @@
   "1034/dfh": "old_seen",
   "1034/dg": "newly_active",
   "1034/dgh": "newly_discovered",
-  "1034/dh": "old_seen",
+  "1034/dh": "back_active",
   "1034/e": "newly_active",
   "1034/ef": "newly_active",
   "1034/efg": "newly_discovered",
