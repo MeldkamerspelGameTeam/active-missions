@@ -1973,7 +1973,7 @@
   "1104/ad": "old_seen",
   "1104/ade": "newly_discovered",
   "1104/ae": "newly_active",
-  "1104/b": "old_seen",
+  "1104/b": "back_active",
   "1104/bc": "newly_discovered",
   "1104/bcd": "back_active",
   "1104/bcde": "newly_discovered",
