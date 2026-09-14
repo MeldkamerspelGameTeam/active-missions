@@ -1,16 +1,15 @@
 # Old seen missions (older than 30 days)
 
-Count: 132
+Count: 130
 
 # Active old-seen missions
 
-Count: 95
+Count: 93
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
 | 181/a       | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab      | Verkeersongeval met beknelling                | 3290        | 2026-08-07 | False    |
-| 208         | Personenauto te water                         | 4350        | 2026-08-05 | False    |
 | 234         | Vliegtuig neergestort                         | 15120       | 2026-08-04 | False    |
 | 252         | Vrachtwagen te water                          | 3830        | 2026-08-11 | False    |
 | 252/a       | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
@@ -47,7 +46,6 @@ Count: 95
 | 929/abd     | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
 | 929/ace     | Brand in gasverdeelstation                    | 33160       | 2026-08-14 | False    |
 | 929/bde     | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
-| 942/b       | Schoolbus te water                            | 5450        | 2026-08-09 | False    |
 | 974/a       | Ontspoorde tram botst tegen gebouw            | 20230       | 2026-08-11 | False    |
 | 1030/ab     | Brand bij papierrecyclaar                     | 54887       | 2026-08-03 | False    |
 | 1030/ad     | Brand bij papierrecyclaar                     | 42560       | 2026-08-10 | False    |
