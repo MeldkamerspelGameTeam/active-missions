@@ -1,13 +1,14 @@
 # Old seen missions (older than 30 days)
 
-Count: 130
+Count: 139
 
 # Active old-seen missions
 
-Count: 93
+Count: 102
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
+| 117         | Voetbalwedstrijd, risicowedstrijd             | 17910       | 2026-08-15 | False    |
 | 181/a       | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab      | Verkeersongeval met beknelling                | 3290        | 2026-08-07 | False    |
 | 234         | Vliegtuig neergestort                         | 15120       | 2026-08-04 | False    |
@@ -19,6 +20,7 @@ Count: 93
 | 591         | Uitslaande brand in veestal                   | 10775       | 2026-07-16 | False    |
 | 837         | Gaslek bedrijventerrein                       | 8580        | 2026-07-24 | False    |
 | 885/ae      | Brand in vuurwerkopslag                       | 50270       | 2026-07-24 | False    |
+| 885/bc      | Brand in vuurwerkopslag                       | 71025       | 2026-08-15 | False    |
 | 885/ce      | Brand in vuurwerkopslag                       | 54670       | 2026-06-24 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
 | 885/abf     | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
@@ -29,6 +31,7 @@ Count: 93
 | 897-2/a     | Rellen na stadsderby                          | 19355       | 2026-06-30 | False    |
 | 901         | Trein ontspoord                               | 24120       | 2026-07-23 | False    |
 | 901/a       | Trein ontspoord                               | 24920       | 2026-07-22 | False    |
+| 901/b       | Trein ontspoord                               | 24920       | 2026-08-15 | False    |
 | 901/ab      | Trein ontspoord                               | 25720       | 2026-08-14 | False    |
 | 901/df      | Trein ontspoord                               | 27720       | 2026-08-14 | False    |
 | 901/abc     | Trein ontspoord                               | 35837       | 2026-08-06 | False    |
@@ -36,7 +39,9 @@ Count: 93
 | 901/cdf     | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
 | 901/bcde    | Trein ontspoord                               | 38337       | 2026-08-06 | False    |
 | 901/bdeg    | Trein ontspoord                               | 38520       | 2026-08-09 | False    |
+| 901/bcdeg   | Trein ontspoord                               | 51837       | 2026-08-15 | False    |
 | 901/bcefg   | Trein ontspoord                               | 51837       | 2026-08-12 | False    |
+| 901/bdefg   | Trein ontspoord                               | 40320       | 2026-08-15 | False    |
 | 929/ab      | Brand in gasverdeelstation                    | 37825       | 2026-08-04 | False    |
 | 929/ac      | Brand in gasverdeelstation                    | 32510       | 2026-06-23 | False    |
 | 929/ad      | Brand in gasverdeelstation                    | 28110       | 2026-08-05 | False    |
@@ -72,10 +77,13 @@ Count: 93
 | 1104/abc    | Aanrijding trein & betonmixer                 | 23912       | 2026-07-25 | False    |
 | 1202/b      | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
 | 1202/ab     | Brand in ziekenhuis (Grip 1)                  | 19225       | 2026-08-01 | False    |
+| 1202/bc     | Brand in ziekenhuis (Grip 1)                  | 14180       | 2026-08-15 | False    |
 | 1206/bc     | Brand in station (Grip 1)                     | 29200       | 2026-07-23 | False    |
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
+| 1207/ab     | Brand in station (Grip 2)                     | 55950       | 2026-08-15 | False    |
 | 1227/a      | Brand in passagierstrein (Grip 1)             | 21970       | 2026-08-05 | False    |
 | 1228/ac     | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
+| 1228/bd     | Trein ontspoord na botsing met goederentrein  | 28740       | 2026-08-15 | False    |
 | 1228/abd    | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
 | 1228/bdg    | Trein ontspoord na botsing met goederentrein  | 30340       | 2026-08-06 | False    |
 | 1228/cdf    | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
@@ -86,6 +94,7 @@ Count: 93
 | 1228/bdefg  | Trein ontspoord na botsing met goederentrein  | 34340       | 2026-08-04 | False    |
 | 1228/abcdfg | Trein ontspoord na botsing met goederentrein  | 45112       | 2026-07-24 | False    |
 | 1228/bcdefg | Trein ontspoord na botsing met goederentrein  | 46612       | 2026-08-04 | False    |
+| 1229/e      | Dieseltrein met gevaarlijke stoffen ontspoord | 32790       | 2026-08-15 | False    |
 | 1229/ab     | Dieseltrein met gevaarlijke stoffen ontspoord | 43425       | 2026-08-01 | False    |
 | 1229/bd     | Dieseltrein met gevaarlijke stoffen ontspoord | 44550       | 2026-08-14 | False    |
 | 1229/be     | Dieseltrein met gevaarlijke stoffen ontspoord | 44675       | 2026-08-07 | False    |
