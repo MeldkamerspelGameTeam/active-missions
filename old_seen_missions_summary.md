@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 138
+Count: 137
 
 # Active old-seen missions
 
-Count: 101
+Count: 100
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -107,7 +107,6 @@ Count: 101
 | 1229/ceg    | Dieseltrein met gevaarlijke stoffen ontspoord | 45390       | 2026-08-12 | False    |
 | 1229/def    | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
 | 1229/abef   | Dieseltrein met gevaarlijke stoffen ontspoord | 52800       | 2026-08-09 | False    |
-| 1229/acdf   | Dieseltrein met gevaarlijke stoffen ontspoord | 41190       | 2026-08-05 | False    |
 | 1229/bcdf   | Dieseltrein met gevaarlijke stoffen ontspoord | 54175       | 2026-08-12 | False    |
 
 # Inactive old-seen missions
