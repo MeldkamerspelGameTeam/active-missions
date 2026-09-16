@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 141
+Count: 140
 
 # Active old-seen missions
 
-Count: 104
+Count: 103
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -95,7 +95,6 @@ Count: 104
 | 1228/bcdefg | Trein ontspoord na botsing met goederentrein  | 46612       | 2026-08-04 | False    |
 | 1229/e      | Dieseltrein met gevaarlijke stoffen ontspoord | 32790       | 2026-08-15 | False    |
 | 1229/ab     | Dieseltrein met gevaarlijke stoffen ontspoord | 43425       | 2026-08-01 | False    |
-| 1229/bd     | Dieseltrein met gevaarlijke stoffen ontspoord | 44550       | 2026-08-14 | False    |
 | 1229/be     | Dieseltrein met gevaarlijke stoffen ontspoord | 44675       | 2026-08-07 | False    |
 | 1229/de     | Dieseltrein met gevaarlijke stoffen ontspoord | 34490       | 2026-07-25 | False    |
 | 1229/df     | Dieseltrein met gevaarlijke stoffen ontspoord | 38390       | 2026-08-16 | False    |
