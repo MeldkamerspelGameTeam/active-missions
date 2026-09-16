@@ -45,25 +45,6 @@ Count: 2
 | 1096   | Waterredding vereist bij zeilevenement                             | 1230        | never      | True     |
 | 1097   | Boze toeschouwer bij sportzwembad                                  | 670         | never      | True     |
 
-## Start: 2025-09-19T09:00:00Z | End: 2025-11-28T23:59:59+01:00 | Count: 10
-
-# Missions
-
-Count: 10
-
-| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 856    | Persoon uitgegleden over natte bladeren                            | None        | 2026-09-09 | True     |
-| 857    | Verkeersongeval door gevallen bladeren                             | 2600        | never      | True     |
-| 858    | Persoon gevallen in een hoop bladeren                              | None        | never      | True     |
-| 859    | Op hol geslagen bladblazer                                         | 500         | never      | True     |
-| 860    | Afvoerput verstopt met bladeren                                    | 500         | never      | True     |
-| 861    | Onderkoeling na zwemmen in koud water                              | None        | never      | True     |
-| 862    | Ongeluk op mistige weg                                             | 1580        | never      | True     |
-| 863    | Ongeluk met overstekend hert                                       | 1750        | never      | True     |
-| 864    | Brandende hoop bladeren                                            | 670         | never      | True     |
-| 865    | Bladeren op spoor                                                  | 1080        | 2026-09-09 | True     |
-
 ## Start: 2025-10-17T09:00:00Z | End: 2025-10-31T23:59:59+01:00 | Count: 15
 
 # Missions
@@ -525,3 +506,22 @@ Count: 15
 | 1049   | Racefans houden straatrace                                         | 2640        | 2026-08-24 | True     |
 | 1050   | Vergiftiging door uitlaatgassen                                    | None        | 2026-08-24 | True     |
 | 1051   | Valse kaartjes race in verkoop                                     | 1010        | 2026-08-24 | True     |
+
+## Start: 2026-09-18T09:00:00Z | End: 2026-11-20T23:59:59+01:00 | Count: 10
+
+# Missions
+
+Count: 10
+
+| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
+| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
+| 856    | Persoon uitgegleden over natte bladeren                            | None        | 2026-09-09 | True     |
+| 857    | Verkeersongeval door gevallen bladeren                             | 2600        | never      | True     |
+| 858    | Persoon gevallen in een hoop bladeren                              | None        | never      | True     |
+| 859    | Op hol geslagen bladblazer                                         | 500         | never      | True     |
+| 860    | Afvoerput verstopt met bladeren                                    | 500         | never      | True     |
+| 861    | Onderkoeling na zwemmen in koud water                              | None        | never      | True     |
+| 862    | Ongeluk op mistige weg                                             | 1580        | never      | True     |
+| 863    | Ongeluk met overstekend hert                                       | 1750        | never      | True     |
+| 864    | Brandende hoop bladeren                                            | 670         | never      | True     |
+| 865    | Bladeren op spoor                                                  | 1080        | 2026-09-09 | True     |
