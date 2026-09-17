@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 866
+Count: 865
 
 # Active never-seen missions
 
-Count: 658
+Count: 657
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -432,7 +432,6 @@ Count: 658
 | 1228/abf      | Trein ontspoord na botsing met goederentrein    | 29740       | never     | False    |
 | 1228/abg      | Trein ontspoord na botsing met goederentrein    | 29340       | never     | False    |
 | 1228/abh      | Trein ontspoord na botsing met goederentrein    | 39190       | never     | False    |
-| 1228/acd      | Trein ontspoord na botsing met goederentrein    | 39612       | never     | False    |
 | 1228/ace      | Trein ontspoord na botsing met goederentrein    | 39862       | never     | False    |
 | 1228/acf      | Trein ontspoord na botsing met goederentrein    | 39862       | never     | False    |
 | 1228/acg      | Trein ontspoord na botsing met goederentrein    | 39362       | never     | False    |
