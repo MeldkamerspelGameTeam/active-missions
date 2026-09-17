@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 137
+Count: 143
 
 # Active old-seen missions
 
-Count: 100
+Count: 106
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -17,6 +17,7 @@ Count: 100
 | 347         | Brand bij afvalverwerker                      | 17500       | 2026-07-22 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 591         | Uitslaande brand in veestal                   | 10775       | 2026-07-16 | False    |
+| 801/a       | Groep kitesurfers in problemen                | 4790        | 2026-08-17 | False    |
 | 837         | Gaslek bedrijventerrein                       | 8580        | 2026-07-24 | False    |
 | 885/bc      | Brand in vuurwerkopslag                       | 71025       | 2026-08-15 | False    |
 | 885/ce      | Brand in vuurwerkopslag                       | 54670       | 2026-06-24 | False    |
@@ -32,6 +33,7 @@ Count: 100
 | 901/b       | Trein ontspoord                               | 24920       | 2026-08-15 | False    |
 | 901/ab      | Trein ontspoord                               | 25720       | 2026-08-14 | False    |
 | 901/ad      | Trein ontspoord                               | 26720       | 2026-08-16 | False    |
+| 901/cf      | Trein ontspoord                               | 36087       | 2026-08-17 | False    |
 | 901/df      | Trein ontspoord                               | 27720       | 2026-08-14 | False    |
 | 901/abc     | Trein ontspoord                               | 35837       | 2026-08-06 | False    |
 | 901/ade     | Trein ontspoord                               | 27720       | 2026-08-04 | False    |
@@ -81,6 +83,7 @@ Count: 100
 | 1206/bc     | Brand in station (Grip 1)                     | 29200       | 2026-07-23 | False    |
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
 | 1228/ac     | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
+| 1228/ad     | Trein ontspoord na botsing met goederentrein  | 28740       | 2026-08-17 | False    |
 | 1228/abd    | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
 | 1228/bdg    | Trein ontspoord na botsing met goederentrein  | 30340       | 2026-08-06 | False    |
 | 1228/cdf    | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
@@ -93,9 +96,11 @@ Count: 100
 | 1228/bcdefg | Trein ontspoord na botsing met goederentrein  | 46612       | 2026-08-04 | False    |
 | 1229/e      | Dieseltrein met gevaarlijke stoffen ontspoord | 32790       | 2026-08-15 | False    |
 | 1229/ab     | Dieseltrein met gevaarlijke stoffen ontspoord | 43425       | 2026-08-01 | False    |
+| 1229/ad     | Dieseltrein met gevaarlijke stoffen ontspoord | 33490       | 2026-08-17 | False    |
 | 1229/be     | Dieseltrein met gevaarlijke stoffen ontspoord | 44675       | 2026-08-07 | False    |
 | 1229/de     | Dieseltrein met gevaarlijke stoffen ontspoord | 34490       | 2026-07-25 | False    |
 | 1229/df     | Dieseltrein met gevaarlijke stoffen ontspoord | 38390       | 2026-08-16 | False    |
+| 1229/abc    | Dieseltrein met gevaarlijke stoffen ontspoord | 45925       | 2026-08-17 | False    |
 | 1229/abe    | Dieseltrein met gevaarlijke stoffen ontspoord | 45675       | 2026-07-29 | False    |
 | 1229/ace    | Dieseltrein met gevaarlijke stoffen ontspoord | 35590       | 2026-07-31 | False    |
 | 1229/bce    | Dieseltrein met gevaarlijke stoffen ontspoord | 47175       | 2026-08-08 | False    |
@@ -106,6 +111,7 @@ Count: 100
 | 1229/cdf    | Dieseltrein met gevaarlijke stoffen ontspoord | 40390       | 2026-07-25 | False    |
 | 1229/ceg    | Dieseltrein met gevaarlijke stoffen ontspoord | 45390       | 2026-08-12 | False    |
 | 1229/def    | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
+| 1229/abdf   | Dieseltrein met gevaarlijke stoffen ontspoord | 52675       | 2026-08-17 | False    |
 | 1229/abef   | Dieseltrein met gevaarlijke stoffen ontspoord | 52800       | 2026-08-09 | False    |
 | 1229/bcdf   | Dieseltrein met gevaarlijke stoffen ontspoord | 54175       | 2026-08-12 | False    |
 
