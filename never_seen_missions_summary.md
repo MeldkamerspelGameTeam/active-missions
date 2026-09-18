@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 863
+Count: 861
 
 # Active never-seen missions
 
-Count: 655
+Count: 653
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -388,7 +388,6 @@ Count: 655
 | 1104/abce     | Aanrijding trein & betonmixer                   | 32287       | never     | False    |
 | 1104/acde     | Aanrijding trein & betonmixer                   | 23480       | never     | False    |
 | 1104/bcde     | Aanrijding trein & betonmixer                   | 32037       | never     | False    |
-| 1203/ab       | Brand in ziekenhuis (Grip 2)                    | 28562       | never     | False    |
 | 1203/bc       | Brand in ziekenhuis (Grip 2)                    | 21650       | never     | False    |
 | 1206/b        | Brand in station (Grip 1)                       | 28400       | never     | False    |
 | 1227/ad       | Brand in passagierstrein (Grip 1)               | 28620       | never     | False    |
@@ -407,7 +406,6 @@ Count: 655
 | 1228/af       | Trein ontspoord na botsing met goederentrein    | 28940       | never     | False    |
 | 1228/ag       | Trein ontspoord na botsing met goederentrein    | 28540       | never     | False    |
 | 1228/ah       | Trein ontspoord na botsing met goederentrein    | 38390       | never     | False    |
-| 1228/bc       | Trein ontspoord na botsing met goederentrein    | 37362       | never     | False    |
 | 1228/be       | Trein ontspoord na botsing met goederentrein    | 28940       | never     | False    |
 | 1228/bg       | Trein ontspoord na botsing met goederentrein    | 28540       | never     | False    |
 | 1228/bh       | Trein ontspoord na botsing met goederentrein    | 38390       | never     | False    |
