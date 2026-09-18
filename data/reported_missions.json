@@ -2511,7 +2511,7 @@
   "1229/bdfg": "newly_active",
   "1229/bdg": "newly_discovered",
   "1229/be": "old_seen",
-  "1229/bef": "old_seen",
+  "1229/bef": "back_active",
   "1229/befg": "newly_discovered",
   "1229/beg": "newly_discovered",
   "1229/bf": "newly_active",
