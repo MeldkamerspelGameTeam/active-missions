@@ -1,6 +1,6 @@
 # Never seen missions
 
-Count: 861
+Count: 853
 
 # Active never-seen missions
 
@@ -664,7 +664,7 @@ Count: 653
 
 # Inactive never-seen missions
 
-Count: 208
+Count: 200
 
 | ID     | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | --------- | -------- |
@@ -780,14 +780,6 @@ Count: 208
 | 791    | Brandende taart in oven                                            | 600         | never     | True     |
 | 792    | Keukenbrand                                                        | 1400        | never     | True     |
 | 793    | Chocoladediefstal                                                  | 1200        | never     | True     |
-| 857    | Verkeersongeval door gevallen bladeren                             | 2600        | never     | True     |
-| 858    | Persoon gevallen in een hoop bladeren                              | None        | never     | True     |
-| 859    | Op hol geslagen bladblazer                                         | 500         | never     | True     |
-| 860    | Afvoerput verstopt met bladeren                                    | 500         | never     | True     |
-| 861    | Onderkoeling na zwemmen in koud water                              | None        | never     | True     |
-| 862    | Ongeluk op mistige weg                                             | 1580        | never     | True     |
-| 863    | Ongeluk met overstekend hert                                       | 1750        | never     | True     |
-| 864    | Brandende hoop bladeren                                            | 670         | never     | True     |
 | 886    | Massa-beroerte tijdens het eten van fondue (klein)                 | 3720        | never     | True     |
 | 886-0  | Massa-beroerte tijdens het eten van fondue (groot)                 | 6480        | never     | True     |
 | 886-1  | Massa-beroerte tijdens het eten van fondue (enorm)                 | 16050       | never     | True     |
