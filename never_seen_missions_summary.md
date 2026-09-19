@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 852
+Count: 851
 
 # Active never-seen missions
 
-Count: 652
+Count: 651
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -379,7 +379,6 @@ Count: 652
 | 1104/ac       | Aanrijding trein & betonmixer                   | 16180       | never     | False    |
 | 1104/bc       | Aanrijding trein & betonmixer                   | 22912       | never     | False    |
 | 1104/be       | Aanrijding trein & betonmixer                   | 30037       | never     | False    |
-| 1104/ce       | Aanrijding trein & betonmixer                   | 22080       | never     | False    |
 | 1104/abe      | Aanrijding trein & betonmixer                   | 31037       | never     | False    |
 | 1104/ace      | Aanrijding trein & betonmixer                   | 22880       | never     | False    |
 | 1104/ade      | Aanrijding trein & betonmixer                   | 22480       | never     | False    |
