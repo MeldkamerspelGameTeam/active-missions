@@ -313,7 +313,7 @@
   "250": "newly_active",
   "251": "back_active",
   "251/a": "newly_active",
-  "252": "old_seen",
+  "252": "back_active",
   "252/a": "old_seen",
   "252/ab": "newly_active",
   "252/b": "newly_active",

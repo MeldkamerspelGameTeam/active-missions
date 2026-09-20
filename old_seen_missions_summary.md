@@ -1,17 +1,16 @@
 # Old seen missions (older than 30 days)
 
-Count: 149
+Count: 148
 
 # Active old-seen missions
 
-Count: 112
+Count: 111
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
 | 117         | Voetbalwedstrijd, risicowedstrijd             | 17910       | 2026-08-15 | False    |
 | 181/a       | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab      | Verkeersongeval met beknelling                | 3290        | 2026-08-07 | False    |
-| 252         | Vrachtwagen te water                          | 3830        | 2026-08-11 | False    |
 | 252/a       | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 312/ac      | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
 | 347         | Brand bij afvalverwerker                      | 17500       | 2026-07-22 | False    |
