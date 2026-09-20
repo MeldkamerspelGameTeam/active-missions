@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 144
+Count: 149
 
 # Active old-seen missions
 
-Count: 107
+Count: 112
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -31,6 +31,7 @@ Count: 107
 | 901         | Trein ontspoord                               | 24120       | 2026-07-23 | False    |
 | 901/a       | Trein ontspoord                               | 24920       | 2026-07-22 | False    |
 | 901/b       | Trein ontspoord                               | 24920       | 2026-08-15 | False    |
+| 901/f       | Trein ontspoord                               | 25920       | 2026-08-20 | False    |
 | 901/ab      | Trein ontspoord                               | 25720       | 2026-08-14 | False    |
 | 901/ad      | Trein ontspoord                               | 26720       | 2026-08-16 | False    |
 | 901/cf      | Trein ontspoord                               | 36087       | 2026-08-17 | False    |
@@ -42,6 +43,7 @@ Count: 107
 | 901/cdf     | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
 | 901/bcde    | Trein ontspoord                               | 38337       | 2026-08-06 | False    |
 | 901/bdeg    | Trein ontspoord                               | 38520       | 2026-08-09 | False    |
+| 901/bcdef   | Trein ontspoord                               | 40587       | 2026-08-20 | False    |
 | 901/bcdeg   | Trein ontspoord                               | 51837       | 2026-08-15 | False    |
 | 901/bcefg   | Trein ontspoord                               | 51837       | 2026-08-12 | False    |
 | 901/bdefg   | Trein ontspoord                               | 40320       | 2026-08-15 | False    |
@@ -54,6 +56,8 @@ Count: 107
 | 929/abd     | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
 | 929/ace     | Brand in gasverdeelstation                    | 33160       | 2026-08-14 | False    |
 | 929/bde     | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
+| 929/cde     | Brand in gasverdeelstation                    | 33160       | 2026-08-20 | False    |
+| 974         | Ontspoorde tram botst tegen gebouw            | 19430       | 2026-08-20 | False    |
 | 974/a       | Ontspoorde tram botst tegen gebouw            | 20230       | 2026-08-11 | False    |
 | 1030/ab     | Brand bij papierrecyclaar                     | 54887       | 2026-08-03 | False    |
 | 1030/ad     | Brand bij papierrecyclaar                     | 42560       | 2026-08-10 | False    |
@@ -80,6 +84,7 @@ Count: 107
 | 1104/ad     | Aanrijding trein & betonmixer                 | 15780       | 2026-08-09 | False    |
 | 1104/bd     | Aanrijding trein & betonmixer                 | 22412       | 2026-07-31 | False    |
 | 1104/abc    | Aanrijding trein & betonmixer                 | 23912       | 2026-07-25 | False    |
+| 1104/acd    | Aanrijding trein & betonmixer                 | 16780       | 2026-08-20 | False    |
 | 1202/b      | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
 | 1202/bc     | Brand in ziekenhuis (Grip 1)                  | 14180       | 2026-08-15 | False    |
 | 1206/bc     | Brand in station (Grip 1)                     | 29200       | 2026-07-23 | False    |
