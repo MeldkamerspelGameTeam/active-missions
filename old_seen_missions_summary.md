@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 148
+Count: 153
 
 # Active old-seen missions
 
-Count: 111
+Count: 116
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -14,6 +14,7 @@ Count: 111
 | 252/a       | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 312/ac      | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
 | 347         | Brand bij afvalverwerker                      | 17500       | 2026-07-22 | False    |
+| 492/a       | Ongeregeldheden voetbalsupporters horeca      | 6810        | 2026-08-21 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 591         | Uitslaande brand in veestal                   | 10775       | 2026-07-16 | False    |
 | 801/a       | Groep kitesurfers in problemen                | 4790        | 2026-08-17 | False    |
@@ -27,6 +28,7 @@ Count: 111
 | 885/cdef    | Brand in vuurwerkopslag                       | 56520       | 2026-07-16 | False    |
 | 892         | 1000 Politiebureau mijlpaal                   | 50000       | 2026-06-21 | False    |
 | 897-2/a     | Rellen na stadsderby                          | 19355       | 2026-06-30 | False    |
+| 899/a       | Aanrijding bus en tram                        | 10620       | 2026-08-21 | False    |
 | 901         | Trein ontspoord                               | 24120       | 2026-07-23 | False    |
 | 901/a       | Trein ontspoord                               | 24920       | 2026-07-22 | False    |
 | 901/b       | Trein ontspoord                               | 24920       | 2026-08-15 | False    |
@@ -40,6 +42,7 @@ Count: 111
 | 901/ade     | Trein ontspoord                               | 27720       | 2026-08-04 | False    |
 | 901/adf     | Trein ontspoord                               | 28520       | 2026-08-16 | False    |
 | 901/cdf     | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
+| 901/dfg     | Trein ontspoord                               | 38520       | 2026-08-21 | False    |
 | 901/bcde    | Trein ontspoord                               | 38337       | 2026-08-06 | False    |
 | 901/bdeg    | Trein ontspoord                               | 38520       | 2026-08-09 | False    |
 | 901/bcdef   | Trein ontspoord                               | 40587       | 2026-08-20 | False    |
@@ -88,6 +91,7 @@ Count: 111
 | 1202/bc     | Brand in ziekenhuis (Grip 1)                  | 14180       | 2026-08-15 | False    |
 | 1206/bc     | Brand in station (Grip 1)                     | 29200       | 2026-07-23 | False    |
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
+| 1227/ab     | Brand in passagierstrein (Grip 1)             | 31150       | 2026-08-21 | False    |
 | 1228/ac     | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
 | 1228/abd    | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
 | 1228/bdg    | Trein ontspoord na botsing met goederentrein  | 30340       | 2026-08-06 | False    |
@@ -109,6 +113,7 @@ Count: 111
 | 1229/abc    | Dieseltrein met gevaarlijke stoffen ontspoord | 45925       | 2026-08-17 | False    |
 | 1229/abe    | Dieseltrein met gevaarlijke stoffen ontspoord | 45675       | 2026-07-29 | False    |
 | 1229/ace    | Dieseltrein met gevaarlijke stoffen ontspoord | 35590       | 2026-07-31 | False    |
+| 1229/bcd    | Dieseltrein met gevaarlijke stoffen ontspoord | 47050       | 2026-08-21 | False    |
 | 1229/bce    | Dieseltrein met gevaarlijke stoffen ontspoord | 47175       | 2026-08-08 | False    |
 | 1229/bcg    | Dieseltrein met gevaarlijke stoffen ontspoord | 58175       | 2026-08-16 | False    |
 | 1229/bdf    | Dieseltrein met gevaarlijke stoffen ontspoord | 51675       | 2026-07-30 | False    |
