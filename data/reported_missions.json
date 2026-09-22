@@ -1368,7 +1368,7 @@
   "901/defg": "newly_active",
   "901/deg": "newly_active",
   "901/df": "old_seen",
-  "901/dfg": "old_seen",
+  "901/dfg": "back_active",
   "901/dg": "newly_active",
   "901/e": "newly_discovered",
   "901/ef": "back_active",
