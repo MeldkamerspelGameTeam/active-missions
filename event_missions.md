@@ -515,7 +515,7 @@ Count: 10
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 856    | Persoon uitgegleden over natte bladeren                            | None        | 2026-09-22 | False    |
+| 856    | Persoon uitgegleden over natte bladeren                            | None        | 2026-09-23 | False    |
 | 857    | Verkeersongeval door gevallen bladeren                             | 2600        | 2026-09-22 | False    |
 | 858    | Persoon gevallen in een hoop bladeren                              | None        | 2026-09-22 | False    |
 | 859    | Op hol geslagen bladblazer                                         | 500         | 2026-09-22 | False    |
