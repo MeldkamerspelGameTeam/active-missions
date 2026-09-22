@@ -2100,7 +2100,7 @@
   "1202/abc": "newly_active",
   "1202/ac": "newly_active",
   "1202/b": "old_seen",
-  "1202/bc": "old_seen",
+  "1202/bc": "back_active",
   "1202/c": "newly_active",
   "1203": "newly_active",
   "1203/a": "newly_active",
