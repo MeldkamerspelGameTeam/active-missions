@@ -1318,7 +1318,7 @@
   "901/bc": "newly_discovered",
   "901/bcd": "newly_discovered",
   "901/bcde": "old_seen",
-  "901/bcdef": "old_seen",
+  "901/bcdef": "back_active",
   "901/bcdefg": "newly_active",
   "901/bcdeg": "old_seen",
   "901/bcdf": "newly_discovered",
