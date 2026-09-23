@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 918
+Count: 916
 
 # Active never-seen missions
 
-Count: 717
+Count: 715
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -685,7 +685,6 @@ Count: 717
 | 1248/a        | Blikseminslag rietenkap (Middel)                | 2960        | never     | False    |
 | 1249          | Blikseminslag rietenkap (Groot)                 | 7990        | never     | False    |
 | 1249/a        | Blikseminslag rietenkap (Groot)                 | 8390        | never     | False    |
-| 1250          | Blikseminslag rietenkap (Grip 1)                | 17300       | never     | False    |
 | 1250/a        | Blikseminslag rietenkap (Grip 1)                | 18100       | never     | False    |
 | 1250/b        | Blikseminslag rietenkap (Grip 1)                | 25312       | never     | False    |
 | 1250/c        | Blikseminslag rietenkap (Grip 1)                | 17700       | never     | False    |
@@ -693,7 +692,6 @@ Count: 717
 | 1250/ac       | Blikseminslag rietenkap (Grip 1)                | 18500       | never     | False    |
 | 1250/bc       | Blikseminslag rietenkap (Grip 1)                | 25812       | never     | False    |
 | 1250/abc      | Blikseminslag rietenkap (Grip 1)                | 26812       | never     | False    |
-| 1251          | Blikseminslag rietenkap (Grip 2)                | 21160       | never     | False    |
 | 1251/a        | Blikseminslag rietenkap (Grip 2)                | 21960       | never     | False    |
 | 1251/b        | Blikseminslag rietenkap (Grip 2)                | 30137       | never     | False    |
 | 1251/c        | Blikseminslag rietenkap (Grip 2)                | 21560       | never     | False    |
