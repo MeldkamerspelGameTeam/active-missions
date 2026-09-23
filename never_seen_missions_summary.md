@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 921
+Count: 918
 
 # Active never-seen missions
 
-Count: 720
+Count: 717
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -681,9 +681,7 @@ Count: 720
 | 1246/ac       | Rietkapbrand (Grip 2)                           | 21310       | never     | False    |
 | 1246/bc       | Rietkapbrand (Grip 2)                           | 29325       | never     | False    |
 | 1246/abc      | Rietkapbrand (Grip 2)                           | 30325       | never     | False    |
-| 1247          | Blikseminslag rietenkap (Klein)                 | 500         | never     | False    |
 | 1247/a        | Blikseminslag rietenkap (Klein)                 | 900         | never     | False    |
-| 1248          | Blikseminslag rietenkap (Middel)                | 2560        | never     | False    |
 | 1248/a        | Blikseminslag rietenkap (Middel)                | 2960        | never     | False    |
 | 1249          | Blikseminslag rietenkap (Groot)                 | 7990        | never     | False    |
 | 1249/a        | Blikseminslag rietenkap (Groot)                 | 8390        | never     | False    |
@@ -713,7 +711,6 @@ Count: 720
 | 1255/ac       | Brand in rietenkap na werkzaamheden (Grip 1)    | 17210       | never     | False    |
 | 1255/bc       | Brand in rietenkap na werkzaamheden (Grip 1)    | 24200       | never     | False    |
 | 1255/abc      | Brand in rietenkap na werkzaamheden (Grip 1)    | 25200       | never     | False    |
-| 1256          | Brand in rietenkap na werkzaamheden (Grip 2)    | 21220       | never     | False    |
 | 1256/a        | Brand in rietenkap na werkzaamheden (Grip 2)    | 22020       | never     | False    |
 | 1256/b        | Brand in rietenkap na werkzaamheden (Grip 2)    | 30212       | never     | False    |
 | 1256/c        | Brand in rietenkap na werkzaamheden (Grip 2)    | 21620       | never     | False    |
