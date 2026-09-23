@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 152
+Count: 164
 
 # Active old-seen missions
 
-Count: 114
+Count: 120
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -16,6 +16,7 @@ Count: 114
 | 347         | Brand bij afvalverwerker                      | 17500       | 2026-07-22 | False    |
 | 492/a       | Ongeregeldheden voetbalsupporters horeca      | 6810        | 2026-08-21 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
+| 517/a       | Aanvaring met luxe jachtschip (Grip 4)        | 7937        | 2026-08-23 | False    |
 | 591         | Uitslaande brand in veestal                   | 10775       | 2026-07-16 | False    |
 | 787/bc      | Persoon bekneld in gierput                    | 6410        | 2026-08-22 | False    |
 | 801/a       | Groep kitesurfers in problemen                | 4790        | 2026-08-17 | False    |
@@ -55,6 +56,7 @@ Count: 114
 | 929/ce      | Brand in gasverdeelstation                    | 32360       | 2026-07-25 | False    |
 | 929/abc     | Brand in gasverdeelstation                    | 44325       | 2026-07-12 | False    |
 | 929/abd     | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
+| 929/acd     | Brand in gasverdeelstation                    | 33310       | 2026-08-23 | False    |
 | 929/ace     | Brand in gasverdeelstation                    | 33160       | 2026-08-14 | False    |
 | 929/bde     | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
 | 929/cde     | Brand in gasverdeelstation                    | 33160       | 2026-08-20 | False    |
@@ -99,6 +101,7 @@ Count: 114
 | 1228/cdfg   | Trein ontspoord na botsing met goederentrein  | 43112       | 2026-08-09 | False    |
 | 1228/dfgh   | Trein ontspoord na botsing met goederentrein  | 42990       | 2026-08-11 | False    |
 | 1228/abcdg  | Trein ontspoord na botsing met goederentrein  | 42612       | 2026-08-06 | False    |
+| 1228/abdfg  | Trein ontspoord na botsing met goederentrein  | 33140       | 2026-08-23 | False    |
 | 1228/bcdfg  | Trein ontspoord na botsing met goederentrein  | 44112       | 2026-08-18 | False    |
 | 1228/bdefg  | Trein ontspoord na botsing met goederentrein  | 34340       | 2026-08-04 | False    |
 | 1228/abcdfg | Trein ontspoord na botsing met goederentrein  | 45112       | 2026-07-24 | False    |
@@ -111,7 +114,9 @@ Count: 114
 | 1229/df     | Dieseltrein met gevaarlijke stoffen ontspoord | 38390       | 2026-08-16 | False    |
 | 1229/abc    | Dieseltrein met gevaarlijke stoffen ontspoord | 45925       | 2026-08-17 | False    |
 | 1229/abe    | Dieseltrein met gevaarlijke stoffen ontspoord | 45675       | 2026-07-29 | False    |
+| 1229/acd    | Dieseltrein met gevaarlijke stoffen ontspoord | 35490       | 2026-08-23 | False    |
 | 1229/ace    | Dieseltrein met gevaarlijke stoffen ontspoord | 35590       | 2026-07-31 | False    |
+| 1229/adf    | Dieseltrein met gevaarlijke stoffen ontspoord | 39190       | 2026-08-23 | False    |
 | 1229/bcd    | Dieseltrein met gevaarlijke stoffen ontspoord | 47050       | 2026-08-21 | False    |
 | 1229/bce    | Dieseltrein met gevaarlijke stoffen ontspoord | 47175       | 2026-08-08 | False    |
 | 1229/bcg    | Dieseltrein met gevaarlijke stoffen ontspoord | 58175       | 2026-08-16 | False    |
@@ -122,10 +127,11 @@ Count: 114
 | 1229/def    | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
 | 1229/abef   | Dieseltrein met gevaarlijke stoffen ontspoord | 52800       | 2026-08-09 | False    |
 | 1229/bcdf   | Dieseltrein met gevaarlijke stoffen ontspoord | 54175       | 2026-08-12 | False    |
+| 1229/adefg  | Dieseltrein met gevaarlijke stoffen ontspoord | 51590       | 2026-08-23 | False    |
 
 # Inactive old-seen missions
 
-Count: 38
+Count: 44
 
 | ID     | Name                                       | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------ | ----------: | ---------- | -------- |
@@ -149,7 +155,13 @@ Count: 38
 | 935    | Gesmolten chocolade haas                   | 500         | 2026-07-08 | True     |
 | 936    | Bliksem treft konijnenhol                  | 2600        | 2026-07-08 | True     |
 | 937    | Chocolade haas opgesloten in auto          | 250         | 2026-07-08 | True     |
+| 963    | Grote alcoholcontrole bij race-evenement   | 12390       | 2026-08-23 | True     |
+| 965    | Crash op Circuit                           | 2090        | 2026-08-23 | True     |
+| 967    | Persoon van tribune gevallen               | None        | 2026-08-23 | True     |
+| 969    | Illegale raceauto op snelweg               | 4330        | 2026-08-23 | True     |
+| 970    | Racistisch gezang van fans op de tribune   | 1010        | 2026-08-23 | True     |
 | 971-0  | Protest voor racecircuit                   | 5230        | 2026-08-22 | True     |
+| 972    | Racewinnaar viel van het podium            | None        | 2026-08-23 | True     |
 | 1037   | Barbecuebrand                              | 500         | 2026-06-22 | True     |
 | 1038   | Slaapkamerbrand door kaars                 | 500         | 2026-06-22 | True     |
 | 1039   | Vader vermist                              | 840         | 2026-06-22 | True     |
