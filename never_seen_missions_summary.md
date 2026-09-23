@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 915
+Count: 912
 
 # Active never-seen missions
 
-Count: 714
+Count: 711
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -397,7 +397,6 @@ Count: 714
 | 1227/ad       | Brand in passagierstrein (Grip 1)               | 28620       | never     | False    |
 | 1227/bd       | Brand in passagierstrein (Grip 1)               | 38462       | never     | False    |
 | 1227/abd      | Brand in passagierstrein (Grip 1)               | 39462       | never     | False    |
-| 1227/acd      | Brand in passagierstrein (Grip 1)               | 29520       | never     | False    |
 | 1227/bcd      | Brand in passagierstrein (Grip 1)               | 39587       | never     | False    |
 | 1228/a        | Trein ontspoord na botsing met goederentrein    | 26940       | never     | False    |
 | 1228/b        | Trein ontspoord na botsing met goederentrein    | 26940       | never     | False    |
@@ -682,7 +681,6 @@ Count: 714
 | 1246/abc      | Rietkapbrand (Grip 2)                           | 30325       | never     | False    |
 | 1247/a        | Blikseminslag rietenkap (Klein)                 | 900         | never     | False    |
 | 1248/a        | Blikseminslag rietenkap (Middel)                | 2960        | never     | False    |
-| 1249          | Blikseminslag rietenkap (Groot)                 | 7990        | never     | False    |
 | 1249/a        | Blikseminslag rietenkap (Groot)                 | 8390        | never     | False    |
 | 1250/a        | Blikseminslag rietenkap (Grip 1)                | 18100       | never     | False    |
 | 1250/b        | Blikseminslag rietenkap (Grip 1)                | 25312       | never     | False    |
@@ -704,7 +702,6 @@ Count: 714
 | 1255/a        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16810       | never     | False    |
 | 1255/b        | Brand in rietenkap na werkzaamheden (Grip 1)    | 23700       | never     | False    |
 | 1255/c        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16410       | never     | False    |
-| 1255/ab       | Brand in rietenkap na werkzaamheden (Grip 1)    | 24700       | never     | False    |
 | 1255/ac       | Brand in rietenkap na werkzaamheden (Grip 1)    | 17210       | never     | False    |
 | 1255/bc       | Brand in rietenkap na werkzaamheden (Grip 1)    | 24200       | never     | False    |
 | 1255/abc      | Brand in rietenkap na werkzaamheden (Grip 1)    | 25200       | never     | False    |
