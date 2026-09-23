@@ -1,8 +1,8 @@
 # Event missions grouped by date window
 
-Event missions: 276
+Event missions: 277
 
-Active: 10 | Inactive: 266
+Active: 10 | Inactive: 267
 
 Date window groups: 27
 
@@ -157,11 +157,11 @@ Count: 2
 | 1184   | Voetganger aangereden door rendier                                 | 1250        | never      | True     |
 | 1185   | Protesterende elven                                                | 5640        | never      | True     |
 
-## Start: 2025-12-26T10:00:00Z | End: 2026-01-01T23:59:59+01:00 | Count: 37
+## Start: 2025-12-26T10:00:00Z | End: 2026-01-01T23:59:59+01:00 | Count: 38
 
 # Missions
 
-Count: 37
+Count: 38
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
@@ -179,6 +179,7 @@ Count: 37
 | 536    | Beschonken bestuurder na Oud en Nieuw feest                        | 500         | never      | True     |
 | 537    | Beschonken bestuurder na Oud en Nieuw feest                        | 500         | never      | True     |
 | 538    | Rieten kap woning in brand door vuurwerk                           | 3100        | never      | True     |
+| 538/a  | Rieten kap woning in brand door vuurwerk                           | 3500        | never      | True     |
 | 539    | Auto beschadigd door vuurwerk                                      | 500         | never      | True     |
 | 540    | Overtreding op vuurwerkbesluit                                     | 500         | never      | True     |
 | 541    | Handletsel door vuurwerk                                           | None        | never      | True     |

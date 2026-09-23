@@ -1,18 +1,25 @@
 # Never seen missions
 
-Count: 848
+Count: 930
 
 # Active never-seen missions
 
-Count: 648
+Count: 729
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
 | 27            | Persoon aangereden                              | 700         | never     | False    |
+| 32/a          | Schoorsteenbrand woning met rietenkap           | 1750        | never     | False    |
 | 41            | Brand in kantoorpand                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                  | 12030       | never     | False    |
 | 59            | Brand in opslagloods                            | 13710       | never     | False    |
+| 106/a         | Schaap in sloot                                 | 900         | never     | False    |
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
+| 183/a         | Paard in sloot                                  | 1700        | never     | False    |
+| 183/b         | Paard in sloot                                  | 1600        | never     | False    |
+| 183/ab        | Paard in sloot                                  | 2100        | never     | False    |
+| 193/a         | Koe in sloot                                    | 1310        | never     | False    |
+| 194/a         | Koe in gierput                                  | 1310        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                     | 11050       | never     | False    |
@@ -656,10 +663,84 @@ Count: 648
 | 1229/abcfg    | Dieseltrein met gevaarlijke stoffen ontspoord   | 66300       | never     | False    |
 | 1229/abdeg    | Dieseltrein met gevaarlijke stoffen ontspoord   | 61050       | never     | False    |
 | 1229/abdfg    | Dieseltrein met gevaarlijke stoffen ontspoord   | 65925       | never     | False    |
+| 1242          | Rietenkapbrand (Klein)                          | 500         | never     | False    |
+| 1242/a        | Rietenkapbrand (Klein)                          | 900         | never     | False    |
+| 1243          | Rietkapbrand (Middel)                           | 2350        | never     | False    |
+| 1243/a        | Rietkapbrand (Middel)                           | 2750        | never     | False    |
+| 1244          | Rietkapbrand (Groot)                            | 7830        | never     | False    |
+| 1244/a        | Rietkapbrand (Groot)                            | 8230        | never     | False    |
+| 1245          | Rietkapbrand (Grip 1)                           | 16470       | never     | False    |
+| 1245/a        | Rietkapbrand (Grip 1)                           | 17270       | never     | False    |
+| 1245/b        | Rietkapbrand (Grip 1)                           | 24275       | never     | False    |
+| 1245/c        | Rietkapbrand (Grip 1)                           | 16870       | never     | False    |
+| 1245/ab       | Rietkapbrand (Grip 1)                           | 25275       | never     | False    |
+| 1245/ac       | Rietkapbrand (Grip 1)                           | 17670       | never     | False    |
+| 1245/bc       | Rietkapbrand (Grip 1)                           | 24775       | never     | False    |
+| 1245/abc      | Rietkapbrand (Grip 1)                           | 25775       | never     | False    |
+| 1246          | Rietkapbrand (Grip 2)                           | 20110       | never     | False    |
+| 1246/a        | Rietkapbrand (Grip 2)                           | 20910       | never     | False    |
+| 1246/b        | Rietkapbrand (Grip 2)                           | 28825       | never     | False    |
+| 1246/c        | Rietkapbrand (Grip 2)                           | 20510       | never     | False    |
+| 1246/ab       | Rietkapbrand (Grip 2)                           | 29825       | never     | False    |
+| 1246/ac       | Rietkapbrand (Grip 2)                           | 21310       | never     | False    |
+| 1246/bc       | Rietkapbrand (Grip 2)                           | 29325       | never     | False    |
+| 1246/abc      | Rietkapbrand (Grip 2)                           | 30325       | never     | False    |
+| 1247          | Blikseminslag rietenkap (Klein)                 | 500         | never     | False    |
+| 1247/a        | Blikseminslag rietenkap (Klein)                 | 900         | never     | False    |
+| 1248          | Blikseminslag rietenkap (Middel)                | 2560        | never     | False    |
+| 1248/a        | Blikseminslag rietenkap (Middel)                | 2960        | never     | False    |
+| 1249          | Blikseminslag rietenkap (Groot)                 | 7990        | never     | False    |
+| 1249/a        | Blikseminslag rietenkap (Groot)                 | 8390        | never     | False    |
+| 1250          | Blikseminslag rietenkap (Grip 1)                | 17300       | never     | False    |
+| 1250/a        | Blikseminslag rietenkap (Grip 1)                | 18100       | never     | False    |
+| 1250/b        | Blikseminslag rietenkap (Grip 1)                | 25312       | never     | False    |
+| 1250/c        | Blikseminslag rietenkap (Grip 1)                | 17700       | never     | False    |
+| 1250/ab       | Blikseminslag rietenkap (Grip 1)                | 26312       | never     | False    |
+| 1250/ac       | Blikseminslag rietenkap (Grip 1)                | 18500       | never     | False    |
+| 1250/bc       | Blikseminslag rietenkap (Grip 1)                | 25812       | never     | False    |
+| 1250/abc      | Blikseminslag rietenkap (Grip 1)                | 26812       | never     | False    |
+| 1251          | Blikseminslag rietenkap (Grip 2)                | 21160       | never     | False    |
+| 1251/a        | Blikseminslag rietenkap (Grip 2)                | 21960       | never     | False    |
+| 1251/b        | Blikseminslag rietenkap (Grip 2)                | 30137       | never     | False    |
+| 1251/c        | Blikseminslag rietenkap (Grip 2)                | 21560       | never     | False    |
+| 1251/ab       | Blikseminslag rietenkap (Grip 2)                | 31137       | never     | False    |
+| 1251/ac       | Blikseminslag rietenkap (Grip 2)                | 22360       | never     | False    |
+| 1251/bc       | Blikseminslag rietenkap (Grip 2)                | 30637       | never     | False    |
+| 1251/abc      | Blikseminslag rietenkap (Grip 2)                | 31637       | never     | False    |
+| 1252          | Brand in rietenkap na werkzaamheden (Klein)     | 500         | never     | False    |
+| 1252/a        | Brand in rietenkap na werkzaamheden (Klein)     | 900         | never     | False    |
+| 1253          | Brand in rietenkap na werkzaamheden (Middel)    | 2350        | never     | False    |
+| 1253/a        | Brand in rietenkap na werkzaamheden (Middel)    | 2750        | never     | False    |
+| 1254          | Brand in rietenkap na werkzaamheden (Groot)     | 8230        | never     | False    |
+| 1254/a        | Brand in rietenkap na werkzaamheden (Groot)     | 8630        | never     | False    |
+| 1255          | Brand in rietenkap na werkzaamheden (Grip 1)    | 16010       | never     | False    |
+| 1255/a        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16810       | never     | False    |
+| 1255/b        | Brand in rietenkap na werkzaamheden (Grip 1)    | 23700       | never     | False    |
+| 1255/c        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16410       | never     | False    |
+| 1255/ab       | Brand in rietenkap na werkzaamheden (Grip 1)    | 24700       | never     | False    |
+| 1255/ac       | Brand in rietenkap na werkzaamheden (Grip 1)    | 17210       | never     | False    |
+| 1255/bc       | Brand in rietenkap na werkzaamheden (Grip 1)    | 24200       | never     | False    |
+| 1255/abc      | Brand in rietenkap na werkzaamheden (Grip 1)    | 25200       | never     | False    |
+| 1256          | Brand in rietenkap na werkzaamheden (Grip 2)    | 21220       | never     | False    |
+| 1256/a        | Brand in rietenkap na werkzaamheden (Grip 2)    | 22020       | never     | False    |
+| 1256/b        | Brand in rietenkap na werkzaamheden (Grip 2)    | 30212       | never     | False    |
+| 1256/c        | Brand in rietenkap na werkzaamheden (Grip 2)    | 21620       | never     | False    |
+| 1256/ab       | Brand in rietenkap na werkzaamheden (Grip 2)    | 31212       | never     | False    |
+| 1256/ac       | Brand in rietenkap na werkzaamheden (Grip 2)    | 22420       | never     | False    |
+| 1256/bc       | Brand in rietenkap na werkzaamheden (Grip 2)    | 30712       | never     | False    |
+| 1256/abc      | Brand in rietenkap na werkzaamheden (Grip 2)    | 31712       | never     | False    |
+| 1257          | Varken in gierput                               | 910         | never     | False    |
+| 1257/a        | Varken in gierput                               | 1310        | never     | False    |
+| 1258          | Geit in gierput                                 | 500         | never     | False    |
+| 1258/a        | Geit in gierput                                 | 900         | never     | False    |
+| 1259          | Ezel in sloot                                   | 910         | never     | False    |
+| 1259/a        | Ezel in sloot                                   | 1410        | never     | False    |
+| 1259/b        | Ezel in sloot                                   | 1310        | never     | False    |
+| 1259/ab       | Ezel in sloot                                   | 1810        | never     | False    |
 
 # Inactive never-seen missions
 
-Count: 200
+Count: 201
 
 | ID     | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | --------- | -------- |
@@ -712,6 +793,7 @@ Count: 200
 | 536    | Beschonken bestuurder na Oud en Nieuw feest                        | 500         | never     | True     |
 | 537    | Beschonken bestuurder na Oud en Nieuw feest                        | 500         | never     | True     |
 | 538    | Rieten kap woning in brand door vuurwerk                           | 3100        | never     | True     |
+| 538/a  | Rieten kap woning in brand door vuurwerk                           | 3500        | never     | True     |
 | 539    | Auto beschadigd door vuurwerk                                      | 500         | never     | True     |
 | 540    | Overtreding op vuurwerkbesluit                                     | 500         | never     | True     |
 | 541    | Handletsel door vuurwerk                                           | None        | never     | True     |
