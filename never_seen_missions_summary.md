@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 927
+Count: 921
 
 # Active never-seen missions
 
-Count: 726
+Count: 720
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -674,7 +674,6 @@ Count: 726
 | 1245/ac       | Rietkapbrand (Grip 1)                           | 17670       | never     | False    |
 | 1245/bc       | Rietkapbrand (Grip 1)                           | 24775       | never     | False    |
 | 1245/abc      | Rietkapbrand (Grip 1)                           | 25775       | never     | False    |
-| 1246          | Rietkapbrand (Grip 2)                           | 20110       | never     | False    |
 | 1246/a        | Rietkapbrand (Grip 2)                           | 20910       | never     | False    |
 | 1246/b        | Rietkapbrand (Grip 2)                           | 28825       | never     | False    |
 | 1246/c        | Rietkapbrand (Grip 2)                           | 20510       | never     | False    |
@@ -704,13 +703,9 @@ Count: 726
 | 1251/ac       | Blikseminslag rietenkap (Grip 2)                | 22360       | never     | False    |
 | 1251/bc       | Blikseminslag rietenkap (Grip 2)                | 30637       | never     | False    |
 | 1251/abc      | Blikseminslag rietenkap (Grip 2)                | 31637       | never     | False    |
-| 1252          | Brand in rietenkap na werkzaamheden (Klein)     | 500         | never     | False    |
 | 1252/a        | Brand in rietenkap na werkzaamheden (Klein)     | 900         | never     | False    |
-| 1253          | Brand in rietenkap na werkzaamheden (Middel)    | 2350        | never     | False    |
 | 1253/a        | Brand in rietenkap na werkzaamheden (Middel)    | 2750        | never     | False    |
-| 1254          | Brand in rietenkap na werkzaamheden (Groot)     | 8230        | never     | False    |
 | 1254/a        | Brand in rietenkap na werkzaamheden (Groot)     | 8630        | never     | False    |
-| 1255          | Brand in rietenkap na werkzaamheden (Grip 1)    | 16010       | never     | False    |
 | 1255/a        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16810       | never     | False    |
 | 1255/b        | Brand in rietenkap na werkzaamheden (Grip 1)    | 23700       | never     | False    |
 | 1255/c        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16410       | never     | False    |
@@ -728,7 +723,6 @@ Count: 726
 | 1256/abc      | Brand in rietenkap na werkzaamheden (Grip 2)    | 31712       | never     | False    |
 | 1257          | Varken in gierput                               | 910         | never     | False    |
 | 1257/a        | Varken in gierput                               | 1310        | never     | False    |
-| 1258          | Geit in gierput                                 | 500         | never     | False    |
 | 1258/a        | Geit in gierput                                 | 900         | never     | False    |
 | 1259          | Ezel in sloot                                   | 910         | never     | False    |
 | 1259/a        | Ezel in sloot                                   | 1410        | never     | False    |
