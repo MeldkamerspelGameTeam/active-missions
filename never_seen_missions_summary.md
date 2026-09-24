@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 910
+Count: 906
 
 # Active never-seen missions
 
-Count: 709
+Count: 705
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -666,7 +666,6 @@ Count: 709
 | 1243/a        | Rietkapbrand (Middel)                           | 2750        | never     | False    |
 | 1244/a        | Rietkapbrand (Groot)                            | 8230        | never     | False    |
 | 1245/a        | Rietkapbrand (Grip 1)                           | 17270       | never     | False    |
-| 1245/b        | Rietkapbrand (Grip 1)                           | 24275       | never     | False    |
 | 1245/c        | Rietkapbrand (Grip 1)                           | 16870       | never     | False    |
 | 1245/ab       | Rietkapbrand (Grip 1)                           | 25275       | never     | False    |
 | 1245/ac       | Rietkapbrand (Grip 1)                           | 17670       | never     | False    |
@@ -675,7 +674,6 @@ Count: 709
 | 1246/a        | Rietkapbrand (Grip 2)                           | 20910       | never     | False    |
 | 1246/b        | Rietkapbrand (Grip 2)                           | 28825       | never     | False    |
 | 1246/c        | Rietkapbrand (Grip 2)                           | 20510       | never     | False    |
-| 1246/ab       | Rietkapbrand (Grip 2)                           | 29825       | never     | False    |
 | 1246/ac       | Rietkapbrand (Grip 2)                           | 21310       | never     | False    |
 | 1246/bc       | Rietkapbrand (Grip 2)                           | 29325       | never     | False    |
 | 1246/abc      | Rietkapbrand (Grip 2)                           | 30325       | never     | False    |
@@ -691,7 +689,6 @@ Count: 709
 | 1251/a        | Blikseminslag rietenkap (Grip 2)                | 21960       | never     | False    |
 | 1251/b        | Blikseminslag rietenkap (Grip 2)                | 30137       | never     | False    |
 | 1251/c        | Blikseminslag rietenkap (Grip 2)                | 21560       | never     | False    |
-| 1251/ab       | Blikseminslag rietenkap (Grip 2)                | 31137       | never     | False    |
 | 1251/ac       | Blikseminslag rietenkap (Grip 2)                | 22360       | never     | False    |
 | 1251/bc       | Blikseminslag rietenkap (Grip 2)                | 30637       | never     | False    |
 | 1251/abc      | Blikseminslag rietenkap (Grip 2)                | 31637       | never     | False    |
@@ -706,7 +703,6 @@ Count: 709
 | 1255/abc      | Brand in rietenkap na werkzaamheden (Grip 1)    | 25200       | never     | False    |
 | 1256/a        | Brand in rietenkap na werkzaamheden (Grip 2)    | 22020       | never     | False    |
 | 1256/c        | Brand in rietenkap na werkzaamheden (Grip 2)    | 21620       | never     | False    |
-| 1256/ab       | Brand in rietenkap na werkzaamheden (Grip 2)    | 31212       | never     | False    |
 | 1256/ac       | Brand in rietenkap na werkzaamheden (Grip 2)    | 22420       | never     | False    |
 | 1256/bc       | Brand in rietenkap na werkzaamheden (Grip 2)    | 30712       | never     | False    |
 | 1256/abc      | Brand in rietenkap na werkzaamheden (Grip 2)    | 31712       | never     | False    |
