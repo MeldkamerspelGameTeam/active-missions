@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 894
+Count: 892
 
 # Active never-seen missions
 
-Count: 693
+Count: 691
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -450,7 +450,6 @@ Count: 693
 | 1228/bcg      | Trein ontspoord na botsing met goederentrein    | 39362       | never     | False    |
 | 1228/bch      | Trein ontspoord na botsing met goederentrein    | 51675       | never     | False    |
 | 1228/bde      | Trein ontspoord na botsing met goederentrein    | 30740       | never     | False    |
-| 1228/bdf      | Trein ontspoord na botsing met goederentrein    | 30740       | never     | False    |
 | 1228/bdh      | Trein ontspoord na botsing met goederentrein    | 40190       | never     | False    |
 | 1228/bef      | Trein ontspoord na botsing met goederentrein    | 30940       | never     | False    |
 | 1228/beg      | Trein ontspoord na botsing met goederentrein    | 30540       | never     | False    |
@@ -687,7 +686,6 @@ Count: 693
 | 1252/a        | Brand in rietenkap na werkzaamheden (Klein)     | 900         | never     | False    |
 | 1253/a        | Brand in rietenkap na werkzaamheden (Middel)    | 2750        | never     | False    |
 | 1254/a        | Brand in rietenkap na werkzaamheden (Groot)     | 8630        | never     | False    |
-| 1255/a        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16810       | never     | False    |
 | 1255/c        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16410       | never     | False    |
 | 1255/ac       | Brand in rietenkap na werkzaamheden (Grip 1)    | 17210       | never     | False    |
 | 1255/bc       | Brand in rietenkap na werkzaamheden (Grip 1)    | 24200       | never     | False    |
