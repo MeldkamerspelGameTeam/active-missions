@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 899
+Count: 896
 
 # Active never-seen missions
 
-Count: 698
+Count: 695
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -665,11 +665,9 @@ Count: 698
 | 1244/a        | Rietkapbrand (Groot)                            | 8230        | never     | False    |
 | 1245/a        | Rietkapbrand (Grip 1)                           | 17270       | never     | False    |
 | 1245/c        | Rietkapbrand (Grip 1)                           | 16870       | never     | False    |
-| 1245/ab       | Rietkapbrand (Grip 1)                           | 25275       | never     | False    |
 | 1245/ac       | Rietkapbrand (Grip 1)                           | 17670       | never     | False    |
 | 1245/bc       | Rietkapbrand (Grip 1)                           | 24775       | never     | False    |
 | 1245/abc      | Rietkapbrand (Grip 1)                           | 25775       | never     | False    |
-| 1246/a        | Rietkapbrand (Grip 2)                           | 20910       | never     | False    |
 | 1246/b        | Rietkapbrand (Grip 2)                           | 28825       | never     | False    |
 | 1246/c        | Rietkapbrand (Grip 2)                           | 20510       | never     | False    |
 | 1246/ac       | Rietkapbrand (Grip 2)                           | 21310       | never     | False    |
@@ -678,7 +676,6 @@ Count: 698
 | 1247/a        | Blikseminslag rietenkap (Klein)                 | 900         | never     | False    |
 | 1248/a        | Blikseminslag rietenkap (Middel)                | 2960        | never     | False    |
 | 1249/a        | Blikseminslag rietenkap (Groot)                 | 8390        | never     | False    |
-| 1250/a        | Blikseminslag rietenkap (Grip 1)                | 18100       | never     | False    |
 | 1250/b        | Blikseminslag rietenkap (Grip 1)                | 25312       | never     | False    |
 | 1250/c        | Blikseminslag rietenkap (Grip 1)                | 17700       | never     | False    |
 | 1250/ac       | Blikseminslag rietenkap (Grip 1)                | 18500       | never     | False    |
