@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 904
+Count: 902
 
 # Active never-seen missions
 
-Count: 703
+Count: 701
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -523,7 +523,6 @@ Count: 703
 | 1228/bdef     | Trein ontspoord na botsing met goederentrein    | 32740       | never     | False    |
 | 1228/bdeg     | Trein ontspoord na botsing met goederentrein    | 32340       | never     | False    |
 | 1228/bdeh     | Trein ontspoord na botsing met goederentrein    | 42190       | never     | False    |
-| 1228/bdfg     | Trein ontspoord na botsing met goederentrein    | 32340       | never     | False    |
 | 1228/bdfh     | Trein ontspoord na botsing met goederentrein    | 42190       | never     | False    |
 | 1228/bdgh     | Trein ontspoord na botsing met goederentrein    | 41790       | never     | False    |
 | 1228/befh     | Trein ontspoord na botsing met goederentrein    | 42390       | never     | False    |
@@ -685,7 +684,6 @@ Count: 703
 | 1250/ac       | Blikseminslag rietenkap (Grip 1)                | 18500       | never     | False    |
 | 1250/bc       | Blikseminslag rietenkap (Grip 1)                | 25812       | never     | False    |
 | 1250/abc      | Blikseminslag rietenkap (Grip 1)                | 26812       | never     | False    |
-| 1251/a        | Blikseminslag rietenkap (Grip 2)                | 21960       | never     | False    |
 | 1251/b        | Blikseminslag rietenkap (Grip 2)                | 30137       | never     | False    |
 | 1251/c        | Blikseminslag rietenkap (Grip 2)                | 21560       | never     | False    |
 | 1251/ac       | Blikseminslag rietenkap (Grip 2)                | 22360       | never     | False    |

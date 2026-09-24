@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 174
+Count: 173
 
 # Active old-seen missions
 
-Count: 122
+Count: 121
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -98,7 +98,6 @@ Count: 122
 | 1228/bdg    | Trein ontspoord na botsing met goederentrein  | 30340       | 2026-08-06 | False    |
 | 1228/cdf    | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
 | 1228/befg   | Trein ontspoord na botsing met goederentrein  | 32540       | 2026-08-06 | False    |
-| 1228/cdfg   | Trein ontspoord na botsing met goederentrein  | 43112       | 2026-08-09 | False    |
 | 1228/dfgh   | Trein ontspoord na botsing met goederentrein  | 42990       | 2026-08-11 | False    |
 | 1228/abcdg  | Trein ontspoord na botsing met goederentrein  | 42612       | 2026-08-06 | False    |
 | 1228/abdfg  | Trein ontspoord na botsing met goederentrein  | 33140       | 2026-08-23 | False    |
