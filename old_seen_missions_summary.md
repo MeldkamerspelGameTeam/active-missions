@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 163
+Count: 175
 
 # Active old-seen missions
 
-Count: 119
+Count: 123
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -85,6 +85,7 @@ Count: 119
 | 1034/def    | Brand in nucleaire installatie                | 73310       | 2026-08-16 | False    |
 | 1034/dfh    | Brand in nucleaire installatie                | 72860       | 2026-07-25 | False    |
 | 1034/aceh   | Brand in nucleaire installatie                | 78760       | 2026-07-30 | False    |
+| 1104/c      | Aanrijding trein & betonmixer                 | 15380       | 2026-08-24 | False    |
 | 1104/ad     | Aanrijding trein & betonmixer                 | 15780       | 2026-08-09 | False    |
 | 1104/bd     | Aanrijding trein & betonmixer                 | 22412       | 2026-07-31 | False    |
 | 1104/abc    | Aanrijding trein & betonmixer                 | 23912       | 2026-07-25 | False    |
@@ -92,6 +93,7 @@ Count: 119
 | 1202/b      | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
 | 1206/bc     | Brand in station (Grip 1)                     | 29200       | 2026-07-23 | False    |
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
+| 1228        | Trein ontspoord na botsing met goederentrein  | 26140       | 2026-08-24 | False    |
 | 1228/ac     | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
 | 1228/abd    | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
 | 1228/bdg    | Trein ontspoord na botsing met goederentrein  | 30340       | 2026-08-06 | False    |
@@ -125,56 +127,66 @@ Count: 119
 | 1229/cef    | Dieseltrein met gevaarlijke stoffen ontspoord | 40490       | 2026-08-18 | False    |
 | 1229/def    | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
 | 1229/abef   | Dieseltrein met gevaarlijke stoffen ontspoord | 52800       | 2026-08-09 | False    |
+| 1229/adef   | Dieseltrein met gevaarlijke stoffen ontspoord | 40990       | 2026-08-24 | False    |
 | 1229/bcdf   | Dieseltrein met gevaarlijke stoffen ontspoord | 54175       | 2026-08-12 | False    |
+| 1229/bdef   | Dieseltrein met gevaarlijke stoffen ontspoord | 53925       | 2026-08-24 | False    |
 | 1229/adefg  | Dieseltrein met gevaarlijke stoffen ontspoord | 51590       | 2026-08-23 | False    |
 
 # Inactive old-seen missions
 
-Count: 44
+Count: 52
 
-| ID     | Name                                       | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------ | ----------: | ---------- | -------- |
-| 578    | Paasei dief                                | 500         | 2026-07-08 | True     |
-| 580    | Ingestort konijnenhol                      | 2440        | 2026-07-08 | True     |
-| 581    | Aangevallen Paashaas                       | 500         | 2026-07-08 | True     |
-| 583    | Lekkende chocoladevrachtwagen              | 5000        | 2026-07-08 | True     |
-| 586    | Gekantelde paaseivrachtwagen               | 1420        | 2026-07-08 | True     |
-| 587    | Prioriteit: paasei-jacht                   | 1350        | 2026-07-08 | True     |
-| 588    | Paashaas in een kraan                      | 1690        | 2026-07-08 | True     |
-| 820    | Opblazen wedstrijdbal                      | 500         | 2026-07-20 | True     |
-| 821    | Spelersbus geparkeerd bij parkeerverbod    | 500         | 2026-07-20 | True     |
-| 822    | Behandeling na keepersduik                 | None        | 2026-07-20 | True     |
-| 823    | Blessure na raken lat                      | None        | 2026-07-20 | True     |
-| 824    | Doel omgevallen                            | 500         | 2026-07-20 | True     |
-| 825    | Gestolen trofee                            | 670         | 2026-07-20 | True     |
-| 826    | Bevriezing door koelspray                  | None        | 2026-07-19 | True     |
-| 827    | Keelpijn na juichen                        | None        | 2026-07-20 | True     |
-| 828    | Verloren aanvoerdersarmband                | 1500        | 2026-07-20 | True     |
-| 829    | Brandende cornervlag                       | 670         | 2026-07-20 | True     |
-| 935    | Gesmolten chocolade haas                   | 500         | 2026-07-08 | True     |
-| 936    | Bliksem treft konijnenhol                  | 2600        | 2026-07-08 | True     |
-| 937    | Chocolade haas opgesloten in auto          | 250         | 2026-07-08 | True     |
-| 963    | Grote alcoholcontrole bij race-evenement   | 12390       | 2026-08-23 | True     |
-| 965    | Crash op Circuit                           | 2090        | 2026-08-23 | True     |
-| 967    | Persoon van tribune gevallen               | None        | 2026-08-23 | True     |
-| 969    | Illegale raceauto op snelweg               | 4330        | 2026-08-23 | True     |
-| 970    | Racistisch gezang van fans op de tribune   | 1010        | 2026-08-23 | True     |
-| 971-0  | Protest voor racecircuit                   | 5230        | 2026-08-22 | True     |
-| 972    | Racewinnaar viel van het podium            | None        | 2026-08-23 | True     |
-| 1037   | Barbecuebrand                              | 500         | 2026-06-22 | True     |
-| 1038   | Slaapkamerbrand door kaars                 | 500         | 2026-06-22 | True     |
-| 1039   | Vader vermist                              | 840         | 2026-06-22 | True     |
-| 1039-0 | Vader vermist                              | 3480        | 2026-06-22 | True     |
-| 1040   | Ongeval tijdens maken Vaderdag cadeau      | None        | 2026-06-22 | True     |
-| 1041   | Kind gewond tijdens maken Vaderdag ontbijt | None        | 2026-06-22 | True     |
-| 1083   | Brand in stadion                           | 9000        | 2026-07-20 | True     |
-| 1084   | Supporters met vuurwerk op tribune         | 1200        | 2026-07-20 | True     |
-| 1085   | Voetballer uitgegleden in douche           | None        | 2026-07-20 | True     |
-| 1086   | Paniek op de tribune                       | 1200        | 2026-07-20 | True     |
-| 1141   | Brand in chocolade-eierenfabriek           | 13755       | 2026-07-08 | True     |
-| 1142   | Onaangekondigde paashaasstaking            | 7500        | 2026-07-08 | True     |
-| 1197   | Vrachtwagen met eierpunch gekanteld        | 1760        | 2026-07-08 | True     |
-| 1198   | Paaseieren vermist                         | 1670        | 2026-07-08 | True     |
-| 1215   | Speler vermist                             | 1670        | 2026-07-20 | True     |
-| 1216   | Doorgedraaide coach                        | 670         | 2026-07-20 | True     |
-| 1217   | Ticketvervalsing                           | 500         | 2026-07-20 | True     |
+| ID     | Name                                            | Avg Credits | Last Seen  | Inactive |
+| ------ | ----------------------------------------------- | ----------: | ---------- | -------- |
+| 578    | Paasei dief                                     | 500         | 2026-07-08 | True     |
+| 580    | Ingestort konijnenhol                           | 2440        | 2026-07-08 | True     |
+| 581    | Aangevallen Paashaas                            | 500         | 2026-07-08 | True     |
+| 583    | Lekkende chocoladevrachtwagen                   | 5000        | 2026-07-08 | True     |
+| 586    | Gekantelde paaseivrachtwagen                    | 1420        | 2026-07-08 | True     |
+| 587    | Prioriteit: paasei-jacht                        | 1350        | 2026-07-08 | True     |
+| 588    | Paashaas in een kraan                           | 1690        | 2026-07-08 | True     |
+| 820    | Opblazen wedstrijdbal                           | 500         | 2026-07-20 | True     |
+| 821    | Spelersbus geparkeerd bij parkeerverbod         | 500         | 2026-07-20 | True     |
+| 822    | Behandeling na keepersduik                      | None        | 2026-07-20 | True     |
+| 823    | Blessure na raken lat                           | None        | 2026-07-20 | True     |
+| 824    | Doel omgevallen                                 | 500         | 2026-07-20 | True     |
+| 825    | Gestolen trofee                                 | 670         | 2026-07-20 | True     |
+| 826    | Bevriezing door koelspray                       | None        | 2026-07-19 | True     |
+| 827    | Keelpijn na juichen                             | None        | 2026-07-20 | True     |
+| 828    | Verloren aanvoerdersarmband                     | 1500        | 2026-07-20 | True     |
+| 829    | Brandende cornervlag                            | 670         | 2026-07-20 | True     |
+| 935    | Gesmolten chocolade haas                        | 500         | 2026-07-08 | True     |
+| 936    | Bliksem treft konijnenhol                       | 2600        | 2026-07-08 | True     |
+| 937    | Chocolade haas opgesloten in auto               | 250         | 2026-07-08 | True     |
+| 963    | Grote alcoholcontrole bij race-evenement        | 12390       | 2026-08-23 | True     |
+| 964    | Racewagen brand                                 | 500         | 2026-08-24 | True     |
+| 965    | Crash op Circuit                                | 2090        | 2026-08-23 | True     |
+| 966    | Aanhouding persoon zonder geldig toegangsbewijs | 775         | 2026-08-24 | True     |
+| 967    | Persoon van tribune gevallen                    | None        | 2026-08-23 | True     |
+| 968    | Uit de handgelopen overwinningsfeest            | 7740        | 2026-08-24 | True     |
+| 969    | Illegale raceauto op snelweg                    | 4330        | 2026-08-23 | True     |
+| 970    | Racistisch gezang van fans op de tribune        | 1010        | 2026-08-23 | True     |
+| 971    | Protest voor racecircuit                        | 2530        | 2026-08-24 | True     |
+| 971-0  | Protest voor racecircuit                        | 5230        | 2026-08-22 | True     |
+| 972    | Racewinnaar viel van het podium                 | None        | 2026-08-23 | True     |
+| 1037   | Barbecuebrand                                   | 500         | 2026-06-22 | True     |
+| 1038   | Slaapkamerbrand door kaars                      | 500         | 2026-06-22 | True     |
+| 1039   | Vader vermist                                   | 840         | 2026-06-22 | True     |
+| 1039-0 | Vader vermist                                   | 3480        | 2026-06-22 | True     |
+| 1040   | Ongeval tijdens maken Vaderdag cadeau           | None        | 2026-06-22 | True     |
+| 1041   | Kind gewond tijdens maken Vaderdag ontbijt      | None        | 2026-06-22 | True     |
+| 1048   | Geluidsoverlast door Racefans                   | 500         | 2026-08-24 | True     |
+| 1049   | Racefans houden straatrace                      | 2640        | 2026-08-24 | True     |
+| 1050   | Vergiftiging door uitlaatgassen                 | None        | 2026-08-24 | True     |
+| 1051   | Valse kaartjes race in verkoop                  | 1010        | 2026-08-24 | True     |
+| 1083   | Brand in stadion                                | 9000        | 2026-07-20 | True     |
+| 1084   | Supporters met vuurwerk op tribune              | 1200        | 2026-07-20 | True     |
+| 1085   | Voetballer uitgegleden in douche                | None        | 2026-07-20 | True     |
+| 1086   | Paniek op de tribune                            | 1200        | 2026-07-20 | True     |
+| 1141   | Brand in chocolade-eierenfabriek                | 13755       | 2026-07-08 | True     |
+| 1142   | Onaangekondigde paashaasstaking                 | 7500        | 2026-07-08 | True     |
+| 1197   | Vrachtwagen met eierpunch gekanteld             | 1760        | 2026-07-08 | True     |
+| 1198   | Paaseieren vermist                              | 1670        | 2026-07-08 | True     |
+| 1215   | Speler vermist                                  | 1670        | 2026-07-20 | True     |
+| 1216   | Doorgedraaide coach                             | 670         | 2026-07-20 | True     |
+| 1217   | Ticketvervalsing                                | 500         | 2026-07-20 | True     |
