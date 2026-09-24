@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 173
+Count: 172
 
 # Active old-seen missions
 
-Count: 121
+Count: 120
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -17,7 +17,6 @@ Count: 121
 | 492/a       | Ongeregeldheden voetbalsupporters horeca      | 6810        | 2026-08-21 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 517/a       | Aanvaring met luxe jachtschip (Grip 4)        | 7937        | 2026-08-23 | False    |
-| 591         | Uitslaande brand in veestal                   | 10775       | 2026-07-16 | False    |
 | 787/bc      | Persoon bekneld in gierput                    | 6410        | 2026-08-22 | False    |
 | 801/a       | Groep kitesurfers in problemen                | 4790        | 2026-08-17 | False    |
 | 837         | Gaslek bedrijventerrein                       | 8580        | 2026-07-24 | False    |
