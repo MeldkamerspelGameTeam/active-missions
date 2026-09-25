@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 171
+Count: 174
 
 # Active old-seen missions
 
-Count: 119
+Count: 122
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -20,6 +20,7 @@ Count: 119
 | 787/bc      | Persoon bekneld in gierput                    | 6410        | 2026-08-22 | False    |
 | 801/a       | Groep kitesurfers in problemen                | 4790        | 2026-08-17 | False    |
 | 837         | Gaslek bedrijventerrein                       | 8580        | 2026-07-24 | False    |
+| 853-1/a     | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
 | 885/bc      | Brand in vuurwerkopslag                       | 71025       | 2026-08-15 | False    |
 | 885/ce      | Brand in vuurwerkopslag                       | 54670       | 2026-06-24 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
@@ -39,6 +40,7 @@ Count: 119
 | 901/cf      | Trein ontspoord                               | 36087       | 2026-08-17 | False    |
 | 901/df      | Trein ontspoord                               | 27720       | 2026-08-14 | False    |
 | 901/abc     | Trein ontspoord                               | 35837       | 2026-08-06 | False    |
+| 901/acd     | Trein ontspoord                               | 37087       | 2026-08-25 | False    |
 | 901/ade     | Trein ontspoord                               | 27720       | 2026-08-04 | False    |
 | 901/adf     | Trein ontspoord                               | 28520       | 2026-08-16 | False    |
 | 901/cdf     | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
@@ -90,6 +92,7 @@ Count: 119
 | 1202/b      | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
 | 1206/bc     | Brand in station (Grip 1)                     | 29200       | 2026-07-23 | False    |
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
+| 1227/b      | Brand in passagierstrein (Grip 1)             | 30150       | 2026-08-25 | False    |
 | 1228        | Trein ontspoord na botsing met goederentrein  | 26140       | 2026-08-24 | False    |
 | 1228/ac     | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
 | 1228/abd    | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
