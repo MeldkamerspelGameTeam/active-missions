@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 174
+Count: 184
 
 # Active old-seen missions
 
-Count: 122
+Count: 131
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -19,9 +19,11 @@ Count: 122
 | 517/a       | Aanvaring met luxe jachtschip (Grip 4)        | 7937        | 2026-08-23 | False    |
 | 787/bc      | Persoon bekneld in gierput                    | 6410        | 2026-08-22 | False    |
 | 801/a       | Groep kitesurfers in problemen                | 4790        | 2026-08-17 | False    |
+| 803/a       | Persoon vermist rondom mui                    | 3370        | 2026-08-26 | False    |
 | 837         | Gaslek bedrijventerrein                       | 8580        | 2026-07-24 | False    |
 | 853-1/a     | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
 | 885/bc      | Brand in vuurwerkopslag                       | 71025       | 2026-08-15 | False    |
+| 885/be      | Brand in vuurwerkopslag                       | 65525       | 2026-08-26 | False    |
 | 885/ce      | Brand in vuurwerkopslag                       | 54670       | 2026-06-24 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
 | 885/abf     | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
@@ -45,6 +47,7 @@ Count: 122
 | 901/adf     | Trein ontspoord                               | 28520       | 2026-08-16 | False    |
 | 901/cdf     | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
 | 901/bcde    | Trein ontspoord                               | 38337       | 2026-08-06 | False    |
+| 901/bceg    | Trein ontspoord                               | 49587       | 2026-08-26 | False    |
 | 901/bdeg    | Trein ontspoord                               | 38520       | 2026-08-09 | False    |
 | 901/bcdeg   | Trein ontspoord                               | 51837       | 2026-08-15 | False    |
 | 901/bcefg   | Trein ontspoord                               | 51837       | 2026-08-12 | False    |
@@ -70,8 +73,10 @@ Count: 122
 | 1034/ad     | Brand in nucleaire installatie                | 71610       | 2026-08-07 | False    |
 | 1034/af     | Brand in nucleaire installatie                | 71410       | 2026-08-11 | False    |
 | 1034/ah     | Brand in nucleaire installatie                | 71060       | 2026-08-06 | False    |
+| 1034/cd     | Brand in nucleaire installatie                | 77210       | 2026-08-26 | False    |
 | 1034/ch     | Brand in nucleaire installatie                | 76660       | 2026-07-19 | False    |
 | 1034/de     | Brand in nucleaire installatie                | 72110       | 2026-06-28 | False    |
+| 1034/df     | Brand in nucleaire installatie                | 72010       | 2026-08-26 | False    |
 | 1034/fg     | Brand in nucleaire installatie                | 72210       | 2026-07-09 | False    |
 | 1034/fh     | Brand in nucleaire installatie                | 71460       | 2026-08-04 | False    |
 | 1034/gh     | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
@@ -84,6 +89,7 @@ Count: 122
 | 1034/def    | Brand in nucleaire installatie                | 73310       | 2026-08-16 | False    |
 | 1034/dfh    | Brand in nucleaire installatie                | 72860       | 2026-07-25 | False    |
 | 1034/aceh   | Brand in nucleaire installatie                | 78760       | 2026-07-30 | False    |
+| 1034/acfg   | Brand in nucleaire installatie                | 79410       | 2026-08-26 | False    |
 | 1104/c      | Aanrijding trein & betonmixer                 | 15380       | 2026-08-24 | False    |
 | 1104/ad     | Aanrijding trein & betonmixer                 | 15780       | 2026-08-09 | False    |
 | 1104/bd     | Aanrijding trein & betonmixer                 | 22412       | 2026-07-31 | False    |
@@ -95,6 +101,7 @@ Count: 122
 | 1227/b      | Brand in passagierstrein (Grip 1)             | 30150       | 2026-08-25 | False    |
 | 1228        | Trein ontspoord na botsing met goederentrein  | 26140       | 2026-08-24 | False    |
 | 1228/ac     | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
+| 1228/bf     | Trein ontspoord na botsing met goederentrein  | 28940       | 2026-08-26 | False    |
 | 1228/abd    | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
 | 1228/bdg    | Trein ontspoord na botsing met goederentrein  | 30340       | 2026-08-06 | False    |
 | 1228/cdf    | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
@@ -103,6 +110,7 @@ Count: 122
 | 1228/abcdg  | Trein ontspoord na botsing met goederentrein  | 42612       | 2026-08-06 | False    |
 | 1228/abdfg  | Trein ontspoord na botsing met goederentrein  | 33140       | 2026-08-23 | False    |
 | 1228/bcdfg  | Trein ontspoord na botsing met goederentrein  | 44112       | 2026-08-18 | False    |
+| 1228/bcdfh  | Trein ontspoord na botsing met goederentrein  | 56425       | 2026-08-26 | False    |
 | 1228/bdefg  | Trein ontspoord na botsing met goederentrein  | 34340       | 2026-08-04 | False    |
 | 1228/abcdfg | Trein ontspoord na botsing met goederentrein  | 45112       | 2026-07-24 | False    |
 | 1228/bcdefg | Trein ontspoord na botsing met goederentrein  | 46612       | 2026-08-04 | False    |
@@ -129,11 +137,12 @@ Count: 122
 | 1229/adef   | Dieseltrein met gevaarlijke stoffen ontspoord | 40990       | 2026-08-24 | False    |
 | 1229/bcdf   | Dieseltrein met gevaarlijke stoffen ontspoord | 54175       | 2026-08-12 | False    |
 | 1229/bdef   | Dieseltrein met gevaarlijke stoffen ontspoord | 53925       | 2026-08-24 | False    |
+| 1229/acdeg  | Dieseltrein met gevaarlijke stoffen ontspoord | 47890       | 2026-08-26 | False    |
 | 1229/adefg  | Dieseltrein met gevaarlijke stoffen ontspoord | 51590       | 2026-08-23 | False    |
 
 # Inactive old-seen missions
 
-Count: 52
+Count: 53
 
 | ID     | Name                                            | Avg Credits | Last Seen  | Inactive |
 | ------ | ----------------------------------------------- | ----------: | ---------- | -------- |
@@ -154,6 +163,7 @@ Count: 52
 | 827    | Keelpijn na juichen                             | None        | 2026-07-20 | True     |
 | 828    | Verloren aanvoerdersarmband                     | 1500        | 2026-07-20 | True     |
 | 829    | Brandende cornervlag                            | 670         | 2026-07-20 | True     |
+| 830    | Beveiligen zwemwedstrijd                        | 4410        | 2026-08-26 | True     |
 | 935    | Gesmolten chocolade haas                        | 500         | 2026-07-08 | True     |
 | 936    | Bliksem treft konijnenhol                       | 2600        | 2026-07-08 | True     |
 | 937    | Chocolade haas opgesloten in auto               | 250         | 2026-07-08 | True     |
