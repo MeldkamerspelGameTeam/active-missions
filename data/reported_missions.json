@@ -1382,7 +1382,7 @@
   "901/ef": "back_active",
   "901/efg": "newly_active",
   "901/eg": "newly_active",
-  "901/f": "old_seen",
+  "901/f": "back_active",
   "901/fg": "newly_discovered",
   "901/g": "newly_discovered",
   "902": "newly_discovered",
