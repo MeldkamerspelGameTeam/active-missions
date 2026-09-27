@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 192
+Count: 191
 
 # Active old-seen missions
 
-Count: 139
+Count: 138
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -98,7 +98,6 @@ Count: 139
 | 1034/acfg   | Brand in nucleaire installatie                | 79410       | 2026-08-26 | False    |
 | 1104/c      | Aanrijding trein & betonmixer                 | 15380       | 2026-08-24 | False    |
 | 1104/ad     | Aanrijding trein & betonmixer                 | 15780       | 2026-08-09 | False    |
-| 1104/bd     | Aanrijding trein & betonmixer                 | 22412       | 2026-07-31 | False    |
 | 1104/abc    | Aanrijding trein & betonmixer                 | 23912       | 2026-07-25 | False    |
 | 1104/acd    | Aanrijding trein & betonmixer                 | 16780       | 2026-08-20 | False    |
 | 1202/b      | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |

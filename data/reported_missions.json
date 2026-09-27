@@ -1986,7 +1986,7 @@
   "1104/bcd": "back_active",
   "1104/bcde": "newly_discovered",
   "1104/bce": "newly_discovered",
-  "1104/bd": "old_seen",
+  "1104/bd": "back_active",
   "1104/bde": "newly_active",
   "1104/be": "newly_discovered",
   "1104/c": "old_seen",
