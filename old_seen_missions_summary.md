@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 190
+Count: 198
 
 # Active old-seen missions
 
-Count: 137
+Count: 143
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -35,6 +35,7 @@ Count: 137
 | 885/cdef    | Brand in vuurwerkopslag                       | 56520       | 2026-07-16 | False    |
 | 892         | 1000 Politiebureau mijlpaal                   | 50000       | 2026-06-21 | False    |
 | 897-0/a     | Rellen na stadsderby                          | 17355       | 2026-08-27 | False    |
+| 897-1/a     | Rellen na stadsderby                          | 18355       | 2026-08-28 | False    |
 | 897-2/a     | Rellen na stadsderby                          | 19355       | 2026-06-30 | False    |
 | 899/a       | Aanrijding bus en tram                        | 10620       | 2026-08-21 | False    |
 | 901         | Trein ontspoord                               | 24120       | 2026-07-23 | False    |
@@ -44,14 +45,17 @@ Count: 137
 | 901/ad      | Trein ontspoord                               | 26720       | 2026-08-16 | False    |
 | 901/cf      | Trein ontspoord                               | 36087       | 2026-08-17 | False    |
 | 901/df      | Trein ontspoord                               | 27720       | 2026-08-14 | False    |
+| 901/eg      | Trein ontspoord                               | 35920       | 2026-08-28 | False    |
 | 901/abc     | Trein ontspoord                               | 35837       | 2026-08-06 | False    |
 | 901/acd     | Trein ontspoord                               | 37087       | 2026-08-25 | False    |
 | 901/ade     | Trein ontspoord                               | 27720       | 2026-08-04 | False    |
 | 901/adf     | Trein ontspoord                               | 28520       | 2026-08-16 | False    |
 | 901/cdf     | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
+| 901/cef     | Trein ontspoord                               | 37337       | 2026-08-28 | False    |
 | 901/bcde    | Trein ontspoord                               | 38337       | 2026-08-06 | False    |
 | 901/bceg    | Trein ontspoord                               | 49587       | 2026-08-26 | False    |
 | 901/bdeg    | Trein ontspoord                               | 38520       | 2026-08-09 | False    |
+| 901/abcde   | Trein ontspoord                               | 39337       | 2026-08-28 | False    |
 | 901/bcdeg   | Trein ontspoord                               | 51837       | 2026-08-15 | False    |
 | 901/bcefg   | Trein ontspoord                               | 51837       | 2026-08-12 | False    |
 | 929/ab      | Brand in gasverdeelstation                    | 37825       | 2026-08-04 | False    |
@@ -69,6 +73,7 @@ Count: 137
 | 974/a       | Ontspoorde tram botst tegen gebouw            | 20230       | 2026-08-11 | False    |
 | 974/d       | Ontspoorde tram botst tegen gebouw            | 25930       | 2026-08-22 | False    |
 | 974/ad      | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |
+| 974/bc      | Ontspoorde tram botst tegen gebouw            | 29225       | 2026-08-28 | False    |
 | 1030/ad     | Brand bij papierrecyclaar                     | 42560       | 2026-08-10 | False    |
 | 1030/acd    | Brand bij papierrecyclaar                     | 50760       | 2026-08-09 | False    |
 | 1030/bcd    | Brand bij papierrecyclaar                     | 66137       | 2026-08-19 | False    |
@@ -98,6 +103,7 @@ Count: 137
 | 1034/acfg   | Brand in nucleaire installatie                | 79410       | 2026-08-26 | False    |
 | 1104/c      | Aanrijding trein & betonmixer                 | 15380       | 2026-08-24 | False    |
 | 1104/ad     | Aanrijding trein & betonmixer                 | 15780       | 2026-08-09 | False    |
+| 1104/cd     | Aanrijding trein & betonmixer                 | 15980       | 2026-08-28 | False    |
 | 1104/abc    | Aanrijding trein & betonmixer                 | 23912       | 2026-07-25 | False    |
 | 1104/acd    | Aanrijding trein & betonmixer                 | 16780       | 2026-08-20 | False    |
 | 1202/b      | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
@@ -148,7 +154,7 @@ Count: 137
 
 # Inactive old-seen missions
 
-Count: 53
+Count: 55
 
 | ID     | Name                                            | Avg Credits | Last Seen  | Inactive |
 | ------ | ----------------------------------------------- | ----------: | ---------- | -------- |
@@ -198,6 +204,8 @@ Count: 53
 | 1084   | Supporters met vuurwerk op tribune              | 1200        | 2026-07-20 | True     |
 | 1085   | Voetballer uitgegleden in douche                | None        | 2026-07-20 | True     |
 | 1086   | Paniek op de tribune                            | 1200        | 2026-07-20 | True     |
+| 1099   | Storing in attractie pretpark                   | 1420        | 2026-08-28 | True     |
+| 1101   | Glijbaan ongeluk in Zwembad                     | 250         | 2026-08-28 | True     |
 | 1141   | Brand in chocolade-eierenfabriek                | 13755       | 2026-07-08 | True     |
 | 1142   | Onaangekondigde paashaasstaking                 | 7500        | 2026-07-08 | True     |
 | 1197   | Vrachtwagen met eierpunch gekanteld             | 1760        | 2026-07-08 | True     |
