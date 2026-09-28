@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 198
+Count: 197
 
 # Active old-seen missions
 
-Count: 143
+Count: 142
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -22,7 +22,6 @@ Count: 143
 | 787/bc      | Persoon bekneld in gierput                    | 6410        | 2026-08-22 | False    |
 | 801/a       | Groep kitesurfers in problemen                | 4790        | 2026-08-17 | False    |
 | 803/a       | Persoon vermist rondom mui                    | 3370        | 2026-08-26 | False    |
-| 837         | Gaslek bedrijventerrein                       | 8580        | 2026-07-24 | False    |
 | 853-1/a     | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
 | 885/af      | Brand in vuurwerkopslag                       | 50670       | 2026-08-27 | False    |
 | 885/bc      | Brand in vuurwerkopslag                       | 71025       | 2026-08-15 | False    |
