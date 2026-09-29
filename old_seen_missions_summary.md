@@ -1,22 +1,23 @@
 # Old seen missions (older than 30 days)
 
-Count: 195
+Count: 208
 
 # Active old-seen missions
 
-Count: 140
+Count: 142
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
 | 117         | Voetbalwedstrijd, risicowedstrijd             | 17910       | 2026-08-15 | False    |
 | 181/a       | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab      | Verkeersongeval met beknelling                | 3290        | 2026-08-07 | False    |
-| 210/a       | Aanvaring vrachtschip met kajuitboot (Grip 3) | 5975        | 2026-08-27 | False    |
+| 216/b       | Bosbrand (Grip 1)                             | 12312       | 2026-08-29 | False    |
 | 252/a       | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 312/ac      | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
 | 347         | Brand bij afvalverwerker                      | 17500       | 2026-07-22 | False    |
 | 492/a       | Ongeregeldheden voetbalsupporters horeca      | 6810        | 2026-08-21 | False    |
 | 492-1/a     | Ongeregeldheden voetbalsupporters horeca      | 7010        | 2026-08-27 | False    |
+| 492-2/a     | Ongeregeldheden voetbalsupporters horeca      | 8110        | 2026-08-29 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 517/a       | Aanvaring met luxe jachtschip (Grip 4)        | 7937        | 2026-08-23 | False    |
 | 787/bc      | Persoon bekneld in gierput                    | 6410        | 2026-08-22 | False    |
@@ -124,6 +125,7 @@ Count: 140
 | 1228/abcdfg | Trein ontspoord na botsing met goederentrein  | 45112       | 2026-07-24 | False    |
 | 1228/bcdefg | Trein ontspoord na botsing met goederentrein  | 46612       | 2026-08-04 | False    |
 | 1229/e      | Dieseltrein met gevaarlijke stoffen ontspoord | 32790       | 2026-08-15 | False    |
+| 1229/ac     | Dieseltrein met gevaarlijke stoffen ontspoord | 33790       | 2026-08-29 | False    |
 | 1229/ad     | Dieseltrein met gevaarlijke stoffen ontspoord | 33490       | 2026-08-17 | False    |
 | 1229/ae     | Dieseltrein met gevaarlijke stoffen ontspoord | 33590       | 2026-08-19 | False    |
 | 1229/be     | Dieseltrein met gevaarlijke stoffen ontspoord | 44675       | 2026-08-07 | False    |
@@ -151,7 +153,7 @@ Count: 140
 
 # Inactive old-seen missions
 
-Count: 55
+Count: 66
 
 | ID     | Name                                            | Avg Credits | Last Seen  | Inactive |
 | ------ | ----------------------------------------------- | ----------: | ---------- | -------- |
@@ -162,6 +164,11 @@ Count: 55
 | 586    | Gekantelde paaseivrachtwagen                    | 1420        | 2026-07-08 | True     |
 | 587    | Prioriteit: paasei-jacht                        | 1350        | 2026-07-08 | True     |
 | 588    | Paashaas in een kraan                           | 1690        | 2026-07-08 | True     |
+| 617    | Zonnesteek                                      | 250         | 2026-08-29 | True     |
+| 618    | Hitteslag                                       | 250         | 2026-08-29 | True     |
+| 619    | Hittekramp                                      | 250         | 2026-08-29 | True     |
+| 620    | Uitgedroogde persoon                            | 250         | 2026-08-29 | True     |
+| 621    | Barbecuebrand                                   | 500         | 2026-08-29 | True     |
 | 820    | Opblazen wedstrijdbal                           | 500         | 2026-07-20 | True     |
 | 821    | Spelersbus geparkeerd bij parkeerverbod         | 500         | 2026-07-20 | True     |
 | 822    | Behandeling na keepersduik                      | None        | 2026-07-20 | True     |
@@ -173,6 +180,8 @@ Count: 55
 | 828    | Verloren aanvoerdersarmband                     | 1500        | 2026-07-20 | True     |
 | 829    | Brandende cornervlag                            | 670         | 2026-07-20 | True     |
 | 830    | Beveiligen zwemwedstrijd                        | 4410        | 2026-08-26 | True     |
+| 831    | Verontreinigde ijscokar                         | 1350        | 2026-08-29 | True     |
+| 832    | Illegaal kampvuur in park                       | 670         | 2026-08-29 | True     |
 | 935    | Gesmolten chocolade haas                        | 500         | 2026-07-08 | True     |
 | 936    | Bliksem treft konijnenhol                       | 2600        | 2026-07-08 | True     |
 | 937    | Chocolade haas opgesloten in auto               | 250         | 2026-07-08 | True     |
@@ -201,8 +210,12 @@ Count: 55
 | 1084   | Supporters met vuurwerk op tribune              | 1200        | 2026-07-20 | True     |
 | 1085   | Voetballer uitgegleden in douche                | None        | 2026-07-20 | True     |
 | 1086   | Paniek op de tribune                            | 1200        | 2026-07-20 | True     |
+| 1098   | Brand op zomerkamp                              | 3180        | 2026-08-29 | True     |
 | 1099   | Storing in attractie pretpark                   | 1420        | 2026-08-28 | True     |
+| 1100   | Gevecht op markt                                | 670         | 2026-08-29 | True     |
 | 1101   | Glijbaan ongeluk in Zwembad                     | 250         | 2026-08-28 | True     |
+| 1102   | Aanrijding drive-in Bioscoop                    | 670         | 2026-08-29 | True     |
+| 1102/a | Aanrijding drive-in Bioscoop                    | 1070        | 2026-08-29 | True     |
 | 1141   | Brand in chocolade-eierenfabriek                | 13755       | 2026-07-08 | True     |
 | 1142   | Onaangekondigde paashaasstaking                 | 7500        | 2026-07-08 | True     |
 | 1197   | Vrachtwagen met eierpunch gekanteld             | 1760        | 2026-07-08 | True     |
