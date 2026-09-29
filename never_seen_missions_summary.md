@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 884
+Count: 883
 
 # Active never-seen missions
 
-Count: 683
+Count: 682
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -653,7 +653,6 @@ Count: 683
 | 1229/abdeg    | Dieseltrein met gevaarlijke stoffen ontspoord   | 61050       | never     | False    |
 | 1229/abdfg    | Dieseltrein met gevaarlijke stoffen ontspoord   | 65925       | never     | False    |
 | 1241/a        | Brand in diervoerfabriek (Grip 1)               | 15712       | never     | False    |
-| 1242/a        | Rietenkapbrand (Klein)                          | 900         | never     | False    |
 | 1243/a        | Rietkapbrand (Middel)                           | 2750        | never     | False    |
 | 1244/a        | Rietkapbrand (Groot)                            | 8230        | never     | False    |
 | 1245/c        | Rietkapbrand (Grip 1)                           | 16870       | never     | False    |
