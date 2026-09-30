@@ -2162,7 +2162,7 @@
   "1227/abc": "newly_active",
   "1227/abcd": "newly_active",
   "1227/abd": "newly_discovered",
-  "1227/ac": "newly_active",
+  "1227/ac": "old_seen",
   "1227/acd": "newly_active",
   "1227/ad": "newly_discovered",
   "1227/b": "old_seen",
