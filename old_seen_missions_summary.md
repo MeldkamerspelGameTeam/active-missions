@@ -1,14 +1,13 @@
 # Old seen missions (older than 30 days)
 
-Count: 207
+Count: 206
 
 # Active old-seen missions
 
-Count: 141
+Count: 140
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
-| 117         | Voetbalwedstrijd, risicowedstrijd             | 17910       | 2026-08-15 | False    |
 | 181/a       | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab      | Verkeersongeval met beknelling                | 3290        | 2026-08-07 | False    |
 | 216/b       | Bosbrand (Grip 1)                             | 12312       | 2026-08-29 | False    |

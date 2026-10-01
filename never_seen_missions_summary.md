@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 878
+Count: 876
 
 # Active never-seen missions
 
-Count: 677
+Count: 675
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -216,7 +216,6 @@ Count: 677
 | 1034/efg      | Brand in nucleaire installatie                  | 73510       | never     | False    |
 | 1034/efh      | Brand in nucleaire installatie                  | 72760       | never     | False    |
 | 1034/egh      | Brand in nucleaire installatie                  | 73160       | never     | False    |
-| 1034/fgh      | Brand in nucleaire installatie                  | 73060       | never     | False    |
 | 1034/abcd     | Brand in nucleaire installatie                  | 101200      | never     | False    |
 | 1034/abce     | Brand in nucleaire installatie                  | 101075      | never     | False    |
 | 1034/abcf     | Brand in nucleaire installatie                  | 100950      | never     | False    |
@@ -658,7 +657,6 @@ Count: 677
 | 1245/bc       | Rietkapbrand (Grip 1)                           | 24775       | never     | False    |
 | 1245/abc      | Rietkapbrand (Grip 1)                           | 25775       | never     | False    |
 | 1246/c        | Rietkapbrand (Grip 2)                           | 20510       | never     | False    |
-| 1246/ac       | Rietkapbrand (Grip 2)                           | 21310       | never     | False    |
 | 1246/bc       | Rietkapbrand (Grip 2)                           | 29325       | never     | False    |
 | 1247/a        | Blikseminslag rietenkap (Klein)                 | 900         | never     | False    |
 | 1248/a        | Blikseminslag rietenkap (Middel)                | 2960        | never     | False    |
