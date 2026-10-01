@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 211
+Count: 208
 
 # Active old-seen missions
 
-Count: 145
+Count: 142
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -22,7 +22,6 @@ Count: 145
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 517/a       | Aanvaring met luxe jachtschip (Grip 4)        | 7937        | 2026-08-23 | False    |
 | 787/bc      | Persoon bekneld in gierput                    | 6410        | 2026-08-22 | False    |
-| 801/a       | Groep kitesurfers in problemen                | 4790        | 2026-08-17 | False    |
 | 803/a       | Persoon vermist rondom mui                    | 3370        | 2026-08-26 | False    |
 | 853-1/a     | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
 | 885/af      | Brand in vuurwerkopslag                       | 50670       | 2026-08-27 | False    |
@@ -68,7 +67,6 @@ Count: 145
 | 929/acd     | Brand in gasverdeelstation                    | 33310       | 2026-08-23 | False    |
 | 929/ace     | Brand in gasverdeelstation                    | 33160       | 2026-08-14 | False    |
 | 929/bde     | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
-| 929/cde     | Brand in gasverdeelstation                    | 33160       | 2026-08-20 | False    |
 | 974         | Ontspoorde tram botst tegen gebouw            | 19430       | 2026-08-20 | False    |
 | 974/a       | Ontspoorde tram botst tegen gebouw            | 20230       | 2026-08-11 | False    |
 | 974/d       | Ontspoorde tram botst tegen gebouw            | 25930       | 2026-08-22 | False    |
@@ -85,7 +83,6 @@ Count: 145
 | 1034/ch     | Brand in nucleaire installatie                | 76660       | 2026-07-19 | False    |
 | 1034/de     | Brand in nucleaire installatie                | 72110       | 2026-06-28 | False    |
 | 1034/df     | Brand in nucleaire installatie                | 72010       | 2026-08-26 | False    |
-| 1034/eg     | Brand in nucleaire installatie                | 72310       | 2026-08-27 | False    |
 | 1034/fg     | Brand in nucleaire installatie                | 72210       | 2026-07-09 | False    |
 | 1034/fh     | Brand in nucleaire installatie                | 71460       | 2026-08-04 | False    |
 | 1034/gh     | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
