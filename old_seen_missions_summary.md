@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 208
+Count: 207
 
 # Active old-seen missions
 
-Count: 142
+Count: 141
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -20,7 +20,6 @@ Count: 142
 | 492-1/a     | Ongeregeldheden voetbalsupporters horeca      | 7010        | 2026-08-27 | False    |
 | 492-2/a     | Ongeregeldheden voetbalsupporters horeca      | 8110        | 2026-08-29 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
-| 517/a       | Aanvaring met luxe jachtschip (Grip 4)        | 7937        | 2026-08-23 | False    |
 | 787/bc      | Persoon bekneld in gierput                    | 6410        | 2026-08-22 | False    |
 | 803/a       | Persoon vermist rondom mui                    | 3370        | 2026-08-26 | False    |
 | 853-1/a     | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
