@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 206
+Count: 211
 
 # Active old-seen missions
 
-Count: 140
+Count: 145
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -12,12 +12,12 @@ Count: 140
 | 181/ab      | Verkeersongeval met beknelling                | 3290        | 2026-08-07 | False    |
 | 216/b       | Bosbrand (Grip 1)                             | 12312       | 2026-08-29 | False    |
 | 252/a       | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
+| 252/ab      | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
 | 312/ac      | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
 | 312/bc      | Lekkende goederenwagon (Groot)                | 7170        | 2026-08-31 | False    |
 | 347         | Brand bij afvalverwerker                      | 17500       | 2026-07-22 | False    |
 | 492/a       | Ongeregeldheden voetbalsupporters horeca      | 6810        | 2026-08-21 | False    |
 | 492-1/a     | Ongeregeldheden voetbalsupporters horeca      | 7010        | 2026-08-27 | False    |
-| 492-2/a     | Ongeregeldheden voetbalsupporters horeca      | 8110        | 2026-08-29 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 787/bc      | Persoon bekneld in gierput                    | 6410        | 2026-08-22 | False    |
 | 803/a       | Persoon vermist rondom mui                    | 3370        | 2026-08-26 | False    |
@@ -59,12 +59,14 @@ Count: 140
 | 929/ac      | Brand in gasverdeelstation                    | 32510       | 2026-06-23 | False    |
 | 929/ad      | Brand in gasverdeelstation                    | 28110       | 2026-08-05 | False    |
 | 929/bc      | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
+| 929/cd      | Brand in gasverdeelstation                    | 32510       | 2026-09-01 | False    |
 | 929/ce      | Brand in gasverdeelstation                    | 32360       | 2026-07-25 | False    |
 | 929/abc     | Brand in gasverdeelstation                    | 44325       | 2026-07-12 | False    |
 | 929/abd     | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
 | 929/acd     | Brand in gasverdeelstation                    | 33310       | 2026-08-23 | False    |
 | 929/ace     | Brand in gasverdeelstation                    | 33160       | 2026-08-14 | False    |
 | 929/bde     | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
+| 942/ab      | Schoolbus te water                            | 5750        | 2026-09-01 | False    |
 | 974         | Ontspoorde tram botst tegen gebouw            | 19430       | 2026-08-20 | False    |
 | 974/a       | Ontspoorde tram botst tegen gebouw            | 20230       | 2026-08-11 | False    |
 | 974/d       | Ontspoorde tram botst tegen gebouw            | 25930       | 2026-08-22 | False    |
@@ -95,6 +97,7 @@ Count: 140
 | 1034/abeh   | Brand in nucleaire installatie                | 94137       | 2026-08-27 | False    |
 | 1034/aceh   | Brand in nucleaire installatie                | 78760       | 2026-07-30 | False    |
 | 1034/acfg   | Brand in nucleaire installatie                | 79410       | 2026-08-26 | False    |
+| 1104/a      | Aanrijding trein & betonmixer                 | 15180       | 2026-09-01 | False    |
 | 1104/c      | Aanrijding trein & betonmixer                 | 15380       | 2026-08-24 | False    |
 | 1104/ad     | Aanrijding trein & betonmixer                 | 15780       | 2026-08-09 | False    |
 | 1104/ae     | Aanrijding trein & betonmixer                 | 21880       | 2026-08-31 | False    |
@@ -104,6 +107,7 @@ Count: 140
 | 1202/b      | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
 | 1203/b      | Brand in ziekenhuis (Grip 2)                  | 20850       | 2026-08-27 | False    |
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
+| 1207/bc     | Brand in station (Grip 2)                     | 43560       | 2026-09-01 | False    |
 | 1227/b      | Brand in passagierstrein (Grip 1)             | 30150       | 2026-08-25 | False    |
 | 1227/ac     | Brand in passagierstrein (Grip 1)             | 22870       | 2026-08-30 | False    |
 | 1228        | Trein ontspoord na botsing met goederentrein  | 26140       | 2026-08-24 | False    |
@@ -146,6 +150,7 @@ Count: 140
 | 1229/acdg   | Dieseltrein met gevaarlijke stoffen ontspoord | 46090       | 2026-08-27 | False    |
 | 1229/adef   | Dieseltrein met gevaarlijke stoffen ontspoord | 40990       | 2026-08-24 | False    |
 | 1229/bcdf   | Dieseltrein met gevaarlijke stoffen ontspoord | 54175       | 2026-08-12 | False    |
+| 1229/bdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 60050       | 2026-09-01 | False    |
 | 1229/acdeg  | Dieseltrein met gevaarlijke stoffen ontspoord | 47890       | 2026-08-26 | False    |
 | 1229/adefg  | Dieseltrein met gevaarlijke stoffen ontspoord | 51590       | 2026-08-23 | False    |
 
