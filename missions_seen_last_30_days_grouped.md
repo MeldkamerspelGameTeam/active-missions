@@ -1,11 +1,11 @@
 # Missions Seen In Last 30 Days (Grouped by Last Seen Date)
 
-Total missions: 1568
+Total missions: 1567
 Date groups: 30
 
 | Date       | Old Seen On | Days Left | Count |
 | ---------- | ----------- | --------: | ----: |
-| 2026-10-03 | 2026-11-02  |        30 |  1081 |
+| 2026-10-03 | 2026-11-02  |        30 |  1080 |
 | 2026-10-02 | 2026-11-01  |        29 |   134 |
 | 2026-10-01 | 2026-10-31  |        28 |    50 |
 | 2026-09-30 | 2026-10-30  |        27 |    30 |
@@ -36,7 +36,7 @@ Date groups: 30
 | 2026-09-05 | 2026-10-05  |         2 |     5 |
 | 2026-09-04 | 2026-10-04  |         1 |     8 |
 
-## 2026-10-03 (Count: 1081)
+## 2026-10-03 (Count: 1080)
 
 | ID           | Name                                                                             | Avg Credits | Inactive |
 | ------------ | -------------------------------------------------------------------------------- | ----------: | -------- |
@@ -1107,7 +1107,6 @@ Date groups: 30
 | 1251/b       | Blikseminslag rietenkap (Grip 2)                                                 | 30137       | False    |
 | 1252         | Brand in rietenkap na werkzaamheden (Klein)                                      | 500         | False    |
 | 1253         | Brand in rietenkap na werkzaamheden (Middel)                                     | 2350        | False    |
-| 1254         | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | False    |
 | 1255         | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16010       | False    |
 | 1255/a       | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16810       | False    |
 | 1255/ab      | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 24700       | False    |

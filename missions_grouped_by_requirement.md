@@ -225,8 +225,8 @@ Seen split: last 30 days, old seen, and never seen.
 
 ## battalion_chief_vehicles (Count: 1724)
 
-- Last seen 30 days: 892
-- Old seen: 147
+- Last seen 30 days: 891
+- Old seen: 148
 - Never seen: 685
 
 ### Last Seen 30 Days
@@ -1112,7 +1112,6 @@ Seen split: last 30 days, old seen, and never seen.
 | 1251/abc      | Blikseminslag rietenkap (Grip 2)                                                 | 31637       | 03-10-2026 |
 | 1251/b        | Blikseminslag rietenkap (Grip 2)                                                 | 30137       | 03-10-2026 |
 | 1253          | Brand in rietenkap na werkzaamheden (Middel)                                     | 2350        | 03-10-2026 |
-| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 03-10-2026 |
 | 1254/a        | Brand in rietenkap na werkzaamheden (Groot)                                      | 8630        | 01-10-2026 |
 | 1255          | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16010       | 03-10-2026 |
 | 1255/a        | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16810       | 03-10-2026 |
@@ -1277,6 +1276,7 @@ Seen split: last 30 days, old seen, and never seen.
 | 1229/def      | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 40190       | 01-08-2026 |
 | 1229/df       | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 38390       | 16-08-2026 |
 | 1229/e        | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 32790       | 15-08-2026 |
+| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 04-10-2026 |
 
 ### Never Seen
 
@@ -6108,8 +6108,8 @@ Seen split: last 30 days, old seen, and never seen.
 
 ## firetrucks (Count: 1949)
 
-- Last seen 30 days: 1040
-- Old seen: 158
+- Last seen 30 days: 1039
+- Old seen: 159
 - Never seen: 751
 
 ### Last Seen 30 Days
@@ -7139,7 +7139,6 @@ Seen split: last 30 days, old seen, and never seen.
 | 1251/b        | Blikseminslag rietenkap (Grip 2)                                                 | 30137       | 03-10-2026 |
 | 1252          | Brand in rietenkap na werkzaamheden (Klein)                                      | 500         | 03-10-2026 |
 | 1253          | Brand in rietenkap na werkzaamheden (Middel)                                     | 2350        | 03-10-2026 |
-| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 03-10-2026 |
 | 1254/a        | Brand in rietenkap na werkzaamheden (Groot)                                      | 8630        | 01-10-2026 |
 | 1255          | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16010       | 03-10-2026 |
 | 1255/a        | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16810       | 03-10-2026 |
@@ -7319,6 +7318,7 @@ Seen split: last 30 days, old seen, and never seen.
 | 1229/def      | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 40190       | 01-08-2026 |
 | 1229/df       | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 38390       | 16-08-2026 |
 | 1229/e        | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 32790       | 15-08-2026 |
+| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 04-10-2026 |
 
 ### Never Seen
 
@@ -9579,8 +9579,8 @@ Seen split: last 30 days, old seen, and never seen.
 
 ## gwmess (Count: 1240)
 
-- Last seen 30 days: 481
-- Old seen: 127
+- Last seen 30 days: 480
+- Old seen: 128
 - Never seen: 632
 
 ### Last Seen 30 Days
@@ -10055,7 +10055,6 @@ Seen split: last 30 days, old seen, and never seen.
 | 1251/ab       | Blikseminslag rietenkap (Grip 2)                                                 | 31137       | 03-10-2026 |
 | 1251/abc      | Blikseminslag rietenkap (Grip 2)                                                 | 31637       | 03-10-2026 |
 | 1251/b        | Blikseminslag rietenkap (Grip 2)                                                 | 30137       | 03-10-2026 |
-| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 03-10-2026 |
 | 1254/a        | Brand in rietenkap na werkzaamheden (Groot)                                      | 8630        | 01-10-2026 |
 | 1255          | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16010       | 03-10-2026 |
 | 1255/a        | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16810       | 03-10-2026 |
@@ -10200,6 +10199,7 @@ Seen split: last 30 days, old seen, and never seen.
 | 1229/def      | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 40190       | 01-08-2026 |
 | 1229/df       | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 38390       | 16-08-2026 |
 | 1229/e        | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 32790       | 15-08-2026 |
+| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 04-10-2026 |
 
 ### Never Seen
 
@@ -17083,8 +17083,8 @@ Seen split: last 30 days, old seen, and never seen.
 
 ## mobile_air_vehicles (Count: 1247)
 
-- Last seen 30 days: 498
-- Old seen: 125
+- Last seen 30 days: 497
+- Old seen: 126
 - Never seen: 624
 
 ### Last Seen 30 Days
@@ -17576,7 +17576,6 @@ Seen split: last 30 days, old seen, and never seen.
 | 1251/ab       | Blikseminslag rietenkap (Grip 2)                                                 | 31137       | 03-10-2026 |
 | 1251/abc      | Blikseminslag rietenkap (Grip 2)                                                 | 31637       | 03-10-2026 |
 | 1251/b        | Blikseminslag rietenkap (Grip 2)                                                 | 30137       | 03-10-2026 |
-| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 03-10-2026 |
 | 1254/a        | Brand in rietenkap na werkzaamheden (Groot)                                      | 8630        | 01-10-2026 |
 | 1255          | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16010       | 03-10-2026 |
 | 1255/a        | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16810       | 03-10-2026 |
@@ -17719,6 +17718,7 @@ Seen split: last 30 days, old seen, and never seen.
 | 1229/def      | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 40190       | 01-08-2026 |
 | 1229/df       | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 38390       | 16-08-2026 |
 | 1229/e        | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 32790       | 15-08-2026 |
+| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 04-10-2026 |
 
 ### Never Seen
 
@@ -21316,8 +21316,8 @@ Seen split: last 30 days, old seen, and never seen.
 
 ## platform_trucks (Count: 1438)
 
-- Last seen 30 days: 646
-- Old seen: 137
+- Last seen 30 days: 645
+- Old seen: 138
 - Never seen: 655
 
 ### Last Seen 30 Days
@@ -21957,7 +21957,6 @@ Seen split: last 30 days, old seen, and never seen.
 | 1251/abc      | Blikseminslag rietenkap (Grip 2)                                                 | 31637       | 03-10-2026 |
 | 1251/b        | Blikseminslag rietenkap (Grip 2)                                                 | 30137       | 03-10-2026 |
 | 1253          | Brand in rietenkap na werkzaamheden (Middel)                                     | 2350        | 03-10-2026 |
-| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 03-10-2026 |
 | 1254/a        | Brand in rietenkap na werkzaamheden (Groot)                                      | 8630        | 01-10-2026 |
 | 1255          | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16010       | 03-10-2026 |
 | 1255/a        | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16810       | 03-10-2026 |
@@ -22112,6 +22111,7 @@ Seen split: last 30 days, old seen, and never seen.
 | 1229/def      | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 40190       | 01-08-2026 |
 | 1229/df       | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 38390       | 16-08-2026 |
 | 1229/e        | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 32790       | 15-08-2026 |
+| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 04-10-2026 |
 
 ### Never Seen
 
@@ -22776,8 +22776,8 @@ Seen split: last 30 days, old seen, and never seen.
 
 ## police_cars (Count: 2136)
 
-- Last seen 30 days: 1195
-- Old seen: 186
+- Last seen 30 days: 1194
+- Old seen: 187
 - Never seen: 755
 
 ### Last Seen 30 Days
@@ -23966,7 +23966,6 @@ Seen split: last 30 days, old seen, and never seen.
 | 1251/ab       | Blikseminslag rietenkap (Grip 2)                                                 | 31137       | 03-10-2026 |
 | 1251/abc      | Blikseminslag rietenkap (Grip 2)                                                 | 31637       | 03-10-2026 |
 | 1251/b        | Blikseminslag rietenkap (Grip 2)                                                 | 30137       | 03-10-2026 |
-| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 03-10-2026 |
 | 1254/a        | Brand in rietenkap na werkzaamheden (Groot)                                      | 8630        | 01-10-2026 |
 | 1255          | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16010       | 03-10-2026 |
 | 1255/a        | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16810       | 03-10-2026 |
@@ -24170,6 +24169,7 @@ Seen split: last 30 days, old seen, and never seen.
 | 1229/def      | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 40190       | 01-08-2026 |
 | 1229/df       | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 38390       | 16-08-2026 |
 | 1229/e        | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 32790       | 15-08-2026 |
+| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 04-10-2026 |
 
 ### Never Seen
 
@@ -29637,8 +29637,8 @@ Seen split: last 30 days, old seen, and never seen.
 
 ## water_needed (Count: 1118)
 
-- Last seen 30 days: 387
-- Old seen: 117
+- Last seen 30 days: 386
+- Old seen: 118
 - Never seen: 614
 
 ### Last Seen 30 Days
@@ -30019,7 +30019,6 @@ Seen split: last 30 days, old seen, and never seen.
 | 1251/abc      | Blikseminslag rietenkap (Grip 2)                                                 | 31637       | 03-10-2026 |
 | 1251/b        | Blikseminslag rietenkap (Grip 2)                                                 | 30137       | 03-10-2026 |
 | 1253          | Brand in rietenkap na werkzaamheden (Middel)                                     | 2350        | 03-10-2026 |
-| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 03-10-2026 |
 | 1254/a        | Brand in rietenkap na werkzaamheden (Groot)                                      | 8630        | 01-10-2026 |
 | 1255          | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16010       | 03-10-2026 |
 | 1255/a        | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16810       | 03-10-2026 |
@@ -30154,6 +30153,7 @@ Seen split: last 30 days, old seen, and never seen.
 | 1229/def      | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 40190       | 01-08-2026 |
 | 1229/df       | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 38390       | 16-08-2026 |
 | 1229/e        | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 32790       | 15-08-2026 |
+| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 04-10-2026 |
 
 ### Never Seen
 
@@ -30849,8 +30849,8 @@ Seen split: last 30 days, old seen, and never seen.
 
 ## water_tankers (Count: 1220)
 
-- Last seen 30 days: 480
-- Old seen: 120
+- Last seen 30 days: 479
+- Old seen: 121
 - Never seen: 620
 
 ### Last Seen 30 Days
@@ -31324,7 +31324,6 @@ Seen split: last 30 days, old seen, and never seen.
 | 1251/ab       | Blikseminslag rietenkap (Grip 2)                                                 | 31137       | 03-10-2026 |
 | 1251/abc      | Blikseminslag rietenkap (Grip 2)                                                 | 31637       | 03-10-2026 |
 | 1251/b        | Blikseminslag rietenkap (Grip 2)                                                 | 30137       | 03-10-2026 |
-| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 03-10-2026 |
 | 1254/a        | Brand in rietenkap na werkzaamheden (Groot)                                      | 8630        | 01-10-2026 |
 | 1255          | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16010       | 03-10-2026 |
 | 1255/a        | Brand in rietenkap na werkzaamheden (Grip 1)                                     | 16810       | 03-10-2026 |
@@ -31462,6 +31461,7 @@ Seen split: last 30 days, old seen, and never seen.
 | 1229/def      | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 40190       | 01-08-2026 |
 | 1229/df       | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 38390       | 16-08-2026 |
 | 1229/e        | Dieseltrein met gevaarlijke stoffen ontspoord                                    | 32790       | 15-08-2026 |
+| 1254          | Brand in rietenkap na werkzaamheden (Groot)                                      | 8230        | 04-10-2026 |
 
 ### Never Seen
 
