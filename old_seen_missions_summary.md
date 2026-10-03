@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 209
+Count: 210
 
 # Active old-seen missions
 
-Count: 143
+Count: 144
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -19,6 +19,7 @@ Count: 143
 | 492/a       | Ongeregeldheden voetbalsupporters horeca      | 6810        | 2026-08-21 | False    |
 | 492-1/a     | Ongeregeldheden voetbalsupporters horeca      | 7010        | 2026-08-27 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
+| 625/a       | Onbeheerde bagage gevonden                    | 2770        | 2026-09-02 | False    |
 | 787/bc      | Persoon bekneld in gierput                    | 6410        | 2026-08-22 | False    |
 | 803/a       | Persoon vermist rondom mui                    | 3370        | 2026-08-26 | False    |
 | 853-1/a     | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
@@ -62,6 +63,7 @@ Count: 143
 | 929/ce      | Brand in gasverdeelstation                    | 32360       | 2026-07-25 | False    |
 | 929/abc     | Brand in gasverdeelstation                    | 44325       | 2026-07-12 | False    |
 | 929/abd     | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
+| 929/abe     | Brand in gasverdeelstation                    | 38637       | 2026-09-02 | False    |
 | 929/acd     | Brand in gasverdeelstation                    | 33310       | 2026-08-23 | False    |
 | 929/ace     | Brand in gasverdeelstation                    | 33160       | 2026-08-14 | False    |
 | 929/bde     | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
@@ -80,10 +82,8 @@ Count: 143
 | 1034/ah     | Brand in nucleaire installatie                | 71060       | 2026-08-06 | False    |
 | 1034/cd     | Brand in nucleaire installatie                | 77210       | 2026-08-26 | False    |
 | 1034/ch     | Brand in nucleaire installatie                | 76660       | 2026-07-19 | False    |
-| 1034/de     | Brand in nucleaire installatie                | 72110       | 2026-06-28 | False    |
 | 1034/df     | Brand in nucleaire installatie                | 72010       | 2026-08-26 | False    |
 | 1034/fg     | Brand in nucleaire installatie                | 72210       | 2026-07-09 | False    |
-| 1034/fh     | Brand in nucleaire installatie                | 71460       | 2026-08-04 | False    |
 | 1034/gh     | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
 | 1034/ade    | Brand in nucleaire installatie                | 72910       | 2026-07-11 | False    |
 | 1034/afh    | Brand in nucleaire installatie                | 72260       | 2026-08-13 | False    |
@@ -102,6 +102,7 @@ Count: 143
 | 1104/ae     | Aanrijding trein & betonmixer                 | 21880       | 2026-08-31 | False    |
 | 1104/abc    | Aanrijding trein & betonmixer                 | 23912       | 2026-07-25 | False    |
 | 1104/acd    | Aanrijding trein & betonmixer                 | 16780       | 2026-08-20 | False    |
+| 1104/bcd    | Aanrijding trein & betonmixer                 | 23662       | 2026-09-02 | False    |
 | 1104/abcde  | Aanrijding trein & betonmixer                 | 33037       | 2026-08-31 | False    |
 | 1202/b      | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
 | 1203/b      | Brand in ziekenhuis (Grip 2)                  | 20850       | 2026-08-27 | False    |
