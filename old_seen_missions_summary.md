@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 209
+Count: 207
 
 # Active old-seen missions
 
-Count: 143
+Count: 141
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -100,7 +100,6 @@ Count: 143
 | 1104/ad     | Aanrijding trein & betonmixer                 | 15780       | 2026-08-09 | False    |
 | 1104/ae     | Aanrijding trein & betonmixer                 | 21880       | 2026-08-31 | False    |
 | 1104/abc    | Aanrijding trein & betonmixer                 | 23912       | 2026-07-25 | False    |
-| 1104/acd    | Aanrijding trein & betonmixer                 | 16780       | 2026-08-20 | False    |
 | 1104/bcd    | Aanrijding trein & betonmixer                 | 23662       | 2026-09-02 | False    |
 | 1104/abcde  | Aanrijding trein & betonmixer                 | 33037       | 2026-08-31 | False    |
 | 1202/b      | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
@@ -108,7 +107,6 @@ Count: 143
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
 | 1207/bc     | Brand in station (Grip 2)                     | 43560       | 2026-09-01 | False    |
 | 1227/b      | Brand in passagierstrein (Grip 1)             | 30150       | 2026-08-25 | False    |
-| 1227/ac     | Brand in passagierstrein (Grip 1)             | 22870       | 2026-08-30 | False    |
 | 1228        | Trein ontspoord na botsing met goederentrein  | 26140       | 2026-08-24 | False    |
 | 1228/ac     | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
 | 1228/bf     | Trein ontspoord na botsing met goederentrein  | 28940       | 2026-08-26 | False    |
