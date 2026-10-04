@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 207
+Count: 206
 
 # Active old-seen missions
 
-Count: 141
+Count: 140
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -74,7 +74,6 @@ Count: 141
 | 974/bc      | Ontspoorde tram botst tegen gebouw            | 29225       | 2026-08-28 | False    |
 | 1030/acd    | Brand bij papierrecyclaar                     | 50760       | 2026-08-09 | False    |
 | 1030/bcd    | Brand bij papierrecyclaar                     | 66137       | 2026-08-19 | False    |
-| 1034/ab     | Brand in nucleaire installatie                | 91450       | 2026-08-11 | False    |
 | 1034/ac     | Brand in nucleaire installatie                | 76610       | 2026-08-27 | False    |
 | 1034/ad     | Brand in nucleaire installatie                | 71610       | 2026-08-07 | False    |
 | 1034/af     | Brand in nucleaire installatie                | 71410       | 2026-08-11 | False    |
