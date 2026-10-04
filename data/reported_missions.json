@@ -2621,7 +2621,7 @@
   "1251/abc": "newly_active",
   "1251/ac": "newly_discovered",
   "1251/b": "newly_active",
-  "1251/bc": "newly_discovered",
+  "1251/bc": "newly_active",
   "1251/c": "newly_discovered",
   "1252": "newly_active",
   "1252/a": "newly_discovered",
