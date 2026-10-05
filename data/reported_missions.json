@@ -2116,7 +2116,7 @@
   "1203/abc": "newly_active",
   "1203/ac": "newly_active",
   "1203/b": "old_seen",
-  "1203/bc": "newly_discovered",
+  "1203/bc": "newly_active",
   "1203/c": "newly_active",
   "1204": "newly_active",
   "1205": "newly_active",
