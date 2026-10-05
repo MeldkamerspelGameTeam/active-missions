@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 205
+Count: 212
 
 # Active old-seen missions
 
-Count: 139
+Count: 146
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -16,6 +16,7 @@ Count: 139
 | 252/ab      | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
 | 312/ac      | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
 | 312/bc      | Lekkende goederenwagon (Groot)                | 7170        | 2026-08-31 | False    |
+| 312/abc     | Lekkende goederenwagon (Groot)                | 7870        | 2026-09-04 | False    |
 | 492/a       | Ongeregeldheden voetbalsupporters horeca      | 6810        | 2026-08-21 | False    |
 | 492-1/a     | Ongeregeldheden voetbalsupporters horeca      | 7010        | 2026-08-27 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
@@ -24,12 +25,14 @@ Count: 139
 | 853-1/a     | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
 | 885/af      | Brand in vuurwerkopslag                       | 50670       | 2026-08-27 | False    |
 | 885/bc      | Brand in vuurwerkopslag                       | 71025       | 2026-08-15 | False    |
+| 885/bd      | Brand in vuurwerkopslag                       | 65337       | 2026-09-04 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
 | 885/abf     | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
 | 885/bce     | Brand in vuurwerkopslag                       | 72025       | 2026-08-07 | False    |
 | 885/acef    | Brand in vuurwerkopslag                       | 56670       | 2026-07-09 | False    |
 | 885/cdef    | Brand in vuurwerkopslag                       | 56520       | 2026-07-16 | False    |
 | 892         | 1000 Politiebureau mijlpaal                   | 50000       | 2026-06-21 | False    |
+| 897/a       | Rellen na stadsderby                          | 16755       | 2026-09-04 | False    |
 | 897-0/a     | Rellen na stadsderby                          | 17355       | 2026-08-27 | False    |
 | 897-1/a     | Rellen na stadsderby                          | 18355       | 2026-08-28 | False    |
 | 897-2/a     | Rellen na stadsderby                          | 19355       | 2026-06-30 | False    |
@@ -50,6 +53,7 @@ Count: 139
 | 901/bcde    | Trein ontspoord                               | 38337       | 2026-08-06 | False    |
 | 901/bceg    | Trein ontspoord                               | 49587       | 2026-08-26 | False    |
 | 901/bdeg    | Trein ontspoord                               | 38520       | 2026-08-09 | False    |
+| 901/cdef    | Trein ontspoord                               | 39587       | 2026-09-04 | False    |
 | 901/abcde   | Trein ontspoord                               | 39337       | 2026-08-28 | False    |
 | 901/bcdeg   | Trein ontspoord                               | 51837       | 2026-08-15 | False    |
 | 901/bcefg   | Trein ontspoord                               | 51837       | 2026-08-12 | False    |
@@ -71,6 +75,7 @@ Count: 139
 | 974/d       | Ontspoorde tram botst tegen gebouw            | 25930       | 2026-08-22 | False    |
 | 974/ad      | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |
 | 974/bc      | Ontspoorde tram botst tegen gebouw            | 29225       | 2026-08-28 | False    |
+| 1030/cd     | Brand bij papierrecyclaar                     | 49960       | 2026-09-04 | False    |
 | 1030/acd    | Brand bij papierrecyclaar                     | 50760       | 2026-08-09 | False    |
 | 1030/bcd    | Brand bij papierrecyclaar                     | 66137       | 2026-08-19 | False    |
 | 1034/ac     | Brand in nucleaire installatie                | 76610       | 2026-08-27 | False    |
@@ -78,10 +83,12 @@ Count: 139
 | 1034/af     | Brand in nucleaire installatie                | 71410       | 2026-08-11 | False    |
 | 1034/ah     | Brand in nucleaire installatie                | 71060       | 2026-08-06 | False    |
 | 1034/cd     | Brand in nucleaire installatie                | 77210       | 2026-08-26 | False    |
+| 1034/cg     | Brand in nucleaire installatie                | 77410       | 2026-09-04 | False    |
 | 1034/ch     | Brand in nucleaire installatie                | 76660       | 2026-07-19 | False    |
 | 1034/df     | Brand in nucleaire installatie                | 72010       | 2026-08-26 | False    |
 | 1034/fg     | Brand in nucleaire installatie                | 72210       | 2026-07-09 | False    |
 | 1034/gh     | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
+| 1034/abf    | Brand in nucleaire installatie                | 92950       | 2026-09-04 | False    |
 | 1034/ade    | Brand in nucleaire installatie                | 72910       | 2026-07-11 | False    |
 | 1034/afh    | Brand in nucleaire installatie                | 72260       | 2026-08-13 | False    |
 | 1034/bch    | Brand in nucleaire installatie                | 99512       | 2026-07-13 | False    |
