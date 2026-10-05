@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 857
+Count: 856
 
 # Active never-seen missions
 
-Count: 656
+Count: 655
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -658,7 +658,6 @@ Count: 656
 | 1255/c        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16410       | never     | False    |
 | 1255/ac       | Brand in rietenkap na werkzaamheden (Grip 1)    | 17210       | never     | False    |
 | 1255/bc       | Brand in rietenkap na werkzaamheden (Grip 1)    | 24200       | never     | False    |
-| 1255/abc      | Brand in rietenkap na werkzaamheden (Grip 1)    | 25200       | never     | False    |
 | 1258/a        | Geit in gierput                                 | 900         | never     | False    |
 | 1259/a        | Ezel in sloot                                   | 1410        | never     | False    |
 | 1259/b        | Ezel in sloot                                   | 1310        | never     | False    |
