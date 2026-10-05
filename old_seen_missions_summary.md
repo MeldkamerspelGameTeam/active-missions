@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 212
+Count: 211
 
 # Active old-seen missions
 
-Count: 146
+Count: 145
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -72,7 +72,6 @@ Count: 146
 | 973/a       | Uit de handgelopen overwinningsfeest          | 8540        | 2026-09-03 | False    |
 | 974         | Ontspoorde tram botst tegen gebouw            | 19430       | 2026-08-20 | False    |
 | 974/a       | Ontspoorde tram botst tegen gebouw            | 20230       | 2026-08-11 | False    |
-| 974/d       | Ontspoorde tram botst tegen gebouw            | 25930       | 2026-08-22 | False    |
 | 974/ad      | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |
 | 974/bc      | Ontspoorde tram botst tegen gebouw            | 29225       | 2026-08-28 | False    |
 | 1030/cd     | Brand bij papierrecyclaar                     | 49960       | 2026-09-04 | False    |
