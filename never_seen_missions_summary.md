@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 857
+Count: 858
 
 # Active never-seen missions
 
-Count: 656
+Count: 657
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -664,6 +664,7 @@ Count: 656
 | 1259/a        | Ezel in sloot                                   | 1410        | never     | False    |
 | 1259/b        | Ezel in sloot                                   | 1310        | never     | False    |
 | 1259/ab       | Ezel in sloot                                   | 1810        | never     | False    |
+| 1260          | Brandwond door laswerk                          | None        | never     | False    |
 
 # Inactive never-seen missions
 
