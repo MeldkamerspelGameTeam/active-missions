@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 853
+Count: 850
 
 # Active never-seen missions
 
-Count: 652
+Count: 649
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -188,7 +188,6 @@ Count: 652
 | 1034/aeh      | Brand in nucleaire installatie                  | 72360       | never     | False    |
 | 1034/afg      | Brand in nucleaire installatie                  | 73010       | never     | False    |
 | 1034/bcd      | Brand in nucleaire installatie                  | 100200      | never     | False    |
-| 1034/bce      | Brand in nucleaire installatie                  | 100075      | never     | False    |
 | 1034/bcf      | Brand in nucleaire installatie                  | 99950       | never     | False    |
 | 1034/bcg      | Brand in nucleaire installatie                  | 100450      | never     | False    |
 | 1034/bde      | Brand in nucleaire installatie                  | 93825       | never     | False    |
@@ -382,7 +381,6 @@ Count: 652
 | 1104/bcde     | Aanrijding trein & betonmixer                   | 32037       | never     | False    |
 | 1206/b        | Brand in station (Grip 1)                       | 28400       | never     | False    |
 | 1227/ad       | Brand in passagierstrein (Grip 1)               | 28620       | never     | False    |
-| 1227/abd      | Brand in passagierstrein (Grip 1)               | 39462       | never     | False    |
 | 1227/bcd      | Brand in passagierstrein (Grip 1)               | 39587       | never     | False    |
 | 1228/a        | Trein ontspoord na botsing met goederentrein    | 26940       | never     | False    |
 | 1228/b        | Trein ontspoord na botsing met goederentrein    | 26940       | never     | False    |
@@ -644,7 +642,6 @@ Count: 652
 | 1245/c        | Rietkapbrand (Grip 1)                           | 16870       | never     | False    |
 | 1245/ac       | Rietkapbrand (Grip 1)                           | 17670       | never     | False    |
 | 1245/bc       | Rietkapbrand (Grip 1)                           | 24775       | never     | False    |
-| 1245/abc      | Rietkapbrand (Grip 1)                           | 25775       | never     | False    |
 | 1246/c        | Rietkapbrand (Grip 2)                           | 20510       | never     | False    |
 | 1246/bc       | Rietkapbrand (Grip 2)                           | 29325       | never     | False    |
 | 1250/c        | Blikseminslag rietenkap (Grip 1)                | 17700       | never     | False    |
