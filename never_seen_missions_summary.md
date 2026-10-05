@@ -1,15 +1,14 @@
 # Never seen missions
 
-Count: 856
+Count: 854
 
 # Active never-seen missions
 
-Count: 655
+Count: 653
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
 | 27            | Persoon aangereden                              | 700         | never     | False    |
-| 32/a          | Schoorsteenbrand woning met rietenkap           | 1750        | never     | False    |
 | 41            | Brand in kantoorpand                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                  | 12030       | never     | False    |
 | 59            | Brand in opslagloods                            | 13710       | never     | False    |
@@ -662,7 +661,6 @@ Count: 655
 | 1259/a        | Ezel in sloot                                   | 1410        | never     | False    |
 | 1259/b        | Ezel in sloot                                   | 1310        | never     | False    |
 | 1259/ab       | Ezel in sloot                                   | 1810        | never     | False    |
-| 1260          | Brandwond door laswerk                          | None        | never     | False    |
 
 # Inactive never-seen missions
 
