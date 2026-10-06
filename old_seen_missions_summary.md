@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 207
+Count: 206
 
 # Active old-seen missions
 
-Count: 141
+Count: 140
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -66,7 +66,6 @@ Count: 141
 | 929/ace     | Brand in gasverdeelstation                    | 33160       | 2026-08-14 | False    |
 | 929/bde     | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
 | 942/ab      | Schoolbus te water                            | 5750        | 2026-09-01 | False    |
-| 973/a       | Uit de handgelopen overwinningsfeest          | 8540        | 2026-09-03 | False    |
 | 974         | Ontspoorde tram botst tegen gebouw            | 19430       | 2026-08-20 | False    |
 | 974/a       | Ontspoorde tram botst tegen gebouw            | 20230       | 2026-08-11 | False    |
 | 974/ad      | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |
