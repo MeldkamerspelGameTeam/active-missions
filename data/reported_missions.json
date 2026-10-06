@@ -649,7 +649,7 @@
   "492-0": "newly_active",
   "492-0/a": "old_seen",
   "492-1": "newly_active",
-  "492-1/a": "old_seen",
+  "492-1/a": "back_active",
   "492-2": "back_active",
   "492-2/a": "back_active",
   "492/a": "old_seen",
