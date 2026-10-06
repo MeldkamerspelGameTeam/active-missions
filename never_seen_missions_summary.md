@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 850
+Count: 849
 
 # Active never-seen missions
 
-Count: 649
+Count: 648
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -17,7 +17,6 @@ Count: 649
 | 183/a         | Paard in sloot                                  | 1700        | never     | False    |
 | 183/b         | Paard in sloot                                  | 1600        | never     | False    |
 | 183/ab        | Paard in sloot                                  | 2100        | never     | False    |
-| 193/a         | Koe in sloot                                    | 1310        | never     | False    |
 | 194/a         | Koe in gierput                                  | 1310        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
