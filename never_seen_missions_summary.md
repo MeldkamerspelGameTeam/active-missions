@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 849
+Count: 848
 
 # Active never-seen missions
 
-Count: 648
+Count: 647
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -643,7 +643,6 @@ Count: 648
 | 1245/bc       | Rietkapbrand (Grip 1)                           | 24775       | never     | False    |
 | 1246/c        | Rietkapbrand (Grip 2)                           | 20510       | never     | False    |
 | 1246/bc       | Rietkapbrand (Grip 2)                           | 29325       | never     | False    |
-| 1250/c        | Blikseminslag rietenkap (Grip 1)                | 17700       | never     | False    |
 | 1250/ac       | Blikseminslag rietenkap (Grip 1)                | 18500       | never     | False    |
 | 1250/bc       | Blikseminslag rietenkap (Grip 1)                | 25812       | never     | False    |
 | 1251/c        | Blikseminslag rietenkap (Grip 2)                | 21560       | never     | False    |
