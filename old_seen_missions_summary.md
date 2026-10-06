@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 205
+Count: 210
 
 # Active old-seen missions
 
-Count: 139
+Count: 144
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -16,6 +16,7 @@ Count: 139
 | 312/bc      | Lekkende goederenwagon (Groot)                | 7170        | 2026-08-31 | False    |
 | 312/abc     | Lekkende goederenwagon (Groot)                | 7870        | 2026-09-04 | False    |
 | 492/a       | Ongeregeldheden voetbalsupporters horeca      | 6810        | 2026-08-21 | False    |
+| 492-0/a     | Ongeregeldheden voetbalsupporters horeca      | 7310        | 2026-09-05 | False    |
 | 492-1/a     | Ongeregeldheden voetbalsupporters horeca      | 7010        | 2026-08-27 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 787/bc      | Persoon bekneld in gierput                    | 6410        | 2026-08-22 | False    |
@@ -25,7 +26,9 @@ Count: 139
 | 885/bd      | Brand in vuurwerkopslag                       | 65337       | 2026-09-04 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
 | 885/abf     | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
+| 885/ade     | Brand in vuurwerkopslag                       | 50920       | 2026-09-05 | False    |
 | 885/bce     | Brand in vuurwerkopslag                       | 72025       | 2026-08-07 | False    |
+| 885/acdf    | Brand in vuurwerkopslag                       | 56520       | 2026-09-05 | False    |
 | 885/acef    | Brand in vuurwerkopslag                       | 56670       | 2026-07-09 | False    |
 | 885/cdef    | Brand in vuurwerkopslag                       | 56520       | 2026-07-16 | False    |
 | 892         | 1000 Politiebureau mijlpaal                   | 50000       | 2026-06-21 | False    |
@@ -146,7 +149,9 @@ Count: 139
 | 1229/bceg   | Dieseltrein met gevaarlijke stoffen ontspoord | 60425       | 2026-09-03 | False    |
 | 1229/bdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 60050       | 2026-09-01 | False    |
 | 1229/acdeg  | Dieseltrein met gevaarlijke stoffen ontspoord | 47890       | 2026-08-26 | False    |
+| 1229/acdfg  | Dieseltrein met gevaarlijke stoffen ontspoord | 51790       | 2026-09-05 | False    |
 | 1229/adefg  | Dieseltrein met gevaarlijke stoffen ontspoord | 51590       | 2026-08-23 | False    |
+| 1229/bcdef  | Dieseltrein met gevaarlijke stoffen ontspoord | 56425       | 2026-09-05 | False    |
 
 # Inactive old-seen missions
 
