@@ -1,6 +1,6 @@
 # Never seen missions
 
-Count: 843
+Count: 827
 
 # Active never-seen missions
 
@@ -653,19 +653,10 @@ Count: 642
 
 # Inactive never-seen missions
 
-Count: 201
+Count: 185
 
 | ID     | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | --------- | -------- |
-| 146    | Brandende vogelverschrikker                                        | 500         | never     | True     |
-| 147    | Brandend pompoenveld                                               | 1010        | never     | True     |
-| 148    | Overkookte pompoensoep                                             | 500         | never     | True     |
-| 149    | Heks vast in boom                                                  | 840         | never     | True     |
-| 150    | Monster uitgebroken                                                | 1010        | never     | True     |
-| 151    | Gestolen pompoenen                                                 | 500         | never     | True     |
-| 152    | Frankenstein gespot                                                | 840         | never     | True     |
-| 153    | Snoep diefstal                                                     | 500         | never     | True     |
-| 154    | Horrorclown gespot                                                 | 670         | never     | True     |
 | 160    | Brandende cadeautjes                                               | 500         | never     | True     |
 | 161    | Sinterklaas van dak gegleden                                       | None        | never     | True     |
 | 162    | Pepernoot op hoofd                                                 | None        | never     | True     |
@@ -813,10 +804,6 @@ Count: 201
 | 1013   | Ongeluk bij bakken valentijn diner                                 | 670         | never     | True     |
 | 1014   | Brandend Valentijnsboeket                                          | 670         | never     | True     |
 | 1015   | Kaars omgevallen bij diner                                         | 500         | never     | True     |
-| 1058   | Halloween decoratie in brand                                       | 500         | never     | True     |
-| 1059   | Winkeloverval door geesten                                         | 840         | never     | True     |
-| 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | never     | True     |
-| 1061   | Vermist persoon op begraafplaats                                   | 1010        | never     | True     |
 | 1072   | Kerstman vast in schoorsteen                                       | 1250        | never     | True     |
 | 1073   | Kerstdecoratie op de weg                                           | 500         | never     | True     |
 | 1074   | Persoon verbrand door warme chocolademelk                          | None        | never     | True     |
@@ -846,9 +833,6 @@ Count: 201
 | 1130   | Picknick met kaarslicht veroorzaakt bosbrand                       | 2000        | never     | True     |
 | 1131   | Verlovingsring gestolen tijdens aanzoek                            | 500         | never     | True     |
 | 1132   | Persoon bekneld onder gigantische teddybeer                        | 500         | never     | True     |
-| 1175   | Babbeltruc door spokenjagers                                       | 1200        | never     | True     |
-| 1176   | Heks op bezem botst tegen een woning                               | 1200        | never     | True     |
-| 1177   | Massale paniek bij halloween parade                                | 5200        | never     | True     |
 | 1183   | Peperkoekhuis in brand                                             | 3050        | never     | True     |
 | 1184   | Voetganger aangereden door rendier                                 | 1250        | never     | True     |
 | 1185   | Protesterende elven                                                | 5640        | never     | True     |

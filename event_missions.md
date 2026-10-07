@@ -1,10 +1,10 @@
 # Event missions grouped by date window
 
-Event missions: 277
+Event missions: 261
 
-Active: 10 | Inactive: 267
+Active: 10 | Inactive: 251
 
-Date window groups: 27
+Date window groups: 25
 
 
 ## Start: 2024-07-26T09:00:00Z | End: 2024-08-11T23:59:59Z | Count: 7
@@ -44,40 +44,6 @@ Count: 2
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
 | 1096   | Waterredding vereist bij zeilevenement                             | 1230        | never      | True     |
 | 1097   | Boze toeschouwer bij sportzwembad                                  | 670         | never      | True     |
-
-## Start: 2025-10-17T09:00:00Z | End: 2025-10-31T23:59:59+01:00 | Count: 15
-
-# Missions
-
-Count: 15
-
-| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 146    | Brandende vogelverschrikker                                        | 500         | never      | True     |
-| 147    | Brandend pompoenveld                                               | 1010        | never      | True     |
-| 148    | Overkookte pompoensoep                                             | 500         | never      | True     |
-| 149    | Heks vast in boom                                                  | 840         | never      | True     |
-| 150    | Monster uitgebroken                                                | 1010        | never      | True     |
-| 151    | Gestolen pompoenen                                                 | 500         | never      | True     |
-| 152    | Frankenstein gespot                                                | 840         | never      | True     |
-| 153    | Snoep diefstal                                                     | 500         | never      | True     |
-| 154    | Horrorclown gespot                                                 | 670         | never      | True     |
-| 1058   | Halloween decoratie in brand                                       | 500         | never      | True     |
-| 1059   | Winkeloverval door geesten                                         | 840         | never      | True     |
-| 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | never      | True     |
-| 1061   | Vermist persoon op begraafplaats                                   | 1010        | never      | True     |
-| 1175   | Babbeltruc door spokenjagers                                       | 1200        | never      | True     |
-| 1176   | Heks op bezem botst tegen een woning                               | 1200        | never      | True     |
-
-## Start: 2025-10-20T10:00:00+02:00 | End: 2025-10-31T23:59:59+01:00 | Count: 1
-
-# Missions
-
-Count: 1
-
-| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 1177   | Massale paniek bij halloween parade                                | 5200        | never      | True     |
 
 ## Start: 2025-11-14T10:00:00Z | End: 2025-12-06T23:59:59Z | Count: 10
 
