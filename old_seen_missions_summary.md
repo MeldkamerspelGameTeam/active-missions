@@ -1,15 +1,16 @@
 # Old seen missions (older than 30 days)
 
-Count: 206
+Count: 214
 
 # Active old-seen missions
 
-Count: 140
+Count: 148
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
 | 181/a       | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 216/b       | Bosbrand (Grip 1)                             | 12312       | 2026-08-29 | False    |
+| 251         | Vrachtwagen te water                          | 2660        | 2026-09-06 | False    |
 | 252/a       | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab      | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
 | 312/ac      | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
@@ -17,6 +18,7 @@ Count: 140
 | 312/abc     | Lekkende goederenwagon (Groot)                | 7870        | 2026-09-04 | False    |
 | 492-0/a     | Ongeregeldheden voetbalsupporters horeca      | 7310        | 2026-09-05 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
+| 518         | Aanvaring vrachtschip met veerboot (Grip 4)   | 9200        | 2026-09-06 | False    |
 | 787/bc      | Persoon bekneld in gierput                    | 6410        | 2026-08-22 | False    |
 | 853-1/a     | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
 | 885/af      | Brand in vuurwerkopslag                       | 50670       | 2026-08-27 | False    |
@@ -25,6 +27,7 @@ Count: 140
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
 | 885/abf     | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
 | 885/ade     | Brand in vuurwerkopslag                       | 50920       | 2026-09-05 | False    |
+| 885/adf     | Brand in vuurwerkopslag                       | 51320       | 2026-09-06 | False    |
 | 885/bce     | Brand in vuurwerkopslag                       | 72025       | 2026-08-07 | False    |
 | 885/acdf    | Brand in vuurwerkopslag                       | 56520       | 2026-09-05 | False    |
 | 885/acef    | Brand in vuurwerkopslag                       | 56670       | 2026-07-09 | False    |
@@ -77,6 +80,7 @@ Count: 140
 | 1034/ad     | Brand in nucleaire installatie                | 71610       | 2026-08-07 | False    |
 | 1034/af     | Brand in nucleaire installatie                | 71410       | 2026-08-11 | False    |
 | 1034/ah     | Brand in nucleaire installatie                | 71060       | 2026-08-06 | False    |
+| 1034/bh     | Brand in nucleaire installatie                | 91512       | 2026-09-06 | False    |
 | 1034/cd     | Brand in nucleaire installatie                | 77210       | 2026-08-26 | False    |
 | 1034/cg     | Brand in nucleaire installatie                | 77410       | 2026-09-04 | False    |
 | 1034/ch     | Brand in nucleaire installatie                | 76660       | 2026-07-19 | False    |
@@ -85,6 +89,7 @@ Count: 140
 | 1034/gh     | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
 | 1034/abf    | Brand in nucleaire installatie                | 92950       | 2026-09-04 | False    |
 | 1034/ade    | Brand in nucleaire installatie                | 72910       | 2026-07-11 | False    |
+| 1034/adf    | Brand in nucleaire installatie                | 72810       | 2026-09-06 | False    |
 | 1034/afh    | Brand in nucleaire installatie                | 72260       | 2026-08-13 | False    |
 | 1034/bch    | Brand in nucleaire installatie                | 99512       | 2026-07-13 | False    |
 | 1034/bdf    | Brand in nucleaire installatie                | 93700       | 2026-08-07 | False    |
@@ -138,12 +143,15 @@ Count: 140
 | 1229/cdf    | Dieseltrein met gevaarlijke stoffen ontspoord | 40390       | 2026-07-25 | False    |
 | 1229/cef    | Dieseltrein met gevaarlijke stoffen ontspoord | 40490       | 2026-08-18 | False    |
 | 1229/def    | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
+| 1229/deg    | Dieseltrein met gevaarlijke stoffen ontspoord | 45090       | 2026-09-06 | False    |
 | 1229/abef   | Dieseltrein met gevaarlijke stoffen ontspoord | 52800       | 2026-08-09 | False    |
+| 1229/acde   | Dieseltrein met gevaarlijke stoffen ontspoord | 37290       | 2026-09-06 | False    |
 | 1229/acdg   | Dieseltrein met gevaarlijke stoffen ontspoord | 46090       | 2026-08-27 | False    |
 | 1229/adef   | Dieseltrein met gevaarlijke stoffen ontspoord | 40990       | 2026-08-24 | False    |
 | 1229/bcdf   | Dieseltrein met gevaarlijke stoffen ontspoord | 54175       | 2026-08-12 | False    |
 | 1229/bceg   | Dieseltrein met gevaarlijke stoffen ontspoord | 60425       | 2026-09-03 | False    |
 | 1229/bdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 60050       | 2026-09-01 | False    |
+| 1229/acdef  | Dieseltrein met gevaarlijke stoffen ontspoord | 42990       | 2026-09-06 | False    |
 | 1229/acdeg  | Dieseltrein met gevaarlijke stoffen ontspoord | 47890       | 2026-08-26 | False    |
 | 1229/acdfg  | Dieseltrein met gevaarlijke stoffen ontspoord | 51790       | 2026-09-05 | False    |
 | 1229/adefg  | Dieseltrein met gevaarlijke stoffen ontspoord | 51590       | 2026-08-23 | False    |
