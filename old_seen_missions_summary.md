@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 214
+Count: 213
 
 # Active old-seen missions
 
-Count: 148
+Count: 147
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -61,7 +61,6 @@ Count: 148
 | 929/ac      | Brand in gasverdeelstation                    | 32510       | 2026-06-23 | False    |
 | 929/bc      | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
 | 929/cd      | Brand in gasverdeelstation                    | 32510       | 2026-09-01 | False    |
-| 929/ce      | Brand in gasverdeelstation                    | 32360       | 2026-07-25 | False    |
 | 929/abc     | Brand in gasverdeelstation                    | 44325       | 2026-07-12 | False    |
 | 929/abd     | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
 | 929/abe     | Brand in gasverdeelstation                    | 38637       | 2026-09-02 | False    |

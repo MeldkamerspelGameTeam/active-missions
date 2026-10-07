@@ -1445,7 +1445,7 @@
   "929/c": "newly_active",
   "929/cd": "old_seen",
   "929/cde": "back_active",
-  "929/ce": "old_seen",
+  "929/ce": "back_active",
   "929/d": "newly_active",
   "929/de": "back_active",
   "929/e": "newly_active",
