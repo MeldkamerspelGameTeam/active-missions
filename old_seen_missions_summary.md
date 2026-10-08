@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 211
+Count: 216
 
 # Active old-seen missions
 
-Count: 145
+Count: 150
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -49,6 +49,7 @@ Count: 145
 | 901/acd     | Trein ontspoord                               | 37087       | 2026-08-25 | False    |
 | 901/ade     | Trein ontspoord                               | 27720       | 2026-08-04 | False    |
 | 901/adf     | Trein ontspoord                               | 28520       | 2026-08-16 | False    |
+| 901/cde     | Trein ontspoord                               | 37337       | 2026-09-07 | False    |
 | 901/cdf     | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
 | 901/cef     | Trein ontspoord                               | 37337       | 2026-08-28 | False    |
 | 901/bcde    | Trein ontspoord                               | 38337       | 2026-08-06 | False    |
@@ -77,6 +78,7 @@ Count: 145
 | 1034/ac     | Brand in nucleaire installatie                | 76610       | 2026-08-27 | False    |
 | 1034/ad     | Brand in nucleaire installatie                | 71610       | 2026-08-07 | False    |
 | 1034/af     | Brand in nucleaire installatie                | 71410       | 2026-08-11 | False    |
+| 1034/bd     | Brand in nucleaire installatie                | 92200       | 2026-09-07 | False    |
 | 1034/bh     | Brand in nucleaire installatie                | 91512       | 2026-09-06 | False    |
 | 1034/cd     | Brand in nucleaire installatie                | 77210       | 2026-08-26 | False    |
 | 1034/cg     | Brand in nucleaire installatie                | 77410       | 2026-09-04 | False    |
@@ -107,6 +109,7 @@ Count: 145
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
 | 1207/bc     | Brand in station (Grip 2)                     | 43560       | 2026-09-01 | False    |
 | 1227/b      | Brand in passagierstrein (Grip 1)             | 30150       | 2026-08-25 | False    |
+| 1227/abcd   | Brand in passagierstrein (Grip 1)             | 40587       | 2026-09-07 | False    |
 | 1228        | Trein ontspoord na botsing met goederentrein  | 26140       | 2026-08-24 | False    |
 | 1228/ac     | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
 | 1228/bf     | Trein ontspoord na botsing met goederentrein  | 28940       | 2026-08-26 | False    |
@@ -120,6 +123,7 @@ Count: 145
 | 1228/bcdfg  | Trein ontspoord na botsing met goederentrein  | 44112       | 2026-08-18 | False    |
 | 1228/bcdfh  | Trein ontspoord na botsing met goederentrein  | 56425       | 2026-08-26 | False    |
 | 1228/bdefg  | Trein ontspoord na botsing met goederentrein  | 34340       | 2026-08-04 | False    |
+| 1228/cdfgh  | Trein ontspoord na botsing met goederentrein  | 57425       | 2026-09-07 | False    |
 | 1228/abcdfg | Trein ontspoord na botsing met goederentrein  | 45112       | 2026-07-24 | False    |
 | 1228/bcdefg | Trein ontspoord na botsing met goederentrein  | 46612       | 2026-08-04 | False    |
 | 1229/e      | Dieseltrein met gevaarlijke stoffen ontspoord | 32790       | 2026-08-15 | False    |
@@ -142,6 +146,7 @@ Count: 145
 | 1229/def    | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
 | 1229/deg    | Dieseltrein met gevaarlijke stoffen ontspoord | 45090       | 2026-09-06 | False    |
 | 1229/abef   | Dieseltrein met gevaarlijke stoffen ontspoord | 52800       | 2026-08-09 | False    |
+| 1229/abeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 58925       | 2026-09-07 | False    |
 | 1229/acde   | Dieseltrein met gevaarlijke stoffen ontspoord | 37290       | 2026-09-06 | False    |
 | 1229/acdg   | Dieseltrein met gevaarlijke stoffen ontspoord | 46090       | 2026-08-27 | False    |
 | 1229/adef   | Dieseltrein met gevaarlijke stoffen ontspoord | 40990       | 2026-08-24 | False    |
