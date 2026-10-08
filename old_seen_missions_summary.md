@@ -1,16 +1,15 @@
 # Old seen missions (older than 30 days)
 
-Count: 216
+Count: 214
 
 # Active old-seen missions
 
-Count: 150
+Count: 148
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
 | 181/a       | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 216/b       | Bosbrand (Grip 1)                             | 12312       | 2026-08-29 | False    |
-| 251         | Vrachtwagen te water                          | 2660        | 2026-09-06 | False    |
 | 252/a       | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab      | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
 | 312/ac      | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
@@ -155,7 +154,6 @@ Count: 150
 | 1229/bdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 60050       | 2026-09-01 | False    |
 | 1229/acdef  | Dieseltrein met gevaarlijke stoffen ontspoord | 42990       | 2026-09-06 | False    |
 | 1229/acdeg  | Dieseltrein met gevaarlijke stoffen ontspoord | 47890       | 2026-08-26 | False    |
-| 1229/acdfg  | Dieseltrein met gevaarlijke stoffen ontspoord | 51790       | 2026-09-05 | False    |
 | 1229/adefg  | Dieseltrein met gevaarlijke stoffen ontspoord | 51590       | 2026-08-23 | False    |
 | 1229/bcdef  | Dieseltrein met gevaarlijke stoffen ontspoord | 56425       | 2026-09-05 | False    |
 
