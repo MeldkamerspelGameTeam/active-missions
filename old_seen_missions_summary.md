@@ -1,15 +1,14 @@
 # Old seen missions (older than 30 days)
 
-Count: 216
+Count: 215
 
 # Active old-seen missions
 
-Count: 150
+Count: 149
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
 | 181/a       | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
-| 216/b       | Bosbrand (Grip 1)                             | 12312       | 2026-08-29 | False    |
 | 252/a       | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab      | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
 | 312/ac      | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
