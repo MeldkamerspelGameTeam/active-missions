@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 210
+Count: 209
 
 # Active old-seen missions
 
-Count: 144
+Count: 143
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -16,7 +16,6 @@ Count: 144
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 518         | Aanvaring vrachtschip met veerboot (Grip 4)   | 9200        | 2026-09-06 | False    |
 | 853-1/a     | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
-| 885/af      | Brand in vuurwerkopslag                       | 50670       | 2026-08-27 | False    |
 | 885/bc      | Brand in vuurwerkopslag                       | 71025       | 2026-08-15 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
 | 885/abf     | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
