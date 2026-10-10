@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 212
+Count: 210
 
 # Active old-seen missions
 
-Count: 146
+Count: 144
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -18,7 +18,6 @@ Count: 146
 | 853-1/a     | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
 | 885/af      | Brand in vuurwerkopslag                       | 50670       | 2026-08-27 | False    |
 | 885/bc      | Brand in vuurwerkopslag                       | 71025       | 2026-08-15 | False    |
-| 885/bd      | Brand in vuurwerkopslag                       | 65337       | 2026-09-04 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
 | 885/abf     | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
 | 885/ade     | Brand in vuurwerkopslag                       | 50920       | 2026-09-05 | False    |
@@ -42,7 +41,6 @@ Count: 146
 | 901/eg      | Trein ontspoord                               | 35920       | 2026-08-28 | False    |
 | 901/abc     | Trein ontspoord                               | 35837       | 2026-08-06 | False    |
 | 901/acd     | Trein ontspoord                               | 37087       | 2026-08-25 | False    |
-| 901/ade     | Trein ontspoord                               | 27720       | 2026-08-04 | False    |
 | 901/adf     | Trein ontspoord                               | 28520       | 2026-08-16 | False    |
 | 901/cde     | Trein ontspoord                               | 37337       | 2026-09-07 | False    |
 | 901/cdf     | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
