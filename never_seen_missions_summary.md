@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 820
+Count: 818
 
 # Active never-seen missions
 
-Count: 635
+Count: 633
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -371,7 +371,6 @@ Count: 635
 | 1104/bc       | Aanrijding trein & betonmixer                   | 22912       | never     | False    |
 | 1104/be       | Aanrijding trein & betonmixer                   | 30037       | never     | False    |
 | 1104/ace      | Aanrijding trein & betonmixer                   | 22880       | never     | False    |
-| 1104/ade      | Aanrijding trein & betonmixer                   | 22480       | never     | False    |
 | 1104/bce      | Aanrijding trein & betonmixer                   | 31287       | never     | False    |
 | 1104/cde      | Aanrijding trein & betonmixer                   | 22680       | never     | False    |
 | 1104/acde     | Aanrijding trein & betonmixer                   | 23480       | never     | False    |
@@ -499,7 +498,6 @@ Count: 635
 | 1228/bcfg     | Trein ontspoord na botsing met goederentrein    | 41862       | never     | False    |
 | 1228/bcfh     | Trein ontspoord na botsing met goederentrein    | 54175       | never     | False    |
 | 1228/bcgh     | Trein ontspoord na botsing met goederentrein    | 53675       | never     | False    |
-| 1228/bdef     | Trein ontspoord na botsing met goederentrein    | 32740       | never     | False    |
 | 1228/bdeg     | Trein ontspoord na botsing met goederentrein    | 32340       | never     | False    |
 | 1228/bdeh     | Trein ontspoord na botsing met goederentrein    | 42190       | never     | False    |
 | 1228/bdfh     | Trein ontspoord na botsing met goederentrein    | 42190       | never     | False    |
