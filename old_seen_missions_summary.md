@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 213
+Count: 215
 
 # Active old-seen missions
 
-Count: 147
+Count: 149
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -16,6 +16,7 @@ Count: 147
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 516/a       | Aanvaring met rondvaartboot (Grip 3)          | 7737        | 2026-09-10 | False    |
 | 518         | Aanvaring vrachtschip met veerboot (Grip 4)   | 9200        | 2026-09-06 | False    |
+| 787/ac      | Persoon bekneld in gierput                    | 6460        | 2026-09-11 | False    |
 | 841/b       | Aanrijding met zwaar letsel                   | 6140        | 2026-09-10 | False    |
 | 853-1/a     | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
 | 885/bc      | Brand in vuurwerkopslag                       | 71025       | 2026-08-15 | False    |
@@ -46,6 +47,7 @@ Count: 147
 | 901/cde     | Trein ontspoord                               | 37337       | 2026-09-07 | False    |
 | 901/cdf     | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
 | 901/cef     | Trein ontspoord                               | 37337       | 2026-08-28 | False    |
+| 901/acef    | Trein ontspoord                               | 38337       | 2026-09-11 | False    |
 | 901/bcde    | Trein ontspoord                               | 38337       | 2026-08-06 | False    |
 | 901/bceg    | Trein ontspoord                               | 49587       | 2026-08-26 | False    |
 | 901/bdeg    | Trein ontspoord                               | 38520       | 2026-08-09 | False    |
