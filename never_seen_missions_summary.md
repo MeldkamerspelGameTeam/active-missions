@@ -1,17 +1,16 @@
 # Never seen missions
 
-Count: 816
+Count: 815
 
 # Active never-seen missions
 
-Count: 631
+Count: 630
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
 | 27            | Persoon aangereden                              | 700         | never     | False    |
 | 41            | Brand in kantoorpand                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                  | 12030       | never     | False    |
-| 59            | Brand in opslagloods                            | 13710       | never     | False    |
 | 106/a         | Schaap in sloot                                 | 900         | never     | False    |
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
 | 183/a         | Paard in sloot                                  | 1700        | never     | False    |
