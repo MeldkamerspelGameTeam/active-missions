@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 217
+Count: 221
 
 # Active old-seen missions
 
-Count: 151
+Count: 155
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -57,6 +57,7 @@ Count: 151
 | 901/bcdeg   | Trein ontspoord                               | 51837       | 2026-08-15 | False    |
 | 901/bcefg   | Trein ontspoord                               | 51837       | 2026-08-12 | False    |
 | 929/bc      | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
+| 929/be      | Brand in gasverdeelstation                    | 37637       | 2026-09-13 | False    |
 | 929/cd      | Brand in gasverdeelstation                    | 32510       | 2026-09-01 | False    |
 | 929/abc     | Brand in gasverdeelstation                    | 44325       | 2026-07-12 | False    |
 | 929/abd     | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
@@ -76,8 +77,10 @@ Count: 151
 | 1034/af     | Brand in nucleaire installatie                | 71410       | 2026-08-11 | False    |
 | 1034/bd     | Brand in nucleaire installatie                | 92200       | 2026-09-07 | False    |
 | 1034/be     | Brand in nucleaire installatie                | 92075       | 2026-09-10 | False    |
+| 1034/bf     | Brand in nucleaire installatie                | 91950       | 2026-09-13 | False    |
 | 1034/bh     | Brand in nucleaire installatie                | 91512       | 2026-09-06 | False    |
 | 1034/cd     | Brand in nucleaire installatie                | 77210       | 2026-08-26 | False    |
+| 1034/cf     | Brand in nucleaire installatie                | 77010       | 2026-09-13 | False    |
 | 1034/cg     | Brand in nucleaire installatie                | 77410       | 2026-09-04 | False    |
 | 1034/ch     | Brand in nucleaire installatie                | 76660       | 2026-07-19 | False    |
 | 1034/df     | Brand in nucleaire installatie                | 72010       | 2026-08-26 | False    |
@@ -99,6 +102,7 @@ Count: 151
 | 1104/ae     | Aanrijding trein & betonmixer                 | 21880       | 2026-08-31 | False    |
 | 1104/abc    | Aanrijding trein & betonmixer                 | 23912       | 2026-07-25 | False    |
 | 1104/bcd    | Aanrijding trein & betonmixer                 | 23662       | 2026-09-02 | False    |
+| 1104/bde    | Aanrijding trein & betonmixer                 | 30787       | 2026-09-13 | False    |
 | 1104/abcde  | Aanrijding trein & betonmixer                 | 33037       | 2026-08-31 | False    |
 | 1202/b      | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
 | 1203/b      | Brand in ziekenhuis (Grip 2)                  | 20850       | 2026-08-27 | False    |
