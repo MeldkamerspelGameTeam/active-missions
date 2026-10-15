@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 811
+Count: 809
 
 # Active never-seen missions
 
-Count: 626
+Count: 624
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -621,7 +621,6 @@ Count: 626
 | 1229/befg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 65050       | never     | False    |
 | 1229/cdeg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 47090       | never     | False    |
 | 1229/cdfg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 50990       | never     | False    |
-| 1229/defg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 50790       | never     | False    |
 | 1229/abcfg    | Dieseltrein met gevaarlijke stoffen ontspoord   | 66300       | never     | False    |
 | 1229/abdfg    | Dieseltrein met gevaarlijke stoffen ontspoord   | 65925       | never     | False    |
 | 1245/c        | Rietkapbrand (Grip 1)                           | 16870       | never     | False    |
@@ -631,7 +630,6 @@ Count: 626
 | 1250/bc       | Blikseminslag rietenkap (Grip 1)                | 25812       | never     | False    |
 | 1251/c        | Blikseminslag rietenkap (Grip 2)                | 21560       | never     | False    |
 | 1255/c        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16410       | never     | False    |
-| 1255/ac       | Brand in rietenkap na werkzaamheden (Grip 1)    | 17210       | never     | False    |
 | 1259/b        | Ezel in sloot                                   | 1310        | never     | False    |
 | 1259/ab       | Ezel in sloot                                   | 1810        | never     | False    |
 
