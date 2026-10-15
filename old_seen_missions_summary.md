@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 228
+Count: 227
 
 # Active old-seen missions
 
-Count: 162
+Count: 161
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -14,7 +14,6 @@ Count: 162
 | 312/ac      | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
 | 492-0/a     | Ongeregeldheden voetbalsupporters horeca      | 7310        | 2026-09-05 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
-| 516/a       | Aanvaring met rondvaartboot (Grip 3)          | 7737        | 2026-09-10 | False    |
 | 518         | Aanvaring vrachtschip met veerboot (Grip 4)   | 9200        | 2026-09-06 | False    |
 | 787/ac      | Persoon bekneld in gierput                    | 6460        | 2026-09-11 | False    |
 | 841/b       | Aanrijding met zwaar letsel                   | 6140        | 2026-09-10 | False    |
