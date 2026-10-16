@@ -501,19 +501,19 @@ Count: 16
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 146    | Brandende vogelverschrikker                                        | 500         | never      | False    |
-| 147    | Brandend pompoenveld                                               | 1010        | never      | False    |
-| 148    | Overkookte pompoensoep                                             | 500         | never      | False    |
-| 149    | Heks vast in boom                                                  | 840         | never      | False    |
-| 150    | Monster uitgebroken                                                | 1010        | never      | False    |
-| 151    | Gestolen pompoenen                                                 | 500         | never      | False    |
-| 152    | Frankenstein gespot                                                | 840         | never      | False    |
-| 153    | Snoep diefstal                                                     | 500         | never      | False    |
+| 146    | Brandende vogelverschrikker                                        | 500         | 2026-10-16 | False    |
+| 147    | Brandend pompoenveld                                               | 1010        | 2026-10-16 | False    |
+| 148    | Overkookte pompoensoep                                             | 500         | 2026-10-16 | False    |
+| 149    | Heks vast in boom                                                  | 840         | 2026-10-16 | False    |
+| 150    | Monster uitgebroken                                                | 1010        | 2026-10-16 | False    |
+| 151    | Gestolen pompoenen                                                 | 500         | 2026-10-16 | False    |
+| 152    | Frankenstein gespot                                                | 840         | 2026-10-16 | False    |
+| 153    | Snoep diefstal                                                     | 500         | 2026-10-16 | False    |
 | 154    | Horrorclown gespot                                                 | 670         | never      | False    |
-| 1058   | Halloween decoratie in brand                                       | 500         | never      | False    |
-| 1059   | Winkeloverval door geesten                                         | 840         | never      | False    |
-| 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | never      | False    |
-| 1061   | Vermist persoon op begraafplaats                                   | 1010        | never      | False    |
-| 1175   | Babbeltruc door spokenjagers                                       | 1200        | never      | False    |
+| 1058   | Halloween decoratie in brand                                       | 500         | 2026-10-16 | False    |
+| 1059   | Winkeloverval door geesten                                         | 840         | 2026-10-16 | False    |
+| 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | 2026-10-16 | False    |
+| 1061   | Vermist persoon op begraafplaats                                   | 1010        | 2026-10-16 | False    |
+| 1175   | Babbeltruc door spokenjagers                                       | 1200        | 2026-10-16 | False    |
 | 1176   | Heks op bezem botst tegen een woning                               | 1200        | never      | False    |
-| 1177   | Massale paniek bij halloween parade                                | 5200        | never      | False    |
+| 1177   | Massale paniek bij halloween parade                                | 5200        | 2026-10-16 | False    |
