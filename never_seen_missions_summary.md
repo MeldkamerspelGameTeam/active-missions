@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 808
+Count: 824
 
 # Active never-seen missions
 
-Count: 623
+Count: 639
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -12,6 +12,15 @@ Count: 623
 | 41            | Brand in kantoorpand                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                  | 12030       | never     | False    |
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
+| 146           | Brandende vogelverschrikker                     | 500         | never     | False    |
+| 147           | Brandend pompoenveld                            | 1010        | never     | False    |
+| 148           | Overkookte pompoensoep                          | 500         | never     | False    |
+| 149           | Heks vast in boom                               | 840         | never     | False    |
+| 150           | Monster uitgebroken                             | 1010        | never     | False    |
+| 151           | Gestolen pompoenen                              | 500         | never     | False    |
+| 152           | Frankenstein gespot                             | 840         | never     | False    |
+| 153           | Snoep diefstal                                  | 500         | never     | False    |
+| 154           | Horrorclown gespot                              | 670         | never     | False    |
 | 183/a         | Paard in sloot                                  | 1700        | never     | False    |
 | 183/b         | Paard in sloot                                  | 1600        | never     | False    |
 | 183/ab        | Paard in sloot                                  | 2100        | never     | False    |
@@ -363,6 +372,10 @@ Count: 623
 | 1034/acdefgh  | Brand in nucleaire installatie                  | 82960       | never     | False    |
 | 1034/bcdefgh  | Brand in nucleaire installatie                  | 106387      | never     | False    |
 | 1034/abcdefgh | Brand in nucleaire installatie                  | 107387      | never     | False    |
+| 1058          | Halloween decoratie in brand                    | 500         | never     | False    |
+| 1059          | Winkeloverval door geesten                      | 840         | never     | False    |
+| 1060          | Voedselvergiftiging door vergiftigd snoep       | 1860        | never     | False    |
+| 1061          | Vermist persoon op begraafplaats                | 1010        | never     | False    |
 | 1104/ac       | Aanrijding trein & betonmixer                   | 16180       | never     | False    |
 | 1104/be       | Aanrijding trein & betonmixer                   | 30037       | never     | False    |
 | 1104/ace      | Aanrijding trein & betonmixer                   | 22880       | never     | False    |
@@ -370,6 +383,9 @@ Count: 623
 | 1104/cde      | Aanrijding trein & betonmixer                   | 22680       | never     | False    |
 | 1104/acde     | Aanrijding trein & betonmixer                   | 23480       | never     | False    |
 | 1104/bcde     | Aanrijding trein & betonmixer                   | 32037       | never     | False    |
+| 1175          | Babbeltruc door spokenjagers                    | 1200        | never     | False    |
+| 1176          | Heks op bezem botst tegen een woning            | 1200        | never     | False    |
+| 1177          | Massale paniek bij halloween parade             | 5200        | never     | False    |
 | 1206/b        | Brand in station (Grip 1)                       | 28400       | never     | False    |
 | 1227/ad       | Brand in passagierstrein (Grip 1)               | 28620       | never     | False    |
 | 1227/bcd      | Brand in passagierstrein (Grip 1)               | 39587       | never     | False    |

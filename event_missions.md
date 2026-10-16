@@ -1,10 +1,10 @@
 # Event missions grouped by date window
 
-Event missions: 261
+Event missions: 277
 
-Active: 10 | Inactive: 251
+Active: 26 | Inactive: 251
 
-Date window groups: 25
+Date window groups: 26
 
 
 ## Start: 2024-07-26T09:00:00Z | End: 2024-08-11T23:59:59Z | Count: 7
@@ -492,3 +492,28 @@ Count: 10
 | 863    | Ongeluk met overstekend hert                                       | 1750        | 2026-10-16 | False    |
 | 864    | Brandende hoop bladeren                                            | 670         | 2026-10-16 | False    |
 | 865    | Bladeren op spoor                                                  | 1080        | 2026-10-16 | False    |
+
+## Start: 2026-10-16T09:00:00Z | End: 2026-11-01T23:59:59+01:00 | Count: 16
+
+# Missions
+
+Count: 16
+
+| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
+| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
+| 146    | Brandende vogelverschrikker                                        | 500         | never      | False    |
+| 147    | Brandend pompoenveld                                               | 1010        | never      | False    |
+| 148    | Overkookte pompoensoep                                             | 500         | never      | False    |
+| 149    | Heks vast in boom                                                  | 840         | never      | False    |
+| 150    | Monster uitgebroken                                                | 1010        | never      | False    |
+| 151    | Gestolen pompoenen                                                 | 500         | never      | False    |
+| 152    | Frankenstein gespot                                                | 840         | never      | False    |
+| 153    | Snoep diefstal                                                     | 500         | never      | False    |
+| 154    | Horrorclown gespot                                                 | 670         | never      | False    |
+| 1058   | Halloween decoratie in brand                                       | 500         | never      | False    |
+| 1059   | Winkeloverval door geesten                                         | 840         | never      | False    |
+| 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | never      | False    |
+| 1061   | Vermist persoon op begraafplaats                                   | 1010        | never      | False    |
+| 1175   | Babbeltruc door spokenjagers                                       | 1200        | never      | False    |
+| 1176   | Heks op bezem botst tegen een woning                               | 1200        | never      | False    |
+| 1177   | Massale paniek bij halloween parade                                | 5200        | never      | False    |
