@@ -509,11 +509,11 @@ Count: 16
 | 151    | Gestolen pompoenen                                                 | 500         | 2026-10-16 | False    |
 | 152    | Frankenstein gespot                                                | 840         | 2026-10-16 | False    |
 | 153    | Snoep diefstal                                                     | 500         | 2026-10-16 | False    |
-| 154    | Horrorclown gespot                                                 | 670         | never      | False    |
+| 154    | Horrorclown gespot                                                 | 670         | 2026-10-16 | False    |
 | 1058   | Halloween decoratie in brand                                       | 500         | 2026-10-16 | False    |
 | 1059   | Winkeloverval door geesten                                         | 840         | 2026-10-16 | False    |
 | 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | 2026-10-16 | False    |
 | 1061   | Vermist persoon op begraafplaats                                   | 1010        | 2026-10-16 | False    |
 | 1175   | Babbeltruc door spokenjagers                                       | 1200        | 2026-10-16 | False    |
-| 1176   | Heks op bezem botst tegen een woning                               | 1200        | never      | False    |
+| 1176   | Heks op bezem botst tegen een woning                               | 1200        | 2026-10-16 | False    |
 | 1177   | Massale paniek bij halloween parade                                | 5200        | 2026-10-16 | False    |

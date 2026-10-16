@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 810
+Count: 808
 
 # Active never-seen missions
 
-Count: 625
+Count: 623
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -12,7 +12,6 @@ Count: 625
 | 41            | Brand in kantoorpand                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                  | 12030       | never     | False    |
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
-| 154           | Horrorclown gespot                              | 670         | never     | False    |
 | 183/a         | Paard in sloot                                  | 1700        | never     | False    |
 | 183/b         | Paard in sloot                                  | 1600        | never     | False    |
 | 183/ab        | Paard in sloot                                  | 2100        | never     | False    |
@@ -371,7 +370,6 @@ Count: 625
 | 1104/cde      | Aanrijding trein & betonmixer                   | 22680       | never     | False    |
 | 1104/acde     | Aanrijding trein & betonmixer                   | 23480       | never     | False    |
 | 1104/bcde     | Aanrijding trein & betonmixer                   | 32037       | never     | False    |
-| 1176          | Heks op bezem botst tegen een woning            | 1200        | never     | False    |
 | 1206/b        | Brand in station (Grip 1)                       | 28400       | never     | False    |
 | 1227/ad       | Brand in passagierstrein (Grip 1)               | 28620       | never     | False    |
 | 1227/bcd      | Brand in passagierstrein (Grip 1)               | 39587       | never     | False    |
