@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 228
+Count: 235
 
 # Active old-seen missions
 
-Count: 162
+Count: 169
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -15,10 +15,13 @@ Count: 162
 | 492-0/a     | Ongeregeldheden voetbalsupporters horeca      | 7310        | 2026-09-05 | False    |
 | 509         | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 518         | Aanvaring vrachtschip met veerboot (Grip 4)   | 9200        | 2026-09-06 | False    |
+| 765/a       | Onaangekondigde demonstratie                  | 7755        | 2026-09-16 | False    |
 | 787/ac      | Persoon bekneld in gierput                    | 6460        | 2026-09-11 | False    |
 | 841/b       | Aanrijding met zwaar letsel                   | 6140        | 2026-09-10 | False    |
 | 853-1/a     | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
 | 885/bc      | Brand in vuurwerkopslag                       | 71025       | 2026-08-15 | False    |
+| 885/bf      | Brand in vuurwerkopslag                       | 66025       | 2026-09-16 | False    |
+| 885/df      | Brand in vuurwerkopslag                       | 50520       | 2026-09-16 | False    |
 | 885/abc     | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
 | 885/abf     | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
 | 885/ade     | Brand in vuurwerkopslag                       | 50920       | 2026-09-05 | False    |
@@ -107,6 +110,7 @@ Count: 162
 | 1104/bde    | Aanrijding trein & betonmixer                 | 30787       | 2026-09-13 | False    |
 | 1104/abcde  | Aanrijding trein & betonmixer                 | 33037       | 2026-08-31 | False    |
 | 1202/b      | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
+| 1202/ab     | Brand in ziekenhuis (Grip 1)                  | 19225       | 2026-09-16 | False    |
 | 1203/b      | Brand in ziekenhuis (Grip 2)                  | 20850       | 2026-08-27 | False    |
 | 1206/ab     | Brand in station (Grip 1)                     | 38000       | 2026-09-14 | False    |
 | 1207/b      | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
@@ -156,12 +160,15 @@ Count: 162
 | 1229/cef    | Dieseltrein met gevaarlijke stoffen ontspoord | 40490       | 2026-08-18 | False    |
 | 1229/def    | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
 | 1229/deg    | Dieseltrein met gevaarlijke stoffen ontspoord | 45090       | 2026-09-06 | False    |
+| 1229/abcf   | Dieseltrein met gevaarlijke stoffen ontspoord | 53050       | 2026-09-16 | False    |
 | 1229/abde   | Dieseltrein met gevaarlijke stoffen ontspoord | 47800       | 2026-09-08 | False    |
 | 1229/abef   | Dieseltrein met gevaarlijke stoffen ontspoord | 52800       | 2026-08-09 | False    |
 | 1229/abeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 58925       | 2026-09-07 | False    |
 | 1229/abfg   | Dieseltrein met gevaarlijke stoffen ontspoord | 63800       | 2026-09-12 | False    |
 | 1229/acdg   | Dieseltrein met gevaarlijke stoffen ontspoord | 46090       | 2026-08-27 | False    |
 | 1229/adef   | Dieseltrein met gevaarlijke stoffen ontspoord | 40990       | 2026-08-24 | False    |
+| 1229/bcde   | Dieseltrein met gevaarlijke stoffen ontspoord | 49300       | 2026-09-16 | False    |
+| 1229/bcef   | Dieseltrein met gevaarlijke stoffen ontspoord | 54300       | 2026-09-16 | False    |
 | 1229/bceg   | Dieseltrein met gevaarlijke stoffen ontspoord | 60425       | 2026-09-03 | False    |
 | 1229/bdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 60050       | 2026-09-01 | False    |
 | 1229/cefg   | Dieseltrein met gevaarlijke stoffen ontspoord | 51090       | 2026-09-08 | False    |
