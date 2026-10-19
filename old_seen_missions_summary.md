@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 234
+Count: 236
 
 # Active old-seen missions
 
-Count: 168
+Count: 170
 
 | ID          | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ----------- | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -71,6 +71,7 @@ Count: 168
 | 974/a       | Ontspoorde tram botst tegen gebouw            | 20230       | 2026-08-11 | False    |
 | 974/ad      | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |
 | 974/bc      | Ontspoorde tram botst tegen gebouw            | 29225       | 2026-08-28 | False    |
+| 974/bcd     | Ontspoorde tram botst tegen gebouw            | 37350       | 2026-09-18 | False    |
 | 980         | Uit de hand gelopen manifestatie              | 45080       | 2026-09-17 | False    |
 | 1030/cd     | Brand bij papierrecyclaar                     | 49960       | 2026-09-04 | False    |
 | 1030/acd    | Brand bij papierrecyclaar                     | 50760       | 2026-08-09 | False    |
@@ -120,6 +121,7 @@ Count: 168
 | 1228        | Trein ontspoord na botsing met goederentrein  | 26140       | 2026-08-24 | False    |
 | 1228/c      | Trein ontspoord na botsing met goederentrein  | 36362       | 2026-09-08 | False    |
 | 1228/ac     | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
+| 1228/bc     | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-09-18 | False    |
 | 1228/bf     | Trein ontspoord na botsing met goederentrein  | 28940       | 2026-08-26 | False    |
 | 1228/cd     | Trein ontspoord na botsing met goederentrein  | 38612       | 2026-09-14 | False    |
 | 1228/abd    | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
