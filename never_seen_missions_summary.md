@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 801
+Count: 800
 
 # Active never-seen missions
 
-Count: 616
+Count: 615
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -623,7 +623,6 @@ Count: 616
 | 1246/bc       | Rietkapbrand (Grip 2)                           | 29325       | never     | False    |
 | 1251/c        | Blikseminslag rietenkap (Grip 2)                | 21560       | never     | False    |
 | 1255/c        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16410       | never     | False    |
-| 1259/b        | Ezel in sloot                                   | 1310        | never     | False    |
 
 # Inactive never-seen missions
 
