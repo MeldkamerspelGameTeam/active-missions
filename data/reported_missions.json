@@ -1278,7 +1278,7 @@
   "901/abcg": "newly_discovered",
   "901/abd": "newly_discovered",
   "901/abde": "newly_discovered",
-  "901/abdef": "old_seen",
+  "901/abdef": "back_active",
   "901/abdefg": "newly_discovered",
   "901/abdeg": "newly_discovered",
   "901/abdf": "old_seen",
