@@ -504,7 +504,7 @@ Count: 16
 | 146    | Brandende vogelverschrikker                                        | 500         | 2026-10-20 | False    |
 | 147    | Brandend pompoenveld                                               | 1010        | 2026-10-20 | False    |
 | 148    | Overkookte pompoensoep                                             | 500         | 2026-10-20 | False    |
-| 149    | Heks vast in boom                                                  | 840         | 2026-10-20 | False    |
+| 149    | Heks vast in boom                                                  | 840         | 2026-10-21 | False    |
 | 150    | Monster uitgebroken                                                | 1010        | 2026-10-20 | False    |
 | 151    | Gestolen pompoenen                                                 | 500         | 2026-10-20 | False    |
 | 152    | Frankenstein gespot                                                | 840         | 2026-10-20 | False    |
