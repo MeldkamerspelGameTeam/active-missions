@@ -510,7 +510,7 @@ Count: 16
 | 152    | Frankenstein gespot                                                | 840         | 2026-10-22 | False    |
 | 153    | Snoep diefstal                                                     | 500         | 2026-10-22 | False    |
 | 154    | Horrorclown gespot                                                 | 670         | 2026-10-22 | False    |
-| 1058   | Halloween decoratie in brand                                       | 500         | 2026-10-22 | False    |
+| 1058   | Halloween decoratie in brand                                       | 500         | 2026-10-23 | False    |
 | 1059   | Winkeloverval door geesten                                         | 840         | 2026-10-22 | False    |
 | 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | 2026-10-22 | False    |
 | 1061   | Vermist persoon op begraafplaats                                   | 1010        | 2026-10-22 | False    |
