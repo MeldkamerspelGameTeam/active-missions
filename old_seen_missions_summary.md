@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 239
+Count: 238
 
 # Active old-seen missions
 
-Count: 173
+Count: 172
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -12,7 +12,6 @@ Count: 173
 | 252/a        | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
 | 312/ac       | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
-| 492-0/a      | Ongeregeldheden voetbalsupporters horeca      | 7310        | 2026-09-05 | False    |
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 518          | Aanvaring vrachtschip met veerboot (Grip 4)   | 9200        | 2026-09-06 | False    |
 | 765/a        | Onaangekondigde demonstratie                  | 7755        | 2026-09-16 | False    |
