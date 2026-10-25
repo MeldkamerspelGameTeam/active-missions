@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 244
+Count: 243
 
 # Active old-seen missions
 
-Count: 178
+Count: 177
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -17,7 +17,6 @@ Count: 178
 | 765/a        | Onaangekondigde demonstratie                  | 7755        | 2026-09-16 | False    |
 | 787/ac       | Persoon bekneld in gierput                    | 6460        | 2026-09-11 | False    |
 | 841/b        | Aanrijding met zwaar letsel                   | 6140        | 2026-09-10 | False    |
-| 853-1/a      | Vliegtuig neergestort                         | 24460       | 2026-08-25 | False    |
 | 885/ab       | Brand in vuurwerkopslag                       | 65525       | 2026-09-21 | False    |
 | 885/bf       | Brand in vuurwerkopslag                       | 66025       | 2026-09-16 | False    |
 | 885/df       | Brand in vuurwerkopslag                       | 50520       | 2026-09-16 | False    |
