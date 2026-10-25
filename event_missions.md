@@ -505,15 +505,15 @@ Count: 16
 | 147    | Brandend pompoenveld                                               | 1010        | 2026-10-25 | False    |
 | 148    | Overkookte pompoensoep                                             | 500         | 2026-10-25 | False    |
 | 149    | Heks vast in boom                                                  | 840         | 2026-10-25 | False    |
-| 150    | Monster uitgebroken                                                | 1010        | 2026-10-24 | False    |
+| 150    | Monster uitgebroken                                                | 1010        | 2026-10-25 | False    |
 | 151    | Gestolen pompoenen                                                 | 500         | 2026-10-25 | False    |
-| 152    | Frankenstein gespot                                                | 840         | 2026-10-24 | False    |
+| 152    | Frankenstein gespot                                                | 840         | 2026-10-25 | False    |
 | 153    | Snoep diefstal                                                     | 500         | 2026-10-25 | False    |
 | 154    | Horrorclown gespot                                                 | 670         | 2026-10-25 | False    |
 | 1058   | Halloween decoratie in brand                                       | 500         | 2026-10-25 | False    |
 | 1059   | Winkeloverval door geesten                                         | 840         | 2026-10-25 | False    |
 | 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | 2026-10-25 | False    |
 | 1061   | Vermist persoon op begraafplaats                                   | 1010        | 2026-10-25 | False    |
-| 1175   | Babbeltruc door spokenjagers                                       | 1200        | 2026-10-24 | False    |
-| 1176   | Heks op bezem botst tegen een woning                               | 1200        | 2026-10-24 | False    |
+| 1175   | Babbeltruc door spokenjagers                                       | 1200        | 2026-10-25 | False    |
+| 1176   | Heks op bezem botst tegen een woning                               | 1200        | 2026-10-25 | False    |
 | 1177   | Massale paniek bij halloween parade                                | 5200        | 2026-10-25 | False    |
