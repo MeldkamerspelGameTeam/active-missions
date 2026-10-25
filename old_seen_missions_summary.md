@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 243
+Count: 246
 
 # Active old-seen missions
 
-Count: 177
+Count: 180
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -14,6 +14,7 @@ Count: 177
 | 312/ac       | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 518          | Aanvaring vrachtschip met veerboot (Grip 4)   | 9200        | 2026-09-06 | False    |
+| 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
 | 765/a        | Onaangekondigde demonstratie                  | 7755        | 2026-09-16 | False    |
 | 787/ac       | Persoon bekneld in gierput                    | 6460        | 2026-09-11 | False    |
 | 841/b        | Aanrijding met zwaar letsel                   | 6140        | 2026-09-10 | False    |
@@ -40,6 +41,7 @@ Count: 177
 | 901/ab       | Trein ontspoord                               | 25720       | 2026-08-14 | False    |
 | 901/ad       | Trein ontspoord                               | 26720       | 2026-08-16 | False    |
 | 901/cf       | Trein ontspoord                               | 36087       | 2026-08-17 | False    |
+| 901/de       | Trein ontspoord                               | 26920       | 2026-09-24 | False    |
 | 901/df       | Trein ontspoord                               | 27720       | 2026-08-14 | False    |
 | 901/dg       | Trein ontspoord                               | 36720       | 2026-09-23 | False    |
 | 901/eg       | Trein ontspoord                               | 35920       | 2026-08-28 | False    |
@@ -133,6 +135,7 @@ Count: 177
 | 1228/cdf     | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
 | 1228/cfh     | Trein ontspoord na botsing met goederentrein  | 53175       | 2026-09-08 | False    |
 | 1228/befg    | Trein ontspoord na botsing met goederentrein  | 32540       | 2026-08-06 | False    |
+| 1228/cdfg    | Trein ontspoord na botsing met goederentrein  | 43112       | 2026-09-24 | False    |
 | 1228/dfgh    | Trein ontspoord na botsing met goederentrein  | 42990       | 2026-08-11 | False    |
 | 1228/abcdg   | Trein ontspoord na botsing met goederentrein  | 42612       | 2026-08-06 | False    |
 | 1228/abdfg   | Trein ontspoord na botsing met goederentrein  | 33140       | 2026-08-23 | False    |
