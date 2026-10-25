@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 246
+Count: 244
 
 # Active old-seen missions
 
-Count: 180
+Count: 178
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -13,7 +13,6 @@ Count: 180
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
 | 312/ac       | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
-| 518          | Aanvaring vrachtschip met veerboot (Grip 4)   | 9200        | 2026-09-06 | False    |
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
 | 765/a        | Onaangekondigde demonstratie                  | 7755        | 2026-09-16 | False    |
 | 787/ac       | Persoon bekneld in gierput                    | 6460        | 2026-09-11 | False    |
@@ -46,7 +45,6 @@ Count: 180
 | 901/dg       | Trein ontspoord                               | 36720       | 2026-09-23 | False    |
 | 901/eg       | Trein ontspoord                               | 35920       | 2026-08-28 | False    |
 | 901/abc      | Trein ontspoord                               | 35837       | 2026-08-06 | False    |
-| 901/acd      | Trein ontspoord                               | 37087       | 2026-08-25 | False    |
 | 901/bcg      | Trein ontspoord                               | 48337       | 2026-09-10 | False    |
 | 901/cdf      | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
 | 901/cef      | Trein ontspoord                               | 37337       | 2026-08-28 | False    |
