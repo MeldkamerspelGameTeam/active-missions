@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 243
+Count: 245
 
 # Active old-seen missions
 
-Count: 177
+Count: 179
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -128,6 +128,7 @@ Count: 177
 | 1228/bf      | Trein ontspoord na botsing met goederentrein  | 28940       | 2026-08-26 | False    |
 | 1228/cd      | Trein ontspoord na botsing met goederentrein  | 38612       | 2026-09-14 | False    |
 | 1228/abd     | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
+| 1228/bdf     | Trein ontspoord na botsing met goederentrein  | 30740       | 2026-09-25 | False    |
 | 1228/bdg     | Trein ontspoord na botsing met goederentrein  | 30340       | 2026-08-06 | False    |
 | 1228/cdf     | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
 | 1228/cfh     | Trein ontspoord na botsing met goederentrein  | 53175       | 2026-09-08 | False    |
@@ -180,6 +181,7 @@ Count: 177
 | 1229/bcde    | Dieseltrein met gevaarlijke stoffen ontspoord | 49300       | 2026-09-16 | False    |
 | 1229/bcef    | Dieseltrein met gevaarlijke stoffen ontspoord | 54300       | 2026-09-16 | False    |
 | 1229/bdeg    | Dieseltrein met gevaarlijke stoffen ontspoord | 60050       | 2026-09-01 | False    |
+| 1229/bdfg    | Dieseltrein met gevaarlijke stoffen ontspoord | 64925       | 2026-09-25 | False    |
 | 1229/cefg    | Dieseltrein met gevaarlijke stoffen ontspoord | 51090       | 2026-09-08 | False    |
 | 1229/abcdg   | Dieseltrein met gevaarlijke stoffen ontspoord | 61300       | 2026-09-10 | False    |
 | 1229/acefg   | Dieseltrein met gevaarlijke stoffen ontspoord | 51890       | 2026-09-20 | False    |
