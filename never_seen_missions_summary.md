@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 790
+Count: 788
 
 # Active never-seen missions
 
-Count: 605
+Count: 603
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -290,7 +290,6 @@ Count: 605
 | 1034/acdgh    | Brand in nucleaire installatie                  | 80460       | never     | False    |
 | 1034/acefg    | Brand in nucleaire installatie                  | 80710       | never     | False    |
 | 1034/acefh    | Brand in nucleaire installatie                  | 79960       | never     | False    |
-| 1034/acegh    | Brand in nucleaire installatie                  | 80360       | never     | False    |
 | 1034/acfgh    | Brand in nucleaire installatie                  | 80260       | never     | False    |
 | 1034/adefg    | Brand in nucleaire installatie                  | 75710       | never     | False    |
 | 1034/adefh    | Brand in nucleaire installatie                  | 74960       | never     | False    |
@@ -459,7 +458,6 @@ Count: 605
 | 1228/acef     | Trein ontspoord na botsing met goederentrein    | 42362       | never     | False    |
 | 1228/aceg     | Trein ontspoord na botsing met goederentrein    | 41862       | never     | False    |
 | 1228/aceh     | Trein ontspoord na botsing met goederentrein    | 54175       | never     | False    |
-| 1228/acfg     | Trein ontspoord na botsing met goederentrein    | 41862       | never     | False    |
 | 1228/acfh     | Trein ontspoord na botsing met goederentrein    | 54175       | never     | False    |
 | 1228/acgh     | Trein ontspoord na botsing met goederentrein    | 53675       | never     | False    |
 | 1228/adef     | Trein ontspoord na botsing met goederentrein    | 32740       | never     | False    |
