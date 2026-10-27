@@ -486,12 +486,12 @@ Count: 10
 | 857    | Verkeersongeval door gevallen bladeren                             | 2600        | 2026-10-27 | False    |
 | 858    | Persoon gevallen in een hoop bladeren                              | None        | 2026-10-27 | False    |
 | 859    | Op hol geslagen bladblazer                                         | 500         | 2026-10-27 | False    |
-| 860    | Afvoerput verstopt met bladeren                                    | 500         | 2026-10-26 | False    |
+| 860    | Afvoerput verstopt met bladeren                                    | 500         | 2026-10-27 | False    |
 | 861    | Onderkoeling na zwemmen in koud water                              | None        | 2026-10-27 | False    |
 | 862    | Ongeluk op mistige weg                                             | 1580        | 2026-10-27 | False    |
 | 863    | Ongeluk met overstekend hert                                       | 1750        | 2026-10-27 | False    |
-| 864    | Brandende hoop bladeren                                            | 670         | 2026-10-26 | False    |
-| 865    | Bladeren op spoor                                                  | 1080        | 2026-10-26 | False    |
+| 864    | Brandende hoop bladeren                                            | 670         | 2026-10-27 | False    |
+| 865    | Bladeren op spoor                                                  | 1080        | 2026-10-27 | False    |
 
 ## Start: 2026-10-16T09:00:00Z | End: 2026-11-01T23:59:59+01:00 | Count: 16
 
@@ -502,18 +502,18 @@ Count: 16
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
 | 146    | Brandende vogelverschrikker                                        | 500         | 2026-10-27 | False    |
-| 147    | Brandend pompoenveld                                               | 1010        | 2026-10-26 | False    |
+| 147    | Brandend pompoenveld                                               | 1010        | 2026-10-27 | False    |
 | 148    | Overkookte pompoensoep                                             | 500         | 2026-10-27 | False    |
-| 149    | Heks vast in boom                                                  | 840         | 2026-10-26 | False    |
-| 150    | Monster uitgebroken                                                | 1010        | 2026-10-26 | False    |
-| 151    | Gestolen pompoenen                                                 | 500         | 2026-10-26 | False    |
-| 152    | Frankenstein gespot                                                | 840         | 2026-10-26 | False    |
+| 149    | Heks vast in boom                                                  | 840         | 2026-10-27 | False    |
+| 150    | Monster uitgebroken                                                | 1010        | 2026-10-27 | False    |
+| 151    | Gestolen pompoenen                                                 | 500         | 2026-10-27 | False    |
+| 152    | Frankenstein gespot                                                | 840         | 2026-10-27 | False    |
 | 153    | Snoep diefstal                                                     | 500         | 2026-10-27 | False    |
-| 154    | Horrorclown gespot                                                 | 670         | 2026-10-26 | False    |
+| 154    | Horrorclown gespot                                                 | 670         | 2026-10-27 | False    |
 | 1058   | Halloween decoratie in brand                                       | 500         | 2026-10-27 | False    |
-| 1059   | Winkeloverval door geesten                                         | 840         | 2026-10-26 | False    |
+| 1059   | Winkeloverval door geesten                                         | 840         | 2026-10-27 | False    |
 | 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | 2026-10-27 | False    |
-| 1061   | Vermist persoon op begraafplaats                                   | 1010        | 2026-10-26 | False    |
-| 1175   | Babbeltruc door spokenjagers                                       | 1200        | 2026-10-26 | False    |
-| 1176   | Heks op bezem botst tegen een woning                               | 1200        | 2026-10-26 | False    |
+| 1061   | Vermist persoon op begraafplaats                                   | 1010        | 2026-10-27 | False    |
+| 1175   | Babbeltruc door spokenjagers                                       | 1200        | 2026-10-27 | False    |
+| 1176   | Heks op bezem botst tegen een woning                               | 1200        | 2026-10-27 | False    |
 | 1177   | Massale paniek bij halloween parade                                | 5200        | 2026-10-27 | False    |

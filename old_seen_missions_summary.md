@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 245
+Count: 244
 
 # Active old-seen missions
 
-Count: 179
+Count: 178
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -39,7 +39,6 @@ Count: 179
 | 901/a        | Trein ontspoord                               | 24920       | 2026-07-22 | False    |
 | 901/b        | Trein ontspoord                               | 24920       | 2026-08-15 | False    |
 | 901/ab       | Trein ontspoord                               | 25720       | 2026-08-14 | False    |
-| 901/ad       | Trein ontspoord                               | 26720       | 2026-08-16 | False    |
 | 901/cf       | Trein ontspoord                               | 36087       | 2026-08-17 | False    |
 | 901/de       | Trein ontspoord                               | 26920       | 2026-09-24 | False    |
 | 901/df       | Trein ontspoord                               | 27720       | 2026-08-14 | False    |

@@ -1307,7 +1307,7 @@
   "901/acf": "newly_discovered",
   "901/acfg": "newly_discovered",
   "901/acg": "newly_discovered",
-  "901/ad": "old_seen",
+  "901/ad": "back_active",
   "901/ade": "back_active",
   "901/adef": "newly_active",
   "901/adefg": "newly_discovered",
