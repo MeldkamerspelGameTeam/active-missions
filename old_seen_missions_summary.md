@@ -1,19 +1,21 @@
 # Old seen missions (older than 30 days)
 
-Count: 243
+Count: 245
 
 # Active old-seen missions
 
-Count: 177
+Count: 179
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
 | 181/a        | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
+| 252          | Vrachtwagen te water                          | 3830        | 2026-09-26 | False    |
 | 252/a        | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
 | 312/ac       | Lekkende goederenwagon (Groot)                | 7220        | 2026-08-12 | False    |
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
+| 592          | Brand op bedrijventerrein                     | 12540       | 2026-09-26 | False    |
 | 765/a        | Onaangekondigde demonstratie                  | 7755        | 2026-09-16 | False    |
 | 787/ac       | Persoon bekneld in gierput                    | 6460        | 2026-09-11 | False    |
 | 841/b        | Aanrijding met zwaar letsel                   | 6140        | 2026-09-10 | False    |
