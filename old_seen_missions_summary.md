@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 250
+Count: 249
 
 # Active old-seen missions
 
-Count: 184
+Count: 183
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -15,7 +15,6 @@ Count: 184
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
 | 592          | Brand op bedrijventerrein                     | 12540       | 2026-09-26 | False    |
-| 765/a        | Onaangekondigde demonstratie                  | 7755        | 2026-09-16 | False    |
 | 787/ac       | Persoon bekneld in gierput                    | 6460        | 2026-09-11 | False    |
 | 841/b        | Aanrijding met zwaar letsel                   | 6140        | 2026-09-10 | False    |
 | 885/ab       | Brand in vuurwerkopslag                       | 65525       | 2026-09-21 | False    |
