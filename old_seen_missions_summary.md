@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 242
+Count: 250
 
 # Active old-seen missions
 
-Count: 176
+Count: 184
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -37,6 +37,7 @@ Count: 176
 | 901          | Trein ontspoord                               | 24120       | 2026-07-23 | False    |
 | 901/a        | Trein ontspoord                               | 24920       | 2026-07-22 | False    |
 | 901/b        | Trein ontspoord                               | 24920       | 2026-08-15 | False    |
+| 901/f        | Trein ontspoord                               | 25920       | 2026-09-27 | False    |
 | 901/ab       | Trein ontspoord                               | 25720       | 2026-08-14 | False    |
 | 901/cf       | Trein ontspoord                               | 36087       | 2026-08-17 | False    |
 | 901/de       | Trein ontspoord                               | 26920       | 2026-09-24 | False    |
@@ -49,6 +50,7 @@ Count: 176
 | 901/cef      | Trein ontspoord                               | 37337       | 2026-08-28 | False    |
 | 901/abce     | Trein ontspoord                               | 37087       | 2026-09-22 | False    |
 | 901/abdf     | Trein ontspoord                               | 29320       | 2026-09-15 | False    |
+| 901/abef     | Trein ontspoord                               | 28520       | 2026-09-27 | False    |
 | 901/acde     | Trein ontspoord                               | 38337       | 2026-09-20 | False    |
 | 901/acef     | Trein ontspoord                               | 38337       | 2026-09-11 | False    |
 | 901/bcde     | Trein ontspoord                               | 38337       | 2026-08-06 | False    |
@@ -96,6 +98,7 @@ Count: 176
 | 1034/afh     | Brand in nucleaire installatie                | 72260       | 2026-08-13 | False    |
 | 1034/bch     | Brand in nucleaire installatie                | 99512       | 2026-07-13 | False    |
 | 1034/bdf     | Brand in nucleaire installatie                | 93700       | 2026-08-07 | False    |
+| 1034/bdh     | Brand in nucleaire installatie                | 93262       | 2026-09-27 | False    |
 | 1034/cef     | Brand in nucleaire installatie                | 78310       | 2026-07-25 | False    |
 | 1034/def     | Brand in nucleaire installatie                | 73310       | 2026-08-16 | False    |
 | 1034/dfh     | Brand in nucleaire installatie                | 72860       | 2026-07-25 | False    |
@@ -103,6 +106,7 @@ Count: 176
 | 1034/abeh    | Brand in nucleaire installatie                | 94137       | 2026-08-27 | False    |
 | 1034/aceh    | Brand in nucleaire installatie                | 78760       | 2026-07-30 | False    |
 | 1034/acfg    | Brand in nucleaire installatie                | 79410       | 2026-08-26 | False    |
+| 1034/cdfg    | Brand in nucleaire installatie                | 80010       | 2026-09-27 | False    |
 | 1104/ab      | Aanrijding trein & betonmixer                 | 22662       | 2026-09-19 | False    |
 | 1104/ae      | Aanrijding trein & betonmixer                 | 21880       | 2026-08-31 | False    |
 | 1104/ce      | Aanrijding trein & betonmixer                 | 22080       | 2026-09-19 | False    |
@@ -123,9 +127,12 @@ Count: 176
 | 1228/c       | Trein ontspoord na botsing met goederentrein  | 36362       | 2026-09-08 | False    |
 | 1228/ac      | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
 | 1228/bc      | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-09-18 | False    |
+| 1228/bd      | Trein ontspoord na botsing met goederentrein  | 28740       | 2026-09-27 | False    |
 | 1228/bf      | Trein ontspoord na botsing met goederentrein  | 28940       | 2026-08-26 | False    |
 | 1228/cd      | Trein ontspoord na botsing met goederentrein  | 38612       | 2026-09-14 | False    |
+| 1228/dg      | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-09-27 | False    |
 | 1228/abd     | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
+| 1228/bcd     | Trein ontspoord na botsing met goederentrein  | 39612       | 2026-09-27 | False    |
 | 1228/bdf     | Trein ontspoord na botsing met goederentrein  | 30740       | 2026-09-25 | False    |
 | 1228/bdg     | Trein ontspoord na botsing met goederentrein  | 30340       | 2026-08-06 | False    |
 | 1228/cdf     | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
@@ -134,6 +141,7 @@ Count: 176
 | 1228/cdfg    | Trein ontspoord na botsing met goederentrein  | 43112       | 2026-09-24 | False    |
 | 1228/dfgh    | Trein ontspoord na botsing met goederentrein  | 42990       | 2026-08-11 | False    |
 | 1228/abcdg   | Trein ontspoord na botsing met goederentrein  | 42612       | 2026-08-06 | False    |
+| 1228/abcfg   | Trein ontspoord na botsing met goederentrein  | 42862       | 2026-09-27 | False    |
 | 1228/abdfg   | Trein ontspoord na botsing met goederentrein  | 33140       | 2026-08-23 | False    |
 | 1228/bcdfg   | Trein ontspoord na botsing met goederentrein  | 44112       | 2026-08-18 | False    |
 | 1228/bcdfh   | Trein ontspoord na botsing met goederentrein  | 56425       | 2026-08-26 | False    |
