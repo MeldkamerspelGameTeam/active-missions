@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 249
+Count: 248
 
 # Active old-seen missions
 
-Count: 183
+Count: 182
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -69,7 +69,6 @@ Count: 183
 | 929/acd      | Brand in gasverdeelstation                    | 33310       | 2026-08-23 | False    |
 | 929/ace      | Brand in gasverdeelstation                    | 33160       | 2026-08-14 | False    |
 | 929/bde      | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
-| 974/a        | Ontspoorde tram botst tegen gebouw            | 20230       | 2026-08-11 | False    |
 | 974/ad       | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |
 | 974/bc       | Ontspoorde tram botst tegen gebouw            | 29225       | 2026-08-28 | False    |
 | 974/bcd      | Ontspoorde tram botst tegen gebouw            | 37350       | 2026-09-18 | False    |
