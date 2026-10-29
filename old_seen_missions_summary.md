@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 247
+Count: 248
 
 # Active old-seen missions
 
-Count: 181
+Count: 182
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -33,6 +33,7 @@ Count: 181
 | 897-0/a      | Rellen na stadsderby                          | 17355       | 2026-08-27 | False    |
 | 897-1/a      | Rellen na stadsderby                          | 18355       | 2026-08-28 | False    |
 | 897-2/a      | Rellen na stadsderby                          | 19355       | 2026-06-30 | False    |
+| 899/a        | Aanrijding bus en tram                        | 10620       | 2026-09-28 | False    |
 | 901          | Trein ontspoord                               | 24120       | 2026-07-23 | False    |
 | 901/a        | Trein ontspoord                               | 24920       | 2026-07-22 | False    |
 | 901/b        | Trein ontspoord                               | 24920       | 2026-08-15 | False    |
