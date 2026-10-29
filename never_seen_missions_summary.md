@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 787
+Count: 786
 
 # Active never-seen missions
 
-Count: 602
+Count: 601
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -14,7 +14,6 @@ Count: 602
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
 | 183/b         | Paard in sloot                                  | 1600        | never     | False    |
 | 183/ab        | Paard in sloot                                  | 2100        | never     | False    |
-| 194/a         | Koe in gierput                                  | 1310        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                     | 11050       | never     | False    |
