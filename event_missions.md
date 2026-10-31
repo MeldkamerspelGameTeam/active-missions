@@ -516,4 +516,4 @@ Count: 16
 | 1061   | Vermist persoon op begraafplaats                                   | 1010        | 2026-10-30 | False    |
 | 1175   | Babbeltruc door spokenjagers                                       | 1200        | 2026-10-30 | False    |
 | 1176   | Heks op bezem botst tegen een woning                               | 1200        | 2026-10-30 | False    |
-| 1177   | Massale paniek bij halloween parade                                | 5200        | 2026-10-30 | False    |
+| 1177   | Massale paniek bij halloween parade                                | 5200        | 2026-10-31 | False    |
