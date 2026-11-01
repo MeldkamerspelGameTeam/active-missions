@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 249
+Count: 247
 
 # Active old-seen missions
 
-Count: 183
+Count: 181
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -114,7 +114,6 @@ Count: 183
 | 1104/bcd     | Aanrijding trein & betonmixer                 | 23662       | 2026-09-02 | False    |
 | 1104/bde     | Aanrijding trein & betonmixer                 | 30787       | 2026-09-13 | False    |
 | 1202/b       | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
-| 1202/bc      | Brand in ziekenhuis (Grip 1)                  | 14180       | 2026-09-22 | False    |
 | 1203/b       | Brand in ziekenhuis (Grip 2)                  | 20850       | 2026-08-27 | False    |
 | 1206/ab      | Brand in station (Grip 1)                     | 38000       | 2026-09-14 | False    |
 | 1207/a       | Brand in station (Grip 2)                     | 54950       | 2026-09-23 | False    |
@@ -179,7 +178,6 @@ Count: 183
 | 1229/abeg    | Dieseltrein met gevaarlijke stoffen ontspoord | 58925       | 2026-09-07 | False    |
 | 1229/abfg    | Dieseltrein met gevaarlijke stoffen ontspoord | 63800       | 2026-09-12 | False    |
 | 1229/acdg    | Dieseltrein met gevaarlijke stoffen ontspoord | 46090       | 2026-08-27 | False    |
-| 1229/aceg    | Dieseltrein met gevaarlijke stoffen ontspoord | 46190       | 2026-09-30 | False    |
 | 1229/acfg    | Dieseltrein met gevaarlijke stoffen ontspoord | 50090       | 2026-09-29 | False    |
 | 1229/adef    | Dieseltrein met gevaarlijke stoffen ontspoord | 40990       | 2026-08-24 | False    |
 | 1229/bcde    | Dieseltrein met gevaarlijke stoffen ontspoord | 49300       | 2026-09-16 | False    |
