@@ -2,7 +2,7 @@
 
 Event missions: 277
 
-Active: 26 | Inactive: 251
+Active: 10 | Inactive: 267
 
 Date window groups: 26
 
@@ -501,19 +501,19 @@ Count: 16
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 146    | Brandende vogelverschrikker                                        | 500         | 2026-11-01 | False    |
-| 147    | Brandend pompoenveld                                               | 1010        | 2026-11-01 | False    |
-| 148    | Overkookte pompoensoep                                             | 500         | 2026-11-01 | False    |
-| 149    | Heks vast in boom                                                  | 840         | 2026-11-01 | False    |
-| 150    | Monster uitgebroken                                                | 1010        | 2026-11-01 | False    |
-| 151    | Gestolen pompoenen                                                 | 500         | 2026-11-01 | False    |
-| 152    | Frankenstein gespot                                                | 840         | 2026-11-01 | False    |
-| 153    | Snoep diefstal                                                     | 500         | 2026-11-01 | False    |
-| 154    | Horrorclown gespot                                                 | 670         | 2026-11-01 | False    |
-| 1058   | Halloween decoratie in brand                                       | 500         | 2026-11-01 | False    |
-| 1059   | Winkeloverval door geesten                                         | 840         | 2026-11-01 | False    |
-| 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | 2026-11-01 | False    |
-| 1061   | Vermist persoon op begraafplaats                                   | 1010        | 2026-11-01 | False    |
-| 1175   | Babbeltruc door spokenjagers                                       | 1200        | 2026-11-01 | False    |
-| 1176   | Heks op bezem botst tegen een woning                               | 1200        | 2026-11-01 | False    |
-| 1177   | Massale paniek bij halloween parade                                | 5200        | 2026-11-01 | False    |
+| 146    | Brandende vogelverschrikker                                        | 500         | 2026-11-01 | True     |
+| 147    | Brandend pompoenveld                                               | 1010        | 2026-11-01 | True     |
+| 148    | Overkookte pompoensoep                                             | 500         | 2026-11-01 | True     |
+| 149    | Heks vast in boom                                                  | 840         | 2026-11-01 | True     |
+| 150    | Monster uitgebroken                                                | 1010        | 2026-11-01 | True     |
+| 151    | Gestolen pompoenen                                                 | 500         | 2026-11-01 | True     |
+| 152    | Frankenstein gespot                                                | 840         | 2026-11-01 | True     |
+| 153    | Snoep diefstal                                                     | 500         | 2026-11-01 | True     |
+| 154    | Horrorclown gespot                                                 | 670         | 2026-11-01 | True     |
+| 1058   | Halloween decoratie in brand                                       | 500         | 2026-11-02 | True     |
+| 1059   | Winkeloverval door geesten                                         | 840         | 2026-11-01 | True     |
+| 1060   | Voedselvergiftiging door vergiftigd snoep                          | 1860        | 2026-11-01 | True     |
+| 1061   | Vermist persoon op begraafplaats                                   | 1010        | 2026-11-01 | True     |
+| 1175   | Babbeltruc door spokenjagers                                       | 1200        | 2026-11-01 | True     |
+| 1176   | Heks op bezem botst tegen een woning                               | 1200        | 2026-11-01 | True     |
+| 1177   | Massale paniek bij halloween parade                                | 5200        | 2026-11-01 | True     |
