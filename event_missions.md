@@ -482,14 +482,14 @@ Count: 10
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 856    | Persoon uitgegleden over natte bladeren                            | None        | 2026-11-01 | False    |
-| 857    | Verkeersongeval door gevallen bladeren                             | 2600        | 2026-11-01 | False    |
+| 856    | Persoon uitgegleden over natte bladeren                            | None        | 2026-11-02 | False    |
+| 857    | Verkeersongeval door gevallen bladeren                             | 2600        | 2026-11-02 | False    |
 | 858    | Persoon gevallen in een hoop bladeren                              | None        | 2026-11-01 | False    |
 | 859    | Op hol geslagen bladblazer                                         | 500         | 2026-11-01 | False    |
 | 860    | Afvoerput verstopt met bladeren                                    | 500         | 2026-11-01 | False    |
 | 861    | Onderkoeling na zwemmen in koud water                              | None        | 2026-11-01 | False    |
 | 862    | Ongeluk op mistige weg                                             | 1580        | 2026-11-01 | False    |
-| 863    | Ongeluk met overstekend hert                                       | 1750        | 2026-11-01 | False    |
+| 863    | Ongeluk met overstekend hert                                       | 1750        | 2026-11-02 | False    |
 | 864    | Brandende hoop bladeren                                            | 670         | 2026-11-01 | False    |
 | 865    | Bladeren op spoor                                                  | 1080        | 2026-11-01 | False    |
 
@@ -502,9 +502,9 @@ Count: 16
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
 | 146    | Brandende vogelverschrikker                                        | 500         | 2026-11-01 | True     |
-| 147    | Brandend pompoenveld                                               | 1010        | 2026-11-01 | True     |
+| 147    | Brandend pompoenveld                                               | 1010        | 2026-11-02 | True     |
 | 148    | Overkookte pompoensoep                                             | 500         | 2026-11-01 | True     |
-| 149    | Heks vast in boom                                                  | 840         | 2026-11-01 | True     |
+| 149    | Heks vast in boom                                                  | 840         | 2026-11-02 | True     |
 | 150    | Monster uitgebroken                                                | 1010        | 2026-11-01 | True     |
 | 151    | Gestolen pompoenen                                                 | 500         | 2026-11-01 | True     |
 | 152    | Frankenstein gespot                                                | 840         | 2026-11-01 | True     |
@@ -516,4 +516,4 @@ Count: 16
 | 1061   | Vermist persoon op begraafplaats                                   | 1010        | 2026-11-01 | True     |
 | 1175   | Babbeltruc door spokenjagers                                       | 1200        | 2026-11-01 | True     |
 | 1176   | Heks op bezem botst tegen een woning                               | 1200        | 2026-11-01 | True     |
-| 1177   | Massale paniek bij halloween parade                                | 5200        | 2026-11-01 | True     |
+| 1177   | Massale paniek bij halloween parade                                | 5200        | 2026-11-02 | True     |
