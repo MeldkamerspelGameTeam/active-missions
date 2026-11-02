@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 255
+Count: 253
 
 # Active old-seen missions
 
-Count: 189
+Count: 187
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -22,7 +22,6 @@ Count: 189
 | 885/ab       | Brand in vuurwerkopslag                       | 65525       | 2026-09-21 | False    |
 | 885/bf       | Brand in vuurwerkopslag                       | 66025       | 2026-09-16 | False    |
 | 885/ce       | Brand in vuurwerkopslag                       | 54670       | 2026-10-02 | False    |
-| 885/df       | Brand in vuurwerkopslag                       | 50520       | 2026-09-16 | False    |
 | 885/abc      | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
 | 885/abf      | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
 | 885/ade      | Brand in vuurwerkopslag                       | 50920       | 2026-09-05 | False    |
@@ -105,7 +104,6 @@ Count: 189
 | 1034/bdh     | Brand in nucleaire installatie                | 93262       | 2026-09-27 | False    |
 | 1034/cef     | Brand in nucleaire installatie                | 78310       | 2026-07-25 | False    |
 | 1034/def     | Brand in nucleaire installatie                | 73310       | 2026-08-16 | False    |
-| 1034/dfh     | Brand in nucleaire installatie                | 72860       | 2026-07-25 | False    |
 | 1034/fgh     | Brand in nucleaire installatie                | 73060       | 2026-10-02 | False    |
 | 1034/abde    | Brand in nucleaire installatie                | 94825       | 2026-09-15 | False    |
 | 1034/abeh    | Brand in nucleaire installatie                | 94137       | 2026-08-27 | False    |
