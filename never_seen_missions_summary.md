@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 778
+Count: 776
 
 # Active never-seen missions
 
-Count: 593
+Count: 591
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -584,7 +584,6 @@ Count: 593
 | 1229/dg       | Dieseltrein met gevaarlijke stoffen ontspoord   | 43290       | never     | False    |
 | 1229/eg       | Dieseltrein met gevaarlijke stoffen ontspoord   | 43390       | never     | False    |
 | 1229/acg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 44390       | never     | False    |
-| 1229/adg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 44090       | never     | False    |
 | 1229/aeg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 44190       | never     | False    |
 | 1229/afg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 48090       | never     | False    |
 | 1229/bdg      | Dieseltrein met gevaarlijke stoffen ontspoord   | 57800       | never     | False    |
@@ -596,7 +595,6 @@ Count: 593
 | 1229/aefg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 49890       | never     | False    |
 | 1229/befg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 65050       | never     | False    |
 | 1229/cdeg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 47090       | never     | False    |
-| 1229/abcfg    | Dieseltrein met gevaarlijke stoffen ontspoord   | 66300       | never     | False    |
 | 1229/abdfg    | Dieseltrein met gevaarlijke stoffen ontspoord   | 65925       | never     | False    |
 | 1246/bc       | Rietkapbrand (Grip 2)                           | 29325       | never     | False    |
 | 1251/c        | Blikseminslag rietenkap (Grip 2)                | 21560       | never     | False    |
