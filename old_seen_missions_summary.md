@@ -1,17 +1,19 @@
 # Old seen missions (older than 30 days)
 
-Count: 252
+Count: 257
 
 # Active old-seen missions
 
-Count: 186
+Count: 191
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
+| 145          | Natuurbrand                                   | 70194       | 2026-10-03 | False    |
 | 181/a        | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 252          | Vrachtwagen te water                          | 3830        | 2026-09-26 | False    |
 | 252/a        | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
+| 435          | Lekkende tankwagen                            | 6660        | 2026-10-03 | False    |
 | 492-2/a      | Ongeregeldheden voetbalsupporters horeca      | 8110        | 2026-10-02 | False    |
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
@@ -103,6 +105,7 @@ Count: 186
 | 1034/bdh     | Brand in nucleaire installatie                | 93262       | 2026-09-27 | False    |
 | 1034/cef     | Brand in nucleaire installatie                | 78310       | 2026-07-25 | False    |
 | 1034/def     | Brand in nucleaire installatie                | 73310       | 2026-08-16 | False    |
+| 1034/deh     | Brand in nucleaire installatie                | 72960       | 2026-10-03 | False    |
 | 1034/fgh     | Brand in nucleaire installatie                | 73060       | 2026-10-02 | False    |
 | 1034/abde    | Brand in nucleaire installatie                | 94825       | 2026-09-15 | False    |
 | 1034/abeh    | Brand in nucleaire installatie                | 94137       | 2026-08-27 | False    |
@@ -117,6 +120,7 @@ Count: 186
 | 1104/bde     | Aanrijding trein & betonmixer                 | 30787       | 2026-09-13 | False    |
 | 1202/b       | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
 | 1203/b       | Brand in ziekenhuis (Grip 2)                  | 20850       | 2026-08-27 | False    |
+| 1203/ab      | Brand in ziekenhuis (Grip 2)                  | 28562       | 2026-10-03 | False    |
 | 1206/ab      | Brand in station (Grip 1)                     | 38000       | 2026-09-14 | False    |
 | 1207/b       | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
 | 1207/ab      | Brand in station (Grip 2)                     | 55950       | 2026-09-19 | False    |
@@ -153,6 +157,7 @@ Count: 186
 | 1229/ac      | Dieseltrein met gevaarlijke stoffen ontspoord | 33790       | 2026-08-29 | False    |
 | 1229/ad      | Dieseltrein met gevaarlijke stoffen ontspoord | 33490       | 2026-08-17 | False    |
 | 1229/ae      | Dieseltrein met gevaarlijke stoffen ontspoord | 33590       | 2026-08-19 | False    |
+| 1229/bc      | Dieseltrein met gevaarlijke stoffen ontspoord | 44925       | 2026-10-03 | False    |
 | 1229/bd      | Dieseltrein met gevaarlijke stoffen ontspoord | 44550       | 2026-09-17 | False    |
 | 1229/be      | Dieseltrein met gevaarlijke stoffen ontspoord | 44675       | 2026-08-07 | False    |
 | 1229/cg      | Dieseltrein met gevaarlijke stoffen ontspoord | 43590       | 2026-10-02 | False    |
