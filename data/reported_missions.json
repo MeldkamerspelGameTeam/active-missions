@@ -1968,7 +1968,7 @@
   "1104": "newly_active",
   "1104/a": "back_active",
   "1104/ab": "back_active",
-  "1104/abc": "old_seen",
+  "1104/abc": "back_active",
   "1104/abcd": "newly_active",
   "1104/abcde": "back_active",
   "1104/abce": "newly_active",
