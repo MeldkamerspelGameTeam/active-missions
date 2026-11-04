@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 255
+Count: 257
 
 # Active old-seen missions
 
-Count: 189
+Count: 191
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -59,6 +59,7 @@ Count: 189
 | 901/acef     | Trein ontspoord                               | 38337       | 2026-09-11 | False    |
 | 901/bcde     | Trein ontspoord                               | 38337       | 2026-08-06 | False    |
 | 901/bceg     | Trein ontspoord                               | 49587       | 2026-08-26 | False    |
+| 901/bdef     | Trein ontspoord                               | 29520       | 2026-10-04 | False    |
 | 901/bdeg     | Trein ontspoord                               | 38520       | 2026-08-09 | False    |
 | 901/abcde    | Trein ontspoord                               | 39337       | 2026-08-28 | False    |
 | 901/abcdf    | Trein ontspoord                               | 40337       | 2026-09-23 | False    |
@@ -115,6 +116,7 @@ Count: 189
 | 1104/ce      | Aanrijding trein & betonmixer                 | 22080       | 2026-09-19 | False    |
 | 1104/abc     | Aanrijding trein & betonmixer                 | 23912       | 2026-07-25 | False    |
 | 1104/abd     | Aanrijding trein & betonmixer                 | 23412       | 2026-09-30 | False    |
+| 1104/abe     | Aanrijding trein & betonmixer                 | 31037       | 2026-10-04 | False    |
 | 1104/bcd     | Aanrijding trein & betonmixer                 | 23662       | 2026-09-02 | False    |
 | 1104/bde     | Aanrijding trein & betonmixer                 | 30787       | 2026-09-13 | False    |
 | 1202/b       | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
