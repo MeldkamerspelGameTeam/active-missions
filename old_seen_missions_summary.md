@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 265
+Count: 263
 
 # Active old-seen missions
 
-Count: 199
+Count: 197
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -86,7 +86,6 @@ Count: 199
 | 974/bc       | Ontspoorde tram botst tegen gebouw            | 29225       | 2026-08-28 | False    |
 | 974/bcd      | Ontspoorde tram botst tegen gebouw            | 37350       | 2026-09-18 | False    |
 | 980          | Uit de hand gelopen manifestatie              | 45080       | 2026-09-17 | False    |
-| 1030/cd      | Brand bij papierrecyclaar                     | 49960       | 2026-09-04 | False    |
 | 1030/acd     | Brand bij papierrecyclaar                     | 50760       | 2026-08-09 | False    |
 | 1030/bcd     | Brand bij papierrecyclaar                     | 66137       | 2026-08-19 | False    |
 | 1034/ac      | Brand in nucleaire installatie                | 76610       | 2026-08-27 | False    |
@@ -205,7 +204,6 @@ Count: 199
 | 1229/cefg    | Dieseltrein met gevaarlijke stoffen ontspoord | 51090       | 2026-09-08 | False    |
 | 1229/abcdg   | Dieseltrein met gevaarlijke stoffen ontspoord | 61300       | 2026-09-10 | False    |
 | 1229/abdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 61050       | 2026-10-02 | False    |
-| 1229/bcdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 62550       | 2026-09-14 | False    |
 | 1246/ac      | Rietkapbrand (Grip 2)                         | 21310       | 2026-10-02 | False    |
 
 # Inactive old-seen missions
