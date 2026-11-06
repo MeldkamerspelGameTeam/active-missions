@@ -1,16 +1,17 @@
 # Old seen missions (older than 30 days)
 
-Count: 263
+Count: 267
 
 # Active old-seen missions
 
-Count: 197
+Count: 201
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
 | 145          | Natuurbrand                                   | 70194       | 2026-10-03 | False    |
 | 181/a        | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab       | Verkeersongeval met beknelling                | 3290        | 2026-10-05 | False    |
+| 208          | Personenauto te water                         | 4350        | 2026-10-06 | False    |
 | 252          | Vrachtwagen te water                          | 3830        | 2026-09-26 | False    |
 | 252/a        | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
@@ -23,7 +24,7 @@ Count: 197
 | 837          | Gaslek bedrijventerrein                       | 8580        | 2026-10-05 | False    |
 | 841/b        | Aanrijding met zwaar letsel                   | 6140        | 2026-09-10 | False    |
 | 855/a        | Observatie                                    | 6590        | 2026-10-02 | False    |
-| 885/ab       | Brand in vuurwerkopslag                       | 65525       | 2026-09-21 | False    |
+| 885/ae       | Brand in vuurwerkopslag                       | 50270       | 2026-10-06 | False    |
 | 885/be       | Brand in vuurwerkopslag                       | 65525       | 2026-10-05 | False    |
 | 885/bf       | Brand in vuurwerkopslag                       | 66025       | 2026-09-16 | False    |
 | 885/ce       | Brand in vuurwerkopslag                       | 54670       | 2026-10-02 | False    |
@@ -101,6 +102,7 @@ Count: 197
 | 1034/gh      | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
 | 1034/abf     | Brand in nucleaire installatie                | 92950       | 2026-09-04 | False    |
 | 1034/acd     | Brand in nucleaire installatie                | 78010       | 2026-09-09 | False    |
+| 1034/acg     | Brand in nucleaire installatie                | 78210       | 2026-10-06 | False    |
 | 1034/ade     | Brand in nucleaire installatie                | 72910       | 2026-07-11 | False    |
 | 1034/adf     | Brand in nucleaire installatie                | 72810       | 2026-09-06 | False    |
 | 1034/afh     | Brand in nucleaire installatie                | 72260       | 2026-08-13 | False    |
@@ -109,6 +111,7 @@ Count: 197
 | 1034/bch     | Brand in nucleaire installatie                | 99512       | 2026-07-13 | False    |
 | 1034/bdf     | Brand in nucleaire installatie                | 93700       | 2026-08-07 | False    |
 | 1034/bdh     | Brand in nucleaire installatie                | 93262       | 2026-09-27 | False    |
+| 1034/beh     | Brand in nucleaire installatie                | 93137       | 2026-10-06 | False    |
 | 1034/cef     | Brand in nucleaire installatie                | 78310       | 2026-07-25 | False    |
 | 1034/def     | Brand in nucleaire installatie                | 73310       | 2026-08-16 | False    |
 | 1034/deh     | Brand in nucleaire installatie                | 72960       | 2026-10-03 | False    |
@@ -191,6 +194,7 @@ Count: 197
 | 1229/ceg     | Dieseltrein met gevaarlijke stoffen ontspoord | 45390       | 2026-09-22 | False    |
 | 1229/def     | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
 | 1229/deg     | Dieseltrein met gevaarlijke stoffen ontspoord | 45090       | 2026-09-06 | False    |
+| 1229/abce    | Dieseltrein met gevaarlijke stoffen ontspoord | 48175       | 2026-10-06 | False    |
 | 1229/abef    | Dieseltrein met gevaarlijke stoffen ontspoord | 52800       | 2026-08-09 | False    |
 | 1229/abeg    | Dieseltrein met gevaarlijke stoffen ontspoord | 58925       | 2026-09-07 | False    |
 | 1229/abfg    | Dieseltrein met gevaarlijke stoffen ontspoord | 63800       | 2026-09-12 | False    |
