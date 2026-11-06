@@ -482,15 +482,15 @@ Count: 10
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 856    | Persoon uitgegleden over natte bladeren                            | None        | 2026-11-05 | False    |
+| 856    | Persoon uitgegleden over natte bladeren                            | None        | 2026-11-06 | False    |
 | 857    | Verkeersongeval door gevallen bladeren                             | 2600        | 2026-11-06 | False    |
-| 858    | Persoon gevallen in een hoop bladeren                              | None        | 2026-11-05 | False    |
+| 858    | Persoon gevallen in een hoop bladeren                              | None        | 2026-11-06 | False    |
 | 859    | Op hol geslagen bladblazer                                         | 500         | 2026-11-05 | False    |
-| 860    | Afvoerput verstopt met bladeren                                    | 500         | 2026-11-05 | False    |
-| 861    | Onderkoeling na zwemmen in koud water                              | None        | 2026-11-05 | False    |
+| 860    | Afvoerput verstopt met bladeren                                    | 500         | 2026-11-06 | False    |
+| 861    | Onderkoeling na zwemmen in koud water                              | None        | 2026-11-06 | False    |
 | 862    | Ongeluk op mistige weg                                             | 1580        | 2026-11-06 | False    |
 | 863    | Ongeluk met overstekend hert                                       | 1750        | 2026-11-06 | False    |
-| 864    | Brandende hoop bladeren                                            | 670         | 2026-11-05 | False    |
+| 864    | Brandende hoop bladeren                                            | 670         | 2026-11-06 | False    |
 | 865    | Bladeren op spoor                                                  | 1080        | 2026-11-05 | False    |
 
 ## Start: 2026-10-16T09:00:00Z | End: 2026-11-01T23:59:59+01:00 | Count: 16

@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 267
+Count: 266
 
 # Active old-seen missions
 
-Count: 201
+Count: 200
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -72,7 +72,6 @@ Count: 201
 | 901/bdefg    | Trein ontspoord                               | 40320       | 2026-09-23 | False    |
 | 929/ab       | Brand in gasverdeelstation                    | 37825       | 2026-10-05 | False    |
 | 929/bc       | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
-| 929/be       | Brand in gasverdeelstation                    | 37637       | 2026-09-13 | False    |
 | 929/cd       | Brand in gasverdeelstation                    | 32510       | 2026-09-01 | False    |
 | 929/abc      | Brand in gasverdeelstation                    | 44325       | 2026-07-12 | False    |
 | 929/abd      | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
