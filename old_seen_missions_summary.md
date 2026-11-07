@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 273
+Count: 272
 
 # Active old-seen missions
 
-Count: 207
+Count: 206
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -143,7 +143,6 @@ Count: 207
 | 1207/ab      | Brand in station (Grip 2)                     | 55950       | 2026-09-19 | False    |
 | 1207/bc      | Brand in station (Grip 2)                     | 43560       | 2026-09-01 | False    |
 | 1227/a       | Brand in passagierstrein (Grip 1)             | 21970       | 2026-09-15 | False    |
-| 1227/b       | Brand in passagierstrein (Grip 1)             | 30150       | 2026-08-25 | False    |
 | 1228         | Trein ontspoord na botsing met goederentrein  | 26140       | 2026-08-24 | False    |
 | 1228/c       | Trein ontspoord na botsing met goederentrein  | 36362       | 2026-09-08 | False    |
 | 1228/ac      | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
