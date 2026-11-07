@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 271
+Count: 270
 
 # Active old-seen missions
 
-Count: 205
+Count: 204
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -29,7 +29,6 @@ Count: 205
 | 885/be       | Brand in vuurwerkopslag                       | 65525       | 2026-10-05 | False    |
 | 885/bf       | Brand in vuurwerkopslag                       | 66025       | 2026-09-16 | False    |
 | 885/ce       | Brand in vuurwerkopslag                       | 54670       | 2026-10-02 | False    |
-| 885/abc      | Brand in vuurwerkopslag                       | 72025       | 2026-07-04 | False    |
 | 885/abf      | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
 | 885/ade      | Brand in vuurwerkopslag                       | 50920       | 2026-09-05 | False    |
 | 885/adf      | Brand in vuurwerkopslag                       | 51320       | 2026-09-06 | False    |

@@ -1163,7 +1163,7 @@
   "885": "newly_active",
   "885/a": "newly_active",
   "885/ab": "back_active",
-  "885/abc": "old_seen",
+  "885/abc": "back_active",
   "885/abcd": "newly_discovered",
   "885/abcde": "newly_discovered",
   "885/abcdef": "newly_discovered",
