@@ -2522,7 +2522,7 @@
   "1229/be": "old_seen",
   "1229/bef": "back_active",
   "1229/befg": "newly_discovered",
-  "1229/beg": "newly_discovered",
+  "1229/beg": "newly_active",
   "1229/bf": "newly_active",
   "1229/bfg": "old_seen",
   "1229/bg": "newly_discovered",
