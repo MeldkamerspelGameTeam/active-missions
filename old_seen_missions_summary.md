@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 264
+Count: 273
 
 # Active old-seen missions
 
-Count: 198
+Count: 207
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -20,6 +20,7 @@ Count: 198
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
 | 592          | Brand op bedrijventerrein                     | 12540       | 2026-09-26 | False    |
+| 671-0        | Toezicht Horeca                               | 8745        | 2026-10-07 | False    |
 | 801/a        | Groep kitesurfers in problemen                | 4790        | 2026-10-01 | False    |
 | 837          | Gaslek bedrijventerrein                       | 8580        | 2026-10-05 | False    |
 | 841/b        | Aanrijding met zwaar letsel                   | 6140        | 2026-09-10 | False    |
@@ -66,12 +67,16 @@ Count: 198
 | 901/bdeg     | Trein ontspoord                               | 38520       | 2026-08-09 | False    |
 | 901/abcde    | Trein ontspoord                               | 39337       | 2026-08-28 | False    |
 | 901/abcdf    | Trein ontspoord                               | 40337       | 2026-09-23 | False    |
+| 901/abcef    | Trein ontspoord                               | 39337       | 2026-10-07 | False    |
 | 901/acdef    | Trein ontspoord                               | 40587       | 2026-09-15 | False    |
 | 901/bcdef    | Trein ontspoord                               | 40587       | 2026-10-05 | False    |
 | 901/bcdeg    | Trein ontspoord                               | 51837       | 2026-08-15 | False    |
 | 901/bdefg    | Trein ontspoord                               | 40320       | 2026-09-23 | False    |
 | 929/ab       | Brand in gasverdeelstation                    | 37825       | 2026-10-05 | False    |
+| 929/ac       | Brand in gasverdeelstation                    | 32510       | 2026-10-07 | False    |
+| 929/ad       | Brand in gasverdeelstation                    | 28110       | 2026-10-07 | False    |
 | 929/bc       | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
+| 929/bd       | Brand in gasverdeelstation                    | 37825       | 2026-10-07 | False    |
 | 929/cd       | Brand in gasverdeelstation                    | 32510       | 2026-09-01 | False    |
 | 929/abc      | Brand in gasverdeelstation                    | 44325       | 2026-07-12 | False    |
 | 929/abd      | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
@@ -80,6 +85,7 @@ Count: 198
 | 929/ace      | Brand in gasverdeelstation                    | 33160       | 2026-08-14 | False    |
 | 929/bde      | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
 | 929/cde      | Brand in gasverdeelstation                    | 33160       | 2026-10-02 | False    |
+| 948-0        | Brand op windmolenpark                        | 2100        | 2026-10-07 | False    |
 | 961/a        | Toezicht Horeca                               | 9545        | 2026-10-01 | False    |
 | 974/ad       | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |
 | 974/bc       | Ontspoorde tram botst tegen gebouw            | 29225       | 2026-08-28 | False    |
@@ -96,6 +102,7 @@ Count: 198
 | 1034/bh      | Brand in nucleaire installatie                | 91512       | 2026-09-06 | False    |
 | 1034/cf      | Brand in nucleaire installatie                | 77010       | 2026-09-13 | False    |
 | 1034/cg      | Brand in nucleaire installatie                | 77410       | 2026-09-04 | False    |
+| 1034/dg      | Brand in nucleaire installatie                | 72410       | 2026-10-07 | False    |
 | 1034/dh      | Brand in nucleaire installatie                | 71660       | 2026-09-14 | False    |
 | 1034/gh      | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
 | 1034/abf     | Brand in nucleaire installatie                | 92950       | 2026-09-04 | False    |
@@ -114,6 +121,7 @@ Count: 198
 | 1034/def     | Brand in nucleaire installatie                | 73310       | 2026-08-16 | False    |
 | 1034/deh     | Brand in nucleaire installatie                | 72960       | 2026-10-03 | False    |
 | 1034/fgh     | Brand in nucleaire installatie                | 73060       | 2026-10-02 | False    |
+| 1034/abcg    | Brand in nucleaire installatie                | 101450      | 2026-10-07 | False    |
 | 1034/abde    | Brand in nucleaire installatie                | 94825       | 2026-09-15 | False    |
 | 1034/abeh    | Brand in nucleaire installatie                | 94137       | 2026-08-27 | False    |
 | 1034/aceh    | Brand in nucleaire installatie                | 78760       | 2026-07-30 | False    |
@@ -192,6 +200,7 @@ Count: 198
 | 1229/ceg     | Dieseltrein met gevaarlijke stoffen ontspoord | 45390       | 2026-09-22 | False    |
 | 1229/def     | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
 | 1229/deg     | Dieseltrein met gevaarlijke stoffen ontspoord | 45090       | 2026-09-06 | False    |
+| 1229/dfg     | Dieseltrein met gevaarlijke stoffen ontspoord | 48990       | 2026-10-07 | False    |
 | 1229/abce    | Dieseltrein met gevaarlijke stoffen ontspoord | 48175       | 2026-10-06 | False    |
 | 1229/abef    | Dieseltrein met gevaarlijke stoffen ontspoord | 52800       | 2026-08-09 | False    |
 | 1229/abeg    | Dieseltrein met gevaarlijke stoffen ontspoord | 58925       | 2026-09-07 | False    |
