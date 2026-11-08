@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 274
+Count: 273
 
 # Active old-seen missions
 
-Count: 208
+Count: 207
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -21,7 +21,6 @@ Count: 208
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
 | 592          | Brand op bedrijventerrein                     | 12540       | 2026-09-26 | False    |
 | 671-0        | Toezicht Horeca                               | 8745        | 2026-10-07 | False    |
-| 801/a        | Groep kitesurfers in problemen                | 4790        | 2026-10-01 | False    |
 | 837          | Gaslek bedrijventerrein                       | 8580        | 2026-10-05 | False    |
 | 841/b        | Aanrijding met zwaar letsel                   | 6140        | 2026-09-10 | False    |
 | 855/a        | Observatie                                    | 6590        | 2026-10-02 | False    |
