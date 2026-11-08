@@ -1080,7 +1080,7 @@
   "841-0/b": "newly_discovered",
   "841/a": "newly_active",
   "841/ab": "newly_active",
-  "841/b": "old_seen",
+  "841/b": "back_active",
   "842": "newly_active",
   "842-0": "newly_active",
   "843": "newly_active",

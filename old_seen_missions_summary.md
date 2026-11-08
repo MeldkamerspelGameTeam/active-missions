@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 272
+Count: 271
 
 # Active old-seen missions
 
-Count: 206
+Count: 205
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -21,7 +21,6 @@ Count: 206
 | 592          | Brand op bedrijventerrein                     | 12540       | 2026-09-26 | False    |
 | 671-0        | Toezicht Horeca                               | 8745        | 2026-10-07 | False    |
 | 837          | Gaslek bedrijventerrein                       | 8580        | 2026-10-05 | False    |
-| 841/b        | Aanrijding met zwaar letsel                   | 6140        | 2026-09-10 | False    |
 | 855/a        | Observatie                                    | 6590        | 2026-10-02 | False    |
 | 885/ae       | Brand in vuurwerkopslag                       | 50270       | 2026-10-06 | False    |
 | 885/be       | Brand in vuurwerkopslag                       | 65525       | 2026-10-05 | False    |
