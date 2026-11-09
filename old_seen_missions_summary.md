@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 269
+Count: 268
 
 # Active old-seen missions
 
-Count: 203
+Count: 202
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -132,7 +132,6 @@ Count: 203
 | 1104/bcd     | Aanrijding trein & betonmixer                 | 23662       | 2026-09-02 | False    |
 | 1104/bde     | Aanrijding trein & betonmixer                 | 30787       | 2026-09-13 | False    |
 | 1104/abce    | Aanrijding trein & betonmixer                 | 32287       | 2026-10-05 | False    |
-| 1180/a       | Brand in snackbar (Grip 1)                    | 14000       | 2026-10-08 | False    |
 | 1202/b       | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
 | 1203/b       | Brand in ziekenhuis (Grip 2)                  | 20850       | 2026-08-27 | False    |
 | 1203/ab      | Brand in ziekenhuis (Grip 2)                  | 28562       | 2026-10-03 | False    |
