@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 272
+Count: 270
 
 # Active old-seen missions
 
-Count: 206
+Count: 204
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -191,7 +191,6 @@ Count: 206
 | 1229/bce     | Dieseltrein met gevaarlijke stoffen ontspoord | 47175       | 2026-08-08 | False    |
 | 1229/bcf     | Dieseltrein met gevaarlijke stoffen ontspoord | 52050       | 2026-08-31 | False    |
 | 1229/bcg     | Dieseltrein met gevaarlijke stoffen ontspoord | 58175       | 2026-08-16 | False    |
-| 1229/bde     | Dieseltrein met gevaarlijke stoffen ontspoord | 46800       | 2026-09-10 | False    |
 | 1229/bdf     | Dieseltrein met gevaarlijke stoffen ontspoord | 51675       | 2026-07-30 | False    |
 | 1229/bfg     | Dieseltrein met gevaarlijke stoffen ontspoord | 62800       | 2026-10-02 | False    |
 | 1229/cde     | Dieseltrein met gevaarlijke stoffen ontspoord | 36490       | 2026-10-02 | False    |
@@ -212,7 +211,6 @@ Count: 206
 | 1229/bdeg    | Dieseltrein met gevaarlijke stoffen ontspoord | 60050       | 2026-09-01 | False    |
 | 1229/cefg    | Dieseltrein met gevaarlijke stoffen ontspoord | 51090       | 2026-09-08 | False    |
 | 1229/abdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 61050       | 2026-10-02 | False    |
-| 1229/acdfg   | Dieseltrein met gevaarlijke stoffen ontspoord | 51790       | 2026-10-08 | False    |
 | 1246/ac      | Rietkapbrand (Grip 2)                         | 21310       | 2026-10-02 | False    |
 
 # Inactive old-seen missions
