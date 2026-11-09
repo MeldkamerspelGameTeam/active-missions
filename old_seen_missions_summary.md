@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 271
+Count: 275
 
 # Active old-seen missions
 
-Count: 205
+Count: 209
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -15,6 +15,7 @@ Count: 205
 | 252          | Vrachtwagen te water                          | 3830        | 2026-09-26 | False    |
 | 252/a        | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
+| 312/ab       | Lekkende goederenwagon (Groot)                | 7070        | 2026-10-09 | False    |
 | 435          | Lekkende tankwagen                            | 6660        | 2026-10-03 | False    |
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
@@ -81,10 +82,13 @@ Count: 205
 | 929/ace      | Brand in gasverdeelstation                    | 33160       | 2026-08-14 | False    |
 | 929/bde      | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
 | 929/cde      | Brand in gasverdeelstation                    | 33160       | 2026-10-02 | False    |
+| 942/b        | Schoolbus te water                            | 5450        | 2026-10-09 | False    |
 | 948-0        | Brand op windmolenpark                        | 2100        | 2026-10-07 | False    |
 | 961/a        | Toezicht Horeca                               | 9545        | 2026-10-01 | False    |
 | 974/ad       | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |
 | 974/bc       | Ontspoorde tram botst tegen gebouw            | 29225       | 2026-08-28 | False    |
+| 974/abc      | Ontspoorde tram botst tegen gebouw            | 30225       | 2026-10-09 | False    |
+| 974/abd      | Ontspoorde tram botst tegen gebouw            | 37100       | 2026-10-09 | False    |
 | 974/bcd      | Ontspoorde tram botst tegen gebouw            | 37350       | 2026-09-18 | False    |
 | 980          | Uit de hand gelopen manifestatie              | 45080       | 2026-09-17 | False    |
 | 1030/acd     | Brand bij papierrecyclaar                     | 50760       | 2026-08-09 | False    |
