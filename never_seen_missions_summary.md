@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 768
+Count: 767
 
 # Active never-seen missions
 
-Count: 583
+Count: 582
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -355,7 +355,6 @@ Count: 583
 | 1104/bce      | Aanrijding trein & betonmixer                   | 31287       | never     | False    |
 | 1104/acde     | Aanrijding trein & betonmixer                   | 23480       | never     | False    |
 | 1206/b        | Brand in station (Grip 1)                       | 28400       | never     | False    |
-| 1227/ad       | Brand in passagierstrein (Grip 1)               | 28620       | never     | False    |
 | 1228/b        | Trein ontspoord na botsing met goederentrein    | 26940       | never     | False    |
 | 1228/e        | Trein ontspoord na botsing met goederentrein    | 28140       | never     | False    |
 | 1228/f        | Trein ontspoord na botsing met goederentrein    | 28140       | never     | False    |

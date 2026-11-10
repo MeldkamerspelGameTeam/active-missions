@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 268
+Count: 273
 
 # Active old-seen missions
 
-Count: 202
+Count: 207
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -17,10 +17,12 @@ Count: 202
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
 | 312/ab       | Lekkende goederenwagon (Groot)                | 7070        | 2026-10-09 | False    |
 | 435          | Lekkende tankwagen                            | 6660        | 2026-10-03 | False    |
+| 492/a        | Ongeregeldheden voetbalsupporters horeca      | 6810        | 2026-10-10 | False    |
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
 | 671-0        | Toezicht Horeca                               | 8745        | 2026-10-07 | False    |
 | 855/a        | Observatie                                    | 6590        | 2026-10-02 | False    |
+| 885/ac       | Brand in vuurwerkopslag                       | 54670       | 2026-10-10 | False    |
 | 885/ae       | Brand in vuurwerkopslag                       | 50270       | 2026-10-06 | False    |
 | 885/be       | Brand in vuurwerkopslag                       | 65525       | 2026-10-05 | False    |
 | 885/bf       | Brand in vuurwerkopslag                       | 66025       | 2026-09-16 | False    |
@@ -48,6 +50,7 @@ Count: 202
 | 901/dg       | Trein ontspoord                               | 36720       | 2026-09-23 | False    |
 | 901/eg       | Trein ontspoord                               | 35920       | 2026-08-28 | False    |
 | 901/abc      | Trein ontspoord                               | 35837       | 2026-08-06 | False    |
+| 901/ade      | Trein ontspoord                               | 27720       | 2026-10-10 | False    |
 | 901/bcg      | Trein ontspoord                               | 48337       | 2026-09-10 | False    |
 | 901/cdf      | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
 | 901/cef      | Trein ontspoord                               | 37337       | 2026-08-28 | False    |
@@ -92,6 +95,7 @@ Count: 202
 | 1030/acd     | Brand bij papierrecyclaar                     | 50760       | 2026-08-09 | False    |
 | 1030/bcd     | Brand bij papierrecyclaar                     | 66137       | 2026-08-19 | False    |
 | 1034/ac      | Brand in nucleaire installatie                | 76610       | 2026-08-27 | False    |
+| 1034/ad      | Brand in nucleaire installatie                | 71610       | 2026-10-10 | False    |
 | 1034/ae      | Brand in nucleaire installatie                | 71510       | 2026-09-08 | False    |
 | 1034/af      | Brand in nucleaire installatie                | 71410       | 2026-08-11 | False    |
 | 1034/ag      | Brand in nucleaire installatie                | 71810       | 2026-10-05 | False    |
@@ -166,6 +170,7 @@ Count: 202
 | 1228/abcdfg  | Trein ontspoord na botsing met goederentrein  | 45112       | 2026-07-24 | False    |
 | 1228/bcdefg  | Trein ontspoord na botsing met goederentrein  | 46612       | 2026-08-04 | False    |
 | 1228/bcdefh  | Trein ontspoord na botsing met goederentrein  | 58925       | 2026-09-12 | False    |
+| 1228/bcdfgh  | Trein ontspoord na botsing met goederentrein  | 58425       | 2026-10-10 | False    |
 | 1228/bcdefgh | Trein ontspoord na botsing met goederentrein  | 60925       | 2026-09-19 | False    |
 | 1229/e       | Dieseltrein met gevaarlijke stoffen ontspoord | 32790       | 2026-08-15 | False    |
 | 1229/ac      | Dieseltrein met gevaarlijke stoffen ontspoord | 33790       | 2026-08-29 | False    |
