@@ -490,7 +490,7 @@ Count: 10
 | 861    | Onderkoeling na zwemmen in koud water                              | None        | 2026-11-11 | False    |
 | 862    | Ongeluk op mistige weg                                             | 1580        | 2026-11-11 | False    |
 | 863    | Ongeluk met overstekend hert                                       | 1750        | 2026-11-11 | False    |
-| 864    | Brandende hoop bladeren                                            | 670         | 2026-11-11 | False    |
+| 864    | Brandende hoop bladeren                                            | 670         | 2026-11-12 | False    |
 | 865    | Bladeren op spoor                                                  | 1080        | 2026-11-11 | False    |
 
 ## Start: 2026-10-16T09:00:00Z | End: 2026-11-01T23:59:59+01:00 | Count: 16
