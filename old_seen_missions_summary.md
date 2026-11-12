@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 274
+Count: 279
 
 # Active old-seen missions
 
-Count: 208
+Count: 213
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -24,6 +24,7 @@ Count: 208
 | 855/a        | Observatie                                    | 6590        | 2026-10-02 | False    |
 | 885/ac       | Brand in vuurwerkopslag                       | 54670       | 2026-10-10 | False    |
 | 885/ae       | Brand in vuurwerkopslag                       | 50270       | 2026-10-06 | False    |
+| 885/bd       | Brand in vuurwerkopslag                       | 65337       | 2026-10-12 | False    |
 | 885/be       | Brand in vuurwerkopslag                       | 65525       | 2026-10-05 | False    |
 | 885/bf       | Brand in vuurwerkopslag                       | 66025       | 2026-09-16 | False    |
 | 885/ce       | Brand in vuurwerkopslag                       | 54670       | 2026-10-02 | False    |
@@ -51,6 +52,8 @@ Count: 208
 | 901/eg       | Trein ontspoord                               | 35920       | 2026-08-28 | False    |
 | 901/abc      | Trein ontspoord                               | 35837       | 2026-08-06 | False    |
 | 901/ade      | Trein ontspoord                               | 27720       | 2026-10-10 | False    |
+| 901/bcd      | Trein ontspoord                               | 37087       | 2026-10-12 | False    |
+| 901/bcf      | Trein ontspoord                               | 37087       | 2026-10-12 | False    |
 | 901/bcg      | Trein ontspoord                               | 48337       | 2026-09-10 | False    |
 | 901/cdf      | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
 | 901/cef      | Trein ontspoord                               | 37337       | 2026-08-28 | False    |
@@ -106,6 +109,7 @@ Count: 208
 | 1034/cf      | Brand in nucleaire installatie                | 77010       | 2026-09-13 | False    |
 | 1034/dg      | Brand in nucleaire installatie                | 72410       | 2026-10-07 | False    |
 | 1034/dh      | Brand in nucleaire installatie                | 71660       | 2026-09-14 | False    |
+| 1034/fh      | Brand in nucleaire installatie                | 71460       | 2026-10-12 | False    |
 | 1034/gh      | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
 | 1034/abf     | Brand in nucleaire installatie                | 92950       | 2026-09-04 | False    |
 | 1034/acd     | Brand in nucleaire installatie                | 78010       | 2026-09-09 | False    |
@@ -160,6 +164,7 @@ Count: 208
 | 1228/bdg     | Trein ontspoord na botsing met goederentrein  | 30340       | 2026-08-06 | False    |
 | 1228/cdf     | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
 | 1228/cfh     | Trein ontspoord na botsing met goederentrein  | 53175       | 2026-09-08 | False    |
+| 1228/bdef    | Trein ontspoord na botsing met goederentrein  | 32740       | 2026-10-12 | False    |
 | 1228/befg    | Trein ontspoord na botsing met goederentrein  | 32540       | 2026-08-06 | False    |
 | 1228/cdfg    | Trein ontspoord na botsing met goederentrein  | 43112       | 2026-09-24 | False    |
 | 1228/dfgh    | Trein ontspoord na botsing met goederentrein  | 42990       | 2026-08-11 | False    |
