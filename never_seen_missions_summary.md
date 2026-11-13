@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 763
+Count: 756
 
 # Active never-seen missions
 
-Count: 578
+Count: 581
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -12,9 +12,12 @@ Count: 578
 | 41            | Brand in kantoorpand                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                  | 12030       | never     | False    |
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
+| 163           | Piet bestolen                                   | 500         | never     | False    |
+| 166           | Toezicht manifestatie pietendiscussie           | 29430       | never     | False    |
 | 183/b         | Paard in sloot                                  | 1600        | never     | False    |
 | 183/ab        | Paard in sloot                                  | 2100        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
+| 253           | Grote boek van Sinterklaas aangespoeld          | 1570        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                     | 11050       | never     | False    |
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                     | 14562       | never     | False    |
@@ -589,19 +592,10 @@ Count: 578
 
 # Inactive never-seen missions
 
-Count: 185
+Count: 175
 
 | ID     | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | --------- | -------- |
-| 160    | Brandende cadeautjes                                               | 500         | never     | True     |
-| 161    | Sinterklaas van dak gegleden                                       | None        | never     | True     |
-| 162    | Pepernoot op hoofd                                                 | None        | never     | True     |
-| 163    | Piet bestolen                                                      | 500         | never     | True     |
-| 164    | Kind geschrokken                                                   | None        | never     | True     |
-| 165    | Piet klem in schoorsteen                                           | 670         | never     | True     |
-| 166    | Toezicht manifestatie pietendiscussie                              | 29430       | never     | True     |
-| 167    | Schoenen dief                                                      | 500         | never     | True     |
-| 168    | Verstikking in pepernoot                                           | 500         | never     | True     |
 | 169    | Brandende kerstboom                                                | 500         | never     | True     |
 | 170    | Brandende kerstboom                                                | 500         | never     | True     |
 | 171    | Verkeersongeval door gladheid                                      | 1010        | never     | True     |
@@ -613,7 +607,6 @@ Count: 185
 | 177    | Gevallen persoon door gladheid                                     | None        | never     | True     |
 | 178    | Donkere dagen offensief                                            | 670         | never     | True     |
 | 179    | Snijwond door gebroken kerstbal                                    | None        | never     | True     |
-| 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | never     | True     |
 | 371    | Verlaten slee langs waterkant                                      | 1510        | never     | True     |
 | 372    | Brandende kerststal                                                | 500         | never     | True     |
 | 373    | Brandwonden door gourmetstel                                       | None        | never     | True     |

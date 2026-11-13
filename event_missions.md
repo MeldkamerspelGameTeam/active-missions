@@ -2,7 +2,7 @@
 
 Event missions: 277
 
-Active: 10 | Inactive: 267
+Active: 20 | Inactive: 257
 
 Date window groups: 26
 
@@ -44,25 +44,6 @@ Count: 2
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
 | 1096   | Waterredding vereist bij zeilevenement                             | 1230        | never      | True     |
 | 1097   | Boze toeschouwer bij sportzwembad                                  | 670         | never      | True     |
-
-## Start: 2025-11-14T10:00:00Z | End: 2025-12-06T23:59:59Z | Count: 10
-
-# Missions
-
-Count: 10
-
-| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 160    | Brandende cadeautjes                                               | 500         | never      | True     |
-| 161    | Sinterklaas van dak gegleden                                       | None        | never      | True     |
-| 162    | Pepernoot op hoofd                                                 | None        | never      | True     |
-| 163    | Piet bestolen                                                      | 500         | never      | True     |
-| 164    | Kind geschrokken                                                   | None        | never      | True     |
-| 165    | Piet klem in schoorsteen                                           | 670         | never      | True     |
-| 166    | Toezicht manifestatie pietendiscussie                              | 29430       | never      | True     |
-| 167    | Schoenen dief                                                      | 500         | never      | True     |
-| 168    | Verstikking in pepernoot                                           | 500         | never      | True     |
-| 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | never      | True     |
 
 ## Start: 2025-12-01T10:00:00Z | End: 2025-12-26T23:59:59+01:00 | Count: 29
 
@@ -517,3 +498,22 @@ Count: 16
 | 1175   | Babbeltruc door spokenjagers                                       | 1200        | 2026-11-02 | True     |
 | 1176   | Heks op bezem botst tegen een woning                               | 1200        | 2026-11-02 | True     |
 | 1177   | Massale paniek bij halloween parade                                | 5200        | 2026-11-02 | True     |
+
+## Start: 2026-11-13T10:00:00Z | End: 2026-12-06T23:59:59Z | Count: 10
+
+# Missions
+
+Count: 10
+
+| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
+| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
+| 160    | Brandende cadeautjes                                               | 500         | 2026-11-13 | False    |
+| 161    | Sinterklaas van dak gegleden                                       | None        | 2026-11-13 | False    |
+| 162    | Pepernoot op hoofd                                                 | None        | 2026-11-13 | False    |
+| 163    | Piet bestolen                                                      | 500         | never      | False    |
+| 164    | Kind geschrokken                                                   | None        | 2026-11-13 | False    |
+| 165    | Piet klem in schoorsteen                                           | 670         | 2026-11-13 | False    |
+| 166    | Toezicht manifestatie pietendiscussie                              | 29430       | never      | False    |
+| 167    | Schoenen dief                                                      | 500         | 2026-11-13 | False    |
+| 168    | Verstikking in pepernoot                                           | 500         | 2026-11-13 | False    |
+| 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | never      | False    |
