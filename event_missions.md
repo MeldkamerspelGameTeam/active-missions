@@ -510,7 +510,7 @@ Count: 10
 | 160    | Brandende cadeautjes                                               | 500         | 2026-11-13 | False    |
 | 161    | Sinterklaas van dak gegleden                                       | None        | 2026-11-13 | False    |
 | 162    | Pepernoot op hoofd                                                 | None        | 2026-11-13 | False    |
-| 163    | Piet bestolen                                                      | 500         | never      | False    |
+| 163    | Piet bestolen                                                      | 500         | 2026-11-13 | False    |
 | 164    | Kind geschrokken                                                   | None        | 2026-11-13 | False    |
 | 165    | Piet klem in schoorsteen                                           | 670         | 2026-11-13 | False    |
 | 166    | Toezicht manifestatie pietendiscussie                              | 29430       | never      | False    |

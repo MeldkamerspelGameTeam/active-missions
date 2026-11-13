@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 756
+Count: 755
 
 # Active never-seen missions
 
-Count: 581
+Count: 580
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -12,7 +12,6 @@ Count: 581
 | 41            | Brand in kantoorpand                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                  | 12030       | never     | False    |
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
-| 163           | Piet bestolen                                   | 500         | never     | False    |
 | 166           | Toezicht manifestatie pietendiscussie           | 29430       | never     | False    |
 | 183/b         | Paard in sloot                                  | 1600        | never     | False    |
 | 183/ab        | Paard in sloot                                  | 2100        | never     | False    |
