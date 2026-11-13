@@ -513,7 +513,7 @@ Count: 10
 | 163    | Piet bestolen                                                      | 500         | 2026-11-13 | False    |
 | 164    | Kind geschrokken                                                   | None        | 2026-11-13 | False    |
 | 165    | Piet klem in schoorsteen                                           | 670         | 2026-11-13 | False    |
-| 166    | Toezicht manifestatie pietendiscussie                              | 29430       | never      | False    |
+| 166    | Toezicht manifestatie pietendiscussie                              | 29430       | 2026-11-13 | False    |
 | 167    | Schoenen dief                                                      | 500         | 2026-11-13 | False    |
 | 168    | Verstikking in pepernoot                                           | 500         | 2026-11-13 | False    |
 | 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | never      | False    |
