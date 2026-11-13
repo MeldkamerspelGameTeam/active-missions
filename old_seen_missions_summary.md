@@ -1,23 +1,26 @@
 # Old seen missions (older than 30 days)
 
-Count: 278
+Count: 283
 
 # Active old-seen missions
 
-Count: 212
+Count: 217
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
+| 59           | Brand in opslagloods                          | 13710       | 2026-10-13 | False    |
+| 117-0        | Voetbalwedstrijd, risicowedstrijd             | 20910       | 2026-10-13 | False    |
 | 145          | Natuurbrand                                   | 70194       | 2026-10-03 | False    |
 | 181/a        | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab       | Verkeersongeval met beknelling                | 3290        | 2026-10-05 | False    |
 | 208          | Personenauto te water                         | 4350        | 2026-10-06 | False    |
+| 234          | Vliegtuig neergestort                         | 15120       | 2026-10-13 | False    |
 | 252          | Vrachtwagen te water                          | 3830        | 2026-09-26 | False    |
 | 252/a        | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
 | 312/ab       | Lekkende goederenwagon (Groot)                | 7070        | 2026-10-09 | False    |
+| 347          | Brand bij afvalverwerker                      | 17500       | 2026-10-13 | False    |
 | 435          | Lekkende tankwagen                            | 6660        | 2026-10-03 | False    |
-| 492/a        | Ongeregeldheden voetbalsupporters horeca      | 6810        | 2026-10-10 | False    |
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
 | 671-0        | Toezicht Horeca                               | 8745        | 2026-10-07 | False    |
@@ -109,6 +112,7 @@ Count: 212
 | 1034/cf      | Brand in nucleaire installatie                | 77010       | 2026-09-13 | False    |
 | 1034/dg      | Brand in nucleaire installatie                | 72410       | 2026-10-07 | False    |
 | 1034/dh      | Brand in nucleaire installatie                | 71660       | 2026-09-14 | False    |
+| 1034/ef      | Brand in nucleaire installatie                | 71910       | 2026-10-13 | False    |
 | 1034/fh      | Brand in nucleaire installatie                | 71460       | 2026-10-12 | False    |
 | 1034/gh      | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
 | 1034/abf     | Brand in nucleaire installatie                | 92950       | 2026-09-04 | False    |
@@ -190,6 +194,7 @@ Count: 212
 | 1229/df      | Dieseltrein met gevaarlijke stoffen ontspoord | 38390       | 2026-08-16 | False    |
 | 1229/abd     | Dieseltrein met gevaarlijke stoffen ontspoord | 45550       | 2026-09-14 | False    |
 | 1229/abe     | Dieseltrein met gevaarlijke stoffen ontspoord | 45675       | 2026-07-29 | False    |
+| 1229/abg     | Dieseltrein met gevaarlijke stoffen ontspoord | 56675       | 2026-10-13 | False    |
 | 1229/acd     | Dieseltrein met gevaarlijke stoffen ontspoord | 35490       | 2026-08-23 | False    |
 | 1229/ace     | Dieseltrein met gevaarlijke stoffen ontspoord | 35590       | 2026-07-31 | False    |
 | 1229/acf     | Dieseltrein met gevaarlijke stoffen ontspoord | 39490       | 2026-09-08 | False    |
