@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 281
+Count: 280
 
 # Active old-seen missions
 
-Count: 215
+Count: 214
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -89,7 +89,6 @@ Count: 215
 | 929/ace      | Brand in gasverdeelstation                    | 33160       | 2026-08-14 | False    |
 | 929/bde      | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
 | 929/cde      | Brand in gasverdeelstation                    | 33160       | 2026-10-02 | False    |
-| 942/b        | Schoolbus te water                            | 5450        | 2026-10-09 | False    |
 | 961/a        | Toezicht Horeca                               | 9545        | 2026-10-01 | False    |
 | 974/d        | Ontspoorde tram botst tegen gebouw            | 25930       | 2026-10-11 | False    |
 | 974/ad       | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |

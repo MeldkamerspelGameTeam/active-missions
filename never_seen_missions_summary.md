@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 754
+Count: 752
 
 # Active never-seen missions
 
-Count: 579
+Count: 577
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -12,7 +12,6 @@ Count: 579
 | 41            | Brand in kantoorpand                            | 22380       | never     | False    |
 | 43            | Kettingbotsing                                  | 12030       | never     | False    |
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
-| 183/b         | Paard in sloot                                  | 1600        | never     | False    |
 | 183/ab        | Paard in sloot                                  | 2100        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
 | 253           | Grote boek van Sinterklaas aangespoeld          | 1570        | never     | False    |
@@ -134,7 +133,6 @@ Count: 579
 | 901/abcdeg    | Trein ontspoord                                 | 52837       | never     | False    |
 | 901/abcdfg    | Trein ontspoord                                 | 53837       | never     | False    |
 | 901/abcefg    | Trein ontspoord                                 | 52837       | never     | False    |
-| 901/abdefg    | Trein ontspoord                                 | 41120       | never     | False    |
 | 929/ade       | Brand in gasverdeelstation                      | 28760       | never     | False    |
 | 929/bcd       | Brand in gasverdeelstation                      | 44325       | never     | False    |
 | 929/bce       | Brand in gasverdeelstation                      | 44137       | never     | False    |
