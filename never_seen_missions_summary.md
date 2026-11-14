@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 752
+Count: 751
 
 # Active never-seen missions
 
-Count: 577
+Count: 576
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -14,7 +14,6 @@ Count: 577
 | 125           | Vermist persoon                                 | 3500        | never     | False    |
 | 183/ab        | Paard in sloot                                  | 2100        | never     | False    |
 | 203           | Verkeersongeval met gevaarlijke stoffen (Klein) | 2240        | never     | False    |
-| 253           | Grote boek van Sinterklaas aangespoeld          | 1570        | never     | False    |
 | 346           | Brand in opslagloods met gevaarlijke stoffen    | 65350       | never     | False    |
 | 428-0         | Brand in bouwmarkt (Grip 1)                     | 11050       | never     | False    |
 | 428-0/a       | Brand in bouwmarkt (Grip 1)                     | 14562       | never     | False    |

@@ -516,4 +516,4 @@ Count: 10
 | 166    | Toezicht manifestatie pietendiscussie                              | 29430       | 2026-11-13 | False    |
 | 167    | Schoenen dief                                                      | 500         | 2026-11-14 | False    |
 | 168    | Verstikking in pepernoot                                           | 500         | 2026-11-14 | False    |
-| 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | never      | False    |
+| 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | 2026-11-14 | False    |
