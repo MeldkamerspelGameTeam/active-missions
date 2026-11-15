@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 275
+Count: 272
 
 # Active old-seen missions
 
-Count: 209
+Count: 206
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -15,7 +15,6 @@ Count: 209
 | 181/ab       | Verkeersongeval met beknelling                | 3290        | 2026-10-05 | False    |
 | 208          | Personenauto te water                         | 4350        | 2026-10-06 | False    |
 | 234          | Vliegtuig neergestort                         | 15120       | 2026-10-13 | False    |
-| 252          | Vrachtwagen te water                          | 3830        | 2026-09-26 | False    |
 | 252/a        | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
 | 312/ab       | Lekkende goederenwagon (Groot)                | 7070        | 2026-10-09 | False    |
@@ -40,7 +39,6 @@ Count: 209
 | 892          | 1000 Politiebureau mijlpaal                   | 50000       | 2026-06-21 | False    |
 | 897/a        | Rellen na stadsderby                          | 16755       | 2026-09-04 | False    |
 | 897-0/a      | Rellen na stadsderby                          | 17355       | 2026-08-27 | False    |
-| 897-1/a      | Rellen na stadsderby                          | 18355       | 2026-08-28 | False    |
 | 897-2/a      | Rellen na stadsderby                          | 19355       | 2026-06-30 | False    |
 | 899/a        | Aanrijding bus en tram                        | 10620       | 2026-09-28 | False    |
 | 901          | Trein ontspoord                               | 24120       | 2026-07-23 | False    |
@@ -192,7 +190,6 @@ Count: 209
 | 1229/adf     | Dieseltrein met gevaarlijke stoffen ontspoord | 39190       | 2026-10-05 | False    |
 | 1229/aef     | Dieseltrein met gevaarlijke stoffen ontspoord | 39290       | 2026-09-20 | False    |
 | 1229/bcd     | Dieseltrein met gevaarlijke stoffen ontspoord | 47050       | 2026-08-21 | False    |
-| 1229/bce     | Dieseltrein met gevaarlijke stoffen ontspoord | 47175       | 2026-08-08 | False    |
 | 1229/bcg     | Dieseltrein met gevaarlijke stoffen ontspoord | 58175       | 2026-08-16 | False    |
 | 1229/bdf     | Dieseltrein met gevaarlijke stoffen ontspoord | 51675       | 2026-07-30 | False    |
 | 1229/bfg     | Dieseltrein met gevaarlijke stoffen ontspoord | 62800       | 2026-10-02 | False    |
