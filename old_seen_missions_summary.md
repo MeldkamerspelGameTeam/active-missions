@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 277
+Count: 276
 
 # Active old-seen missions
 
-Count: 211
+Count: 210
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -94,7 +94,6 @@ Count: 211
 | 980          | Uit de hand gelopen manifestatie              | 45080       | 2026-09-17 | False    |
 | 1030/acd     | Brand bij papierrecyclaar                     | 50760       | 2026-08-09 | False    |
 | 1030/bcd     | Brand bij papierrecyclaar                     | 66137       | 2026-08-19 | False    |
-| 1034/ac      | Brand in nucleaire installatie                | 76610       | 2026-08-27 | False    |
 | 1034/ad      | Brand in nucleaire installatie                | 71610       | 2026-10-10 | False    |
 | 1034/ae      | Brand in nucleaire installatie                | 71510       | 2026-09-08 | False    |
 | 1034/ag      | Brand in nucleaire installatie                | 71810       | 2026-10-05 | False    |
