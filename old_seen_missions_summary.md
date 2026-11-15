@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 280
+Count: 278
 
 # Active old-seen missions
 
-Count: 214
+Count: 212
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -72,7 +72,6 @@ Count: 214
 | 901/abcdf    | Trein ontspoord                               | 40337       | 2026-09-23 | False    |
 | 901/abcef    | Trein ontspoord                               | 39337       | 2026-10-07 | False    |
 | 901/acdef    | Trein ontspoord                               | 40587       | 2026-09-15 | False    |
-| 901/bcdef    | Trein ontspoord                               | 40587       | 2026-10-05 | False    |
 | 901/bcdeg    | Trein ontspoord                               | 51837       | 2026-08-15 | False    |
 | 901/bdefg    | Trein ontspoord                               | 40320       | 2026-09-23 | False    |
 | 929/ab       | Brand in gasverdeelstation                    | 37825       | 2026-10-05 | False    |
@@ -165,7 +164,6 @@ Count: 214
 | 1228/befg    | Trein ontspoord na botsing met goederentrein  | 32540       | 2026-08-06 | False    |
 | 1228/cdfg    | Trein ontspoord na botsing met goederentrein  | 43112       | 2026-09-24 | False    |
 | 1228/dfgh    | Trein ontspoord na botsing met goederentrein  | 42990       | 2026-08-11 | False    |
-| 1228/abcdg   | Trein ontspoord na botsing met goederentrein  | 42612       | 2026-08-06 | False    |
 | 1228/abcfg   | Trein ontspoord na botsing met goederentrein  | 42862       | 2026-09-27 | False    |
 | 1228/abdfg   | Trein ontspoord na botsing met goederentrein  | 33140       | 2026-08-23 | False    |
 | 1228/bcdfg   | Trein ontspoord na botsing met goederentrein  | 44112       | 2026-08-18 | False    |
