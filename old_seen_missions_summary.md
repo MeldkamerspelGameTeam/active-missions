@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 275
+Count: 273
 
 # Active old-seen missions
 
-Count: 209
+Count: 207
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -101,7 +101,6 @@ Count: 209
 | 1034/bf      | Brand in nucleaire installatie                | 91950       | 2026-09-13 | False    |
 | 1034/bh      | Brand in nucleaire installatie                | 91512       | 2026-09-06 | False    |
 | 1034/dg      | Brand in nucleaire installatie                | 72410       | 2026-10-07 | False    |
-| 1034/dh      | Brand in nucleaire installatie                | 71660       | 2026-09-14 | False    |
 | 1034/ef      | Brand in nucleaire installatie                | 71910       | 2026-10-13 | False    |
 | 1034/fh      | Brand in nucleaire installatie                | 71460       | 2026-10-12 | False    |
 | 1034/gh      | Brand in nucleaire installatie                | 71860       | 2026-07-26 | False    |
@@ -135,7 +134,6 @@ Count: 209
 | 1104/ade     | Aanrijding trein & betonmixer                 | 22480       | 2026-10-11 | False    |
 | 1104/bcd     | Aanrijding trein & betonmixer                 | 23662       | 2026-09-02 | False    |
 | 1104/bde     | Aanrijding trein & betonmixer                 | 30787       | 2026-09-13 | False    |
-| 1104/abce    | Aanrijding trein & betonmixer                 | 32287       | 2026-10-05 | False    |
 | 1202/b       | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
 | 1203/b       | Brand in ziekenhuis (Grip 2)                  | 20850       | 2026-08-27 | False    |
 | 1203/ab      | Brand in ziekenhuis (Grip 2)                  | 28562       | 2026-10-03 | False    |
