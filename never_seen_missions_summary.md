@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 751
+Count: 819
 
 # Active never-seen missions
 
-Count: 576
+Count: 644
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -584,6 +584,74 @@ Count: 576
 | 1229/befg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 65050       | never     | False    |
 | 1229/abdfg    | Dieseltrein met gevaarlijke stoffen ontspoord   | 65925       | never     | False    |
 | 1255/c        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16410       | never     | False    |
+| 1262          | Dijk dreigt door te breken                      | 10490       | never     | False    |
+| 1262/a        | Dijk dreigt door te breken                      | 15550       | never     | False    |
+| 1262/b        | Dijk dreigt door te breken                      | 11290       | never     | False    |
+| 1262/ab       | Dijk dreigt door te breken                      | 16550       | never     | False    |
+| 1263          | Dijkdoorbraak                                   | 44910       | never     | False    |
+| 1263/a        | Dijkdoorbraak                                   | 46510       | never     | False    |
+| 1263/b        | Dijkdoorbraak                                   | 45710       | never     | False    |
+| 1263/c        | Dijkdoorbraak                                   | 58575       | never     | False    |
+| 1263/d        | Dijkdoorbraak                                   | 45990       | never     | False    |
+| 1263/e        | Dijkdoorbraak                                   | 50310       | never     | False    |
+| 1263/f        | Dijkdoorbraak                                   | 46310       | never     | False    |
+| 1263/ab       | Dijkdoorbraak                                   | 47310       | never     | False    |
+| 1263/ac       | Dijkdoorbraak                                   | 60575       | never     | False    |
+| 1263/ad       | Dijkdoorbraak                                   | 47590       | never     | False    |
+| 1263/ae       | Dijkdoorbraak                                   | 51910       | never     | False    |
+| 1263/af       | Dijkdoorbraak                                   | 47910       | never     | False    |
+| 1263/bc       | Dijkdoorbraak                                   | 59575       | never     | False    |
+| 1263/bd       | Dijkdoorbraak                                   | 46790       | never     | False    |
+| 1263/be       | Dijkdoorbraak                                   | 51110       | never     | False    |
+| 1263/bf       | Dijkdoorbraak                                   | 47110       | never     | False    |
+| 1263/cd       | Dijkdoorbraak                                   | 59925       | never     | False    |
+| 1263/ce       | Dijkdoorbraak                                   | 65325       | never     | False    |
+| 1263/cf       | Dijkdoorbraak                                   | 60325       | never     | False    |
+| 1263/de       | Dijkdoorbraak                                   | 51390       | never     | False    |
+| 1263/df       | Dijkdoorbraak                                   | 47390       | never     | False    |
+| 1263/ef       | Dijkdoorbraak                                   | 51710       | never     | False    |
+| 1263/abc      | Dijkdoorbraak                                   | 61575       | never     | False    |
+| 1263/abd      | Dijkdoorbraak                                   | 48390       | never     | False    |
+| 1263/abe      | Dijkdoorbraak                                   | 52710       | never     | False    |
+| 1263/abf      | Dijkdoorbraak                                   | 48710       | never     | False    |
+| 1263/acd      | Dijkdoorbraak                                   | 61925       | never     | False    |
+| 1263/ace      | Dijkdoorbraak                                   | 67325       | never     | False    |
+| 1263/acf      | Dijkdoorbraak                                   | 62325       | never     | False    |
+| 1263/ade      | Dijkdoorbraak                                   | 52990       | never     | False    |
+| 1263/adf      | Dijkdoorbraak                                   | 48990       | never     | False    |
+| 1263/aef      | Dijkdoorbraak                                   | 53310       | never     | False    |
+| 1263/bcd      | Dijkdoorbraak                                   | 60925       | never     | False    |
+| 1263/bce      | Dijkdoorbraak                                   | 66325       | never     | False    |
+| 1263/bcf      | Dijkdoorbraak                                   | 61325       | never     | False    |
+| 1263/bde      | Dijkdoorbraak                                   | 52190       | never     | False    |
+| 1263/bdf      | Dijkdoorbraak                                   | 48190       | never     | False    |
+| 1263/bef      | Dijkdoorbraak                                   | 52510       | never     | False    |
+| 1263/cde      | Dijkdoorbraak                                   | 66675       | never     | False    |
+| 1263/cdf      | Dijkdoorbraak                                   | 61675       | never     | False    |
+| 1263/cef      | Dijkdoorbraak                                   | 67075       | never     | False    |
+| 1263/def      | Dijkdoorbraak                                   | 52790       | never     | False    |
+| 1263/abcd     | Dijkdoorbraak                                   | 62925       | never     | False    |
+| 1263/abce     | Dijkdoorbraak                                   | 68325       | never     | False    |
+| 1263/abcf     | Dijkdoorbraak                                   | 63325       | never     | False    |
+| 1263/abde     | Dijkdoorbraak                                   | 53790       | never     | False    |
+| 1263/abdf     | Dijkdoorbraak                                   | 49790       | never     | False    |
+| 1263/abef     | Dijkdoorbraak                                   | 54110       | never     | False    |
+| 1263/acde     | Dijkdoorbraak                                   | 68675       | never     | False    |
+| 1263/acdf     | Dijkdoorbraak                                   | 63675       | never     | False    |
+| 1263/acef     | Dijkdoorbraak                                   | 69075       | never     | False    |
+| 1263/adef     | Dijkdoorbraak                                   | 54390       | never     | False    |
+| 1263/bcde     | Dijkdoorbraak                                   | 67675       | never     | False    |
+| 1263/bcdf     | Dijkdoorbraak                                   | 62675       | never     | False    |
+| 1263/bcef     | Dijkdoorbraak                                   | 68075       | never     | False    |
+| 1263/bdef     | Dijkdoorbraak                                   | 53590       | never     | False    |
+| 1263/cdef     | Dijkdoorbraak                                   | 68425       | never     | False    |
+| 1263/abcde    | Dijkdoorbraak                                   | 69675       | never     | False    |
+| 1263/abcdf    | Dijkdoorbraak                                   | 64675       | never     | False    |
+| 1263/abcef    | Dijkdoorbraak                                   | 70075       | never     | False    |
+| 1263/abdef    | Dijkdoorbraak                                   | 55190       | never     | False    |
+| 1263/acdef    | Dijkdoorbraak                                   | 70425       | never     | False    |
+| 1263/bcdef    | Dijkdoorbraak                                   | 69425       | never     | False    |
+| 1263/abcdef   | Dijkdoorbraak                                   | 71425       | never     | False    |
 
 # Inactive never-seen missions
 
