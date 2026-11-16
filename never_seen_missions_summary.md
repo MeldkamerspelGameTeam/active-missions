@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 818
+Count: 817
 
 # Active never-seen missions
 
-Count: 643
+Count: 642
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -586,7 +586,6 @@ Count: 643
 | 1255/c        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16410       | never     | False    |
 | 1262          | Dijk dreigt door te breken                      | 10490       | never     | False    |
 | 1262/a        | Dijk dreigt door te breken                      | 15550       | never     | False    |
-| 1262/b        | Dijk dreigt door te breken                      | 11290       | never     | False    |
 | 1262/ab       | Dijk dreigt door te breken                      | 16550       | never     | False    |
 | 1263          | Dijkdoorbraak                                   | 44910       | never     | False    |
 | 1263/a        | Dijkdoorbraak                                   | 46510       | never     | False    |
