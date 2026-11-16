@@ -1,14 +1,15 @@
 # Old seen missions (older than 30 days)
 
-Count: 272
+Count: 277
 
 # Active old-seen missions
 
-Count: 206
+Count: 211
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
 | 59           | Brand in opslagloods                          | 13710       | 2026-10-13 | False    |
+| 100/abc      | Ammoniakalarm in opslagloods                  | 9820        | 2026-10-16 | False    |
 | 117-0        | Voetbalwedstrijd, risicowedstrijd             | 20910       | 2026-10-13 | False    |
 | 145          | Natuurbrand                                   | 70194       | 2026-10-03 | False    |
 | 181/a        | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
@@ -83,6 +84,7 @@ Count: 206
 | 929/ace      | Brand in gasverdeelstation                    | 33160       | 2026-08-14 | False    |
 | 929/bde      | Brand in gasverdeelstation                    | 38637       | 2026-07-21 | False    |
 | 929/cde      | Brand in gasverdeelstation                    | 33160       | 2026-10-02 | False    |
+| 942/ab       | Schoolbus te water                            | 5750        | 2026-10-16 | False    |
 | 961/a        | Toezicht Horeca                               | 9545        | 2026-10-01 | False    |
 | 974/d        | Ontspoorde tram botst tegen gebouw            | 25930       | 2026-10-11 | False    |
 | 974/ad       | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |
@@ -94,6 +96,7 @@ Count: 206
 | 1034/ad      | Brand in nucleaire installatie                | 71610       | 2026-10-10 | False    |
 | 1034/ae      | Brand in nucleaire installatie                | 71510       | 2026-09-08 | False    |
 | 1034/ag      | Brand in nucleaire installatie                | 71810       | 2026-10-05 | False    |
+| 1034/ah      | Brand in nucleaire installatie                | 71060       | 2026-10-16 | False    |
 | 1034/bd      | Brand in nucleaire installatie                | 92200       | 2026-09-07 | False    |
 | 1034/bf      | Brand in nucleaire installatie                | 91950       | 2026-09-13 | False    |
 | 1034/bh      | Brand in nucleaire installatie                | 91512       | 2026-09-06 | False    |
@@ -150,6 +153,7 @@ Count: 206
 | 1228/bf      | Trein ontspoord na botsing met goederentrein  | 28940       | 2026-08-26 | False    |
 | 1228/dg      | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-09-27 | False    |
 | 1228/abd     | Trein ontspoord na botsing met goederentrein  | 29540       | 2026-07-29 | False    |
+| 1228/acd     | Trein ontspoord na botsing met goederentrein  | 39612       | 2026-10-16 | False    |
 | 1228/bcd     | Trein ontspoord na botsing met goederentrein  | 39612       | 2026-09-27 | False    |
 | 1228/bdf     | Trein ontspoord na botsing met goederentrein  | 30740       | 2026-09-25 | False    |
 | 1228/bdg     | Trein ontspoord na botsing met goederentrein  | 30340       | 2026-08-06 | False    |
@@ -214,6 +218,7 @@ Count: 206
 | 1229/defg    | Dieseltrein met gevaarlijke stoffen ontspoord | 50790       | 2026-10-15 | False    |
 | 1229/abdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 61050       | 2026-10-02 | False    |
 | 1246/ac      | Rietkapbrand (Grip 2)                         | 21310       | 2026-10-02 | False    |
+| 1259/a       | Ezel in sloot                                 | 1410        | 2026-10-16 | False    |
 
 # Inactive old-seen missions
 
