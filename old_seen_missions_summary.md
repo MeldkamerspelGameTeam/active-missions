@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 275
+Count: 273
 
 # Active old-seen missions
 
-Count: 209
+Count: 207
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -51,7 +51,6 @@ Count: 209
 | 901/dg       | Trein ontspoord                               | 36720       | 2026-09-23 | False    |
 | 901/eg       | Trein ontspoord                               | 35920       | 2026-08-28 | False    |
 | 901/abc      | Trein ontspoord                               | 35837       | 2026-08-06 | False    |
-| 901/ade      | Trein ontspoord                               | 27720       | 2026-10-10 | False    |
 | 901/bcd      | Trein ontspoord                               | 37087       | 2026-10-12 | False    |
 | 901/bcf      | Trein ontspoord                               | 37087       | 2026-10-12 | False    |
 | 901/bcg      | Trein ontspoord                               | 48337       | 2026-09-10 | False    |
@@ -176,7 +175,6 @@ Count: 209
 | 1229/ac      | Dieseltrein met gevaarlijke stoffen ontspoord | 33790       | 2026-08-29 | False    |
 | 1229/ad      | Dieseltrein met gevaarlijke stoffen ontspoord | 33490       | 2026-08-17 | False    |
 | 1229/ae      | Dieseltrein met gevaarlijke stoffen ontspoord | 33590       | 2026-08-19 | False    |
-| 1229/bc      | Dieseltrein met gevaarlijke stoffen ontspoord | 44925       | 2026-10-03 | False    |
 | 1229/bd      | Dieseltrein met gevaarlijke stoffen ontspoord | 44550       | 2026-09-17 | False    |
 | 1229/be      | Dieseltrein met gevaarlijke stoffen ontspoord | 44675       | 2026-08-07 | False    |
 | 1229/cg      | Dieseltrein met gevaarlijke stoffen ontspoord | 43590       | 2026-10-02 | False    |
