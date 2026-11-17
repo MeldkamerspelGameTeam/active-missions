@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 273
+Count: 278
 
 # Active old-seen missions
 
-Count: 207
+Count: 212
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -62,6 +62,7 @@ Count: 207
 | 901/abef     | Trein ontspoord                               | 28520       | 2026-09-27 | False    |
 | 901/acde     | Trein ontspoord                               | 38337       | 2026-09-20 | False    |
 | 901/acef     | Trein ontspoord                               | 38337       | 2026-09-11 | False    |
+| 901/adef     | Trein ontspoord                               | 29520       | 2026-10-17 | False    |
 | 901/bcde     | Trein ontspoord                               | 38337       | 2026-08-06 | False    |
 | 901/bceg     | Trein ontspoord                               | 49587       | 2026-08-26 | False    |
 | 901/bdef     | Trein ontspoord                               | 29520       | 2026-10-04 | False    |
@@ -91,6 +92,7 @@ Count: 207
 | 974/abc      | Ontspoorde tram botst tegen gebouw            | 30225       | 2026-10-09 | False    |
 | 974/abd      | Ontspoorde tram botst tegen gebouw            | 37100       | 2026-10-09 | False    |
 | 980          | Uit de hand gelopen manifestatie              | 45080       | 2026-09-17 | False    |
+| 1030/ac      | Brand bij papierrecyclaar                     | 49160       | 2026-10-17 | False    |
 | 1030/acd     | Brand bij papierrecyclaar                     | 50760       | 2026-08-09 | False    |
 | 1030/bcd     | Brand bij papierrecyclaar                     | 66137       | 2026-08-19 | False    |
 | 1034/ad      | Brand in nucleaire installatie                | 71610       | 2026-10-10 | False    |
@@ -115,6 +117,7 @@ Count: 207
 | 1034/bch     | Brand in nucleaire installatie                | 99512       | 2026-07-13 | False    |
 | 1034/bdf     | Brand in nucleaire installatie                | 93700       | 2026-08-07 | False    |
 | 1034/bdh     | Brand in nucleaire installatie                | 93262       | 2026-09-27 | False    |
+| 1034/bef     | Brand in nucleaire installatie                | 93575       | 2026-10-17 | False    |
 | 1034/beh     | Brand in nucleaire installatie                | 93137       | 2026-10-06 | False    |
 | 1034/cef     | Brand in nucleaire installatie                | 78310       | 2026-07-25 | False    |
 | 1034/def     | Brand in nucleaire installatie                | 73310       | 2026-08-16 | False    |
@@ -127,6 +130,7 @@ Count: 207
 | 1034/acfg    | Brand in nucleaire installatie                | 79410       | 2026-08-26 | False    |
 | 1034/cdfg    | Brand in nucleaire installatie                | 80010       | 2026-09-27 | False    |
 | 1104/a       | Aanrijding trein & betonmixer                 | 15180       | 2026-10-08 | False    |
+| 1104/c       | Aanrijding trein & betonmixer                 | 15380       | 2026-10-17 | False    |
 | 1104/ae      | Aanrijding trein & betonmixer                 | 21880       | 2026-08-31 | False    |
 | 1104/ce      | Aanrijding trein & betonmixer                 | 22080       | 2026-09-19 | False    |
 | 1104/abd     | Aanrijding trein & betonmixer                 | 23412       | 2026-09-30 | False    |
@@ -213,6 +217,7 @@ Count: 207
 | 1229/cefg    | Dieseltrein met gevaarlijke stoffen ontspoord | 51090       | 2026-09-08 | False    |
 | 1229/defg    | Dieseltrein met gevaarlijke stoffen ontspoord | 50790       | 2026-10-15 | False    |
 | 1229/abdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 61050       | 2026-10-02 | False    |
+| 1229/acdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 47890       | 2026-10-17 | False    |
 | 1246/ac      | Rietkapbrand (Grip 2)                         | 21310       | 2026-10-02 | False    |
 | 1259/a       | Ezel in sloot                                 | 1410        | 2026-10-16 | False    |
 
