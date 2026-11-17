@@ -468,7 +468,7 @@ Count: 10
 | 858    | Persoon gevallen in een hoop bladeren                              | None        | 2026-11-17 | False    |
 | 859    | Op hol geslagen bladblazer                                         | 500         | 2026-11-17 | False    |
 | 860    | Afvoerput verstopt met bladeren                                    | 500         | 2026-11-17 | False    |
-| 861    | Onderkoeling na zwemmen in koud water                              | None        | 2026-11-16 | False    |
+| 861    | Onderkoeling na zwemmen in koud water                              | None        | 2026-11-17 | False    |
 | 862    | Ongeluk op mistige weg                                             | 1580        | 2026-11-17 | False    |
 | 863    | Ongeluk met overstekend hert                                       | 1750        | 2026-11-17 | False    |
 | 864    | Brandende hoop bladeren                                            | 670         | 2026-11-17 | False    |

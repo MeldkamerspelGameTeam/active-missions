@@ -2432,7 +2432,7 @@
   "1229": "newly_active",
   "1229/a": "newly_active",
   "1229/ab": "back_active",
-  "1229/abc": "old_seen",
+  "1229/abc": "back_active",
   "1229/abcd": "newly_active",
   "1229/abcde": "newly_active",
   "1229/abcdef": "newly_active",
