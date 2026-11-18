@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 273
+Count: 272
 
 # Active old-seen missions
 
-Count: 207
+Count: 206
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -88,7 +88,6 @@ Count: 207
 | 961/a        | Toezicht Horeca                               | 9545        | 2026-10-01 | False    |
 | 974/d        | Ontspoorde tram botst tegen gebouw            | 25930       | 2026-10-11 | False    |
 | 974/ad       | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |
-| 974/abc      | Ontspoorde tram botst tegen gebouw            | 30225       | 2026-10-09 | False    |
 | 974/abd      | Ontspoorde tram botst tegen gebouw            | 37100       | 2026-10-09 | False    |
 | 980          | Uit de hand gelopen manifestatie              | 45080       | 2026-09-17 | False    |
 | 1030/ac      | Brand bij papierrecyclaar                     | 49160       | 2026-10-17 | False    |
