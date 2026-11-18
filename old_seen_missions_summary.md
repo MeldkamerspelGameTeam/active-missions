@@ -1,16 +1,15 @@
 # Old seen missions (older than 30 days)
 
-Count: 272
+Count: 270
 
 # Active old-seen missions
 
-Count: 206
+Count: 204
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
 | 59           | Brand in opslagloods                          | 13710       | 2026-10-13 | False    |
 | 100/abc      | Ammoniakalarm in opslagloods                  | 9820        | 2026-10-16 | False    |
-| 117-0        | Voetbalwedstrijd, risicowedstrijd             | 20910       | 2026-10-13 | False    |
 | 145          | Natuurbrand                                   | 70194       | 2026-10-03 | False    |
 | 181/a        | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab       | Verkeersongeval met beknelling                | 3290        | 2026-10-05 | False    |
@@ -52,7 +51,6 @@ Count: 206
 | 901/dg       | Trein ontspoord                               | 36720       | 2026-09-23 | False    |
 | 901/eg       | Trein ontspoord                               | 35920       | 2026-08-28 | False    |
 | 901/abc      | Trein ontspoord                               | 35837       | 2026-08-06 | False    |
-| 901/bcd      | Trein ontspoord                               | 37087       | 2026-10-12 | False    |
 | 901/bcf      | Trein ontspoord                               | 37087       | 2026-10-12 | False    |
 | 901/bcg      | Trein ontspoord                               | 48337       | 2026-09-10 | False    |
 | 901/cde      | Trein ontspoord                               | 37337       | 2026-10-18 | False    |
