@@ -455,7 +455,7 @@ Count: 15
 | 1050   | Vergiftiging door uitlaatgassen                                    | None        | 2026-08-24 | True     |
 | 1051   | Valse kaartjes race in verkoop                                     | 1010        | 2026-08-24 | True     |
 
-## Start: 2026-09-18T09:00:00Z | End: 2026-11-20T23:59:59+01:00 | Count: 10
+## Start: 2026-09-18T09:00:00Z | End: 2026-12-04T23:59:59+01:00 | Count: 10
 
 # Missions
 
