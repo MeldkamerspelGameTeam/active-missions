@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 269
+Count: 275
 
 # Active old-seen missions
 
-Count: 203
+Count: 209
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -70,6 +70,7 @@ Count: 203
 | 901/abcdf    | Trein ontspoord                               | 40337       | 2026-09-23 | False    |
 | 901/acdef    | Trein ontspoord                               | 40587       | 2026-09-15 | False    |
 | 901/bcdeg    | Trein ontspoord                               | 51837       | 2026-08-15 | False    |
+| 901/bcefg    | Trein ontspoord                               | 51837       | 2026-10-19 | False    |
 | 901/bdefg    | Trein ontspoord                               | 40320       | 2026-09-23 | False    |
 | 929/ab       | Brand in gasverdeelstation                    | 37825       | 2026-10-05 | False    |
 | 929/ad       | Brand in gasverdeelstation                    | 28110       | 2026-10-07 | False    |
@@ -124,6 +125,7 @@ Count: 203
 | 1034/aceh    | Brand in nucleaire installatie                | 78760       | 2026-07-30 | False    |
 | 1034/acfg    | Brand in nucleaire installatie                | 79410       | 2026-08-26 | False    |
 | 1034/cdfg    | Brand in nucleaire installatie                | 80010       | 2026-09-27 | False    |
+| 1104         | Aanrijding trein & betonmixer                 | 14380       | 2026-10-19 | False    |
 | 1104/a       | Aanrijding trein & betonmixer                 | 15180       | 2026-10-08 | False    |
 | 1104/c       | Aanrijding trein & betonmixer                 | 15380       | 2026-10-17 | False    |
 | 1104/ae      | Aanrijding trein & betonmixer                 | 21880       | 2026-08-31 | False    |
@@ -133,6 +135,7 @@ Count: 203
 | 1104/ade     | Aanrijding trein & betonmixer                 | 22480       | 2026-10-11 | False    |
 | 1104/bcd     | Aanrijding trein & betonmixer                 | 23662       | 2026-09-02 | False    |
 | 1104/bde     | Aanrijding trein & betonmixer                 | 30787       | 2026-09-13 | False    |
+| 1104/bcde    | Aanrijding trein & betonmixer                 | 32037       | 2026-10-19 | False    |
 | 1202/b       | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
 | 1203/b       | Brand in ziekenhuis (Grip 2)                  | 20850       | 2026-08-27 | False    |
 | 1203/ab      | Brand in ziekenhuis (Grip 2)                  | 28562       | 2026-10-03 | False    |
@@ -202,6 +205,7 @@ Count: 203
 | 1229/abfg    | Dieseltrein met gevaarlijke stoffen ontspoord | 63800       | 2026-09-12 | False    |
 | 1229/acde    | Dieseltrein met gevaarlijke stoffen ontspoord | 37290       | 2026-10-08 | False    |
 | 1229/acdg    | Dieseltrein met gevaarlijke stoffen ontspoord | 46090       | 2026-08-27 | False    |
+| 1229/acef    | Dieseltrein met gevaarlijke stoffen ontspoord | 41290       | 2026-10-19 | False    |
 | 1229/acfg    | Dieseltrein met gevaarlijke stoffen ontspoord | 50090       | 2026-09-29 | False    |
 | 1229/adef    | Dieseltrein met gevaarlijke stoffen ontspoord | 40990       | 2026-08-24 | False    |
 | 1229/bcdg    | Dieseltrein met gevaarlijke stoffen ontspoord | 60300       | 2026-10-15 | False    |
@@ -209,8 +213,10 @@ Count: 203
 | 1229/defg    | Dieseltrein met gevaarlijke stoffen ontspoord | 50790       | 2026-10-15 | False    |
 | 1229/abdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 61050       | 2026-10-02 | False    |
 | 1229/acdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 47890       | 2026-10-17 | False    |
+| 1245/c       | Rietkapbrand (Grip 1)                         | 16870       | 2026-10-19 | False    |
 | 1246/ac      | Rietkapbrand (Grip 2)                         | 21310       | 2026-10-02 | False    |
 | 1259/a       | Ezel in sloot                                 | 1410        | 2026-10-16 | False    |
+| 1259/ab      | Ezel in sloot                                 | 1810        | 2026-10-19 | False    |
 
 # Inactive old-seen missions
 
