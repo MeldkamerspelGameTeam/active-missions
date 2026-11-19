@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 274
+Count: 273
 
 # Active old-seen missions
 
-Count: 208
+Count: 207
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -40,7 +40,6 @@ Count: 208
 | 892          | 1000 Politiebureau mijlpaal                   | 50000       | 2026-06-21 | False    |
 | 897/a        | Rellen na stadsderby                          | 16755       | 2026-09-04 | False    |
 | 897-0/a      | Rellen na stadsderby                          | 17355       | 2026-08-27 | False    |
-| 899/a        | Aanrijding bus en tram                        | 10620       | 2026-09-28 | False    |
 | 901          | Trein ontspoord                               | 24120       | 2026-07-23 | False    |
 | 901/a        | Trein ontspoord                               | 24920       | 2026-07-22 | False    |
 | 901/b        | Trein ontspoord                               | 24920       | 2026-08-15 | False    |
