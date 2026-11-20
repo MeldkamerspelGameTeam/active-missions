@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 273
+Count: 271
 
 # Active old-seen missions
 
-Count: 207
+Count: 205
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -13,7 +13,6 @@ Count: 207
 | 145          | Natuurbrand                                   | 70194       | 2026-10-03 | False    |
 | 181/a        | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab       | Verkeersongeval met beknelling                | 3290        | 2026-10-05 | False    |
-| 208          | Personenauto te water                         | 4350        | 2026-10-06 | False    |
 | 216/b        | Bosbrand (Grip 1)                             | 12312       | 2026-10-18 | False    |
 | 234          | Vliegtuig neergestort                         | 15120       | 2026-10-13 | False    |
 | 252/a        | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
@@ -130,7 +129,6 @@ Count: 207
 | 1104/abd     | Aanrijding trein & betonmixer                 | 23412       | 2026-09-30 | False    |
 | 1104/abe     | Aanrijding trein & betonmixer                 | 31037       | 2026-10-04 | False    |
 | 1104/ade     | Aanrijding trein & betonmixer                 | 22480       | 2026-10-11 | False    |
-| 1104/bcd     | Aanrijding trein & betonmixer                 | 23662       | 2026-09-02 | False    |
 | 1104/bde     | Aanrijding trein & betonmixer                 | 30787       | 2026-09-13 | False    |
 | 1104/bcde    | Aanrijding trein & betonmixer                 | 32037       | 2026-10-19 | False    |
 | 1202/b       | Brand in ziekenhuis (Grip 1)                  | 13380       | 2026-08-13 | False    |
