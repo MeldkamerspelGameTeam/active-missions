@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 271
+Count: 269
 
 # Active old-seen missions
 
-Count: 205
+Count: 203
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -13,7 +13,6 @@ Count: 205
 | 145          | Natuurbrand                                   | 70194       | 2026-10-03 | False    |
 | 181/a        | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab       | Verkeersongeval met beknelling                | 3290        | 2026-10-05 | False    |
-| 216/b        | Bosbrand (Grip 1)                             | 12312       | 2026-10-18 | False    |
 | 234          | Vliegtuig neergestort                         | 15120       | 2026-10-13 | False    |
 | 252/a        | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
@@ -92,7 +91,6 @@ Count: 205
 | 1034/ah      | Brand in nucleaire installatie                | 71060       | 2026-10-16 | False    |
 | 1034/bd      | Brand in nucleaire installatie                | 92200       | 2026-09-07 | False    |
 | 1034/bf      | Brand in nucleaire installatie                | 91950       | 2026-09-13 | False    |
-| 1034/bh      | Brand in nucleaire installatie                | 91512       | 2026-09-06 | False    |
 | 1034/dg      | Brand in nucleaire installatie                | 72410       | 2026-10-07 | False    |
 | 1034/ef      | Brand in nucleaire installatie                | 71910       | 2026-10-13 | False    |
 | 1034/fh      | Brand in nucleaire installatie                | 71460       | 2026-10-12 | False    |
