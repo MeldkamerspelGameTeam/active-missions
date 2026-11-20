@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 806
+Count: 805
 
 # Active never-seen missions
 
-Count: 631
+Count: 630
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -150,7 +150,6 @@ Count: 631
 | 1017          | Redding overboord geslagen slachtoffers         | 1230        | never     | False    |
 | 1030/abc      | Brand bij papierrecyclaar                       | 65137       | never     | False    |
 | 1030/abcd     | Brand bij papierrecyclaar                       | 67137       | never     | False    |
-| 1034/eh       | Brand in nucleaire installatie                  | 71560       | never     | False    |
 | 1034/abc      | Brand in nucleaire installatie                  | 99450       | never     | False    |
 | 1034/abd      | Brand in nucleaire installatie                  | 93200       | never     | False    |
 | 1034/abe      | Brand in nucleaire installatie                  | 93075       | never     | False    |
