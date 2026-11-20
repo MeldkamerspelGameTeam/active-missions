@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 275
+Count: 273
 
 # Active old-seen missions
 
-Count: 209
+Count: 207
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -73,7 +73,6 @@ Count: 209
 | 929/ad       | Brand in gasverdeelstation                    | 28110       | 2026-10-07 | False    |
 | 929/bc       | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
 | 929/bd       | Brand in gasverdeelstation                    | 37825       | 2026-10-07 | False    |
-| 929/cd       | Brand in gasverdeelstation                    | 32510       | 2026-09-01 | False    |
 | 929/abc      | Brand in gasverdeelstation                    | 44325       | 2026-07-12 | False    |
 | 929/abd      | Brand in gasverdeelstation                    | 38825       | 2026-08-05 | False    |
 | 929/abe      | Brand in gasverdeelstation                    | 38637       | 2026-09-02 | False    |
@@ -125,7 +124,6 @@ Count: 209
 | 1104         | Aanrijding trein & betonmixer                 | 14380       | 2026-10-19 | False    |
 | 1104/a       | Aanrijding trein & betonmixer                 | 15180       | 2026-10-08 | False    |
 | 1104/b       | Aanrijding trein & betonmixer                 | 21662       | 2026-10-20 | False    |
-| 1104/c       | Aanrijding trein & betonmixer                 | 15380       | 2026-10-17 | False    |
 | 1104/ae      | Aanrijding trein & betonmixer                 | 21880       | 2026-08-31 | False    |
 | 1104/bd      | Aanrijding trein & betonmixer                 | 22412       | 2026-10-20 | False    |
 | 1104/ce      | Aanrijding trein & betonmixer                 | 22080       | 2026-09-19 | False    |
