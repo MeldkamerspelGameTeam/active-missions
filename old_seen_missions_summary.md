@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 273
+Count: 275
 
 # Active old-seen missions
 
-Count: 207
+Count: 209
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -20,7 +20,6 @@ Count: 207
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
 | 312/ab       | Lekkende goederenwagon (Groot)                | 7070        | 2026-10-09 | False    |
 | 347          | Brand bij afvalverwerker                      | 17500       | 2026-10-13 | False    |
-| 377/a        | Persoon te water                              | 6000        | 2026-10-15 | False    |
 | 435          | Lekkende tankwagen                            | 6660        | 2026-10-03 | False    |
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
@@ -125,8 +124,10 @@ Count: 207
 | 1034/cdfg    | Brand in nucleaire installatie                | 80010       | 2026-09-27 | False    |
 | 1104         | Aanrijding trein & betonmixer                 | 14380       | 2026-10-19 | False    |
 | 1104/a       | Aanrijding trein & betonmixer                 | 15180       | 2026-10-08 | False    |
+| 1104/b       | Aanrijding trein & betonmixer                 | 21662       | 2026-10-20 | False    |
 | 1104/c       | Aanrijding trein & betonmixer                 | 15380       | 2026-10-17 | False    |
 | 1104/ae      | Aanrijding trein & betonmixer                 | 21880       | 2026-08-31 | False    |
+| 1104/bd      | Aanrijding trein & betonmixer                 | 22412       | 2026-10-20 | False    |
 | 1104/ce      | Aanrijding trein & betonmixer                 | 22080       | 2026-09-19 | False    |
 | 1104/abd     | Aanrijding trein & betonmixer                 | 23412       | 2026-09-30 | False    |
 | 1104/abe     | Aanrijding trein & betonmixer                 | 31037       | 2026-10-04 | False    |
@@ -196,6 +197,7 @@ Count: 207
 | 1229/def     | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
 | 1229/deg     | Dieseltrein met gevaarlijke stoffen ontspoord | 45090       | 2026-09-06 | False    |
 | 1229/dfg     | Dieseltrein met gevaarlijke stoffen ontspoord | 48990       | 2026-10-07 | False    |
+| 1229/abcd    | Dieseltrein met gevaarlijke stoffen ontspoord | 48050       | 2026-10-20 | False    |
 | 1229/abce    | Dieseltrein met gevaarlijke stoffen ontspoord | 48175       | 2026-10-06 | False    |
 | 1229/abdf    | Dieseltrein met gevaarlijke stoffen ontspoord | 52675       | 2026-10-08 | False    |
 | 1229/abef    | Dieseltrein met gevaarlijke stoffen ontspoord | 52800       | 2026-08-09 | False    |
