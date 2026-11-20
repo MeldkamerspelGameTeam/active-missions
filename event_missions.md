@@ -507,7 +507,7 @@ Count: 10
 
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 160    | Brandende cadeautjes                                               | 500         | 2026-11-20 | False    |
+| 160    | Brandende cadeautjes                                               | 500         | 2026-11-21 | False    |
 | 161    | Sinterklaas van dak gegleden                                       | None        | 2026-11-20 | False    |
 | 162    | Pepernoot op hoofd                                                 | None        | 2026-11-20 | False    |
 | 163    | Piet bestolen                                                      | 500         | 2026-11-20 | False    |
