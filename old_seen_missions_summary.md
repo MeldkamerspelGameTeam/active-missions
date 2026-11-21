@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 267
+Count: 273
 
 # Active old-seen missions
 
-Count: 201
+Count: 207
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -13,6 +13,7 @@ Count: 201
 | 145          | Natuurbrand                                   | 70194       | 2026-10-03 | False    |
 | 181/a        | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab       | Verkeersongeval met beknelling                | 3290        | 2026-10-05 | False    |
+| 193/a        | Koe in sloot                                  | 1310        | 2026-10-21 | False    |
 | 234          | Vliegtuig neergestort                         | 15120       | 2026-10-13 | False    |
 | 252/a        | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
@@ -23,6 +24,7 @@ Count: 201
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
 | 671-0        | Toezicht Horeca                               | 8745        | 2026-10-07 | False    |
 | 885/ae       | Brand in vuurwerkopslag                       | 50270       | 2026-10-06 | False    |
+| 885/bc       | Brand in vuurwerkopslag                       | 71025       | 2026-10-21 | False    |
 | 885/bd       | Brand in vuurwerkopslag                       | 65337       | 2026-10-12 | False    |
 | 885/be       | Brand in vuurwerkopslag                       | 65525       | 2026-10-05 | False    |
 | 885/bf       | Brand in vuurwerkopslag                       | 66025       | 2026-09-16 | False    |
@@ -67,6 +69,7 @@ Count: 201
 | 901/bcdeg    | Trein ontspoord                               | 51837       | 2026-08-15 | False    |
 | 901/bcefg    | Trein ontspoord                               | 51837       | 2026-10-19 | False    |
 | 901/bdefg    | Trein ontspoord                               | 40320       | 2026-09-23 | False    |
+| 901/bcdefg   | Trein ontspoord                               | 54087       | 2026-10-21 | False    |
 | 929/ab       | Brand in gasverdeelstation                    | 37825       | 2026-10-05 | False    |
 | 929/ad       | Brand in gasverdeelstation                    | 28110       | 2026-10-07 | False    |
 | 929/bc       | Brand in gasverdeelstation                    | 43325       | 2026-07-21 | False    |
@@ -148,6 +151,7 @@ Count: 201
 | 1228/cdf     | Trein ontspoord na botsing met goederentrein  | 41112       | 2026-07-30 | False    |
 | 1228/cfh     | Trein ontspoord na botsing met goederentrein  | 53175       | 2026-09-08 | False    |
 | 1228/bdef    | Trein ontspoord na botsing met goederentrein  | 32740       | 2026-10-12 | False    |
+| 1228/bdfg    | Trein ontspoord na botsing met goederentrein  | 32340       | 2026-10-21 | False    |
 | 1228/befg    | Trein ontspoord na botsing met goederentrein  | 32540       | 2026-08-06 | False    |
 | 1228/cdfg    | Trein ontspoord na botsing met goederentrein  | 43112       | 2026-09-24 | False    |
 | 1228/dfgh    | Trein ontspoord na botsing met goederentrein  | 42990       | 2026-08-11 | False    |
@@ -182,6 +186,7 @@ Count: 201
 | 1229/bcd     | Dieseltrein met gevaarlijke stoffen ontspoord | 47050       | 2026-08-21 | False    |
 | 1229/bcg     | Dieseltrein met gevaarlijke stoffen ontspoord | 58175       | 2026-08-16 | False    |
 | 1229/bdf     | Dieseltrein met gevaarlijke stoffen ontspoord | 51675       | 2026-07-30 | False    |
+| 1229/bef     | Dieseltrein met gevaarlijke stoffen ontspoord | 51800       | 2026-10-21 | False    |
 | 1229/bfg     | Dieseltrein met gevaarlijke stoffen ontspoord | 62800       | 2026-10-02 | False    |
 | 1229/cde     | Dieseltrein met gevaarlijke stoffen ontspoord | 36490       | 2026-10-02 | False    |
 | 1229/cef     | Dieseltrein met gevaarlijke stoffen ontspoord | 40490       | 2026-08-18 | False    |
@@ -203,6 +208,7 @@ Count: 201
 | 1229/bcdg    | Dieseltrein met gevaarlijke stoffen ontspoord | 60300       | 2026-10-15 | False    |
 | 1229/cefg    | Dieseltrein met gevaarlijke stoffen ontspoord | 51090       | 2026-09-08 | False    |
 | 1229/defg    | Dieseltrein met gevaarlijke stoffen ontspoord | 50790       | 2026-10-15 | False    |
+| 1229/abcef   | Dieseltrein met gevaarlijke stoffen ontspoord | 55300       | 2026-10-21 | False    |
 | 1229/abdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 61050       | 2026-10-02 | False    |
 | 1229/acdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 47890       | 2026-10-17 | False    |
 | 1245/c       | Rietkapbrand (Grip 1)                         | 16870       | 2026-10-19 | False    |
