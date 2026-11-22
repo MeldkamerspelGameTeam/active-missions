@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 272
+Count: 274
 
 # Active old-seen missions
 
-Count: 206
+Count: 208
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -21,6 +21,7 @@ Count: 206
 | 347          | Brand bij afvalverwerker                      | 17500       | 2026-10-13 | False    |
 | 435          | Lekkende tankwagen                            | 6660        | 2026-10-03 | False    |
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
+| 518/a        | Aanvaring vrachtschip met veerboot (Grip 4)   | 12250       | 2026-10-22 | False    |
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
 | 671-0        | Toezicht Horeca                               | 8745        | 2026-10-07 | False    |
 | 885/ae       | Brand in vuurwerkopslag                       | 50270       | 2026-10-06 | False    |
@@ -84,6 +85,7 @@ Count: 206
 | 961/a        | Toezicht Horeca                               | 9545        | 2026-10-01 | False    |
 | 974/d        | Ontspoorde tram botst tegen gebouw            | 25930       | 2026-10-11 | False    |
 | 974/ad       | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |
+| 974/bd       | Ontspoorde tram botst tegen gebouw            | 36100       | 2026-10-22 | False    |
 | 974/abd      | Ontspoorde tram botst tegen gebouw            | 37100       | 2026-10-09 | False    |
 | 980          | Uit de hand gelopen manifestatie              | 45080       | 2026-09-17 | False    |
 | 1030/ac      | Brand bij papierrecyclaar                     | 49160       | 2026-10-17 | False    |
