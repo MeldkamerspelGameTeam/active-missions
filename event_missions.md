@@ -508,12 +508,12 @@ Count: 10
 | ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
 | 160    | Brandende cadeautjes                                               | 500         | 2026-11-23 | False    |
-| 161    | Sinterklaas van dak gegleden                                       | None        | 2026-11-22 | False    |
-| 162    | Pepernoot op hoofd                                                 | None        | 2026-11-22 | False    |
+| 161    | Sinterklaas van dak gegleden                                       | None        | 2026-11-23 | False    |
+| 162    | Pepernoot op hoofd                                                 | None        | 2026-11-23 | False    |
 | 163    | Piet bestolen                                                      | 500         | 2026-11-23 | False    |
-| 164    | Kind geschrokken                                                   | None        | 2026-11-22 | False    |
+| 164    | Kind geschrokken                                                   | None        | 2026-11-23 | False    |
 | 165    | Piet klem in schoorsteen                                           | 670         | 2026-11-23 | False    |
 | 166    | Toezicht manifestatie pietendiscussie                              | 29430       | 2026-11-19 | False    |
 | 167    | Schoenen dief                                                      | 500         | 2026-11-23 | False    |
-| 168    | Verstikking in pepernoot                                           | 500         | 2026-11-22 | False    |
-| 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | 2026-11-22 | False    |
+| 168    | Verstikking in pepernoot                                           | 500         | 2026-11-23 | False    |
+| 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | 2026-11-23 | False    |
