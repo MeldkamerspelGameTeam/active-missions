@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 797
+Count: 796
 
 # Active never-seen missions
 
-Count: 622
+Count: 621
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -593,7 +593,6 @@ Count: 622
 | 1263/be       | Dijkdoorbraak                                   | 51110       | never     | False    |
 | 1263/ce       | Dijkdoorbraak                                   | 65325       | never     | False    |
 | 1263/cf       | Dijkdoorbraak                                   | 60325       | never     | False    |
-| 1263/de       | Dijkdoorbraak                                   | 51390       | never     | False    |
 | 1263/ef       | Dijkdoorbraak                                   | 51710       | never     | False    |
 | 1263/abc      | Dijkdoorbraak                                   | 61575       | never     | False    |
 | 1263/abe      | Dijkdoorbraak                                   | 52710       | never     | False    |
