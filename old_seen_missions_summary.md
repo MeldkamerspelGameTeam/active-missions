@@ -1,15 +1,17 @@
 # Old seen missions (older than 30 days)
 
-Count: 264
+Count: 266
 
 # Active old-seen missions
 
-Count: 198
+Count: 200
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
+| 36/ab        | Brandende goederenwagon (Groot)               | 8570        | 2026-10-24 | False    |
 | 59           | Brand in opslagloods                          | 13710       | 2026-10-13 | False    |
 | 100/abc      | Ammoniakalarm in opslagloods                  | 9820        | 2026-10-16 | False    |
+| 106/a        | Schaap in sloot                               | 900         | 2026-10-24 | False    |
 | 145          | Natuurbrand                                   | 70194       | 2026-10-03 | False    |
 | 181/a        | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab       | Verkeersongeval met beknelling                | 3290        | 2026-10-05 | False    |
@@ -41,6 +43,7 @@ Count: 198
 | 901          | Trein ontspoord                               | 24120       | 2026-07-23 | False    |
 | 901/a        | Trein ontspoord                               | 24920       | 2026-07-22 | False    |
 | 901/b        | Trein ontspoord                               | 24920       | 2026-08-15 | False    |
+| 901/c        | Trein ontspoord                               | 33837       | 2026-10-24 | False    |
 | 901/ab       | Trein ontspoord                               | 25720       | 2026-08-14 | False    |
 | 901/cf       | Trein ontspoord                               | 36087       | 2026-08-17 | False    |
 | 901/dg       | Trein ontspoord                               | 36720       | 2026-09-23 | False    |
@@ -128,7 +131,6 @@ Count: 198
 | 1203/b       | Brand in ziekenhuis (Grip 2)                  | 20850       | 2026-08-27 | False    |
 | 1203/ab      | Brand in ziekenhuis (Grip 2)                  | 28562       | 2026-10-03 | False    |
 | 1203/bc      | Brand in ziekenhuis (Grip 2)                  | 21650       | 2026-10-05 | False    |
-| 1206/ab      | Brand in station (Grip 1)                     | 38000       | 2026-09-14 | False    |
 | 1207/b       | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
 | 1227/a       | Brand in passagierstrein (Grip 1)             | 21970       | 2026-09-15 | False    |
 | 1228         | Trein ontspoord na botsing met goederentrein  | 26140       | 2026-08-24 | False    |
