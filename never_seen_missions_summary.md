@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 794
+Count: 793
 
 # Active never-seen missions
 
-Count: 619
+Count: 618
 
 | ID            | Name                                            | Avg Credits | Last Seen | Inactive |
 | ------------- | ----------------------------------------------- | ----------: | --------- | -------- |
@@ -574,7 +574,6 @@ Count: 619
 | 1229/aefg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 49890       | never     | False    |
 | 1229/befg     | Dieseltrein met gevaarlijke stoffen ontspoord   | 65050       | never     | False    |
 | 1229/abdfg    | Dieseltrein met gevaarlijke stoffen ontspoord   | 65925       | never     | False    |
-| 1255/c        | Brand in rietenkap na werkzaamheden (Grip 1)    | 16410       | never     | False    |
 | 1262/a        | Dijk dreigt door te breken                      | 15550       | never     | False    |
 | 1263          | Dijkdoorbraak                                   | 44910       | never     | False    |
 | 1263/a        | Dijkdoorbraak                                   | 46510       | never     | False    |
