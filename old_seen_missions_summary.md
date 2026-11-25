@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 266
+Count: 265
 
 # Active old-seen missions
 
-Count: 200
+Count: 199
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -205,7 +205,6 @@ Count: 200
 | 1229/abcef   | Dieseltrein met gevaarlijke stoffen ontspoord | 55300       | 2026-10-21 | False    |
 | 1229/abdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 61050       | 2026-10-02 | False    |
 | 1229/bcdefg  | Dieseltrein met gevaarlijke stoffen ontspoord | 69675       | 2026-10-25 | False    |
-| 1245/c       | Rietkapbrand (Grip 1)                         | 16870       | 2026-10-19 | False    |
 | 1246/ac      | Rietkapbrand (Grip 2)                         | 21310       | 2026-10-02 | False    |
 | 1259/ab      | Ezel in sloot                                 | 1810        | 2026-10-19 | False    |
 
