@@ -470,7 +470,7 @@ Count: 10
 | 860    | Afvoerput verstopt met bladeren                                    | 500         | 2026-11-25 | False    |
 | 861    | Onderkoeling na zwemmen in koud water                              | None        | 2026-11-25 | False    |
 | 862    | Ongeluk op mistige weg                                             | 1580        | 2026-11-25 | False    |
-| 863    | Ongeluk met overstekend hert                                       | 1750        | 2026-11-24 | False    |
+| 863    | Ongeluk met overstekend hert                                       | 1750        | 2026-11-25 | False    |
 | 864    | Brandende hoop bladeren                                            | 670         | 2026-11-25 | False    |
 | 865    | Bladeren op spoor                                                  | 1080        | 2026-11-25 | False    |
 
@@ -509,11 +509,11 @@ Count: 10
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
 | 160    | Brandende cadeautjes                                               | 500         | 2026-11-25 | False    |
 | 161    | Sinterklaas van dak gegleden                                       | None        | 2026-11-25 | False    |
-| 162    | Pepernoot op hoofd                                                 | None        | 2026-11-24 | False    |
+| 162    | Pepernoot op hoofd                                                 | None        | 2026-11-25 | False    |
 | 163    | Piet bestolen                                                      | 500         | 2026-11-25 | False    |
 | 164    | Kind geschrokken                                                   | None        | 2026-11-25 | False    |
 | 165    | Piet klem in schoorsteen                                           | 670         | 2026-11-25 | False    |
 | 166    | Toezicht manifestatie pietendiscussie                              | 29430       | 2026-11-19 | False    |
 | 167    | Schoenen dief                                                      | 500         | 2026-11-25 | False    |
 | 168    | Verstikking in pepernoot                                           | 500         | 2026-11-25 | False    |
-| 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | 2026-11-24 | False    |
+| 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | 2026-11-25 | False    |
