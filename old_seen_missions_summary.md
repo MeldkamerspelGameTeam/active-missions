@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 270
+Count: 269
 
 # Active old-seen missions
 
-Count: 204
+Count: 203
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -37,7 +37,6 @@ Count: 204
 | 885/acdf     | Brand in vuurwerkopslag                       | 56520       | 2026-09-05 | False    |
 | 885/acef     | Brand in vuurwerkopslag                       | 56670       | 2026-07-09 | False    |
 | 885/cdef     | Brand in vuurwerkopslag                       | 56520       | 2026-07-16 | False    |
-| 892          | 1000 Politiebureau mijlpaal                   | 50000       | 2026-06-21 | False    |
 | 897/a        | Rellen na stadsderby                          | 16755       | 2026-09-04 | False    |
 | 897-0/a      | Rellen na stadsderby                          | 17355       | 2026-08-27 | False    |
 | 901          | Trein ontspoord                               | 24120       | 2026-07-23 | False    |
