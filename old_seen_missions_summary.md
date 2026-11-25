@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 264
+Count: 270
 
 # Active old-seen missions
 
-Count: 198
+Count: 204
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -44,11 +44,14 @@ Count: 198
 | 901/a        | Trein ontspoord                               | 24920       | 2026-07-22 | False    |
 | 901/b        | Trein ontspoord                               | 24920       | 2026-08-15 | False    |
 | 901/c        | Trein ontspoord                               | 33837       | 2026-10-24 | False    |
+| 901/d        | Trein ontspoord                               | 25920       | 2026-10-25 | False    |
 | 901/ab       | Trein ontspoord                               | 25720       | 2026-08-14 | False    |
 | 901/cf       | Trein ontspoord                               | 36087       | 2026-08-17 | False    |
 | 901/dg       | Trein ontspoord                               | 36720       | 2026-09-23 | False    |
 | 901/eg       | Trein ontspoord                               | 35920       | 2026-08-28 | False    |
 | 901/abc      | Trein ontspoord                               | 35837       | 2026-08-06 | False    |
+| 901/acd      | Trein ontspoord                               | 37087       | 2026-10-25 | False    |
+| 901/adf      | Trein ontspoord                               | 28520       | 2026-10-25 | False    |
 | 901/bcf      | Trein ontspoord                               | 37087       | 2026-10-12 | False    |
 | 901/bcg      | Trein ontspoord                               | 48337       | 2026-09-10 | False    |
 | 901/cde      | Trein ontspoord                               | 37337       | 2026-10-18 | False    |
@@ -83,6 +86,7 @@ Count: 198
 | 929/cde      | Brand in gasverdeelstation                    | 33160       | 2026-10-02 | False    |
 | 942/ab       | Schoolbus te water                            | 5750        | 2026-10-16 | False    |
 | 961/a        | Toezicht Horeca                               | 9545        | 2026-10-01 | False    |
+| 974/b        | Ontspoorde tram botst tegen gebouw            | 27975       | 2026-10-25 | False    |
 | 974/d        | Ontspoorde tram botst tegen gebouw            | 25930       | 2026-10-11 | False    |
 | 974/ad       | Ontspoorde tram botst tegen gebouw            | 26730       | 2026-08-22 | False    |
 | 974/bd       | Ontspoorde tram botst tegen gebouw            | 36100       | 2026-10-22 | False    |
@@ -105,6 +109,7 @@ Count: 198
 | 1034/agh     | Brand in nucleaire installatie                | 72660       | 2026-10-05 | False    |
 | 1034/bce     | Brand in nucleaire installatie                | 100075      | 2026-10-05 | False    |
 | 1034/bch     | Brand in nucleaire installatie                | 99512       | 2026-07-13 | False    |
+| 1034/bde     | Brand in nucleaire installatie                | 93825       | 2026-10-25 | False    |
 | 1034/bdf     | Brand in nucleaire installatie                | 93700       | 2026-08-07 | False    |
 | 1034/bdh     | Brand in nucleaire installatie                | 93262       | 2026-09-27 | False    |
 | 1034/bef     | Brand in nucleaire installatie                | 93575       | 2026-10-17 | False    |
@@ -132,7 +137,6 @@ Count: 198
 | 1203/ab      | Brand in ziekenhuis (Grip 2)                  | 28562       | 2026-10-03 | False    |
 | 1203/bc      | Brand in ziekenhuis (Grip 2)                  | 21650       | 2026-10-05 | False    |
 | 1207/b       | Brand in station (Grip 2)                     | 42760       | 2026-07-12 | False    |
-| 1228         | Trein ontspoord na botsing met goederentrein  | 26140       | 2026-08-24 | False    |
 | 1228/c       | Trein ontspoord na botsing met goederentrein  | 36362       | 2026-09-08 | False    |
 | 1228/ac      | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-08-06 | False    |
 | 1228/bc      | Trein ontspoord na botsing met goederentrein  | 37362       | 2026-09-18 | False    |
@@ -188,6 +192,7 @@ Count: 198
 | 1229/def     | Dieseltrein met gevaarlijke stoffen ontspoord | 40190       | 2026-08-01 | False    |
 | 1229/deg     | Dieseltrein met gevaarlijke stoffen ontspoord | 45090       | 2026-09-06 | False    |
 | 1229/dfg     | Dieseltrein met gevaarlijke stoffen ontspoord | 48990       | 2026-10-07 | False    |
+| 1229/efg     | Dieseltrein met gevaarlijke stoffen ontspoord | 49090       | 2026-10-25 | False    |
 | 1229/abce    | Dieseltrein met gevaarlijke stoffen ontspoord | 48175       | 2026-10-06 | False    |
 | 1229/abdf    | Dieseltrein met gevaarlijke stoffen ontspoord | 52675       | 2026-10-08 | False    |
 | 1229/abef    | Dieseltrein met gevaarlijke stoffen ontspoord | 52800       | 2026-08-09 | False    |
@@ -203,6 +208,7 @@ Count: 198
 | 1229/defg    | Dieseltrein met gevaarlijke stoffen ontspoord | 50790       | 2026-10-15 | False    |
 | 1229/abcef   | Dieseltrein met gevaarlijke stoffen ontspoord | 55300       | 2026-10-21 | False    |
 | 1229/abdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 61050       | 2026-10-02 | False    |
+| 1229/bcdefg  | Dieseltrein met gevaarlijke stoffen ontspoord | 69675       | 2026-10-25 | False    |
 | 1245/c       | Rietkapbrand (Grip 1)                         | 16870       | 2026-10-19 | False    |
 | 1246/ac      | Rietkapbrand (Grip 2)                         | 21310       | 2026-10-02 | False    |
 | 1259/ab      | Ezel in sloot                                 | 1810        | 2026-10-19 | False    |
