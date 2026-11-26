@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 265
+Count: 272
 
 # Active old-seen missions
 
-Count: 199
+Count: 206
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -23,8 +23,10 @@ Count: 199
 | 347          | Brand bij afvalverwerker                      | 17500       | 2026-10-13 | False    |
 | 435          | Lekkende tankwagen                            | 6660        | 2026-10-03 | False    |
 | 509          | Brand in fabriekshal                          | 9930        | 2026-07-28 | False    |
+| 518          | Aanvaring vrachtschip met veerboot (Grip 4)   | 9200        | 2026-10-26 | False    |
 | 518/a        | Aanvaring vrachtschip met veerboot (Grip 4)   | 12250       | 2026-10-22 | False    |
 | 591          | Uitslaande brand in veestal                   | 10775       | 2026-09-24 | False    |
+| 868/b        | Duinbrand (Grip 1)                            | 21547       | 2026-10-26 | False    |
 | 885/ae       | Brand in vuurwerkopslag                       | 50270       | 2026-10-06 | False    |
 | 885/bc       | Brand in vuurwerkopslag                       | 71025       | 2026-10-21 | False    |
 | 885/bd       | Brand in vuurwerkopslag                       | 65337       | 2026-10-12 | False    |
@@ -56,6 +58,7 @@ Count: 199
 | 901/cdf      | Trein ontspoord                               | 38337       | 2026-08-08 | False    |
 | 901/cef      | Trein ontspoord                               | 37337       | 2026-08-28 | False    |
 | 901/abce     | Trein ontspoord                               | 37087       | 2026-09-22 | False    |
+| 901/abde     | Trein ontspoord                               | 28520       | 2026-10-26 | False    |
 | 901/abef     | Trein ontspoord                               | 28520       | 2026-09-27 | False    |
 | 901/acde     | Trein ontspoord                               | 38337       | 2026-09-20 | False    |
 | 901/acef     | Trein ontspoord                               | 38337       | 2026-09-11 | False    |
@@ -192,6 +195,7 @@ Count: 199
 | 1229/dfg     | Dieseltrein met gevaarlijke stoffen ontspoord | 48990       | 2026-10-07 | False    |
 | 1229/efg     | Dieseltrein met gevaarlijke stoffen ontspoord | 49090       | 2026-10-25 | False    |
 | 1229/abce    | Dieseltrein met gevaarlijke stoffen ontspoord | 48175       | 2026-10-06 | False    |
+| 1229/abcg    | Dieseltrein met gevaarlijke stoffen ontspoord | 59175       | 2026-10-26 | False    |
 | 1229/abef    | Dieseltrein met gevaarlijke stoffen ontspoord | 52800       | 2026-08-09 | False    |
 | 1229/abeg    | Dieseltrein met gevaarlijke stoffen ontspoord | 58925       | 2026-09-07 | False    |
 | 1229/acde    | Dieseltrein met gevaarlijke stoffen ontspoord | 37290       | 2026-10-08 | False    |
@@ -200,10 +204,13 @@ Count: 199
 | 1229/acfg    | Dieseltrein met gevaarlijke stoffen ontspoord | 50090       | 2026-09-29 | False    |
 | 1229/adef    | Dieseltrein met gevaarlijke stoffen ontspoord | 40990       | 2026-08-24 | False    |
 | 1229/bcdg    | Dieseltrein met gevaarlijke stoffen ontspoord | 60300       | 2026-10-15 | False    |
+| 1229/bdef    | Dieseltrein met gevaarlijke stoffen ontspoord | 53925       | 2026-10-26 | False    |
 | 1229/cefg    | Dieseltrein met gevaarlijke stoffen ontspoord | 51090       | 2026-09-08 | False    |
 | 1229/defg    | Dieseltrein met gevaarlijke stoffen ontspoord | 50790       | 2026-10-15 | False    |
 | 1229/abcef   | Dieseltrein met gevaarlijke stoffen ontspoord | 55300       | 2026-10-21 | False    |
 | 1229/abdeg   | Dieseltrein met gevaarlijke stoffen ontspoord | 61050       | 2026-10-02 | False    |
+| 1229/bcdef   | Dieseltrein met gevaarlijke stoffen ontspoord | 56425       | 2026-10-26 | False    |
+| 1229/cdefg   | Dieseltrein met gevaarlijke stoffen ontspoord | 52790       | 2026-10-26 | False    |
 | 1229/bcdefg  | Dieseltrein met gevaarlijke stoffen ontspoord | 69675       | 2026-10-25 | False    |
 | 1246/ac      | Rietkapbrand (Grip 2)                         | 21310       | 2026-10-02 | False    |
 | 1259/ab      | Ezel in sloot                                 | 1810        | 2026-10-19 | False    |
