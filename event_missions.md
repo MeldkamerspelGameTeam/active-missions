@@ -468,7 +468,7 @@ Count: 10
 | 858    | Persoon gevallen in een hoop bladeren                              | None        | 2026-11-26 | False    |
 | 859    | Op hol geslagen bladblazer                                         | 500         | 2026-11-26 | False    |
 | 860    | Afvoerput verstopt met bladeren                                    | 500         | 2026-11-26 | False    |
-| 861    | Onderkoeling na zwemmen in koud water                              | None        | 2026-11-25 | False    |
+| 861    | Onderkoeling na zwemmen in koud water                              | None        | 2026-11-26 | False    |
 | 862    | Ongeluk op mistige weg                                             | 1580        | 2026-11-26 | False    |
 | 863    | Ongeluk met overstekend hert                                       | 1750        | 2026-11-26 | False    |
 | 864    | Brandende hoop bladeren                                            | 670         | 2026-11-26 | False    |
@@ -511,9 +511,9 @@ Count: 10
 | 161    | Sinterklaas van dak gegleden                                       | None        | 2026-11-26 | False    |
 | 162    | Pepernoot op hoofd                                                 | None        | 2026-11-26 | False    |
 | 163    | Piet bestolen                                                      | 500         | 2026-11-26 | False    |
-| 164    | Kind geschrokken                                                   | None        | 2026-11-25 | False    |
+| 164    | Kind geschrokken                                                   | None        | 2026-11-26 | False    |
 | 165    | Piet klem in schoorsteen                                           | 670         | 2026-11-26 | False    |
 | 166    | Toezicht manifestatie pietendiscussie                              | 29430       | 2026-11-25 | False    |
 | 167    | Schoenen dief                                                      | 500         | 2026-11-26 | False    |
 | 168    | Verstikking in pepernoot                                           | 500         | 2026-11-26 | False    |
-| 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | 2026-11-25 | False    |
+| 253    | Grote boek van Sinterklaas aangespoeld                             | 1570        | 2026-11-26 | False    |

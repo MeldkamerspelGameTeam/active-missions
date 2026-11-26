@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 272
+Count: 271
 
 # Active old-seen missions
 
-Count: 206
+Count: 205
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -15,7 +15,6 @@ Count: 206
 | 145          | Natuurbrand                                   | 70194       | 2026-10-03 | False    |
 | 181/a        | Verkeersongeval met beknelling                | 2890        | 2026-08-14 | False    |
 | 181/ab       | Verkeersongeval met beknelling                | 3290        | 2026-10-05 | False    |
-| 193/a        | Koe in sloot                                  | 1310        | 2026-10-21 | False    |
 | 234          | Vliegtuig neergestort                         | 15120       | 2026-10-13 | False    |
 | 252/a        | Vrachtwagen te water                          | 4630        | 2026-07-28 | False    |
 | 252/ab       | Vrachtwagen te water                          | 4930        | 2026-09-01 | False    |
