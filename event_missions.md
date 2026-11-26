@@ -1,10 +1,10 @@
 # Event missions grouped by date window
 
-Event missions: 277
+Event missions: 245
 
-Active: 20 | Inactive: 257
+Active: 20 | Inactive: 225
 
-Date window groups: 26
+Date window groups: 23
 
 
 ## Start: 2024-07-26T09:00:00Z | End: 2024-08-11T23:59:59Z | Count: 7
@@ -44,65 +44,6 @@ Count: 2
 | ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
 | 1096   | Waterredding vereist bij zeilevenement                             | 1230        | never      | True     |
 | 1097   | Boze toeschouwer bij sportzwembad                                  | 670         | never      | True     |
-
-## Start: 2025-12-01T10:00:00Z | End: 2025-12-26T23:59:59+01:00 | Count: 29
-
-# Missions
-
-Count: 29
-
-| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 169    | Brandende kerstboom                                                | 500         | never      | True     |
-| 170    | Brandende kerstboom                                                | 500         | never      | True     |
-| 171    | Verkeersongeval door gladheid                                      | 1010        | never      | True     |
-| 172    | Gevallen kerstman                                                  | None        | never      | True     |
-| 173    | Ruzie op de kerstmarkt                                             | 670         | never      | True     |
-| 174    | Diefstal op de kerstmarkt                                          | 670         | never      | True     |
-| 175    | Brandende kerstmarktkraam                                          | 500         | never      | True     |
-| 176    | Gevallen schaatser                                                 | None        | never      | True     |
-| 177    | Gevallen persoon door gladheid                                     | None        | never      | True     |
-| 178    | Donkere dagen offensief                                            | 670         | never      | True     |
-| 179    | Snijwond door gebroken kerstbal                                    | None        | never      | True     |
-| 371    | Verlaten slee langs waterkant                                      | 1510        | never      | True     |
-| 372    | Brandende kerststal                                                | 500         | never      | True     |
-| 373    | Brandwonden door gourmetstel                                       | None        | never      | True     |
-| 374    | Geluidsoverlast door kerstmuziek                                   | 500         | never      | True     |
-| 375    | Persoon bekneld onder kerstpakketten                               | 1420        | never      | True     |
-| 542    | Verkeersongeval door gladheid                                      | 1010        | never      | True     |
-| 543    | Verkeersongeval door gladheid                                      | 1010        | never      | True     |
-| 544    | Gevallen persoon door gladheid                                     | None        | never      | True     |
-| 545    | Gevallen persoon door gladheid                                     | None        | never      | True     |
-| 546    | Donkere dagen offensief                                            | 670         | never      | True     |
-| 547    | Donkere dagen offensief                                            | 670         | never      | True     |
-| 997    | Kerstdecoratie in brand                                            | 670         | never      | True     |
-| 998    | De slee van de kerstman blokkeert de weg                           | 670         | never      | True     |
-| 999    | Kerstboom gestolen                                                 | 840         | never      | True     |
-| 1000   | Kerstcadeau's gestolen in winkelcentrum                            | 670         | never      | True     |
-| 1072   | Kerstman vast in schoorsteen                                       | 1250        | never      | True     |
-| 1073   | Kerstdecoratie op de weg                                           | 500         | never      | True     |
-| 1105   | Gevecht om de lelijkste kersttrui                                  | 1800        | never      | True     |
-
-## Start: 2025-12-08T10:00:00+01:00 | End: 2025-12-26T23:59:59+01:00 | Count: 1
-
-# Missions
-
-Count: 1
-
-| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 1183   | Peperkoekhuis in brand                                             | 3050        | never      | True     |
-
-## Start: 2025-12-22T10:00:00+01:00 | End: 2025-12-26T23:59:59+01:00 | Count: 2
-
-# Missions
-
-Count: 2
-
-| ID     | Name                                                               | Avg Credits | Last Seen  | Inactive |
-| ------ | ------------------------------------------------------------------ | ----------: | ---------- | -------- |
-| 1184   | Voetganger aangereden door rendier                                 | 1250        | never      | True     |
-| 1185   | Protesterende elven                                                | 5640        | never      | True     |
 
 ## Start: 2025-12-26T10:00:00Z | End: 2026-01-01T23:59:59+01:00 | Count: 38
 

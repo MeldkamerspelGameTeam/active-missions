@@ -1,6 +1,6 @@
 # Never seen missions
 
-Count: 1295
+Count: 1263
 
 # Active never-seen missions
 
@@ -1131,26 +1131,10 @@ Count: 1120
 
 # Inactive never-seen missions
 
-Count: 175
+Count: 143
 
 | ID     | Name                                                               | Avg Credits | Last Seen | Inactive |
 | ------ | ------------------------------------------------------------------ | ----------: | --------- | -------- |
-| 169    | Brandende kerstboom                                                | 500         | never     | True     |
-| 170    | Brandende kerstboom                                                | 500         | never     | True     |
-| 171    | Verkeersongeval door gladheid                                      | 1010        | never     | True     |
-| 172    | Gevallen kerstman                                                  | None        | never     | True     |
-| 173    | Ruzie op de kerstmarkt                                             | 670         | never     | True     |
-| 174    | Diefstal op de kerstmarkt                                          | 670         | never     | True     |
-| 175    | Brandende kerstmarktkraam                                          | 500         | never     | True     |
-| 176    | Gevallen schaatser                                                 | None        | never     | True     |
-| 177    | Gevallen persoon door gladheid                                     | None        | never     | True     |
-| 178    | Donkere dagen offensief                                            | 670         | never     | True     |
-| 179    | Snijwond door gebroken kerstbal                                    | None        | never     | True     |
-| 371    | Verlaten slee langs waterkant                                      | 1510        | never     | True     |
-| 372    | Brandende kerststal                                                | 500         | never     | True     |
-| 373    | Brandwonden door gourmetstel                                       | None        | never     | True     |
-| 374    | Geluidsoverlast door kerstmuziek                                   | 500         | never     | True     |
-| 375    | Persoon bekneld onder kerstpakketten                               | 1420        | never     | True     |
 | 525    | Auto in brand door vuurwerk                                        | 500         | never     | True     |
 | 526    | Auto in brand door vuurwerk                                        | 500         | never     | True     |
 | 527    | Afval in brand door vuurwerk                                       | 500         | never     | True     |
@@ -1169,12 +1153,6 @@ Count: 175
 | 539    | Auto beschadigd door vuurwerk                                      | 500         | never     | True     |
 | 540    | Overtreding op vuurwerkbesluit                                     | 500         | never     | True     |
 | 541    | Handletsel door vuurwerk                                           | None        | never     | True     |
-| 542    | Verkeersongeval door gladheid                                      | 1010        | never     | True     |
-| 543    | Verkeersongeval door gladheid                                      | 1010        | never     | True     |
-| 544    | Gevallen persoon door gladheid                                     | None        | never     | True     |
-| 545    | Gevallen persoon door gladheid                                     | None        | never     | True     |
-| 546    | Donkere dagen offensief                                            | 670         | never     | True     |
-| 547    | Donkere dagen offensief                                            | 670         | never     | True     |
 | 562    | Pijlen Cupido gestolen                                             | 500         | never     | True     |
 | 563    | Persoon gewond door pijl van Cupido                                | None        | never     | True     |
 | 579    | Kwast gestolen uit werkplaats                                      | 500         | never     | True     |
@@ -1261,10 +1239,6 @@ Count: 175
 | 927    | Koeien dief op de vlucht                                           | 2180        | never     | True     |
 | 928    | Dief aangevallen door een koe                                      | 500         | never     | True     |
 | 938    | Paaseieren zoeken onder water                                      | 1670        | never     | True     |
-| 997    | Kerstdecoratie in brand                                            | 670         | never     | True     |
-| 998    | De slee van de kerstman blokkeert de weg                           | 670         | never     | True     |
-| 999    | Kerstboom gestolen                                                 | 840         | never     | True     |
-| 1000   | Kerstcadeau's gestolen in winkelcentrum                            | 670         | never     | True     |
 | 1003   | Houtschuur in brand door kampvuur                                  | 670         | never     | True     |
 | 1004   | Vechtpartij op bevroren meer                                       | 500         | never     | True     |
 | 1005   | Schaatser uitgegleden                                              | None        | never     | True     |
@@ -1272,8 +1246,6 @@ Count: 175
 | 1013   | Ongeluk bij bakken valentijn diner                                 | 670         | never     | True     |
 | 1014   | Brandend Valentijnsboeket                                          | 670         | never     | True     |
 | 1015   | Kaars omgevallen bij diner                                         | 500         | never     | True     |
-| 1072   | Kerstman vast in schoorsteen                                       | 1250        | never     | True     |
-| 1073   | Kerstdecoratie op de weg                                           | 500         | never     | True     |
 | 1074   | Persoon verbrand door warme chocolademelk                          | None        | never     | True     |
 | 1075   | Ongeval met sleeën                                                 | None        | never     | True     |
 | 1076   | Persoon gevallen op glad ijs                                       | None        | never     | True     |
@@ -1294,16 +1266,12 @@ Count: 175
 | 1095   | Atleet gewond tijdens gymnastiekoefening                           | None        | never     | True     |
 | 1096   | Waterredding vereist bij zeilevenement                             | 1230        | never     | True     |
 | 1097   | Boze toeschouwer bij sportzwembad                                  | 670         | never     | True     |
-| 1105   | Gevecht om de lelijkste kersttrui                                  | 1800        | never     | True     |
 | 1109   | Ongeval met sneeuwploeg                                            | 1200        | never     | True     |
 | 1110   | Redding bij ijsvissen                                              | 900         | never     | True     |
 | 1112   | Bevroren pijp barst                                                | 3000        | never     | True     |
 | 1130   | Picknick met kaarslicht veroorzaakt bosbrand                       | 2000        | never     | True     |
 | 1131   | Verlovingsring gestolen tijdens aanzoek                            | 500         | never     | True     |
 | 1132   | Persoon bekneld onder gigantische teddybeer                        | 500         | never     | True     |
-| 1183   | Peperkoekhuis in brand                                             | 3050        | never     | True     |
-| 1184   | Voetganger aangereden door rendier                                 | 1250        | never     | True     |
-| 1185   | Protesterende elven                                                | 5640        | never     | True     |
 | 1187   | Bezit van verboden vuurwerk                                        | 670         | never     | True     |
 | 1188   | Zwaar vuurwerk aangetroffen                                        | 10740       | never     | True     |
 | 1192   | Vergeten jubileum                                                  | 4110        | never     | True     |
