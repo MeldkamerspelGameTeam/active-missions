@@ -1,10 +1,10 @@
 # Never seen missions
 
-Count: 1261
+Count: 1257
 
 # Active never-seen missions
 
-Count: 1118
+Count: 1114
 
 | ID             | Name                                               | Avg Credits | Last Seen | Inactive |
 | -------------- | -------------------------------------------------- | ----------: | --------- | -------- |
@@ -204,7 +204,6 @@ Count: 1118
 | 901/abcdg      | Trein ontspoord                                    | 51587       | never     | False    |
 | 901/abceg      | Trein ontspoord                                    | 50587       | never     | False    |
 | 901/abcfg      | Trein ontspoord                                    | 51587       | never     | False    |
-| 901/abdeg      | Trein ontspoord                                    | 39320       | never     | False    |
 | 901/abdfg      | Trein ontspoord                                    | 40120       | never     | False    |
 | 901/abefg      | Trein ontspoord                                    | 39320       | never     | False    |
 | 901/acdeg      | Trein ontspoord                                    | 51837       | never     | False    |
@@ -731,7 +730,6 @@ Count: 1118
 | 1104/ac        | Aanrijding trein & betonmixer                      | 16180       | never     | False    |
 | 1104/be        | Aanrijding trein & betonmixer                      | 30037       | never     | False    |
 | 1104/ace       | Aanrijding trein & betonmixer                      | 22880       | never     | False    |
-| 1104/bce       | Aanrijding trein & betonmixer                      | 31287       | never     | False    |
 | 1104/acde      | Aanrijding trein & betonmixer                      | 23480       | never     | False    |
 | 1180/b         | Brand in snackbar (Grip 1)                         | 13800       | never     | False    |
 | 1180/ab        | Brand in snackbar (Grip 1)                         | 14600       | never     | False    |
@@ -940,7 +938,6 @@ Count: 1118
 | 1228/acdef     | Trein ontspoord na botsing met goederentrein       | 44612       | never     | False    |
 | 1228/acdeg     | Trein ontspoord na botsing met goederentrein       | 44112       | never     | False    |
 | 1228/acdeh     | Trein ontspoord na botsing met goederentrein       | 56425       | never     | False    |
-| 1228/acdfg     | Trein ontspoord na botsing met goederentrein       | 44112       | never     | False    |
 | 1228/acdfh     | Trein ontspoord na botsing met goederentrein       | 56425       | never     | False    |
 | 1228/acdgh     | Trein ontspoord na botsing met goederentrein       | 55925       | never     | False    |
 | 1228/acefg     | Trein ontspoord na botsing met goederentrein       | 44362       | never     | False    |
@@ -993,7 +990,6 @@ Count: 1118
 | 1228/cdefgh    | Trein ontspoord na botsing met goederentrein       | 59925       | never     | False    |
 | 1228/abcdefg   | Trein ontspoord na botsing met goederentrein       | 47612       | never     | False    |
 | 1228/abcdegh   | Trein ontspoord na botsing met goederentrein       | 59425       | never     | False    |
-| 1228/abcdfgh   | Trein ontspoord na botsing met goederentrein       | 59425       | never     | False    |
 | 1228/abcefgh   | Trein ontspoord na botsing met goederentrein       | 59675       | never     | False    |
 | 1228/abdefgh   | Trein ontspoord na botsing met goederentrein       | 46590       | never     | False    |
 | 1228/acdefgh   | Trein ontspoord na botsing met goederentrein       | 60925       | never     | False    |

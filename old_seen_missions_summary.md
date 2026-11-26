@@ -1,10 +1,10 @@
 # Old seen missions (older than 30 days)
 
-Count: 269
+Count: 267
 
 # Active old-seen missions
 
-Count: 203
+Count: 201
 
 | ID           | Name                                          | Avg Credits | Last Seen  | Inactive |
 | ------------ | --------------------------------------------- | ----------: | ---------- | -------- |
@@ -30,7 +30,6 @@ Count: 203
 | 885/bc       | Brand in vuurwerkopslag                       | 71025       | 2026-10-21 | False    |
 | 885/bd       | Brand in vuurwerkopslag                       | 65337       | 2026-10-12 | False    |
 | 885/be       | Brand in vuurwerkopslag                       | 65525       | 2026-10-05 | False    |
-| 885/bf       | Brand in vuurwerkopslag                       | 66025       | 2026-09-16 | False    |
 | 885/abf      | Brand in vuurwerkopslag                       | 67025       | 2026-07-30 | False    |
 | 885/ade      | Brand in vuurwerkopslag                       | 50920       | 2026-09-05 | False    |
 | 885/adf      | Brand in vuurwerkopslag                       | 51320       | 2026-09-06 | False    |
@@ -209,7 +208,6 @@ Count: 203
 | 1229/bcdef   | Dieseltrein met gevaarlijke stoffen ontspoord | 56425       | 2026-10-26 | False    |
 | 1229/cdefg   | Dieseltrein met gevaarlijke stoffen ontspoord | 52790       | 2026-10-26 | False    |
 | 1229/bcdefg  | Dieseltrein met gevaarlijke stoffen ontspoord | 69675       | 2026-10-25 | False    |
-| 1246/ac      | Rietkapbrand (Grip 2)                         | 21310       | 2026-10-02 | False    |
 | 1259/ab      | Ezel in sloot                                 | 1810        | 2026-10-19 | False    |
 
 # Inactive old-seen missions
