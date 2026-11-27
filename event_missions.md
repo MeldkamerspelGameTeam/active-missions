@@ -453,7 +453,7 @@ Count: 10
 | 162    | Pepernoot op hoofd                                                 | None        | 2026-11-27 | False    |
 | 163    | Piet bestolen                                                      | 500         | 2026-11-27 | False    |
 | 164    | Kind geschrokken                                                   | None        | 2026-11-27 | False    |
-| 165    | Piet klem in schoorsteen                                           | 670         | 2026-11-27 | False    |
+| 165    | Piet klem in schoorsteen                                           | 670         | 2026-11-28 | False    |
 | 166    | Toezicht manifestatie pietendiscussie                              | 29430       | 2026-11-25 | False    |
 | 167    | Schoenen dief                                                      | 500         | 2026-11-27 | False    |
 | 168    | Verstikking in pepernoot                                           | 500         | 2026-11-27 | False    |
