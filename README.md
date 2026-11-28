@@ -11,7 +11,7 @@ This README is auto-updated by scripts/main.py and the GitHub workflow.
 | Total missions | 3187 |
 | Active missions | 2962 |
 | Inactive missions | 225 |
-| Missions seen in last 30 days | 1667 |
+| Missions seen in last 30 days | 1659 |
 
 ### Never-Seen Breakdown
 
@@ -25,8 +25,8 @@ This README is auto-updated by scripts/main.py and the GitHub workflow.
 
 | Metric | Value |
 | --- | ---: |
-| Old seen missions (older than 30 days) | 268 |
-| Old seen active missions | 202 |
+| Old seen missions (older than 30 days) | 276 |
+| Old seen active missions | 210 |
 | Old seen inactive missions | 66 |
 
 ### Active Missions Seen Split
@@ -34,9 +34,9 @@ This README is auto-updated by scripts/main.py and the GitHub workflow.
 ```mermaid
 pie showData
     title Active Missions: Seen vs Never Seen
-    "Seen last 30 days" : 1651
+    "Seen last 30 days" : 1643
     "Never seen" : 1109
-    "Old seen 30+ days" : 202
+    "Old seen 30+ days" : 210
 ```
 
 ### All Missions Overview
@@ -44,9 +44,9 @@ pie showData
 ```mermaid
 pie showData
     title All Missions: Active & Inactive Seen Split
-    "Active — seen last 30 days" : 1651
+    "Active — seen last 30 days" : 1643
     "Active — never seen" : 1109
-    "Active — old seen 30+ days" : 202
+    "Active — old seen 30+ days" : 210
     "Inactive — seen last 30 days" : 16
     "Inactive — never seen" : 143
     "Inactive — old seen 30+ days" : 66
